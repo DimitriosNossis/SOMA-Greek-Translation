@@ -5,14 +5,14 @@ The game files in `../mod/config/` are generated from the tables in this folder.
 | Path | Contents |
 |---|---|
 | `text/tr_*.txt` | Story text, terminals, notes, emails (from `english.lang`) |
-| `text/keep.txt` | Entries intentionally left as in English (codes, file names, gibberish) |
+| `text/keep.txt` | List of entries intentionally left as in English (codes, file names, gibberish). Not read by `build.py`: these entries simply keep their English text |
 | `subtitles/tr_*.txt` | Dialogue subtitles (`Voices_*` categories) |
 | `menus/base_greek.xml` | Menus and options, readable UTF-8 form of `base_greek.lang` |
 | `build.py` | Rebuilds `../mod/config/lang_main/greek.lang` and `../mod/config/base_greek.lang` |
 
 ## Table format
 
-UTF-8 text, one entry per line:
+UTF-8 text, one entry per line (except `keep.txt`, which lists only `Category|EntryName`):
 
 ```
 Category|EntryName<TAB>Greek text

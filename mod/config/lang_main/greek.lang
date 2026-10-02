@@ -1014,7 +1014,7 @@
 	<Entry Name="ScanRoom_ScanChipScans_File_1_Name">[u932][u950][u945][u946][u943][u957][u964] [u915][u954][u972][u947][u953][u945]</Entry>
 	<Entry Name="ScanRoom_ScanChipScans_File_2_Name">[u923][u959][u965][u943][u950] [u924][u949][u961][u972][u957]</Entry>
 	<Entry Name="ScanRoom_ScanChipScans_File_3_Name">[u924][u960][u961][u940][u957][u964][u959][u957] [u915][u959][u965][u940][u957]</Entry>
-	<Entry Name="ScanRoom_ScanChipScans_File_4_Name">[u925][u953][u954][u959][u955][u940][u953] [u921][u946][u945][u963][u943][u957]</Entry>
+	<Entry Name="ScanRoom_ScanChipScans_File_4_Name">[u925][u953][u954][u959][u955][u940][u953] [u921][u946][u940][u963][u954][u953][u957]</Entry>
 	<Entry Name="ScanRoom_ScanChipScans_File_5_Name">[u924][u940][u947][u954][u953] [u922][u959][u956][u959][u961][u941][u956][u960][u953]</Entry>
 	<Entry Name="ScanRoom_ScanChipScans_File_6_Name">[u925][u945][u957][u964][u943][u957] [u924][u940][u963][u964][u949][u961][u962]</Entry>
 	<Entry Name="ScanRoom_ScanChipScans_File_7_Name">[u928][u943][u964][u949][u961] [u931][u964][u961][u940][u963][u954][u953]</Entry>
@@ -2682,6 +2682,7 @@
         <Entry Name="RobotTalk_Scavenge_Alert_002_ScavengeRobot_001">[u914][u947][u949][u962] [u941][u958][u969], [u948][u949] [u952][u945] [u963][u949] [u960][u949][u953][u961][u940][u958][u969].</Entry>
         <Entry Name="RobotTalk_Scavenge_Alert_003_ScavengeRobot_001">[u931][u949] [u945][u954][u959][u973][u969] [u960][u959][u965] [u964][u961][u953][u947][u965][u961][u957][u940][u962] [u954][u961][u965][u966][u940].</Entry>
         <Entry Name="RobotTalk_Scavenge_Alert_004_ScavengeRobot_001">[u926][u941][u961][u969] [u972][u964][u953] [u949][u943][u963][u945][u953] [u949][u954][u949][u943]. [u931][u949] [u945][u954][u959][u973][u969].</Entry>
+        <Entry Name="RobotTalk_Scavenge_Alert_005_ScavengeRobot_001">[u934][u945][u957][u949][u961][u974][u963][u959][u965].</Entry>
         <Entry Name="RobotTalk_Scavenge_Alert_006_ScavengeRobot_001">[u916][u949] [u967][u961][u949][u953][u940][u950][u949][u964][u945][u953] [u957][u945] [u966][u959][u946][u940][u963][u945][u953].</Entry>
         <Entry Name="RobotTalk_Scavenge_Alert_007_ScavengeRobot_001">[u924][u960][u959][u961][u974] [u957][u945] [u963][u949] [u946][u959][u951][u952][u942][u963][u969].</Entry>
         <Entry Name="robottalk_scavenge_alert_008_scavengerobot_001">[u915][u953][u945][u964][u943] [u954][u961][u973][u946][u949][u963][u945][u953];</Entry>
@@ -2693,7 +2694,10 @@
         <Entry Name="RobotTalk_Scavenge_AlertBeforeSeen_003_ScavengeRobot_001">[u927][u961][u954][u943][u950][u959][u956][u945][u953] [u972][u964][u953] [u954][u940][u964][u953] [u940][u954][u959][u965][u963][u945].</Entry>
         <Entry Name="RobotTalk_Scavenge_AlertBeforeSeen_004_ScavengeRobot_001">[u917][u943][u957][u945][u953] [u954][u945][u957][u949][u943][u962] [u949][u954][u949][u943];</Entry>
         <Entry Name="RobotTalk_Scavenge_AlertBeforeSeen_005_ScavengeRobot_001">[u917][u956][u960][u961][u972][u962];</Entry>
+        <Entry Name="RobotTalk_Scavenge_AlertBeforeSeen_006_ScavengeRobot_001">[u932][u953];</Entry>
         <Entry Name="RobotTalk_Scavenge_AlertBeforeSeen_007_ScavengeRobot_001">[u932][u953] [u963][u965][u956][u946][u945][u943][u957][u949][u953];</Entry>
+        <Entry Name="RobotTalk_Scavenge_AlertBeforeSeen_008_ScavengeRobot_001">[u928][u959][u953][u959][u962] [u949][u943][u957][u945][u953] [u949][u954][u949][u943];</Entry>
+        <Entry Name="RobotTalk_Scavenge_AlertBeforeSeen_009_ScavengeRobot_001">[u917][u943][u957][u945][u953] [u954][u945][u957][u949][u943][u962] [u949][u948][u974];</Entry>
         <Entry Name="RobotTalk_Scavenge_AlertBeforeSeen_010_ScavengeRobot_001">[u928][u959][u953][u959][u962] [u964][u959] [u954][u940][u957][u949][u953] [u945][u965][u964][u972];</Entry>
         <Entry Name="robottalk_scavenge_alertbeforeseen_011_scavengerobot_001">[u932][u953] [u949][u943][u957][u945][u953] [u945][u965][u964][u972];</Entry>
         <Entry Name="robottalk_scavenge_alertbeforeseen_012_scavengerobot_001">[u927][u961][u954][u943][u950][u959][u956][u945][u953] [u972][u964][u953] [u954][u940][u964][u953] [u940][u954][u959][u965][u963][u945]!</Entry>
@@ -2717,10 +2721,6 @@
         <Entry Name="simoncomments_leftcommroom_001_player_001">[u913][u965][u964][u972] [u948][u949][u957]... [u945][u965][u964][u972] [u949][u943][u957][u945][u953] [u964][u961][u941][u955][u945]...</Entry>
         <Entry Name="simoncomments_leftcommroom_objective_001_player_001">[u923][u940][u956][u948][u945], [u957][u945] [u946][u961][u969] [u941][u957][u945] [u963][u940][u964][u955] [u947][u953][u945] [u964][u959] [u923][u940][u956][u948][u945].</Entry>
         <Entry Name="simoncomments_thankkatebot_001_player_001">[u923][u959][u953][u960][u972][u957], [u949][u965][u967][u945][u961][u953][u963][u964][u974], [u956][u953][u954][u961][u941]!</Entry>
-        <Entry Name="RobotTalk_Scavenge_Alert_005_ScavengeRobot_001">[u934][u945][u957][u949][u961][u974][u963][u959][u965].</Entry>
-        <Entry Name="RobotTalk_Scavenge_AlertBeforeSeen_006_ScavengeRobot_001">[u932][u953];</Entry>
-        <Entry Name="RobotTalk_Scavenge_AlertBeforeSeen_008_ScavengeRobot_001">[u928][u959][u953][u959][u962] [u949][u943][u957][u945][u953] [u949][u954][u949][u943];</Entry>
-        <Entry Name="RobotTalk_Scavenge_AlertBeforeSeen_009_ScavengeRobot_001">[u917][u943][u957][u945][u953] [u954][u945][u957][u949][u943][u962] [u949][u948][u974];</Entry>
     </CATEGORY>
     <CATEGORY Name="Voices_01_04_transport_station">
         <Entry Name="radio_simononenterlevel_001_player_001">[u913][u962] [u949][u955][u960][u943][u963][u959][u965][u956][u949] [u972][u964][u953] [u964][u945] [u963][u940][u964][u955] [u948][u959][u965][u955][u949][u973][u959][u965][u957] [u945][u954][u972][u956][u945].</Entry>

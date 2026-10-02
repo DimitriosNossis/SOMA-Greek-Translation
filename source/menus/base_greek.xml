@@ -47,7 +47,7 @@
         <Entry Name="ExtendedMaxAngle">ΓΩΝΙΑ ΕΚΤ. ΘΕΑΣΗΣ</Entry>
         <Entry Name="ControlFlashlight">ΕΛΕΓΧΟΣ ΦΑΚΟΥ</Entry>
         <Entry Name="ReactiveEnvironment">ΔΙΑΔΡΑΣΤΙΚΟ ΠΕΡΙΒΑΛΛΟΝ</Entry>
-        <Entry Name="ReactiveAi">ΔΙΑΔΡΑΣΤΙΚΗ ΤΝ</Entry>
+        <Entry Name="ReactiveAi">ΔΙΑΔΡΑΣΤΙΚΗ AI</Entry>
         <Entry Name="DetectSettings">ΑΝΙΧΝΕΥΣΗ ΒΕΛΤΙΣΤΩΝ ΡΥΘΜΙΣΕΩΝ</Entry>
         <Entry Name="DetectSettingsPrompt">ΟΙ ΤΡΕΧΟΥΣΕΣ ΡΥΘΜΙΣΕΙΣ ΘΑ ΑΝΤΙΚΑΤΑΣΤΑΘΟΥΝ. ΣΥΝΕΧΕΙΑ;</Entry>
         <Entry Name="Resolution">ΑΝΑΛΥΣΗ</Entry>

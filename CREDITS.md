@@ -1,6 +1,6 @@
 # Credits
 
-- **Translation:** Dimitris Nossis
+- **Translation:** Dimitrios Nossis
 - **SOMA** © Frictional Games. This is an unofficial fan translation, not affiliated with or endorsed by Frictional Games.
   The files in `mod/fonts/` and `mod/script/` are modified copies of the game's own files and are provided only so the translation can work. You need your own copy of SOMA.
 

@@ -12,7 +12,8 @@ Writes:
 
 Translation tables are UTF-8 text, one entry per line:  Category|EntryName<TAB>Greek text
     text/*.txt        story, terminals, notes (keys from english.lang)
-    text/keep.txt     entries deliberately left as in English (names, codes)
+    text/keep.txt     list of entries deliberately left as in English (codes, file names);
+                      not read by this script, those entries simply stay as in english.lang
     subtitles/*.txt   Voices_* subtitle categories
     menus/base_greek.xml  menus and options (readable form of base_greek.lang)
 Inside the text: a pilcrow (U+00B6) stands for a line break inside an entry, U+21E5 for a tab,
@@ -108,7 +109,8 @@ def main():
     with open(os.path.join(MOD, "config", "lang_main", "greek.lang"), "w", encoding="ascii", newline="") as f:
         f.write(escape(greek))
 
-    menus = read(os.path.join(HERE, "menus", "base_greek.xml"))
+    # the game files use Windows line endings, whatever the checkout uses
+    menus = read(os.path.join(HERE, "menus", "base_greek.xml")).replace("\r\n", "\n").replace("\n", "\r\n")
     with open(os.path.join(MOD, "config", "base_greek.lang"), "w", encoding="ascii", newline="") as f:
         f.write(escape(menus))
     print(f"greek.lang: {n_text} text entries, {n_vo} subtitles in {n_cat} categories")

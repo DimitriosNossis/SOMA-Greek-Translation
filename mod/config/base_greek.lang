@@ -47,7 +47,7 @@
         <Entry Name="ExtendedMaxAngle">[u915][u937][u925][u921][u913] [u917][u922][u932]. [u920][u917][u913][u931][u919][u931]</Entry>
         <Entry Name="ControlFlashlight">[u917][u923][u917][u915][u935][u927][u931] [u934][u913][u922][u927][u933]</Entry>
         <Entry Name="ReactiveEnvironment">[u916][u921][u913][u916][u929][u913][u931][u932][u921][u922][u927] [u928][u917][u929][u921][u914][u913][u923][u923][u927][u925]</Entry>
-        <Entry Name="ReactiveAi">[u916][u921][u913][u916][u929][u913][u931][u932][u921][u922][u919] [u932][u925]</Entry>
+        <Entry Name="ReactiveAi">[u916][u921][u913][u916][u929][u913][u931][u932][u921][u922][u919] AI</Entry>
         <Entry Name="DetectSettings">[u913][u925][u921][u935][u925][u917][u933][u931][u919] [u914][u917][u923][u932][u921][u931][u932][u937][u925] [u929][u933][u920][u924][u921][u931][u917][u937][u925]</Entry>
         <Entry Name="DetectSettingsPrompt">[u927][u921] [u932][u929][u917][u935][u927][u933][u931][u917][u931] [u929][u933][u920][u924][u921][u931][u917][u921][u931] [u920][u913] [u913][u925][u932][u921][u922][u913][u932][u913][u931][u932][u913][u920][u927][u933][u925]. [u931][u933][u925][u917][u935][u917][u921][u913];</Entry>
         <Entry Name="Resolution">[u913][u925][u913][u923][u933][u931][u919]</Entry>

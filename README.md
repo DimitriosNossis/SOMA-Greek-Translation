@@ -1,4 +1,4 @@
-![SOMA Greek Translation Cover Image](https://github.com/DimitriosNossis/SOMA-Greek-Translation/blob/main/cover.png)
+![SOMA Greek Translation Cover Image](cover.png)
 
 # SOMA - Ελληνική Μετάφραση
 
