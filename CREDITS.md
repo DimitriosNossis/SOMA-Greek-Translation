@@ -8,4 +8,4 @@
 
 The Greek letters added to `default_medium_outline` (the key-prompt font) were drawn from
 **M PLUS 1p Medium**, Copyright 2016 The M+ Project Authors,
-licensed under the SIL Open Font License, Version 1.1. See [licenses/OFL-M_PLUS_1p.txt](licenses/OFL-M_PLUS_1p.txt).
+licensed under the SIL Open Font License, Version 1.1. See [FONT-LICENSE.txt](FONT-LICENSE.txt).

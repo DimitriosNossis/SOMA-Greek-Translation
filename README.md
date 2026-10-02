@@ -73,7 +73,6 @@ The game's other languages are not affected. If a game update replaces one of th
 |---|---|
 | `mod/` | The 5 game files, laid out exactly like the SOMA folder |
 | `source/` | Editable translation tables and `build.py`, which rebuilds the `.lang` files (see `source/README.md`) |
-| `licenses/` | Licence of the font used for the Greek letters in the key prompts |
 
 | File in `mod/` | Purpose |
 |---|---|
@@ -82,4 +81,10 @@ The game's other languages are not affected. If a game update replaces one of th
 | `fonts/default_medium_outline.fnt`, `fonts/default_medium_outline_0.dds` | Key-prompt font with Greek letters added (replaces the original) |
 | `script/modules/MenuHandler.hps` | Adds Greek to the language list: one added line, `mvLangFiles.push_back("greek");` (replaces the original) |
 
-See [CREDITS.md](CREDITS.md) for credits and licences.
+### Licences
+
+The translation and the build script are MIT licensed (see `LICENSE`). The Greek letters
+added to the key-prompt font come from M PLUS 1p, which is distributed under the
+SIL Open Font License and keeps its own licence (see `FONT-LICENSE.txt`).
+The modified game files in `mod/fonts/` and `mod/script/` remain the property of
+Frictional Games and are not covered by the MIT licence. See [CREDITS.md](CREDITS.md).
