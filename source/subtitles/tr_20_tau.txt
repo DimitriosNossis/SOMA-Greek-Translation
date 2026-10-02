@@ -1,0 +1,160 @@
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_001_Player_001	Είσαι άνθρωπος;
+Voices_04_02_tau_inside|lindwall_4_talktolasthuman_1_002_lindwall_001	Σάρα Λίντγουολ, τεχνικός φορτίου, στις διαταγές σου. Σπάνιο θέαμα, σωστά;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_003_Player_001	Έτσι θα έλεγα. Είσαι ο πρώτος κανονικός ζωντανός άνθρωπος που βλέπω.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_004_Lindwall_001	Δεν έχουν μείνει πολλοί εδώ κάτω. Οι περισσότεροι είναι πάνω στο οροπέδιο.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_005_Player_001	Εννοείς στο Όμικρον;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_006_Lindwall_001	Ναι.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_007_Player_001	Δεν υπάρχει κανείς ζωντανός στο Όμικρον.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_008_Lindwall_001	Έχεις πάει εκεί;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_009_Player_001	Έχω πάει παντού. Στο εργοστάσιο ενέργειας στο Ύψιλον, στα ερείπια του Λάμδα, στο εγκαταλελειμμένο Δέλτα. Στο Θήτα...
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_010_Lindwall_001	Έχεις πάει στο Θήτα;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_011_Player_001	Δεν έχουν μείνει πολλά από το Pathos-II.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_012_Lindwall_001	Κι εγώ είμαι ο μόνος ζωντανός άνθρωπος που έχεις συναντήσει; *βήχει* Δηλαδή είμαι ο τελευταίος ζωντανός άνθρωπος στον πλανήτη;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_013_Player_001	Λυπάμαι.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_014_Lindwall_001	Ποιος είπαμε ότι είσαι;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_015_Player_001	Σάιμον Τζάρετ.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_016_Lindwall_001	Σταθμευμένος πού;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_017_Player_001	Πουθενά. Δούλευα σε ένα βιβλιοπωλείο στο Τορόντο. Μεγάλη ιστορία.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_018_Lindwall_001	Τότε τι διάολο κάνεις εδώ;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_019_Player_001	Προσπαθώ να βρω το ARK.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_020_Lindwall_001	Γιατί; Πώς το ξέρεις αυτό;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_021_Player_001	Άκουσα ότι είναι η τελευταία ελπίδα της ανθρωπότητας.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_022_Lindwall_001	Και βέβαια είναι! Και τι το θέλεις;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_1_023_Player_001	Να το πάω στο κανόνι στο Φι. Να το εκτοξεύσω στο διάστημα.
+Voices_04_02_tau_inside|lindwall_4_talktolasthuman_1_024_lindwall_001	Αυτό ήταν το σχέδιο, όντως. Το φυλάω από τότε που το φέραμε πίσω στο Ταυ. Απλώς δεν μπορούσα να το αφήσω.
+Voices_04_02_tau_inside|lindwall_4_talktolasthuman_1_026_lindwall_001	Να σου πω την αλήθεια, δεν έχω τη δύναμη να διαφωνήσω. Και σίγουρα δεν έχω το χρόνο να περιμένω το επόμενο ον με συνείδηση που θα περάσει σέρνοντας τα πόδια του από εδώ. Προχώρα. Πάρ' το.
+Voices_04_02_tau_inside|lindwall_4_talktolasthuman_1_027_player_001	Ευχαριστώ. Μπορώ να σου φέρω κάτι; Να κάνω κάτι για σένα;
+Voices_04_02_tau_inside|lindwall_4_talktolasthuman_1_028_lindwall_001	Θα μπορούσες να με σκοτώσεις.
+Voices_04_02_tau_inside|lindwall_4_talktolasthuman_1_029_player_001	Χε, καλό αυτό.
+Voices_04_02_tau_inside|lindwall_4_talktolasthuman_2_001_player_001	Σοβαρά μιλάς για το να σε σκοτώσω;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_2_002_Lindwall_001	Όχι, θα ήθελα πολύ να κάθομαι εδώ μέχρι να ξεραθώ και να γίνω σαν σταφίδα.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_2_003_Lindwall_001	Σάιμον, αυτό είναι για τα σκατά. *βήχει* Δε θέλω να ζω έτσι.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_3_001_Player_001	Δε θα έπρεπε να κάνουμε κάτι για να σε κρατήσουμε ζωντανή;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_3_002_Lindwall_001	Γιατί;
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_3_003_Player_001	Είσαι ο τελευταίος άνθρωπος. Μου φαίνεται ασέβεια προς όλη μας την ιστορία να μην το παλέψουμε. Εντάξει, έχουμε το ARK, αλλά εσύ είσαι το αληθινό πράγμα.
+Voices_04_02_tau_inside|lindwall_4_talktolasthuman_3_004_lindwall_001	Ευχαριστώ. Μάλλον είναι το καλύτερο κομπλιμέντο που μου έχουν κάνει ποτέ. Αλλά η αλήθεια είναι ότι το ARK είναι ό,τι έχουμε. Θα πρέπει να δεχτούμε το δεύτερο καλύτερο, ξέρεις;
+Voices_04_02_tau_inside|lindwall_4_talktolasthuman_4_001_player_001	Τίποτα από αυτά δε μου φαίνεται σωστό.
+Voices_04_02_tau_inside|lindwall_4_talktolasthuman_4_002_lindwall_001	Σάιμον, θέλω να πεθάνω.
+Voices_04_02_tau_inside|lindwall_4_talktolasthuman_4_003_player_001	Σάρα...
+Voices_04_02_tau_inside|lindwall_4_talktolasthuman_4_004_lindwall_001	Απλώς σκέψου το.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_5_001_Lindwall_001	Καλή τύχη, Σάιμον.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_5_002_Lindwall_001	Δείξε τι μπορείς.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_5_003_Lindwall_001	Να προσέχεις.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_5_004_Lindwall_001	Μη με απογοητεύσεις.
+Voices_04_02_tau_inside|Lindwall_4_TalkToLastHuman_5_005_Lindwall_001	Προχώρα. Πήγαινε να σώσεις την ανθρωπότητα. Ό,τι έχει απομείνει από αυτήν.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_start_001_lindwall_001	Θα μείνεις μαζί μου, σε παρακαλώ;
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_staying_001_lindwall_001	Δε θα αργήσει πολύ τώρα. Απλώς... σε παρακαλώ, μείνε.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_staying_002_lindwall_001	Τι τρελό πράγμα ήταν αυτό -- η ζωή.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_staying_003_lindwall_001	Τουλάχιστον δε θα χρειαστεί να κλείσω τα τριάντα. Ζήτω.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_staying_004_lindwall_001	Μακάρι να μπορούσα να πεθάνω στο σπίτι μου με τους φίλους μου.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_staying_005_lindwall_001	Έχεις πάει ποτέ στη Γροιλανδία; Είναι πολύ όμορφα.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_staying_006_lindwall_001	Τουλάχιστον όταν βγεις από την πόλη.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_staying_007_lindwall_001	Το Νανόκ έχει πολλή κίνηση και, ναι, υπάρχουν κάπου 12 εκατομμύρια άνθρωποι που προσπαθούν να κυκλοφορήσουν, αλλά είναι υπέροχο μέρος.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_staying_008_lindwall_001	Ή μάλλον. Ήταν υπέροχο μέρος. Πριν ο κομήτης τελειώσει τα πάντα.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_staying_009_lindwall_001	Ξέρεις κάτι; Το προτιμώ έτσι.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_staying_010_lindwall_001	Μου άρεσε το Pathos. Μου άρεσαν οι συνάδελφοί μου. Ο Ίαν, ο Νικ, ο Τζάσπερ, ακόμα και η Κάθριν.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_staying_011_lindwall_001	Ο κόσμος τη θεωρούσε παράξενη επειδή ήταν ήσυχη, αλλά ήταν εντάξει τύπισσα.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_001_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_002_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_003_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_004_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_005_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_006_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_007_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_008_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_009_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_010_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_011_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_012_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_left_013_lindwall_001	*ανασαίνει*
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_reenter_001_lindwall_001	Ευχαριστώ που έμεινες.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_reenter_002_lindwall_001	Σε παρακαλώ, μείνε.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_reenter_003_lindwall_001	Σε παρακαλώ, μη φεύγεις. Όχι ακόμα.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_end_staying_001_lindwall_001	Σάιμον, είσαι ακόμα εκεί;
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_end_staying_002_player_001	Εδώ είμαι, Σάρα.
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_end_staying_003_lindwall_001	Μην τους αφήσεις να πεθάνουν, εντάξει; Στείλε τους εκεί έξω. Στα αστέρια.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember1_001_hill_001	Τι γαμημένο πράγμα κάναμε;
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember1_002_lindwall_001	Ε, προσπάθησε να μην το σκέφτεσαι.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember1_003_hill_001	Όλη μου τη ζωή. Ήμουν καλός άνθρωπος. Τα κάναμε σκατά, Σάρα.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember1_004_lindwall_001	Έλα, έλα.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember1_005_hill_001	Έπρεπε να το είχαμε εκτοξεύσει. Να είχαμε ρισκάρει.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember1_006_lindwall_001	Υπάρχει χρόνος. Ο Ιβάσκιν λέει ότι μπορούμε να ξαναδοκιμάσουμε όταν ηρεμήσουν τα πράγματα.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember1_007_hill_001	Πρέπει να το κάνεις, ξέρεις; Πρέπει.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember1_008_hill_001	*βήχει*
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember1_009_lindwall_001	Σσστ...
+Voices_04_02_tau_inside|ivashkin_3_crewmember_2_001_ivashkin_001	Αλεξέι.
+Voices_04_02_tau_inside|ivashkin_3_crewmember_2_002_ivashkin_001	Αλε-
+Voices_04_02_tau_inside|ivashkin_3_crewmember_2_003_ivashkin_001	- ξέι
+Voices_04_02_tau_inside|ivashkin_3_crewmember_2_004_ivashkin_001	Λιόσκα.
+Voices_04_02_tau_inside|ivashkin_3_crewmember_2_005_ivashkin_001	Αγόρι μου.
+Voices_04_02_tau_inside|ivashkin_3_crewmember_2_006_ivashkin_001	Αλεξέι.
+Voices_04_02_tau_inside|ivashkin_3_crewmember_2_007_ivashkin_001	Αγόρι...
+Voices_04_02_tau_inside|ivashkin_3_crewmember_2_008_ivashkin_001	... μου.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember3_001_lindwall_001	Δεν μπορούμε να κάνουμε τίποτα γι' αυτόν;
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember3_002_hill_001	Όχι. Μας τελείωσαν τα ηρεμιστικά. Αν είχαμε όπλο, τώρα θα ήταν η ώρα να το βγάλουμε.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember3_003_lindwall_001	Δεν περίμενα να τελειώσει έτσι. Έπρεπε να είχαμε πάρει το Climber πίσω για το Όμικρον.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember3_004_hill_001	Χωρίς το ARK;
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember3_005_lindwall_001	Ξέχνα το ARK.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember3_006_hill_001	Όχι, δε σου επιτρέπεται να το λες αυτό. Είναι το μόνο πολύτιμο πράγμα που έμεινε. Το ξέρεις.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember3_007_lindwall_001	Ναι, ναι.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember3_008_hill_001	Υποσχέσου ότι δε θα το αφήσεις πίσω.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember3_009_lindwall_001	Όλοι θα είμαστε νεκροί κάποια μέρα, και μετά τι;
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember3_010_hill_001	Ε, καλύτερα να το κρατήσεις ασφαλές μέχρι τότε. Δε θέλουμε να το πάρει το WAU· να το καταπιεί ολόκληρο.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember3_011_pedersen_001	Εγώ... λυπάμαι, Κάθριν.
+Voices_04_02_tau_inside|datamine_3_dataminearkcrewmember3_012_hill_001	Δεν πειράζει, Ίαν. Βγάλ' τα από μέσα σου. Βγάλ' τα όλα.
+Voices_04_02_tau_inside|lindwall_2_callinginfirmary_002_player_001	Είναι κανείς εκεί;
+Voices_04_02_tau_inside|lindwall_2_callinginfirmary_003_lindwall_001	Δεν έχω διάθεση να μιλήσω με ρομπότ. Χωρίς παρεξήγηση.
+Voices_04_02_tau_inside|lindwall_4_enterinfirmary_001_lindwall_001	Εσύ... εσύ είσαι διαφορετικός.
+Voices_04_02_tau_inside|lindwall_4_leftinfirmary_notalk_001_lindwall_001	Μη φεύγεις. Δεν έχω καταλάβει ακόμα ποιος είσαι.
+Voices_04_02_tau_inside|lindwall_4_leftinfirmary_notalk_002_lindwall_001	Τι διάολο κάνει;
+Voices_04_02_tau_inside|lindwall_4_leftinfirmary_notalk_003_lindwall_001	Το WAU δε θα το πετύχει ποτέ.
+Voices_04_02_tau_inside|lindwall_4_leftinfirmary_talked_001_lindwall_001	Εδώ θα είμαι αν χρειαστείς κάτι.
+Voices_04_02_tau_inside|lindwall_4_leftinfirmary_talked_002_lindwall_001	Να προσέχεις.
+Voices_04_02_tau_inside|lindwall_4_leftinfirmary_talked_003_lindwall_001	Τα λέμε αργότερα.
+Voices_04_02_tau_inside|lindwall_4_detachark_talkednokill_002_lindwall_001	Σε παρακαλώ, μη με αφήνεις έτσι.
+Voices_04_02_tau_inside|lindwall_4_detachark_talkedkill_001_lindwall_001	Να το προσέχεις. Βασίζονται σε σένα.
+Voices_04_02_tau_inside|comment_4_trydatamininglindwall_001_player_001	Το μαύρο κουτί είναι ανενεργό. Μάλλον βρήκε τρόπο να το απενεργοποιήσει.
+Voices_04_02_tau_inside|ivashkin_3_crewmember_2_datamine_001_ivashkin_001	Επιτέλους, Αλεξέι.
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_notalk_001_lindwall_001	Μη με λογαριάζεις.
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_notalk_002_lindwall_001	Έλα, σαν στο σπίτι σου.
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_notalk_003_lindwall_001	Ωραία στολή. Είχα κι εγώ μία ακριβώς ίδια.
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_notalk_004_lindwall_001	Μπορώ να σε βοηθήσω σε κάτι;
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_notalk_005_lindwall_001	*αναστενάζει*
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_notalk_006_lindwall_001	*αναστενάζει*
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_notalk_007_lindwall_001	*αναστενάζει*
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_talked_001_lindwall_001	Αν ήξερα ότι θα ερχόσουν, θα είχα συγυρίσει λίγο εδώ μέσα.
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_talked_002_lindwall_001	Χαίρομαι που πέρασες. Καλό να τελειώνουμε με αυτό.
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_talked_003_lindwall_001	Ακόμα δεν μπορώ να πιστέψω ότι είμαι η τελευταία. Είναι τρελό.
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_talked_004_lindwall_001	*αναστενάζει*
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_talked_005_lindwall_001	*αναστενάζει*
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_talked_006_lindwall_001	*αναστενάζει*
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_talked_007_lindwall_001	*αναστενάζει*
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_talked_008_lindwall_001	*αναστενάζει*
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_talked_009_lindwall_001	*αναστενάζει*
+Voices_04_02_tau_inside|lindwall_4_lasthumanidle_talked_010_lindwall_001	*αναστενάζει*
+Voices_04_02_tau_inside|ross_3_rosswhisper_001_rossgui_001	Πρέπει να φύγουμε.
+Voices_04_02_tau_inside|ross_3_rosswhisper_002_rossgui_001	Προχώρα, Σάιμον.
+Voices_04_02_tau_inside|ross_3_rosswhisper_003_rossgui_001	Δεν υπάρχει τίποτα εδώ.
+Voices_04_02_tau_inside|ross_3_rosswhisper_004_rossgui_001	Δε θα σταματήσει.
+Voices_04_02_tau_inside|ross_3_rosswhisper_005_rossgui_001	Θα καταπιεί τα πάντα.
+Voices_04_02_tau_inside|ross_3_rosswhisper_006_rossgui_001	Πρέπει να το σταματήσουμε.
+Voices_04_02_tau_inside|comment_1_introcomment_001_player_001	Ποτέ δε χάρηκα τόσο που είμαι μέσα.
+Voices_04_02_tau_inside|comment_1_introcomment_001_player_002	Τώρα ας βρούμε το ARK.
+Voices_04_02_tau_inside|comment_4_climbladderwithark_001_player_001	Δε γίνεται να ανέβω σκάλα κουβαλώντας το ARK έτσι.
+Voices_04_02_tau_inside|comment_4_climbladderwithark_002_player_001	Δεν μπορώ να σκαρφαλώσω με το ARK.
+Voices_04_02_tau_inside|comment_4_climbladderwithark_003_player_001	Δεν μπορώ να σκαρφαλώνω και να κουβαλάω το ARK.
+Voices_04_02_tau_inside|comment_4_climbladderwithark_004_player_001	Όχι όσο κουβαλάω το ARK.
+Voices_04_02_tau_inside|comment_4_droparkinairlock_001_player_001	Α! Δε θα χρειαστεί να το κουβαλήσω ως το Φι.
+Voices_04_02_tau_inside|lindwall_4_infirmaryterminal_nottalked_001_lindwall_001	Τι κάνεις; Τι ψάχνεις;
+Voices_04_02_tau_inside|lindwall_4_infirmaryterminal_talked_001_lindwall_001	Χα. Ελεύθερα. Δεν έχω μυστικά που αξίζει να κρατήσω.
+Voices_04_02_tau_inside|ivashkin_3_crewmember_2_drained_001_ivashkin_001	Αργκ...
+Voices_04_02_tau_inside|comment_4_airlockstopped_001_player_001	Και τώρα; Έλα -- πλημμύρισε επιτέλους το δωμάτιο!
+Voices_04_02_tau_inside|comment_4_airlockpipepulled_001_player_001	Φτάνει αυτό; Έχει κι άλλους;
+Voices_04_02_tau_inside|lindwall_4_killlasthuman_finalbreath_001_lindwall_001	*αναστενάζει*
+Voices_04_02_tau_inside|rossdatapad_rossrecording_1_001_rossrecording_001	Το μοτίβο σταμάτησε να εξελίσσεται. Το WAU κατάφερε να βρει ισορροπία. Έπεισα τον SSE Βόλτσεκ να απενεργοποιήσει όλα τα εξωτερικά συστήματα ελέγχου, κάνοντας το WAU τον ντε φάκτο φροντιστή μας. Μέχρι στιγμής ξεπερνά τις προσδοκίες.
+Voices_04_02_tau_inside|rossdatapad_rossrecording_2_001_rossrecording_001	Από τότε που έπεσε ο κομήτης πριν από λίγες μέρες -- στις 12 Ιανουαρίου -- το WAU έχει πέσει σε κατάσταση χαμηλής ενέργειας. Δεν έχει εγκαταλείψει τα καθήκοντά του. Διατηρεί το κλίμα και την υποστήριξη ζωής, αλλά απλοποιεί το μοτίβο -- επαναπροσδιορίζει το πρωτόκολλό του.
+Voices_04_02_tau_inside|rossdatapad_rossrecording_3_001_rossrecording_001	Το WAU άρχισε να μεγαλώνει σωματικά. Δεν είναι μόνο ο κεντρικός θάλαμος -- σε όλο το Pathos-II, δομικό τζελ ξεχύνεται από τους σωλήνες και αναβλύζει μέσα από τους τοίχους. Δεν ξέρω τι θα μπορούσε να κερδίσει το WAU από αυτό, αλλά υποθέτω ότι είναι σκόπιμο.
+Voices_04_02_tau_inside|rossdatapad_rossrecording_4_001_rossrecording_001	Η καρδιά του WAU έχει καταλάβει τόσο μεγάλο μέρος του κεντρικού θαλάμου που δεν μπορεί πλέον να υπάρχει καμία αμφιβολία για την αυξημένη επίγνωσή του. Η επέκτασή του δεν υποδηλώνει μόνο μια απρόσμενη κατανόηση του χώρου, αλλά και της δικής του φυσικής υπόστασης μέσα στον κόσμο.
+Voices_04_02_tau_inside|rossdatapad_rossrecording_5_001_rossrecording_001	Το WAU απλώνεται σε κάθε μηχανή, σε κάθε μορφή ζωής, για να χειραγωγήσει, να ελέγξει. Προσπαθεί να βοηθήσει, να σώσει τους δημιουργούς του από όλο αυτό, όπως ακριβώς απαιτεί το πρωτόκολλο. Αλλά στην πραγματικότητα, τι είναι αρκετά καλό;
+Voices_04_02_tau_inside|rossdatapad_rossrecording_5_002_rossrecording_001	Πού χαράζεται η γραμμή ανάμεσα σε ό,τι είναι ανθρώπινο και ό,τι δεν είναι; Θα αρκούσαν πτώματα που περπατούν; Θα ήταν αποδεκτή μια ομάδα μηχανών που νομίζουν ότι είναι άνθρωποι;
+Voices_04_02_tau_inside|rossdatapad_rossrecording_5_003_rossrecording_001	Δεν μπορούμε να εμπιστευτούμε μια μηχανή να ξέρει, να καταλαβαίνει τι σημαίνει να υπάρχεις. Πρέπει να τερματίσουμε το έργο WAU. Μπορεί να γίνει. Χρειάζομαι απλώς λίγη βοήθεια από το Όμικρον.

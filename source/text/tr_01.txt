@@ -1,0 +1,180 @@
+GameOver|DefaultMessage	Πέθανες
+GameOver|PressToContinue	Πάτησε οποιοδήποτε κουμπί για να προσπαθήσεις ξανά...
+LoadScreen|PressToStart	Πάτησε οποιοδήποτε κουμπί για να συνεχίσεις...
+HintHeaders|Hint	ΣΥΜΒΟΥΛΗ
+HintHeaders|Alert	ΕΙΔΟΠΟΙΗΣΗ
+HintHeaders|Danger	ΚΙΝΔΥΝΟΣ
+HintHeaders|Info	ΠΛΗΡΟΦΟΡΙΑ
+Hints|HintLookAround	Χρησιμοποίησε το ποντίκι για να κοιτάξεις γύρω σου.
+Hints|HintMoveAround	Για να κινηθείς, χρησιμοποίησε τα πλήκτρα κίνησης ($Input{Forward} $Input{Backward} $Input{Left} $Input{Right})
+Hints|HintDoors	Για να ανοίξεις πόρτες και ντουλάπια, αλληλεπίδρασε πρώτα μαζί τους και μετά τράβηξε με το ποντίκι.
+Hints|HintTools	Για να χρησιμοποιήσεις ένα αντικείμενο που έχεις αποκτήσει, πάτησε $Input{Interact} όταν εμφανίζεται στην οθόνη.
+Hints|HintGrab_1	Πάτησε $Input{Throw} ενώ κρατάς ένα αντικείμενο για να το πετάξεις.
+Hints|HintGrab_2	Μπορείς να κρατήσεις πατημένο το $Input{InteractRotate} και να κινήσεις το ποντίκι για να περιστρέψεις αντικείμενα.
+Hints|HintGrab_3	Μπορείς να χρησιμοποιήσεις το $Input{ScrollDown} ή το $Input{ScrollUp} ενώ κρατάς ένα αντικείμενο για να το φέρεις πιο κοντά ή πιο μακριά.
+Hints|HintWheel	Κίνησε το ποντίκι κυκλικά ενώ κρατάς έναν τροχό για να το γυρίσεις.
+Hints|HintSlider	Χρησιμοποίησε το ποντίκι ενώ κρατάς ένα συρτάρι για να το τραβήξεις ή να το σπρώξεις.
+Hints|ReadableTextHint	Προβολή κειμένου με $Input{Interact}
+Hints|ReadablePropAdditionalHint	Ποντίκι για περιστροφή / $Input{InteractCancel} για έξοδο.
+Hints|ReadableGrabAdditionalHint	Κίνησε το ποντίκι ενώ πατάς $Input{InteractRotate} για να περιστρέψεις το αντικείμενο.
+Hints|ReadableTextHintZoomArea	Προβολή κειμένου με $Input{Interact}
+Hints|HintPhone	Μπορείς να αλληλεπιδράσεις με αντικείμενα με το $Input{Interact}
+Hints|HintPickUpItem	Μπορείς να μαζέψεις αντικείμενα με το πλήκτρο αλληλεπίδρασης $Input{Interact}
+Hints|HintRun	Κράτησε πατημένο το $Input{Run} ενώ κινείσαι για να τρέξεις.
+Hints|HintJump	Πάτησε $Input{Jump} για να πηδήξεις.
+Hints|HintInventory	Πάτησε $Input{OpenInventory} για να δεις τα αντικείμενά σου.
+Hints|HintSneak	Η κίνηση σκυφτά (πάτησε $Input{Crouch}) κάνει λιγότερο θόρυβο και μειώνει την πιθανότητα να σε αντιληφθούν.
+Hints|HintFlashlight	Για να ανάψεις ή να σβήσεις το φακό, πάτησε $Input{Flashlight}
+Hints|HintLean	Πάτησε $Input{LeanLeft} ή $Input{LeanRight} για να γείρεις αριστερά ή δεξιά
+Hints|HintTest1	$Input{LeanLeft} - $Input{Jump} - $Input{Crouch} - $Input{OpenInventory} - $Input{Run} - $Input{Forward}
+HintsGamepad|HintLookAround	Χρησιμοποίησε το $GAInput{GamepadLook} για να κοιτάξεις γύρω σου.
+HintsGamepad|HintMoveAround	Για να κινηθείς, χρησιμοποίησε το μοχλό ($GAInput{GamepadMove})
+HintsGamepad|HintDoors	Για να ανοίξεις πόρτες και ντουλάπια, αλληλεπίδρασε πρώτα μαζί τους και μετά τράβηξε με το $GAInput{GamepadLook}
+HintsGamepad|HintGrab_1	Πάτησε $Input{Throw} ενώ κρατάς ένα αντικείμενο για να το πετάξεις.
+HintsGamepad|HintGrab_2	Μπορείς να περιστρέψεις το αντικείμενο με το $GLayout{DPAD}
+HintsGamepad|HintWheel	Κίνησε το $GAInput{GamepadLook} κυκλικά ενώ κρατάς έναν τροχό για να το γυρίσεις.
+HintsGamepad|HintSlider	Κίνησε το $GAInput{GamepadLook} ενώ κρατάς ένα συρτάρι για να το τραβήξεις ή να το σπρώξεις.
+HintsGamepad|HintLean	Κράτησε πατημένο το $Input{AnalogLean} και κίνησε το $GAInput{GamepadMove} αριστερά ή δεξιά για να γείρεις
+HintsGamepad|ReadablePropAdditionalHint	$GLayout{DPAD} για περιστροφή / $Input{InteractCancel} για έξοδο.
+HintsGamepad|ReadableGrabAdditionalHint	Χρησιμοποίησε το $GLayout{DPAD} για περιστροφή.
+Levels|00-00-intro	Πρόλογος
+Levels|00-01-apartment	Το διαμέρισμα του Σάιμον
+Levels|00-02-subway	Μετρό
+Levels|00-03-laboratory	Το εργαστήριο του Μούνσι
+Levels|01-01-upsilon-awake	Αφύπνιση
+Levels|01-02-upsilon-inside	Βάση Ύψιλον
+Levels|01-03-upsilon-outside	Έξω από το Ύψιλον
+Levels|01-04-transport-station	Σταθμός σάτλ του Ύψιλον
+Levels|02-01-ms-curie-outside	Βάση Λάμδα
+Levels|02-02-ms-curie-inside	Το CURIE
+Levels|02-03-delta	Βάση Δέλτα
+Levels|02-04-theta-outside	Έξω από το Θήτα
+Levels|02-05-theta-inside	Είσοδος του Θήτα
+Levels|02-06-theta-tunnels	Εργαστήρια του Θήτα
+Levels|02-07-theta-exit	Συντήρηση του Θήτα
+Levels|03-01-omicron-outside	Έξω από το Όμικρον
+Levels|03-02-omicron-inside	Βάση Όμικρον
+Levels|03-03-omicron-descent	Η κάθοδος
+Levels|04-01-tau-outside	Ο δρόμος προς το Ταυ
+Levels|04-02-tau-inside	Βάση Ταυ
+Levels|04-03-tau-escape	Βάση Άλφα
+Levels|05-01-phi-inside	Βάση Φι
+Levels|05-02-ARK-inside	Το ARK
+Levels|05-03-space	Διάστημα
+LastOnSOMAText|00_01_apartment_1	Ο Σάιμον έχει υποσχεθεί να πάει σε ένα ραντεβού για σάρωση εγκεφάλου. Για τα καλύτερα δυνατά αποτελέσματα, πρέπει να πιει λίγο σκιαγραφικό.
+LastOnSOMAText|00_01_apartment_2	Ο Σάιμον ήπιε λίγο σκιαγραφικό για να προετοιμαστεί για την επικείμενη σάρωση εγκεφάλου.
+LastOnSOMAText|00_03_laboratory_1	Ο Σάιμον πήρε το μετρό για τα εργαστήρια PACE στο κέντρο του Τορόντο, όπου έχει ραντεβού για σάρωση εγκεφάλου.
+LastOnSOMAText|01_01_upsilon_awake_1	Μετά τη σάρωση του εγκεφάλου του, ο Σάιμον ξύπνησε σε ένα άγνωστο μέρος.
+LastOnSOMAText|01_01_upsilon_awake_2	Ο Σάιμον βρήκε μια μικρή φορητή συσκευή που λέγεται omnitool.
+LastOnSOMAText|01_01_upsilon_awake_3	Ο Σάιμον μόλις αναβάθμισε το omnitool του και τώρα μπορεί να ανοίγει ορισμένες πόρτες.
+LastOnSOMAText|01_02_upsilon_inside_1	Μετά τη σάρωση του εγκεφάλου του, ο Σάιμον ξύπνησε σε ένα άγνωστο μέρος.
+LastOnSOMAText|01_02_upsilon_inside_2	Ο Σάιμον κατάφερε να επικοινωνήσει με μια άγνωστη μέσω ενός ασυρμάτου που χαλάει. Του είπε να βρει το Κέντρο Επικοινωνιών, μια αίθουσα με θολωτή οροφή, για να μιλήσουν ξανά.
+LastOnSOMAText|01_03_upsilon_outside_1	Ο Σάιμον ψάχνει ένα σταθμό σάτλ που θα τον πάει στο Λάμδα, όπου η Κάθριν είπε ότι θα τον περιμένει.
+LastOnSOMAText|01_04_transport_station_1	Ο Σάιμον προσπαθεί να ξεκινήσει ένα σάτλ για να πάει στο Λάμδα, όπου πρέπει να συναντήσει την Κάθριν, τη γυναίκα από τον ασύρματο.
+LastOnSOMAText|01_04_transport_station_2	Το σάτλ του Σάιμον συνετρίβη και τώρα πρέπει να βρει άλλον τρόπο να φτάσει στο Λάμδα, όπου τον περιμένει η Κάθριν, η γυναίκα από τον ασύρματο.
+LastOnSOMAText|02_01_ms_curie_outside_1	Ο Σάιμον βγήκε ξανά στον ωκεανό και πρέπει να βρει το Λάμδα, όπου τον περιμένει η Κάθριν, η γυναίκα από τον ασύρματο.
+LastOnSOMAText|02_01_ms_curie_outside_2	Η Κάθριν αποδείχτηκε ότι είναι ρομπότ - ένα χαλασμένο ρομπότ - και τώρα ο Σάιμον πρέπει να μεταφέρει τα δεδομένα της στο omnitool του.
+LastOnSOMAText|02_01_ms_curie_outside_3	Η Κάθριν θέλει ο Σάιμον να τη βοηθήσει να μάθει τι απέγινε κάτι που λέγεται πρόγραμμα ARK. Θέλει να συνδεθεί σε έναν κοντινό υπολογιστή και να της πει τι βρήκε.
+LastOnSOMAText|02_01_ms_curie_outside_4	Το πρόγραμμα ARK της Κάθριν προοριζόταν να σώσει την ανθρωπότητα, αλλά έχει κολλήσει βαθιά μέσα στην άβυσσο. Για να το σώσουν, πρέπει να βρουν τρόπο να φτάσουν στη βάση Θήτα, όπου βρίσκεται το DUNBAT, το μόνο όχημα που αντέχει την πίεση της αβύσσου.
+LastOnSOMAText|02_01_ms_curie_outside_5	Το πρόγραμμα ARK της Κάθριν προοριζόταν να σώσει την ανθρωπότητα, αλλά έχει κολλήσει βαθιά μέσα στην άβυσσο. Πρέπει να πάνε στο Θήτα και να βρουν το DUNBAT, το μόνο όχημα που αντέχει την πίεση της αβύσσου. Για να φτάσει εκεί, ο Σάιμον ελπίζει να βρει το ναυάγιο του CURIE και να πάρει ένα σκάφος διάσωσης.
+LastOnSOMAText|02_02_ms_curie_inside_1	Ο Σάιμον βρήκε το ναυάγιο του CURIE, ενός μεγάλου πλοίου στο βυθό της θάλασσας. Ελπίζει να βρει μέσα ένα σκάφος διάσωσης και να ταξιδέψει στη βάση Θήτα.
+LastOnSOMAText|02_02_ms_curie_inside_2	Ο Σάιμον και η Κάθριν κατευθύνονται προς το Θήτα για να βρουν το DUNBAT, ένα όχημα φτιαγμένο για περιβάλλοντα ακραίας πίεσης. Μόνο με το DUNBAT θα μπορέσουν να μπουν στην άβυσσο και να βρουν το χαμένο ARK.
+LastOnSOMAText|02_03_delta_1	Ο Σάιμον έκανε αναγκαστική προσγείωση κοντά σε μια βάση που λέγεται Δέλτα. Εξακολουθεί να προσπαθεί να φτάσει στο ARK, αλλά για να το κάνει πρέπει πρώτα να πάει στο Θήτα.
+LastOnSOMAText|02_03_delta_2	Ο Σάιμον κάλεσε ένα ζέπελιν, ένα υποβρύχιο όχημα μεταφοράς. Η Κάθριν λέει ότι θα μπορούσε να το οδηγήσει αν δεν ήταν χαλασμένο το τσιπ εργαλείων της. Ο Σάιμον πρέπει να πάρει ένα καινούριο από κάποιο ρομπότ της περιοχής πριν φύγουν.
+LastOnSOMAText|02_03_delta_3	Αφού αντικατέστησαν το χαλασμένο τσιπ εργαλείων της Κάθριν, οι δυο τους μπορούν επιτέλους να συνεχίσουν προς το Θήτα με το ζέπελιν.
+LastOnSOMAText|02_04_theta_outside_1	Ο Σάιμον και η Κάθριν πηγαίνουν στο Θήτα, όπου ελπίζουν να βρουν το DUNBAT, ένα όχημα φτιαγμένο για περιβάλλοντα ακραίας πίεσης. Μόνο με το DUNBAT θα μπορέσουν να μπουν στην άβυσσο και να βρουν το χαμένο ARK.
+LastOnSOMAText|02_05_theta_inside_1	Ο Σάιμον και η Κάθριν έφτασαν στο Θήτα και τώρα πρέπει να βρουν το DUNBAT, ένα όχημα φτιαγμένο για περιβάλλοντα ακραίας πίεσης. Μόνο με το DUNBAT θα μπορέσουν να μπουν στην άβυσσο και να βρουν το χαμένο ARK.
+LastOnSOMAText|02_05_theta_inside_2	Ο Σάιμον και η Κάθριν βρήκαν το DUNBAT, αλλά είναι σε καραντίνα και πρέπει να βρουν κάποιον που να ξέρει έναν κωδικό ασφαλείας για να αποκτήσουν πρόσβαση. Μόνο με το DUNBAT θα μπορέσουν να μπουν στην άβυσσο και να βρουν το χαμένο ARK.
+LastOnSOMAText|02_05_theta_inside_3	Ο Σάιμον βρήκε τη σάρωση ενός νεοσύλλεκτου της ασφάλειας, του Μπράντον Γουάν, και ελπίζει να βρει κάποιον τρόπο να αποσπάσει από αυτόν έναν κωδικό, ώστε η Κάθριν να αποκτήσει πρόσβαση στο DUNBAT. Μόνο με το DUNBAT θα μπορέσουν να μπουν στην άβυσσο και να βρουν το χαμένο ARK.
+LastOnSOMAText|02_05_theta_inside_4	Ο Σάιμον προσπαθεί να μάθει περισσότερα για το ποιος ήταν ο Μπράντον Γουάν, ώστε να είναι πιο εύκολο να πείσει την προσομοίωσή του να δώσει τον κωδικό ασφαλείας που χρειάζεται για το DUNBAT. Μόνο με το DUNBAT θα μπορέσουν να μπουν στην άβυσσο και να βρουν το χαμένο ARK.
+LastOnSOMAText|02_05_theta_inside_5	Ο Σάιμον και η Κάθριν προσπαθούν να πείσουν την προσομοίωση του Μπράντον Γουάν να δώσει τον κωδικό ασφαλείας που χρειάζεται για το DUNBAT. Μέχρι στιγμής ο «Μπράντον» είναι καχύποπτος με τα περιβάλλοντα που του παρουσιάζουν. Πρέπει οπωσδήποτε να τα καταφέρουν, γιατί το DUNBAT είναι το μόνο όχημα που μπορεί να τους πάει στο ARK.
+LastOnSOMAText|02_05_theta_inside_6	Ο Σάιμον και η Κάθριν ξεγέλασαν την προσομοίωση του Μπράντον και τους έδωσε τον κωδικό ασφαλείας για το DUNBAT. Τώρα μπορούν επιτέλους να το χρησιμοποιήσουν για να ταξιδέψουν στην άβυσσο και να βρουν το χαμένο ARK.
+LastOnSOMAText|02_05_theta_inside_7	Το DUNBAT έχει αλλοιωθεί από το WAU. Δεν υπάρχει τρόπος να σωθεί.[br]Ο Σάιμον και η Κάθριν θα πρέπει να βρουν άλλον τρόπο να μπουν στην άβυσσο και να βρουν το ARK.
+LastOnSOMAText|02_06_theta_tunnels_1	Το DUNBAT έχει αλλοιωθεί από το WAU. Δεν υπάρχει τρόπος να σωθεί.[br]Ο Σάιμον και η Κάθριν θα πρέπει να βρουν άλλον τρόπο να μπουν στην άβυσσο και να βρουν το ARK.
+LastOnSOMAText|02_06_theta_tunnels_2	Το σχέδιο να πάνε στην άβυσσο με το DUNBAT απέτυχε. Ο Σάιμον και η Κάθριν αποφάσισαν να πάνε στο Όμικρον και να κατέβουν με το Climber, αλλά πρώτα η Κάθριν χρειάζεται τη βοήθεια του Σάιμον για να καταλάβει πώς λειτουργεί το ARK.
+LastOnSOMAText|02_06_theta_tunnels_3	Το σχέδιο να πάνε στην άβυσσο με το DUNBAT απέτυχε. Ο Σάιμον και η Κάθριν αποφάσισαν να πάνε στο Όμικρον και να κατέβουν με το Climber, αλλά πρώτα ο Σάιμον πρέπει να βρει τρόπο να βγει από το Θήτα.
+LastOnSOMAText|02_07_theta_exit_1	Ο Σάιμον έχει χαθεί κάπου μέσα στο Θήτα και ψάχνει τρόπο να βγει.
+LastOnSOMAText|02_07_theta_exit_2	Ο Σάιμον έχει χαθεί κάπου μέσα στο Θήτα και τον κυνηγούν παράξενα πλάσματα.
+LastOnSOMAText|03_01_omicron_outside_1	Ο Σάιμον ξέφυγε από το Θήτα και μπορεί επιτέλους να πάει στο Όμικρον, όπου θα βρει μια Στολή Ισχύος που αντέχει την πίεση της αβύσσου.
+LastOnSOMAText|03_01_omicron_outside_2	Ο Σάιμον βρήκε το Όμικρον, όπου πρέπει να ψάξει για μια Στολή Ισχύος που αντέχει την πίεση της αβύσσου. Πρώτα όμως πρέπει να βρει τρόπο να μπει μέσα.
+LastOnSOMAText|03_02_omicron_inside_1	Ο Σάιμον μπήκε στο Όμικρον. Πριν κατέβει με το Climber στην άβυσσο, χρειάζεται μια Στολή Ισχύος για να επιβιώσει από την πίεση.
+LastOnSOMAText|03_02_omicron_inside_2	Ο Σάιμον βρήκε μια Στολή Ισχύος με ένα πτώμα μέσα. Τώρα πρέπει να την προσαρμόσει, ώστε η Κάθριν να μεταφέρει το μυαλό του σε αυτήν και να συνεχίσουν το ταξίδι στην άβυσσο. Χρειάζονται τρία κομμάτια: λίγο δομικό τζελ, ένα τσιπ φλοιού από ένα ρομπότ και μια μπαταρία.
+LastOnSOMAText|03_02_omicron_inside_3	Η Κάθριν μετέφερε με επιτυχία το μυαλό του Σάιμον σε ένα νέο σώμα που αντέχει ακραίες πιέσεις. Τώρα είναι έτοιμοι για την άβυσσο.
+LastOnSOMAText|03_03_omicron_descent_1	Με ένα νέο και πιο δυνατό σώμα, ο Σάιμον και η Κάθριν θα κατέβουν με το Climber στην άβυσσο για να βρουν το χαμένο ARK.
+LastOnSOMAText|04_01_tau_outside_1	Ο Σάιμον βρίσκεται στο Climber και κατευθύνεται προς το βυθό του ωκεανού. Μετά θα πρέπει να διασχίσει το σκληρό περιβάλλον της αβύσσου για να φτάσει στο Ταυ, όπου λέγεται ότι βρίσκεται το ARK.
+LastOnSOMAText|04_01_tau_outside_2	Ο Σάιμον έφτασε στον πάτο της αβύσσου και τώρα θα πρέπει να διασχίσει το σκληρό περιβάλλον για να φτάσει στο Ταυ, όπου λέγεται ότι βρίσκεται το ARK.
+LastOnSOMAText|04_02_tau_inside_1	Ο Σάιμον βρήκε το δρόμο για το Ταυ, όπου υποτίθεται ότι βρίσκεται το ARK. Πρέπει να βρει το ARK και να το πάει στο Φι, απ' όπου μπορεί να εκτοξευτεί στο διάστημα.
+LastOnSOMAText|04_02_tau_inside_2	Ο Σάιμον βρήκε επιτέλους το ARK και τώρα πρέπει να το πάρει μαζί του στο Φι, απ' όπου μπορεί να το εκτοξεύσει στο διάστημα.
+LastOnSOMAText|04_03_tau_escape	Το ARK ταξιδεύει προς το Φι με ένα αυτόματο τραμ. Ο Σάιμον πρέπει απλώς να φροντίσει να φτάσει κι αυτός εκεί.
+LastOnSOMAText|05_01_phi_inside_1	Ο Σάιμον ξέφυγε από τη μυστική βάση Άλφα, την καρδιά του WAU, και έφτασε στο Φι. Ήρθε η ώρα να ξαναβρεί το ARK και να το εκτοξεύσει στο διάστημα με το Διαστημικό Κανόνι Ωμέγα.
+LastOnSOMAText|05_01_phi_inside_2	Ο Σάιμον έφτασε στη βάση Φι, όπου σκοπεύει να εκτοξεύσει το ARK στο διάστημα με το Διαστημικό Κανόνι Ωμέγα.
+LastOnSOMAText|05_02_ARK_inside_1	Ο Σάιμον μετέφερε με επιτυχία το μυαλό του στο ARK.
+GUI|OK	OK
+GUI|Cancel	Ακύρωση
+GUI|Back	Πίσω
+GUI|Play	Αναπαραγωγή
+GUI|Stop	Διακοπή
+GUI|Playback	Αναπαραγωγή
+GUI|NumPadClear	C
+GUI|NumPadClearFull	ΔΙΑΓΡΑΦΗ
+GUI|Error	Σφάλμα
+GUI|Next	Επόμενο
+GUI|Prev	Προηγούμενο
+StationGUI|Error	ΣΦΑΛΜΑ
+StationGUI|OK	OK
+StationGUI|StationGUI_VersionNO	v. 3.02
+StationGUI|DoorControlApp_Label	Έλεγχος κλειδαριών
+StationGUI|DoorControlApp_Locked	ΚΛΕΙΔΩΜΕΝΗ
+StationGUI|DoorControlApp_Unlocked	ΞΕΚΛΕΙΔΩΤΗ
+StationGUI|DoorControlApp_Broken	Μ/Δ
+StationGUI|DoorControlApp_PowerLevelHeader	ΔΥΣΛΕΙΤΟΥΡΓΙΑ ΣΥΣΤΗΜΑΤΟΣ! ΟΡΙΑ ΚΛΕΙΔΩΜΑΤΟΣ ΕΝΕΡΓΑ.
+StationGUI|DoorControlApp_PowerLevel_Pre	ΥΠΟΛΟΙΠΟΙ ΠΟΡΟΙ:
+StationGUI|DoorControlApp_PowerLevel_Post	%
+StationGUI|DoorControlApp_RoomInfoHeader	ΠΛΗΡΟΦΟΡΙΕΣ
+StationGUI|MailApp_Header	ΜΗΝΥΜΑΤΑ
+StationGUI|MailApp_Inbox	ΕΙΣΕΡΧΟΜΕΝΑ
+StationGUI|MailApp_Draft	ΠΡΟΧΕΙΡΑ
+StationGUI|MailApp_Sent	ΑΠΕΣΤΑΛΜΕΝΑ
+StationGUI|MailApp_Send	ΑΠΟΣΤΟΛΗ
+StationGUI|ReaderApp_Header	ΑΝΑΓΝΩΣΤΗΣ
+StationGUI|AudioApp_Header	ΑΝΑΠΑΡΑΓΩΓΗ ΗΧΟΥ
+StationGUI|CorruptedData_Detected	Εντοπίστηκαν κατεστραμμένα δεδομένα[br]Επαναφορά αρχείων;
+StationGUI|CorruptedData_Restoring	Επαναφορά...
+StationGUI|CorruptedData_Results	Επιτυχής μερική ανάκτηση δεδομένων!
+StationGUI|Panel_AccessDenied	ΑΡΝΗΣΗ ΠΡΟΣΒΑΣΗΣ
+StationGUI|Panel_Locked	ΑΝΕΝΕΡΓΟ
+StationGUI|Panel_On	ΠΡΟΣΒΑΣΗ ΕΠΙΤΡΑΠΗΚΕ
+StationGUI|Panel_Off	ΠΕΡΑΣΤΕ ΤΟ OMNITOOL
+StationGUI|PressureDiff_Status	ΚΑΤΑΣΤΑΣΗ
+StationGUI|PressureDiff_PressureHeader	ΔΙΑΦΟΡΑ ΠΙΕΣΗΣ
+StationGUI|PressureDiff_Out	ΕΞΩ
+StationGUI|PressureDiff_In	ΜΕΣΑ
+StationGUI|PressureDiff_Airlock	ΑΕΡΟΦΡΑΚΤΗΣ
+PathOS|TBBack	ΠΙΣΩ
+PathOS|MMAppAudioPlayer	ΑΝΑΠΑΡΑΓΩΓΗ ΗΧΟΥ
+PathOS|MMAppLogReader	ΑΡΧΕΙΑ ΚΑΤΑΓΡΑΦΗΣ
+PathOS|MMAppMessenger	ΜΗΝΥΜΑΤΑ
+PathOS|MMPathOSTM	v. 3.02
+PathOS|MsgConversations	ΣΥΝΟΜΙΛΙΕΣ
+PathOS|MsgAttach	ΣΥΝΗΜΜΕΝΑ
+PathOS|MsgSend	ΑΠΟΣΤΟΛΗ
+PathOS|MsgDelete	ΔΙΑΓΡΑΦΗ
+PathOS|MsgOK	OK
+UrbanGUI|MailApp_Header	treemail 0.1
+UrbanGUI|MailApp_Inbox	ΕΙΣΕΡΧΟΜΕΝΑ
+UrbanGUI|MailApp_Draft	ΠΡΟΧΕΙΡΑ
+UrbanGUI|MailApp_Sent	ΑΠΕΣΤΑΛΜΕΝΑ
+UrbanGUI|MailApp_ToLabel	ΠΡΟΣ:
+UrbanGUI|MailApp_FromLabel	ΑΠΟ:
+UrbanGUI|MailApp_SubjectLabel	ΘΕΜΑ:
+UrbanGUI|MailApp_TimestampLabel	ΗΜΕΡ.:
+UrbanGUI|MailApp_Send	ΑΠΟΣΤΟΛΗ EMAIL
+UrbanGUI|MailApp_Yes	Ναι
+UrbanGUI|MailApp_No	Όχι
+UrbanGUI|MailApp_ConfirmSend	Σίγουρα θέλεις να το στείλεις;
+UrbanGUI|DesktopDate	Σάββατο 2 Μαΐου 2015
+Phone|Caller_unknown	ΑΓΝΩΣΤΟΣ
+Phone|Caller_jesse	Τζέσι - The Grimoire
+Phone|Caller_munshi	Ντέιβιντ Μούνσι
+Phone|DurationHeader	Διάρκεια:
+Phone|MissedCall	Αναπάντητη κλήση

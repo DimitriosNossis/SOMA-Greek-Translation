@@ -1,0 +1,140 @@
+Voices_02_06_theta_tunnels|player_1h_doorhint_003_player_001	Κάτι λείπει.
+Voices_02_06_theta_tunnels|player_1_extractchip_001_player_001	Λυπάμαι για πριν, Μπράντον. Λυπάμαι που δεν μπορέσαμε να σε αφήσουμε να αναπαυθείς εν ειρήνη.
+Voices_02_06_theta_tunnels|player_2_simongetsup_001_player_001	*βογκητό πόνου*
+Voices_02_06_theta_tunnels|datamining_3_doctoraudiolog_001_masters_001	Τέρι Έικερς, επικεφαλής διαχειριστής στο Δέλτα -- πρώτη αξιολόγηση.
+Voices_02_06_theta_tunnels|DataMining_3_DoctorAudioLog_001_Masters_002	Εισήχθη σήμερα: 16 Ιανουαρίου 2104.
+Voices_02_06_theta_tunnels|DataMining_3_DoctorAudioLog_001_Masters_003	Σύμφωνα με τις αναφορές, βρέθηκε μέσα στη στολή κατάδυσής του, αναίσθητος, σε ανοιχτά νερά.
+Voices_02_06_theta_tunnels|datamining_3_doctoraudiolog_002_masters_001	Ο Έικερς είναι φανερό ότι κατανάλωνε μεγάλες ποσότητες δομικού τζελ. Για εβδομάδες, πιθανότατα.
+Voices_02_06_theta_tunnels|datamining_3_doctoraudiolog_002_masters_002	Είναι δύσκολο να πω πώς επηρέασε αυτό την υγεία του πέρα από τον προφανή υποσιτισμό... και αν με κάποιον τρόπο τον έκανε να βγάλει τα μάτια του.
+Voices_02_06_theta_tunnels|datamining_3_doctoraudiolog_002_masters_003	Οι μικρές ποσότητες τζελ θεωρούνταν πάντα απολύτως ασφαλείς στο χειρισμό, αλλά δε θυμάμαι να έχω ακούσει ποτέ συστάσεις για την αντιμετώπιση της υπερέκθεσης.
+Voices_02_06_theta_tunnels|datamining_3_doctoraudiolog_002_masters_004	Λαμβάνοντας υπόψη τις ιδιότητές του, αμφιβάλλω ότι είναι δηλητηριώδες, αλλά οι πιο μεταμορφωτικές πτυχές του σιδηρορευστού με κάνουν να πιστεύω ότι αναμένονται κακοήθεις κυτταρικές μεταλλάξεις.
+Voices_02_06_theta_tunnels|datamining_3_doctoraudiolog_003_masters_001	Νομίζω... νομίζω ότι θα πρέπει να συμβουλευτώ το Δρ. Έιμς στο Όμικρον γι' αυτό.
+Voices_02_06_theta_tunnels|datamining_3_dataminealiceblackbox_001_brandon_001	Στρόμαϊερ, είσαι εκεί;
+Voices_02_06_theta_tunnels|datamining_3_dataminealiceblackbox_002_strohmeier_001	Σε ακούω, Μπράντον. Τι έχεις;
+Voices_02_06_theta_tunnels|datamining_3_dataminealiceblackbox_003_brandon_001	Ο Έικερς και τα πλάσματά του είναι άγρια. Πιάνουν κάθε κίνηση. Δεν υπάρχει τρόπος να τους περάσουμε.
+Voices_02_06_theta_tunnels|datamining_3_dataminealiceblackbox_004_strohmeier_001	Τότε θα τους πολεμήσουμε. Πρέπει να φτάσουμε στο σάτλ.
+Voices_02_06_theta_tunnels|DataMining_3_DatamineAliceBlackbox_005_Brandon_001	Και να καταλήξουμε σαν το Σανκ και την Άνταμς; Με τίποτα.
+Voices_02_06_theta_tunnels|datamining_3_dataminealiceblackbox_005_brandon_002	Άκου -- θα κάνω αντιπερισπασμό και θα τους τραβήξω πάνω μου. Πάρε την ομάδα στο σταθμό του σάτλ.
+Voices_02_06_theta_tunnels|datamining_3_dataminealiceblackbox_006_koster_001	Στάσου, Μπράντον. Τι κάνεις;
+Voices_02_06_theta_tunnels|datamining_3_dataminealiceblackbox_007_brandon_001	Μην ανησυχείς, Άλις. Θα γυρίσω μόλις είστε ασφαλείς. Φορτώστε το σάτλ και να είστε έτοιμοι να φύγετε.
+Voices_02_06_theta_tunnels|datamining_3_dataminealiceblackbox_008_strohmeier_001	Είσαι σίγουρος γι' αυτό;
+Voices_02_06_theta_tunnels|datamining_3_dataminealiceblackbox_009_brandon_001	Δε σκοπεύω να πεθάνω σήμερα, κύριε. Τα λέμε στο σάτλ.
+Voices_02_06_theta_tunnels|player_3e_needtoclosedoor_001_player_001	Κλείσε αυτή την πόρτα, Σάιμον!
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_001_catherine_001	Ε; Στάσου, αυτό δεν είναι... Ωχ όχι. Το WAU έφτασε στο DUNBAT πριν από εμάς, σωστά;
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_002_player_001	Ε, μιλούσε -- σπάνια είναι καλό σημάδι αυτό.
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_005_catherine_001	Γαμώτο! Το DUNBAT ήταν η καλύτερη ευκαιρία μας. Βασιζόμουν πραγματικά σε αυτό.
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_008_player_001	Έλα, δεν μπορούμε να τα παρατήσουμε τώρα. Πρέπει να υπάρχει άλλος τρόπος. Πώς πιστεύεις ότι το κάνατε; Πώς κατέβασε η ομάδα το ARK στην άβυσσο εξαρχής;
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_009_catherine_001	Αν δε χρησιμοποίησαν το DUNBAT, ο μόνος άλλος τρόπος θα ήταν το Climber στο Όμικρον. Είναι σαν ανελκυστήρας που υποτίθεται ότι φτάνει μέχρι κάτω στην άβυσσο.
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_010_player_001	Εντάξει, αυτό κάνουμε λοιπόν -- πάμε στο Όμικρον και παίρνουμε τον ανελκυστήρα.
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_011_catherine_001	Ναι, εντάξει... σίγουρα. Θα πεταχτούμε μέχρι το Όμικρον και θα ελπίζουμε να υπάρχει μια Στολή Ισχύος στα μέτρα σου -- ξέρεις, για να μην καταρρεύσεις από την πίεση στην άβυσσο.
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_012_player_001	Ακούγεται χρήσιμο αυτό.
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_013_catherine_001	Εντάξει. Πάμε τότε!
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_014_catherine_001	Στάσου, τι μέρος είναι αυτό;
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_016_catherine_001	Φαίνεται να υπάρχουν πολλές πληροφορίες για το ARK εδώ. Έχει ακόμα και πρωτότυπο!
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_017_player_001	Εντάξει;
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_1_018_catherine_001	Ας το ξεκινήσουμε. Θέλω να δω πώς δουλεύει. Ίσως καταλάβουμε πώς να μπούμε στο ARK.
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_2_001_player_001	Δεν ήξερες πώς να μας βάλεις μέσα;
+Voices_02_06_theta_tunnels|dialog_1_cathpluggedin_2_002_catherine_001	Πόσο δύσκολο μπορεί να είναι;
+Voices_02_06_theta_tunnels|dialog_1_legacyscanuploaderror_001_catherine_001	Καλύτερα να μη χρησιμοποιήσουμε αληθινά δεδομένα. Δε θέλω να επαναλάβω αυτό που κάναμε στον Μπράντον.
+Voices_02_06_theta_tunnels|dialog_1_legacyscanuploaderror_002_player_001	Συμφωνώ.
+Voices_02_06_theta_tunnels|dialog_1_arksiminstructions_001_catherine_001	Δοκίμασε να φορτώσεις μια δοκιμαστική σάρωση. Δεν πρέπει να είναι τόσο δύσκολο. Θέλω απλώς να σιγουρευτώ ότι καταλαβαίνω πώς διαμορφώνονται τα δεδομένα σάρωσης πριν αρχίσουμε να πειράζουμε το αληθινό ARK.
+Voices_02_06_theta_tunnels|dialog_1_arksiminstructions_002_catherine_001	Τρέξε την προσομοίωση και πάτα παύση όσο τρέχει ο κώδικας -- θα μου δώσει μια τομή της διαδικασίας.
+Voices_02_06_theta_tunnels|dialog_1_arksimpaused_001_catherine_001	Πρέπει να πατήσεις παύση όσο είναι φορτωμένο το δοκιμαστικό, αλλιώς δεν μπορώ να ξέρω αν δουλεύει ή όχι.
+Voices_02_06_theta_tunnels|dialog_1_arksimpaused_002_catherine_001	Όχι, ξαναδοκίμασε. Το δοκιμαστικό πρέπει να είναι φορτωμένο όταν πατάς παύση.
+Voices_02_06_theta_tunnels|dialog_1_arksimpaused_003_catherine_001	Δοκίμασε να πατήσεις παύση όταν είναι φορτωμένο το δοκιμαστικό.
+Voices_02_06_theta_tunnels|dialog_1_arksimpaused_004_catherine_001	Πρέπει να το πετύχεις ενώ φορτώνεται.
+Voices_02_06_theta_tunnels|akers_2_playerwakesupfromdeath_001_akersgui_001	Γιατί δεν κοιμάσαι;
+Voices_02_06_theta_tunnels|akers_2_playerwakesupfromdeath_002_akersgui_001	Κλείσε τα μάτια σου. Αποδέξου το.
+Voices_02_06_theta_tunnels|akers_2_playerwakesupfromdeath_003_akersgui_001	Δεν πειράζει. Θα σου βρω ένα σκοπό. Κάποια στιγμή.
+Voices_02_06_theta_tunnels|akers_4_akersinfectionending_001_akers_001	Μην ανησυχείς. Δε θα χρειαστεί να ξυπνήσεις ποτέ ξανά.
+Voices_02_06_theta_tunnels|dialog_1_cathcommentcard_001_catherine_001	Ουάου, τι ωραίο -- είναι όλη η παρέα!
+Voices_02_06_theta_tunnels|dialog_1_cathcommentcard_002_player_001	Φωτογραφία του πληρώματος, σοβαρά; Για ποιον τη φυλάγατε; Ο κόσμος ήταν νεκρός.
+Voices_02_06_theta_tunnels|dialog_1_cathcommentcard_003_catherine_001	Ευχαριστώ, Σάιμον. Νόμιζα ότι το να είσαι μαλάκας εφευρέθηκε τον 22ο αιώνα. Τώρα ξέρω καλύτερα.
+Voices_02_06_theta_tunnels|dialog_1_cathcommentmap_001_catherine_001	Αυτό είναι το Φι, σίγουρα. Μια γρήγορη στάση στο Όμικρον, μετά το Ταυ και μετά το Φι.
+Voices_02_06_theta_tunnels|dialog_1_cathcommentmap_002_player_001	Πάμε.
+Voices_02_06_theta_tunnels|dialog_1_cathcommentphoto_001_catherine_001	Το ARK δε φαίνεται καν τόσο ογκώδες. Θα είναι εύκολο.
+Voices_02_06_theta_tunnels|dialog_1_cathcommentphoto_002_player_001	Δεν έχεις ακούσει ποτέ για το γρουσούζεμα, ε;
+Voices_02_06_theta_tunnels|dialog_1_cathcommentphoto_003_catherine_001	Συγγνώμη, ξέχασα ότι οι άνθρωποι της εποχής σου ήταν προληπτικοί.
+Voices_02_06_theta_tunnels|akers_2_akersidletalk_001_akers_001	Πρέπει να με εμπιστευτείς.
+Voices_02_06_theta_tunnels|akers_2_akersidletalk_002_akers_001	Ο Φύλακας θέλει να νιώθουμε ζωντανοί.
+Voices_02_06_theta_tunnels|akers_2_akersidletalk_003_akers_001	Ξέρει τι είναι καλό για εμάς.
+Voices_02_06_theta_tunnels|akers_2_akersidletalk_004_akers_001	Υπάρχει ακόμα ικανοποίηση -- υπάρχει χαρά.
+Voices_02_06_theta_tunnels|akers_2_akersidletalk_005_akers_001	Μπορώ να σου δείξω.
+Voices_02_06_theta_tunnels|akers_2_akersidletalk_006_akers_001	Δε χρειάζεται να υποφέρεις αυτό το μέρος.
+Voices_02_06_theta_tunnels|akers_2_akersidletalk_007_akers_001	Θα σε βοηθήσω να κοιμηθείς.
+Voices_02_06_theta_tunnels|akers_2_akersidletalk_008_akers_001	Για πάντα, εν ειρήνη.
+Voices_02_06_theta_tunnels|akers_2_akersidletalk_009_akers_001	Στάλθηκα για να βοηθήσω.
+Voices_02_06_theta_tunnels|akers_2_akersidletalk_010_akers_001	Παράδωσε τον πόνο σου.
+Voices_02_06_theta_tunnels|dialog_1_cathhint_startsim_1_001_catherine_001	Ξεκίνα μια προσομοίωση του ARK, θέλω να δω πώς δουλεύει.
+Voices_02_06_theta_tunnels|dialog_1_cathhint_rundiagondummy_1_001_catherine_001	Φόρτωσε ένα Δοκιμαστικό και πάτα παύση στην προσομοίωση ενώ είναι ενεργό. Μετά μπορούμε να τρέξουμε διαγνωστικά και να δούμε πώς λειτουργεί.
+Voices_02_06_theta_tunnels|dialog_1_cathhint_scanyourself_1_001_catherine_001	Μπες στο σαρωτή, για να καταλάβουμε από τι είσαι φτιαγμένος.
+Voices_02_06_theta_tunnels|dialog_1_cathhint_startsim_2_001_catherine_001	Ξεκίνα μια προσομοίωση του ARK.
+Voices_02_06_theta_tunnels|dialog_1_cathhint_rundiagondummy_2_001_catherine_001	Φόρτωσε ένα Δοκιμαστικό, πάτα παύση ενώ είναι ενεργό και τρέξε διαγνωστικά.
+Voices_02_06_theta_tunnels|dialog_1_cathhint_scanyourself_2_001_catherine_001	Μπες στο σαρωτή.
+Voices_02_06_theta_tunnels|dialog_1_examinesscanner_001_player_001	Τι είναι αυτό το πράγμα;
+Voices_02_06_theta_tunnels|dialog_1_examinesscanner_002_catherine_001	Απλώς ένας Εξεταστής Συνθέτων. Η Κόστερ το χρησιμοποιεί για να ελέγχει τη δομική ακεραιότητα των πλαισίων φορτίου.
+Voices_02_06_theta_tunnels|dialog_1_examinesscanner_003_player_001	Φυσικά.
+Voices_02_06_theta_tunnels|dialog_1_examinesscanner_004_catherine_001	Χωράς μέσα; Αν ήξερα από τι είσαι φτιαγμένος, θα ήταν πολύ πιο εύκολο να βρω πώς να σε βάλω στο ARK.
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_1_001_player_001	Να ανησυχώ για ακτινοβολία;
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_1_002_catherine_001	Νομίζω ότι το έχουμε ξεπεράσει αυτό.
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_1_003_catherine_001	Ενδιαφέρον, φαίνεται ότι είσαι ένα με τη στολή κατάδυσης που φοράς. Όλα έχουν συγχωνευτεί μεταξύ τους.
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_1_004_player_001	Και πώς θα δουλέψει αυτό με τη στολή που θα πάρουμε στο Όμικρον;
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_1_005_catherine_001	Εμ... νομίζω ότι είναι μεγαλύτερες. Θα μπορείς να φοράς και τις δύο.
+Voices_02_06_theta_tunnels|dialog_1_scanningandsimdone_001_player_001	Τελειώσαμε εδώ; Πάμε στο Όμικρον να πάρω την καινούρια μου στολή;
+Voices_02_06_theta_tunnels|dialog_1_scanningandsimdone_002_catherine_001	Ναι, πρέπει να ξεκινήσουμε.
+Voices_02_06_theta_tunnels|dialog_1_scanningandsimdone_003_player_001	Θες να πάρουμε αυτό το ARK για εφεδρεία;
+Voices_02_06_theta_tunnels|dialog_1_scanningandsimdone_004_catherine_001	Όχι, δε θα έπιανε. Είναι απλώς ένα πρωτότυπο.
+Voices_02_06_theta_tunnels|dialog_1_scanningandsimdone_005_player_001	Ωραία. Προτιμώ να ταξιδεύω ελαφρά.
+Voices_02_06_theta_tunnels|dialog_1_scanningandsimdone_006_catherine_001	Πάμε. Μην ξεχάσεις να με πάρεις μαζί σου.
+Voices_02_06_theta_tunnels|dialog_1_scanningdone_simnotdone_001_player_001	Τουλάχιστον ξέρουμε πώς να μπούμε στο ARK.
+Voices_02_06_theta_tunnels|dialog_1_scanningdone_simnotdone_002_catherine_001	Κάπως. Καταλαβαίνω την ιδέα, αλλά δεν ξέρω τις λεπτομέρειες. Θα ήθελα πολύ να καταλάβουμε πώς διαμορφώνονται και επεξεργάζονται τα δεδομένα σάρωσης.
+Voices_02_06_theta_tunnels|dialog_1_arksimcomplete_notscanned_001_player_001	Οπότε τώρα ξέρουμε πώς να μπούμε στο ARK, σωστά;
+Voices_02_06_theta_tunnels|dialog_1_arksimcomplete_notscanned_002_catherine_001	Ξέρω πώς να μπω εγώ στο ARK, αλλά εσύ; Πρέπει ακόμα να στριμωχτείς σε εκείνον το σαρωτή εκεί, για να καταλάβω πώς να επεξεργαστώ το μυαλό σου.
+Voices_02_06_theta_tunnels|dialog_1_arksimcomplete_notscanned_003_player_001	Α, σωστά, το ξέχασα.
+Voices_02_06_theta_tunnels|dialog_1_lookatarkprototype_001_player_001	Αυτό είναι το πρωτότυπο που ανέφερες;
+Voices_02_06_theta_tunnels|dialog_1_lookatarkprototype_002_catherine_001	Ναι. Ας το ξεκινήσουμε. Πρέπει να μάθω πώς θα μπούμε στο ARK.
+Voices_02_06_theta_tunnels|dialog_1_arksimcomplete_001_catherine_001	Ναι, φυσικά. Τόσο ακριβές, τόσο τέλειο.
+Voices_02_06_theta_tunnels|dialog_1_arksimcomplete_002_player_001	Τίποτα δε συγκρίνεται με το να θαυμάζεις τη δουλειά σου.
+Voices_02_06_theta_tunnels|dialog_1_arksimcomplete_003_catherine_001	Τι; Α, ναι.
+Voices_02_06_theta_tunnels|dialog_1_enteredscanner_001_player_001	Λίγο στενά εδώ.
+Voices_02_06_theta_tunnels|dialog_1_enteredscanner_002_catherine_001	Φτάνεις το διακόπτη;
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_2_looking_001_player_001	Ίμοτζεν; Ποια είναι αυτή;
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_2_notlooking_001_catherine_001	Η Ίμοτζεν Ριντ, σοβαρά;
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_3_001_catherine_001	Φαίνεται ότι η βάση του σώματός σου είναι μια παλιά μου συνάδελφος. Ένα τυπικό τσιπ φλοιού για ρομπότ, μαζί με τον αναγνώστη δεδομένων και το φακό Occu-Torch, έχει απλώς χωθεί με το ζόρι μέσα στο κρανίο.
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_3_002_player_001	Τι;!
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_3_003_catherine_001	Το δομικό τζελ έχει συγκολλήσει όλη την κατασκευή. Καταπληκτικό υλικό.
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_3_004_player_001	Όχι, όχι, όχι, στάσου -- πάμε πίσω. Είμαι μια παλιά σου συνάδελφος;
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_3_005_catherine_001	Ε, το σώμα σου είναι. Η Ίμοτζεν Ριντ.
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_3_006_player_001	Αυτό είναι αηδιαστικό.
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_3_007_catherine_001	Ε, μην το λες αυτό, ήταν η... ήταν καλή μαζί μου.
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_3_008_catherine_001	Τέλος πάντων, το τσιπ φλοιού είναι καλά νέα. Σημαίνει ότι μπορούμε να μεταφέρουμε το μυαλό σου στο ARK με μια Θέση πιλότου.
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_3_009_player_001	Κάθ, είμαι μισός νεκρός άνθρωπος!
+Voices_02_06_theta_tunnels|dialog_1_scannerscanning_3_010_catherine_001	Ναι. Βγάζει νόημα. Σκέψου το. Όλα αυτά τα απλοϊκά μυαλά που έχουμε συναντήσει. Η απλή αναβίωση ενός νεκρού δε φαίνεται να δουλεύει και τόσο καλά. Ένα ρομποτικό σώμα κάνει τους ανθρώπους λίγο... αναξιόπιστους. Εσύ είσαι το καλύτερο και από τους δύο κόσμους. Νους υγιής εν σώματι υγιεί.
+Voices_02_06_theta_tunnels|datamining_1_arkroomintercom_001_pedersen_001	Σάρα, πώς στο διάολο θα σιγουρευτούμε ότι το ARK θα τα καταφέρει;
+Voices_02_06_theta_tunnels|datamining_1_arkroomintercom_002_lindwall_001	Κάθε εκτόξευση είναι κορόνα-γράμματα, το ξέρεις.
+Voices_02_06_theta_tunnels|datamining_1_arkroomintercom_003_pedersen_001	Μακάρι να φαίνονταν καλύτερα αυτά τα νούμερα.
+Voices_02_06_theta_tunnels|datamining_1_arkroomintercom_004_lindwall_001	Τι σε νοιάζει; Ένα πακέτο δεδομένων είναι, σωστά;
+Voices_02_06_theta_tunnels|datamining_1_arkroomintercom_005_pedersen_001	Ναι, ένα πακέτο δεδομένων.
+Voices_02_06_theta_tunnels|player_1_insertbadchip_001_player_001	Και τώρα; Πρέπει να διαμορφώσω το τσιπ;
+Voices_02_06_theta_tunnels|player_1_examinesscanner_2_outside_001_player_001	Λοιπόν, θα το δοκιμάσω.
+Voices_02_06_theta_tunnels|dialog_1_arksimcomplete_notscanned_notseenscanner_001_player_001	Οπότε τώρα ξέρουμε πώς να μπούμε στο ARK, σωστά;
+Voices_02_06_theta_tunnels|dialog_1_arksimcomplete_notscanned_notseenscanner_002_player_001	Κάπως...
+Voices_02_06_theta_tunnels|dialog_1_arksimcomplete_notscanned_notseenscanner_003_player_001	Τι;
+Voices_02_06_theta_tunnels|dialog_1_arksimcomplete_notscanned_notseenscanner_004_player_001	Απλώς δεν ξέρω στ' αλήθεια τι είσαι. Ίσως υπάρχει τρόπος να σε συνδέσουμε ή να σε σαρώσουμε κάπως... πρέπει να το λύσουμε πριν φύγουμε.
+Voices_02_06_theta_tunnels|dialog_1_cathhint_findscanner_1_001_catherine_001	Ρίξε μια ματιά στο δωμάτιο. Κάτι εδώ θα μπορεί να μας βοηθήσει.
+Voices_02_06_theta_tunnels|dialog_1_cathhint_findscanner_2_001_catherine_001	Κοίτα γύρω στο δωμάτιο.
+Voices_02_06_theta_tunnels|akers_2_akersidletalklong_001_akers_001	Αυτούς ψάχνεις, σωστά; Τους έσωσα -- τους κοίμισα. Είναι ασφαλείς.
+Voices_02_06_theta_tunnels|akers_2_akersidletalklong_002_akers_001	Αυτές οι αίθουσες που βουλιάζουν. Αυτός ο νεκρός κόσμος δεν αξίζει να σωθεί. Μόνο η ζωή είναι πολύτιμη.
+Voices_02_06_theta_tunnels|akers_2_akersidletalklong_003_akers_001	Ο Φύλακας θα μας προσέχει όσο κοιμόμαστε. Θα μας κρατά ασφαλείς.
+Voices_02_06_theta_tunnels|akers_2_akersidletalklong_004_akers_001	Αποτύχαμε να σώσουμε αυτή τη γη και τους εαυτούς μας. Η σωτηρία μπορεί να έρθει μόνο από το θεϊκό Φύλακα.
+Voices_02_06_theta_tunnels|akers_2_akersidletalklong_005_akers_001	Μέσα στο όνειρο βρίσκουμε τον παράδεισο -- μια ύπαρξη χωρίς προηγούμενο.
+Voices_02_06_theta_tunnels|akers_2_akersidletalklong_006_akers_001	Πήγαινε εν ειρήνη, με αξιοπρέπεια, στη λήθη.
+Voices_02_07_theta_exit|wakingup_wakeup_1_001_ashley_001	Μην κουνιέσαι. Όλα καλά.
+Voices_02_07_theta_exit|wakingup_wakeup_1_002_player_001	Τι;
+Voices_02_07_theta_exit|wakingup_wakeup_1_003_ashley_001	Τελείωσε πια. Χαλάρωσε.
+Voices_02_07_theta_exit|wakingup_wakeup_1_004_player_001	Άσλεϊ; Τι κάνεις εδώ;
+Voices_02_07_theta_exit|wakingup_wakeup_1_005_ashley_001	Περνάω το χρόνο μου μαζί σου. Όπως κάνουν τα ζευγάρια.
+Voices_02_07_theta_exit|wakingup_wakeup_1_006_player_001	Μα εμείς δεν είμαστε--
+Voices_02_07_theta_exit|wakingup_wakeup_1_007_ashley_001	Δε με θέλεις;
+Voices_02_07_theta_exit|wakingup_wakeup_1_008_player_001	Ναι, φυσικά -- αλλά τι έγινε;
+Voices_02_07_theta_exit|wakingup_wakeup_1_009_ashley_001	Ερωτευτήκαμε.

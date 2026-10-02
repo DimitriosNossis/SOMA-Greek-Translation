@@ -1,0 +1,120 @@
+02_03_delta|RobotManual_Name_3	TOPA (m-UH9)
+02_03_delta|RobotManual_Name_4	QUALIA (RV2)
+02_03_delta|RobotManual_Robot_1	K8 (UH8)[br]Νοημοσύνη: Σύνθετη AN-7U[br]Κατηγορία: Ελαφρύς γενικός βοηθός[br]Τηλεχειρισμός: Μ/Δ[br][br]Σημείωση[br]Αν και το K8 δε διαθέτει μονάδα φωνής, μπορεί να επικοινωνεί με απλούς ήχους και φώτα.
+02_03_delta|RobotManual_Robot_2	BULL (UH3)[br]Νοημοσύνη: Σύνθετη AN-5U[br]Κατηγορία: Μεσαίος εργάτης[br]Τηλεχειρισμός: Υποστηρίζεται
+02_03_delta|RobotManual_Robot_3	TOPA (m-UH9)[br]Νοημοσύνη: Σύνθετη AN-7U[br]Κατηγορία: Μίνι UH[br]Τηλεχειρισμός: Μ/Δ
+02_03_delta|RobotManual_Robot_4	QUALIA (RV2)[br]Νοημοσύνη: Βασική A-2U[br]Κατηγορία: Ερευνητικό σκάφος[br]Τηλεχειρισμός: Υποχρεωτικός[br][br]Σημείωση[br]Το σκάφος έχει μόνο βασική νοημοσύνη. Χρειάζεται πιλότος για την πλήρη αξιοποίηση του εξοπλισμού του.
+02_04_theta_outside|ZepGui_Dest	Προορισμός: Θήτα
+02_04_theta_outside|ZepGui_DistanceDepth	Απόσταση: %distm   Βάθος: %depthm
+02_05_theta_inside|Files	Αρχεία
+02_05_theta_inside|Error	Σφάλμα
+02_05_theta_inside|Back	Πίσω
+02_05_theta_inside|OK	OK
+02_05_theta_inside|Abort	Ακύρωση
+02_05_theta_inside|ConnectionError	Σφάλμα σύνδεσης!
+02_05_theta_inside|Loading	Φόρτωση
+02_05_theta_inside|Troubleshoot	Αντιμετώπιση προβλημάτων
+02_05_theta_inside|Troubleshooting	Αναζήτηση πηγής...
+02_05_theta_inside|ServerProblem	Κωδικός σφάλματος: 06FF0A12[br]Δεν είναι δυνατή η σύνδεση με τον κεντρικό υπολογιστή[br][br]Επανεκκινήστε το δρομολογητή στο θησαυροφυλάκιο του υπογείου ή επικοινωνήστε με τη συντήρηση.
+02_05_theta_inside|Uploading	Μεταφόρτωση...
+02_05_theta_inside|UploadComplete	Η μεταφόρτωση ολοκληρώθηκε!
+02_05_theta_inside|Info	Πληροφορίες
+02_05_theta_inside|Scans	Σαρώσεις
+02_05_theta_inside|Upload	Μεταφόρτωση
+02_05_theta_inside|ExtraOptions	Επιλογές
+02_05_theta_inside|Environment	Περιβάλλον
+02_05_theta_inside|Module	Μονάδα
+02_05_theta_inside|SimulationInfo	Πληροφορίες προσομοίωσης
+02_05_theta_inside|RunSimulation	Εκτέλεση
+02_05_theta_inside|NoScanData	ΠΡΟΒΟΛΕΑΣ ΣΑΡΩΣΕΩΝ ΕΝΕΡΓΟΣ[br]Εισαγάγετε ένα τσιπ με δεδομένα σάρωσης...
+02_05_theta_inside|ChipInserted_1	Υποδοχή 1: Τσιπ
+02_05_theta_inside|ChipInserted_2	Υποδοχή 2: Τσιπ
+02_05_theta_inside|LoadingScanData	Φόρτωση δεδομένων σάρωσης...
+02_05_theta_inside|LoadingEnvironmentData	Φόρτωση δεδομένων περιβάλλοντος...
+02_05_theta_inside|SkillsLabel	Δεξιότητες:
+02_05_theta_inside|ScanSubjectLabel	Φορτωμένη σάρωση:
+02_05_theta_inside|EnvironmentLabel	Περιβάλλον:
+02_05_theta_inside|ExtraModuleLabel	Υποστηρικτική μονάδα:
+02_05_theta_inside|ScanSubject_0_Name	ΛΙΝΤΓΟΥΟΛ, Σάρα
+02_05_theta_inside|ScanSubject_0_Info	ΠΑΡΤΙΔΑ 4[br]Τύπος: Συμπιεσμένο νευρογράφημα Νακατζίμα[br](συνεχής χρόνος, 3ms)[br]Καταγραφή: 7 Ιουλίου 2103[br]Συντάκτρια: Κάθριν Τσαν[br][br]ΥΠΟΚΕΙΜΕΝΟ[br]Όνομα: Σάρα Λίντγουολ[br]Φύλο: Γ[br]Γέννηση: 25 Νοε 2074[br]Θάνατος: --, --[br]Εθνικότητα: Γροιλανδή[br][br]ΣΗΜΕΙΩΣΕΙΣ[br]Είπε ότι θα βοηθήσει στη μεταφορά του ARK.
+02_05_theta_inside|ScanSubject_1_Name	ΣΑΡΑΝΓΚ, Μαρκ
+02_05_theta_inside|ScanSubject_1_Info	ΠΑΡΤΙΔΑ 7[br]Τύπος: Συμπιεσμένο νευρογράφημα Νακατζίμα[br](συνεχής χρόνος, 3ms)[br]Καταγραφή: 12 Ιουλίου 2103[br]Συντάκτρια: Κάθριν Τσαν[br][br]ΥΠΟΚΕΙΜΕΝΟ[br]Όνομα: Μαρκ Σαράνγκ[br]Φύλο: Α[br]Γέννηση: 21 Σεπ 2061[br]Θάνατος: 12 Ιουλ 2103[br]Εθνικότητα: Κορεάτης[br][br]ΣΗΜΕΙΩΣΕΙΣ[br]Αυτοκτόνησε εξαιτίας της «Συνέχειας»; Ο Στρόμαϊερ είναι έξαλλος, αυστηροποίησε την ασφάλεια. Το πρόγραμμα ARK σε αναμονή.
+02_05_theta_inside|ScanSubject_2_Name	ΓΟΥΑΝ, Μπράντον
+02_05_theta_inside|ScanSubject_2_Info	ΠΑΡΤΙΔΑ 24[br]Τύπος: Συμπιεσμένο νευρογράφημα Νακατζίμα[br](συνεχής χρόνος, 3ms)[br]Καταγραφή: 25 Αυγούστου 2103[br]Συντάκτρια: Κάθριν Τσαν[br][br]ΥΠΟΚΕΙΜΕΝΟ[br]Όνομα: Μπράντον Γουάν[br]Φύλο: Α[br]Γέννηση: 16 Οκτ 2070[br]Θάνατος: --, --[br]Εθνικότητα: Κινέζος (Σετσουάν)[br][br]ΣΗΜΕΙΩΣΕΙΣ[br]Πρόσφυγας από το Δέλτα, χειριστής ρομπότ κατασκευών. Τώρα δουλεύει για το Στρόμαϊερ.
+02_05_theta_inside|ScanSubject_3_Name	ΜΠΑΣ, Ρόμπιν
+02_05_theta_inside|ScanSubject_3_Info	ΠΑΡΤΙΔΑ 25[br]Τύπος: Συμπιεσμένο νευρογράφημα Νακατζίμα[br](συνεχής χρόνος, 3ms)[br]Καταγραφή: 26 Αυγούστου 2103[br]Συντάκτρια: Κάθριν Τσαν[br][br]ΥΠΟΚΕΙΜΕΝΟ[br]Όνομα: Ρόμπιν Μπας[br]Φύλο: Γ[br]Γέννηση: 10 Δεκ 2072[br]Θάνατος: 26 Αυγ 2103[br]Εθνικότητα: Αμερικανίδα (Ουάσινγκτον D.C.)[br][br]ΣΗΜΕΙΩΣΕΙΣ[br]Άλλη μια γαμημένη αυτοκτονία λόγω «συνέχειας». Ο Στρόμαϊερ με κλείδωσε πάλι έξω από το εργαστήριό μου!
+02_05_theta_inside|ScanSubject_4_Name	ΚΟΜΟΡΕΜΠΙ, Μάγκι
+02_05_theta_inside|ScanSubject_4_Info	ΠΑΡΤΙΔΑ 14[br]Τύπος: Συμπιεσμένο νευρογράφημα Νακατζίμα[br](συνεχής χρόνος, 3ms)[br]Καταγραφή: 8 Αυγούστου 2103[br]Συντάκτρια: Κάθριν Τσαν[br][br]ΥΠΟΚΕΙΜΕΝΟ[br]Όνομα: Μάγκι Κομορέμπι[br]Φύλο: Γ[br]Γέννηση: 4 Ιαν 2067[br]Θάνατος: --, --[br]Εθνικότητα: Κινέζα (Χονγκ Κονγκ)[br][br]ΣΗΜΕΙΩΣΕΙΣ[br]Μοιάζουμε τόσο πολύ! Σε μια άλλη ζωή είμαι σίγουρη ότι θα ήμασταν κολλητές.
+02_05_theta_inside|ScanSubject_5_Name	ΒΟΛΤΣΕΚ, Χέδερ
+02_05_theta_inside|ScanSubject_5_Info	ΠΑΡΤΙΔΑ 6[br]Τύπος: Συμπιεσμένο νευρογράφημα Νακατζίμα[br](συνεχής χρόνος, 3ms)[br]Καταγραφή: 10 Ιουλίου 2103[br]Συντάκτρια: Κάθριν Τσαν[br][br]ΥΠΟΚΕΙΜΕΝΟ[br]Όνομα: Χέδερ Βόλτσεκ[br]Φύλο: Γ[br]Γέννηση: 4 Ιαν 2063[br]Θάνατος: --, --[br]Εθνικότητα: Πολωνή (Σιλεσία)[br][br]ΣΗΜΕΙΩΣΕΙΣ[br]Με βοήθησε να κόψω τη διαρροή κυμάτων από το κράνος. Αν μη τι άλλο, θα κάνει πιο ήπιο το «χανγκόβερ» μετά τη σάρωση.
+02_05_theta_inside|ScanSubject_6_Name	ΣΤΡΑΣΚΙ, Πίτερ
+02_05_theta_inside|ScanSubject_6_Info	ΠΑΡΤΙΔΑ 12[br]Τύπος: Συμπιεσμένο νευρογράφημα Νακατζίμα[br](συνεχής χρόνος, 3ms)[br]Καταγραφή: 4 Αυγούστου 2103[br]Συντάκτρια: Κάθριν Τσαν[br][br]ΥΠΟΚΕΙΜΕΝΟ[br]Όνομα: Πίτερ Στράσκι[br]Φύλο: Α[br]Γέννηση: 11 Μαρ 2068[br]Θάνατος: --, --[br]Εθνικότητα: Άγγλος (Βόρεια Αγγλία)[br][br]ΣΗΜΕΙΩΣΕΙΣ[br]Ο Στράσκι ήταν χαρούμενος και αστείος όπως πάντα.
+02_05_theta_inside|ScanSubject_7_Name	ΚΟΣΤΕΡ, Άλις
+02_05_theta_inside|ScanSubject_7_Info	ΠΑΡΤΙΔΑ 23[br]Τύπος: Συμπιεσμένο νευρογράφημα Νακατζίμα[br](συνεχής χρόνος, 3ms)[br]Καταγραφή: 24 Αυγούστου 2103[br]Συντάκτρια: Κάθριν Τσαν[br][br]ΥΠΟΚΕΙΜΕΝΟ[br]Όνομα: Άλις Κόστερ[br]Φύλο: Γ[br]Γέννηση: 1 Ιουν 2069[br]Θάνατος: --, --[br]Εθνικότητα: Καναδή[br][br]ΣΗΜΕΙΩΣΕΙΣ[br]Είπε ότι θα βοηθήσει να κατασκευαστεί το ARK, αλλά όχι να μεταφερθεί στο Φι.
+02_05_theta_inside|Environment_0	Κανένα
+02_05_theta_inside|Environment_1	Παραλία
+02_05_theta_inside|Environment_2	Ορειβατικό καταφύγιο
+02_05_theta_inside|Environment_3	Αίθουσα σαρώσεων
+02_05_theta_inside|None	Κανένα
+02_05_theta_inside|Alice	Άλις
+02_05_theta_inside|ShutdownCaption	Τερματισμός
+02_05_theta_inside|ShutdownBody	Τερματισμός σε εξέλιξη...
+02_05_theta_inside|StressShutdown	Ξεπεράστηκε το όριο άγχους του υποκειμένου - τερματισμός!
+02_05_theta_inside|LoveLetterBody	Μπράντον,[br]Είμαι χάλια όταν σκέφτομαι τη σάρωση. Όλοι κάνουν τους γενναίους. Όλο χαμόγελα, καμία μεταμέλεια. Θυμάσαι που είπες ότι θα μου κρατάς το χέρι κατά τη σάρωση; Αν η προσφορά ισχύει ακόμα, τη δέχομαι με ευγνωμοσύνη. Αν το κάνουμε μαζί, μπορούμε να περάσουμε και το «χανγκόβερ» μαζί. Λένε ότι χρειάζονται δυο μέρες για να συνέλθεις.[br]Φιλιά, Άλις.
+02_05_theta_inside|BrandonBadgeBody	Μπράντον Γουάν
+02_05_theta_inside|DatamineServerMaintenance	ΘΗΤΑ - ΕΛΕΓΧΟΣ ΖΩΗΣ &amp; ΠΕΡΙΒΑΛΛΟΝΤΟΣ (WAU)[br]================================[br]ΚΛΙΜΑ: Λειτουργικό[br] - Πίεση: 11.2 psi [br] - Θερμοκρασία: 6 C [br] - Υγρασία (RH): 62% [br]ΑΕΡΑΣ: Υγιής [br] - Επεξεργαστής CO2: Ενεργός 78% [br] - Αναμείκτης αερίων: Ενεργός 94% [br]ΝΕΡΟ: Εξοικονόμηση [br] - Καθαριστές: Ενεργοί 31%[br]ΔΙΑΧΕΙΡΙΣΗ ΑΠΟΒΛΗΤΩΝ: Αποτυγχάνει [br] - Ανακύκλωση: Ενεργή 2% [br] - Ανάκτηση ενέργειας: 17%
+02_05_theta_inside|AudioRecordings	Ηχογραφήσεις
+02_05_theta_inside|DunbatStatus_1	ΕΤΟΙΜΟ
+02_05_theta_inside|DunbatStatus_2	ΣΥΣΤΗΜΑΤΑ ΕΝΕΡΓΑ
+02_05_theta_inside|DunbatStatus_3_Delay	ΕΚΤΕΛΕΣΗ ΔΟΚΙΜΩΝ...
+02_05_theta_inside|DunbatStatus_3	ΟΛΑ ΤΑ ΣΥΣΤΗΜΑΤΑ OK!
+02_05_theta_inside|DunbatStatus_4_Delay	ΠΡΟΕΤΟΙΜΑΣΙΑ ΑΠΕΛΕΥΘΕΡΩΣΗΣ...
+02_05_theta_inside|DunbatStatus_4	ΕΤΟΙΜΟ ΓΙΑ ΑΠΕΛΕΥΘΕΡΩΣΗ!
+02_05_theta_inside|DunbatStatus_Error_Delay	ΑΠΕΛΕΥΘΕΡΩΣΗ ΣΕ ΕΞΕΛΙΞΗ...
+02_05_theta_inside|DunbatStatus_Error	ΚΡΙΣΙΜΗ ΒΛΑΒΗ!
+02_05_theta_inside|ScanRoom_Root_Folder	Τοπικός (34% ελεύθερο)
+02_05_theta_inside|ScanRoom_Scans_Folder	Σαρώσεις
+02_05_theta_inside|ScanRoom_Scans_File_1_Name	Ίμοτζεν Ριντ
+02_05_theta_inside|ScanRoom_Scans_File_1_Info	ΠΑΡΤΙΔΑ 9[br]Τύπος: Συμπιεσμένο νευρογράφημα Νακατζίμα[br](συνεχής χρόνος, 3ms)[br]Καταγραφή: 31 Ιουλίου 2103[br]Συντάκτρια: Κάθριν Τσαν[br][br]ΥΠΟΚΕΙΜΕΝΟ[br]Όνομα: Ίμοτζεν Ριντ[br]Φύλο: Γ[br]Γέννηση: 4 Μαΐ 2072[br]Θάνατος: --, --[br]Εθνικότητα: Αμερικανίδα (Ισημερινός)
+02_05_theta_inside|ScanRoom_Scans_File_2_Name	Γκάι Κόνραντ
+02_05_theta_inside|ScanRoom_Scans_File_2_Info	ΠΑΡΤΙΔΑ 30[br]Τύπος: Συμπιεσμένο νευρογράφημα Νακατζίμα[br](συνεχής χρόνος, 3ms)[br]Καταγραφή: 7 Οκτωβρίου 2103[br]Συντάκτρια: Κάθριν Τσαν[br][br]ΥΠΟΚΕΙΜΕΝΟ[br]Όνομα: Γκάι Κόνραντ[br]Φύλο: Α[br]Γέννηση: 31 Ιανουαρίου 2062[br]Θάνατος: --, --[br]Εθνικότητα: Άγγλος (Βόρεια Αγγλία)
+02_05_theta_inside|ScanRoom_Env_Folder	Περιβάλλοντα δοκιμών
+02_05_theta_inside|ScanRoom_Env_File_1_Name	Δεξαμενή επίπλευσης
+02_05_theta_inside|ScanRoom_Env_File_1_Info	Ατσάλινη δεξαμενή με νερό - Περιοριστής αισθήσεων
+02_05_theta_inside|ScanRoom_Env_File_2_Name	Αίθουσα σαρώσεων
+02_05_theta_inside|ScanRoom_Env_File_2_Info	Με θέση πιλότου - Καλύτερη συνέχεια![br]Δε χρειάζεται για το ARK
+02_05_theta_inside|ScanRoom_Env_File_3_Name	Παραλία
+02_05_theta_inside|ScanRoom_Env_File_3_Info	Δοκιμή ευχάριστου εξωτερικού χώρου - Εφαρμόστηκε στο ARK
+02_05_theta_inside|ScanRoom_Env_File_4_Name	Βερσαλλίες
+02_05_theta_inside|ScanRoom_Env_File_4_Info	Δοκιμή ευχάριστου εσωτερικού χώρου - Εξαιρετική[br]Τα δεδομένα ανακατασκευάστηκαν από το WAU. Μην το χρησιμοποιείτε.
+02_05_theta_inside|ScanRoom_EXT_1S_Folder	Τσιπ (01% ελεύθερο)
+02_05_theta_inside|ScanRoom_EXT_1E_Folder	Τσιπ (44% ελεύθερο)
+02_05_theta_inside|ScanRoom_EXT_1ECopied_Folder	Τσιπ (37% ελεύθερο)
+02_05_theta_inside|ScanRoom_ScanChipScans_Folder	Σαρώσεις
+02_05_theta_inside|ScanRoom_ScanChipScans_File_Info	Δυαδικό αρχείο.[br]Άγνωστη μορφή.[br]Το αρχείο είναι κατεστραμμένο ή έχει μεταγλωττιστεί για άλλο σύστημα.
+02_05_theta_inside|ScanRoom_ScanChipScans_File_1_Name	Τζαβίντ Γκόγια
+02_05_theta_inside|ScanRoom_ScanChipScans_File_2_Name	Λουίζ Μερόν
+02_05_theta_inside|ScanRoom_ScanChipScans_File_3_Name	Μπράντον Γουάν
+02_05_theta_inside|ScanRoom_ScanChipScans_File_4_Name	Νικολάι Ιβασίν
+02_05_theta_inside|ScanRoom_ScanChipScans_File_5_Name	Μάγκι Κομορέμπι
+02_05_theta_inside|ScanRoom_ScanChipScans_File_6_Name	Ναντίν Μάστερς
+02_05_theta_inside|ScanRoom_ScanChipScans_File_7_Name	Πίτερ Στράσκι
+02_05_theta_inside|ScanRoom_ScanChipScans_File_8_Name	Άλις Κόστερ
+02_05_theta_inside|ScanRoom_EnvChipEnvironments_Folder	Περιβάλλοντα
+02_05_theta_inside|ScanRoom_EnvChipEnvironments_File_1_Name	Παραλία
+02_05_theta_inside|ScanRoom_EnvChipEnvironments_File_1_Info	Δοκιμή ευχάριστου εξωτερικού χώρου - Εφαρμόστηκε στο ARK
+02_05_theta_inside|ScanRoom_EnvChipEnvironments_File_2_Name	Ορειβατικό καταφύγιο
+02_05_theta_inside|ScanRoom_EnvChipEnvironments_File_2_Info	Δοκιμή ευχάριστου εσωτερικού χώρου - Απορρίφθηκε
+02_05_theta_inside|ScanRoom_EnvChipEnvironments_File_3_Name	Αίθουσα σαρώσεων
+02_05_theta_inside|ScanRoom_EnvChipEnvironments_File_3_Info	Αίθουσα σαρώσεων του Θήτα - Καλύτερη συνέχεια.[br]Δε χρειάζεται για το ARK.
+02_05_theta_inside|SimonRecording_1	Μετά τη σάρωση - 2 Μαΐου 2015
+02_05_theta_inside|SimonRecording_2	Σχέδια - 20 Μαΐου 2015
+02_05_theta_inside|SimonRecording_3	Τελευταία ηχογράφηση - 1 Ιουνίου 2015
+02_05_theta_inside|LoadingExternalDevice	Φόρτωση εξωτερικής συσκευής...
+02_05_theta_inside|Transfer	Μεταφορά αρχείου
+02_05_theta_inside|NetworkTransfer	Μεταφορά μέσω δικτύου
+02_05_theta_inside|ChipTransfer_NoChip	Αντιγραφή σε [ΚΑΝΕΝΑ]
+02_05_theta_inside|ChipTransfer	Αντιγραφή σε τσιπ
+02_05_theta_inside|NetworkTransferError	ΑΡΝΗΣΗ ΜΕΤΑΦΟΡΑΣ[br]Αρχείο περιορισμένης πρόσβασης.
+02_05_theta_inside|ChipTransferError_NoChip	Δεν εντοπίστηκε εξωτερική συσκευή!
+02_05_theta_inside|ChipTransferError_WrongChip	Δεν υπάρχει αρκετός ελεύθερος χώρος στο τσιπ.

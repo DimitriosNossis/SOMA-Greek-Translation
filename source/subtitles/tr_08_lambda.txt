@@ -1,0 +1,170 @@
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_allclear_extra_1_001_catherinerobot_001	Σάιμον, είσαι εκεί; Είμαι χτυπημένη.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_allclear_extra_1_002_catherinerobot_001	Έφυγε -- θα πρέπει να είμαστε ασφαλείς.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_allclear_extra_1_003_catherinerobot_001	 Θα ήθελα πολύ λίγη βοήθεια.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_allclear_extra_1_004_catherinerobot_001	Τι περιμένεις -- έλα εδώ.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_allclear_extra_1_005_catherinerobot_001	Εμπρός, το ακούς αυτό; Εδώ είμαι.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_comeseemehurt_001_catherinerobot_001	Αχ, γαμώτο. Σάιμον, ηλίθιε. Ήλπιζα πραγματικά να μην προκαλέσεις κι άλλη έκρηξη.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_comeseemehurt_002_catherinerobot_001	Είσαι καλά; Γιατί θα ήθελα λίγη βοήθεια.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_comeseemehurt_003_catherinerobot_001	Αχ, να πάρει! Γιατί έπρεπε να γίνει αυτό τώρα;
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_comeseemehurt_004_catherinerobot_001	Σάιμον; Λίγη βοήθεια, παρακαλώ.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_comeseemehurt_005_catherinerobot_001	Εμπρός;
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_comeseemehurt_006_catherinerobot_001	Μπορείς να βιαστείς λίγο;
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_001_player_001	Όχι, όχι κι εσύ. Ήλπιζα πραγματικά ότι ήσουν άνθρωπος.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_002_catherinerobot_001	Μη σε ξεγελούν τα κυκλώματα. Κάποτε ήμουν άνθρωπος.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_003_player_001	Δεν αντέχω άλλο, αυτό είναι... όλα έχουν γαμηθεί.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_005_player_001	Τα παρατάω. Δεν έμεινε τίποτα.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_006_catherinerobot_001	Ηρέμησε. Δεν είναι το τέλος του κόσμου.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_007_player_001	Είσαι σίγουρη; Σε αυτό μοιάζει, διάολε. Απ' ό,τι ξέρω, δεν έχει μείνει κανείς εκτός από μένα.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_008_catherinerobot_001	Τι εννοείς; Εδώ είμαι.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_009_player_001	Μην το πάρεις στραβά, αλλά εννοούσα ότι δεν έχει μείνει κανένας άνθρωπος εκτός από μένα.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_012_catherinerobot_001	Έχεις κοιταχτεί πρόσφατα; Είσαι μια στολή κατάδυσης που περπατάει και μιλάει, με μερικά ηλεκτρονικά κολλημένα πάνω για καλό και για κακό.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_013_player_001	Εγώ... δεν...
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_014_catherinerobot_001	Δε θέλεις να το σκεφτείς; Λοιπόν, άρχισε να το σκέφτεσαι.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_015_player_001	Δε θέλω να το κάνω άλλο αυτό. Δε θέλω να είμαι αυτό. Θέλω να βγω.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_017_catherinerobot_001	Πριν κάνεις κάτι βιαστικό. Θα μπορούσες να με βοηθήσεις με κάτι;
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_018_player_001	Τι;
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_019_catherinerobot_001	Προσπαθούσα να μάθω τι απέγινε το πρόγραμμά μου όταν εκείνο το κτήνος με έριξε κάτω.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_020_player_001	Το πρόγραμμά σου; Πώς μπορεί να έχει οτιδήποτε σημασία όταν ξέρεις ότι είσαι ένα ηλίθιο ρομπότ σε έναν ηλίθιο νεκρό κόσμο;!
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_021_catherinerobot_001	Εντάξει, συγκεντρώσου. Χρειάζομαι να με φτιάξεις για να γυρίσω στη δουλειά μου. Μετά μπορείς να κάνεις μούτρα όσο θέλεις.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_interacttalk_1_022_player_001	Πλάκα μου κάνεις, έτσι; Νομίζω ότι έχω περισσότερες πιθανότητες να φτιάξω μηχανή του χρόνου παρά να σε συναρμολογήσω ξανά.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_beforepopchip_2_001_catherinerobot_001	Θα είναι αρκετά εύκολο. Απλώς πάρε το τσιπ και βάλ' το μέσα στο omnitool.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_beforepopchip_2_002_player_001	Γιατί ένα τσιπ ρομπότ χωράει σε κάτι που ανοίγει πόρτες;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_beforepopchip_2_003_catherinerobot_001	Έχει τυποποιημένους συνδε--
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_beforepopchip_2_004_player_001	Ε, Κάθριν; Εντάξει, ας το δοκιμάσουμε.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_whileomnittoolisputin_001_catherinerobot_001	Μόλις φορτώσει το omnitool, απλώς βάλε το τσιπ φλοιού μου μέσα στο εργαλείο.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_whileomnittoolisputin_002_player_001	Τι είναι το τσιπ φλοιού;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_whileomnittoolisputin_003_catherinerobot_001	Θα το καταλάβεις. Θα σου το βγάλω εγώ. Απλώς πιάσε το τσιπ και βάλ' το μέσα στο omnitool. Έλα, χρειάζομαι μόνο να κάνεις αυτό το ένα πράγμα για μένα.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_whileomnittoolisputin_004_player_001	Εντάξει, καλά.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_001_catherineomnitool_001	--τήρες, χωράει σχεδόν οτιδήποτε.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_001_catherineomnitool_002	Ωχ, αυτό είναι περίεργο.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_001_catherineomnitool_003	Είμαι μέσα στο omnitool; Ευχαριστώ.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_002_player_001	Λοιπόν... τι είναι αυτό το πρόγραμμα;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_003_catherineomnitool_001	Το πρόγραμμά μου; Α, λοιπόν, αποθήκευσα όλους τους ανθρώπους του σταθμού ως σαρώσεις εγκεφάλου και τους έβαλα σε έναν τεχνητό κόσμο. Σκοπεύαμε να τον εκτοξεύσουμε στο διάστημα, για να το σώσουμε από... ε, λοιπόν, από όλα αυτά.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_004_player_001	Θες να μου πεις ότι σκοπεύατε να εκτοξεύσετε στο διάστημα έναν κόσμο υπολογιστή, γεμάτο ανθρώπους;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_005_catherineomnitool_001	Ναι. Στην αρχή ήταν απλώς ένα προσωπικό μου χόμπι, αλλά σοβάρεψε πολύ όταν ο κομήτης αφάνισε την επιφάνεια. Ξαφνικά έγινε πολύ σημαντικό και ονομάστηκε επίσημα ARK.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_006_player_001	Ταιριαστό. Πόσο προχωρήσατε;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_007_catherineomnitool_001	Δεν ξέρω. Αυτή η εκδοχή μου, αυτή που είμαι εγώ, προέρχεται από μια σάρωση που έκανα αρκετά νωρίς. Η ζωντανή Κάθριν μπορεί κάλλιστα να ολοκλήρωσε το πρόγραμμα και να το εκτόξευσε. Φαντάζομαι ότι μπορεί ακόμα και να ζει. Περίεργη σκέψη.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_008_player_001	Δηλαδή τα ρομπότ που μιλάνε, είναι κι αυτά σαρώσεις που έκανες;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_009_catherineomnitool_001	Θα μπορούσαν, αλλά αμφιβάλλω. Θα περίμενα να βγάζουν πολύ περισσότερο νόημα αν ίσχυε αυτό. Α, εντάξει. Επιτέλους.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_010_player_001	Τι συμβαίνει;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_011_catherineomnitool_001	Κατάφερα να ανακτήσω κάποια δεδομένα από τον εφεδρικό διακομιστή. Αυτό θα μας πει όλα όσα χρειαζόμαστε.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_011_catherineomnitool_002	Α... μου κάνεις μια χάρη να πας στο άλλο δωμάτιο να ρίξεις μια ματιά; Δεν μπορώ να δω τα αρχεία σε αυτή την κατάσταση. Πρέπει να ξέρω ότι το ARK είναι ασφαλές.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_012_player_001	Φυσικά, Κάθ.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_wakeupinomnitool_013_catherineomnitool_001	Ευχαριστώ. Θα σου ξεκλειδώσω την πόρτα.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_1_001_catherineomnitool_001	Τι ήταν αυτό που είπες πριν -- είσαι από το Τορόντο;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_1_002_player_001	Ναι, πήγα απλώς για μια σάρωση εγκεφάλου και ξαφνικά -- να με εδώ.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_1_003_catherineomnitool_001	Αυτό δε βγάζει κανένα νόημα. Πώς... γιατί να φέρει κανείς μια σάρωση από το Τορόντο;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_1_004_player_001	Σου φαίνεται περίεργο αυτό; Κι αν σου πω ότι ήταν το 2015;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_1_005_player_001	Ουάου.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_2_001_catherineomnitool_001	Δε βγάζω άκρη.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_2_002_player_001	Είπες κάτι;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_2_003_catherineomnitool_001	Συγγνώμη, ακόμα προσπαθώ να καταλάβω πώς βρέθηκες εδώ.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_2_004_player_001	Συνέχισε. Θα ήθελα πολύ να μάθω ποιος θεώρησε καλή ιδέα να στείλει έναν Καναδό στον πάτο της θάλασσας.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_3_001_player_001	Τι έγινε πριν; Εκείνο το πλάσμα ήταν παράξενα... επιβλητικό.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_3_002_catherineomnitool_001	Ναι, ουσιαστικά εξερράγη με ηλεκτρομαγνητισμό.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_3_003_player_001	Αυτό είναι κακό για εμάς, σωστά;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_3_004_catherineomnitool_001	Προκαλεί σύγχυση, τουλάχιστον. Δίνει μια γερή μπουνιά στις αισθήσεις.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_4_001_catherineomnitool_001	Τι έπαθε ο πύργος; Και η αποβάθρα, και το κέντρο υποδοχής;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_4_002_player_001	Ποιος πύργος; Για τι πράγμα μιλάς;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_4_003_catherineomnitool_001	Αυτό το μέρος είναι ερείπια. Όλες οι κάμερες δείχνουν παράσιτα. Είναι... είναι τόσο παράξενο.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_5_001_player_001	Κάθριν;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_5_002_catherineomnitool_001	Τι;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_banterwithsimon_5_003_player_001	Τίποτα. Άσ' το.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_leavecloudandfoundnoark_1_001_catherineomnitool_001	Δες αν μπορείς να βρεις πού είναι το ARK.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_trackingdone_1_001_player_001	Το βρήκα. Είναι σε μια βάση που λέγεται Ταυ.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_trackingdone_1_002_catherineomnitool_001	Ω, όχι. Είναι στη Γη! Και τόσο κοντά στο Φι -- παραλίγο να τα καταφέρουν.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_trackingdone_1_002_catherineomnitool_002	Να πάρει. Δε θα αντέξει πολύ σε αυτή την κατάσταση -- το πολύ μερικές δεκαετίες. Δεν είναι αρκετό για να χτίσεις ένα μέλλον.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_trackingdone_1_003_player_001	Αν φτάναμε εκεί. Θα μπορούσαμε να μπούμε στο ARK;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_trackingdone_1_004_catherineomnitool_001	Υποθέτω, αλλά δεν είμαι και πολύ ευκίνητη αυτή τη στιγμή.
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_backtogetomnitool_1_001_player_001	Θα μας πάω εγώ. Μπορώ να κινούμαι, να πηδάω, να κολυμπάω -- κάπως. Εσύ έχεις κολλήσει στο ανοιχτήρι πορτών -- στο omnitool. Θα σε κουβαλήσω μέχρι εκεί κι εσύ θα μου δείξεις τι να κάνω.
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_backtogetomnitool_1_002_catherineomnitool_001	Ακούγεται πολύ ριψοκίνδυνο -- και εξάλλου δε μου αρέσει η ιδέα να με κουβαλάς από δω κι από κει.
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_backtogetomnitool_1_003_player_001	Έλα, Κάθριν. Αυτό ήθελες να κάνεις. Η τελευταία σου αποστολή. Ας εκτοξεύσουμε το ARK!
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_backtogetomnitool_1_004_catherineomnitool_001	Θα πρέπει να βρούμε τρόπο να μπούμε στην άβυσσο -- δεν μπορούμε να πάρουμε το Climber χωρίς Στολή Ισχύος.
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_backtogetomnitool_1_004_catherineomnitool_002	Μάλλον θα πρέπει να πάμε στο Θήτα και να προσευχόμαστε να δουλεύει ακόμα το DUNBAT.
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_backtogetomnitool_1_005_player_001	Εντάξει, πάμε στο Θήτα.
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_backtogetomnitool_1_006_catherineomnitool_001	Δεν ξέρω, είναι αρκετά μακριά.
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_backtogetomnitool_1_007_player_001	Κάθριν, κοίτα γύρω σου. Τι άλλο να κάνουμε;
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_playernearcathfirsttime_unhurt_001_catherinerobot_001	Σάιμον, εδώ.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_playernearcathfirsttime_unhurt_002_catherinerobot_001	Έι, εδώ κάτω.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_playernearcathfirsttime_unhurt_003_catherinerobot_001	Είμαι ακριβώς δίπλα σου
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_putintolifeboat_1_001_catherineomnitool_001	Ε, τι...; Τι είναι αυτό... Σκάφος διάσωσης 4 του CURIE;
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_putintolifeboat_1_001_catherineomnitool_002	Έι, Σάιμον, με ακούς;
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_putintolifeboat_1_002_player_001	Σε ακούω. Μπορείς να βάλεις μπρος αυτό το πράγμα;
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_putintolifeboat_1_003_catherineomnitool_001	Περίμενε, θα το δοκιμάσω.
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_putintolifeboat_2_001_catherineomnitool_001	Λυπάμαι, είναι νεκρό.
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_putintolifeboat_2_002_player_001	Άξιζε μια προσπάθεια.
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_putintolifeboat_2_003_catherineomnitool_001	Αυτό το σκάφος διάσωσης ήταν του CURIE. Ήταν ένα πλοίο που έκανε δρομολόγια μεταξύ Λάμδα και Λισαβόνας. Φαίνεται ότι το ναυάγιο είναι κοντά. Ίσως βρεις ένα σκάφος σαν αυτό μέσα;
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_putintolifeboat_2_004_player_001	Ακούγεται σαν σχέδιο.
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_putintolifeboat_2_005_catherineomnitool_001	Θα αποθηκεύσω τα στοιχεία ασφαλείας και θα ενημερώσω το omnitool. Ορίστε -- θα σε βοηθήσει να κυκλοφορείς.
+Voices_02_01_ms_curie_outside|cathandsimon_4_cath_putintolifeboat_2_006_player_001	Τέλεια.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_remindofomnitool_001_catherinerobot_001	Απλώς σύνδεσέ το στο τερματικό.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_remindofomnitool_002_catherinerobot_001	Το τερματικό, εκεί ακριβώς.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_remindofomnitool_003_catherinerobot_001	Σάιμον, βάλε το omnitool στο τερματικό.
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_remindofomnitool_004_catherinerobot_001	Δεν είναι δύσκολη έννοια. Σύνδεσέ το επιτέλους!
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_remindofomnitool_005_catherinerobot_001	Είσαι... πρέπει να ανησυχήσω; Σύνδεσε το omnitool!
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_remindofomnitool_006_catherinerobot_001	Εντάξει. Σάιμον. Ξέρεις εκείνο το εργαλείο που κουβαλάς. Χωράει τέλεια στο τερματικό εκεί πέρα.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_leavecloudandfoundnoark_2_001_catherineomnitool_001	Πρέπει να υπάρχει τρόπος να βρούμε πού είναι το ARK.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_leavecloudandfoundnoark_3_001_catherineomnitool_001	Μπορείς να βρεις το ARK;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_hearfootsteps_washurt_001_catherineomnitool_001	Σάιμον. Νομίζω ότι γύρισε. Πρόσεχε. Δεν ξέρω αν αντέχεις κι άλλο χτύπημα.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_hearfootsteps_wasunhurt_001_catherineomnitool_001	Πρόσεχε. Νομίζω ότι γύρισε. Έχε τα μάτια σου ανοιχτά.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_trackingstarted_001_player_001	Βρήκα έναν ανιχνευτή κλειδωμένο στο ARK.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_trackingstarted_002_catherineomnitool_001	Α, έξυπνο. Αναρωτιέμαι αν το σκέφτηκα εγώ. Δουλεύει ακόμα; Πρέπει οπωσδήποτε να μάθω τι απέγινε.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_trackingstarted_003_player_001	Νομίζω -- κάτι κάνει τουλάχιστον.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_trackingstarted_004_catherineomnitool_001	Πού είναι;
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_trackingstarted_005_player_001	Περίμενε, προσπαθώ να το βρω.
+Voices_02_01_ms_curie_outside|cathandsimon_3_cath_trackingstarted_006_catherineomnitool_001	Σε παρακαλώ, ας είναι ασφαλές.
+Voices_02_01_ms_curie_outside|cathandsimon_2_simon_enterlambda_001_catherinerobot_001	Εσύ, μείνε έξω! Είναι σημαντικό. Όχι!
+Voices_02_01_ms_curie_outside|cathandsimon_2_simon_enterlambda_003_catherinerobot_001	Άααχ!
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_001_attackbot_001	Το κεφάλι μου, με σκοτώνει.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_002_attackbot_001	Η δίψα - δεν τελειώνει ποτέ.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_003_attackbot_001	Γαμώτο!
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_004_attackbot_001	Τίποτα εδώ. Τίποτα πουθενά.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_005_attackbot_001	Χρειάζομαι το αίμα.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_006_attackbot_001	Τα ίδια. Κάθε μέρα, κάθε αναθεματισμένη ώρα.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_007_attackbot_001	Πού πήγαν όλοι;
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_008_attackbot_001	Γαμημένοι ηλίθιοι.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_009_attackbot_001	Δεν έπρεπε να τους εμπιστευτώ.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_010_attackbot_001	Ψεύτες, όλοι τους.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_011_attackbot_001	Ακόμα μου καίει τα μάτια.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_012_attackbot_001	Δεν μπορώ να βγω.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_013_attackbot_001	Μας άφησαν να σαπίσουμε.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_014_attackbot_001	Το μαύρο αίμα του WAU.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_015_attackbot_001	Μπορώ να βρω το δρόμο μέχρι εκεί.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_016_attackbot_001	Δεν αναστρέφεται, έτσι δεν είναι;
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_017_attackbot_001	Το μαύρο αίμα στις φλέβες μου θα με σώσει.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_018_attackbot_001	Δεν υπάρχει άλλος τρόπος.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_019_attackbot_001	Πρέπει να βρω κι άλλο.
+Voices_02_01_ms_curie_outside|agentbark_attack_idle_020_attackbot_001	Χρειάζομαι κι άλλο καύσιμο.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_001_attackbot_001	Είσαι έτοιμος;
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_002_attackbot_001	Είσαι έτοιμος γι' αυτό;
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_003_attackbot_001	Πάμε.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_004_attackbot_001	Δείξε μου τι μπορείς.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_005_attackbot_001	Έλα, μάγκα.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_006_attackbot_001	Ώρα να ματώσεις.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_007_attackbot_001	Θα σε ανοίξω, να βγει αυτό το αίμα.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_008_attackbot_001	Πρέπει να βγει λίγο από αυτό το μαύρο αίμα.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_009_attackbot_001	Δώσε μου το καύσιμο.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_010_attackbot_001	Κόψε τον εαυτό σου.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_011_attackbot_001	Άνοιξε τον εαυτό σου.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_012_attackbot_001	Δεν πας πουθενά.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_013_attackbot_001	Έλα δω.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_014_attackbot_001	Έλα εδώ.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_015_attackbot_001	Πάμε.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_016_attackbot_001	Μην προσπαθήσεις καν να ξεφύγεις.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_017_attackbot_001	Θα γίνει.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_018_attackbot_001	Δεν υπάρχει διέξοδος.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalk_019_attackbot_001	Δεν μπορείς να μου ξεφύγεις.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalkfirststart_001_attackbot_001	Επιτέλους. Το περίμενα αυτό.
+Voices_02_01_ms_curie_outside|agentbark_attack_stalkend_001_attackbot_001	Πού στο διάολο πήγε;
+Voices_02_01_ms_curie_outside|agentbark_attack_stalkend_002_attackbot_001	Το έχασα; Όχι, δεν μπορεί!
+Voices_02_01_ms_curie_outside|agentbark_attack_stalkend_003_attackbot_001	Γύρνα πίσω, δειλέ!
+Voices_02_01_ms_curie_outside|agentbark_attack_stalkend_004_attackbot_001	Μη φεύγεις! Πρέπει να ματώσεις!
+Voices_02_01_ms_curie_outside|agentbark_attack_stalkend_005_attackbot_001	Όχι, ξέφυγε; Να σε πάρει ο διάολος!
+Voices_02_01_ms_curie_outside|agentbark_attack_stalkend_006_attackbot_001	Γαμημένε κότα! Γύρνα πίσω!
+Voices_02_01_ms_curie_outside|agentbark_attack_searchstart_001_attackbot_001	Προσπαθείς να κρυφτείς από μένα;
+Voices_02_01_ms_curie_outside|agentbark_attack_searchstart_002_attackbot_001	Καλύτερα να βρεις καλή κρυψώνα - έρχομαι να σε βρω.
+Voices_02_01_ms_curie_outside|agentbark_attack_searchstart_003_attackbot_001	Θα σε βρω.
+Voices_02_01_ms_curie_outside|agentbark_attack_searchstart_004_attackbot_001	Σοβαρά θα με βάλεις να σε ψάχνω;
+Voices_02_01_ms_curie_outside|agentbark_attack_searchstart_005_attackbot_001	Θα βρω όποια τρύπα κι αν κρύβεσαι.
+Voices_02_01_ms_curie_outside|agentbark_attack_searchstart_006_attackbot_001	Θα σε βρω και θα σε σκοτώσω.
+Voices_02_01_ms_curie_outside|agentbark_attack_searchfound_001_attackbot_001	Σε βρήκα.

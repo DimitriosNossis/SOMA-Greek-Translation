@@ -1,0 +1,120 @@
+02_06_theta_tunnels|SurvivalOfTheFittestBoard	Η ΕΠΙΒΙΩΣΗ ΤΟΥ ΙΣΧΥΡΟΤΕΡΟΥ
+02_06_theta_tunnels|RossTalk_01	Εντυπωσιακή συνδεσιμότητα (νευρωνικό συνονθύλευμα)
+02_06_theta_tunnels|RossTalk_02	Κατανάλωση τζελ (Έικερς)
+02_06_theta_tunnels|RossTalk_03	Συνάντηση κάτω[br]στο σάτλ
+02_06_theta_tunnels|RossTalk_04	Αρχικά επανορθωτικό[br]Αφύσικη ανάπτυξη[br]Απόπειρες συμβίωσης
+02_07_theta_exit|DoorPower_Off	ΔΙΑΚΟΠΗ ΤΡΟΦΟΔΟΣΙΑΣ[br][br]Επαναφορτίστε την μπαταρία συντήρησης
+02_07_theta_exit|DoorPower_On	ΠΟΡΤΑ ΑΣΦΑΛΕΙΑΣ[br]ΞΕΚΛΕΙΔΩΤΗ
+03_01_omicron_outside|GUIOK	OK
+03_01_omicron_outside|Cancel	Ακύρωση
+03_01_omicron_outside|Error	Σφάλμα
+03_01_omicron_outside|Success	Επιτυχία
+03_01_omicron_outside|InvalidCode	Μη έγκυρος κωδικός!
+03_01_omicron_outside|Back	Πίσω
+03_01_omicron_outside|NoPower	ΔΙΑΚΟΠΗ ΤΡΟΦΟΔΟΣΙΑΣ
+03_01_omicron_outside|Records	Καταχωρίσεις
+03_01_omicron_outside|RecordedMessage	Μνήμη ασυρμάτου
+03_01_omicron_outside|LockdownStatus	Όμικρον
+03_01_omicron_outside|CommandLogHeader	2104-01-16
+03_01_omicron_outside|LockdownStatusOuter_On	ΣΕ ΚΑΡΑΝΤΙΝΑ
+03_01_omicron_outside|LockdownStatusOuter_Off	Προσβάσιμο
+03_01_omicron_outside|LockdownStatusInner	Ασύρματος / LUMAR
+03_01_omicron_outside|LockdownStatusCleanRoom	Απομακρυσμένος έλεγχος ACR
+03_01_omicron_outside|BlackboxStatusButton	Κατάσταση Blackbox
+03_01_omicron_outside|BlackboxMap	Χάρτης Blackbox
+03_01_omicron_outside|SystemUpdatesButton	Ενημερώσεις συστήματος
+03_01_omicron_outside|BlackboxStatus	<![CDATA[ΚΑΤΑΣΤΑΣΗ ΠΛΗΡΩΜΑΤΟΣ ΟΜΙΚΡΟΝ[br]#012 Νταλ, Τζούλια - Εκτός σύνδεσης[br]#003 Κάμερον, Λίζα - Εκτός σύνδεσης[br]#006 Ντάρμπι, Έρικ - Εκτός σύνδεσης[br]#001 Ιμς, Κλαούντια - Εκτός σύνδεσης[br]#013 Γκολάσκι, Άνταμ - Εκτός σύνδεσης[br]#010 Χάλπεριν, Τζέικομπ - Εκτός σύνδεσης[br]#004 Χέρμπερ, Ράλεϊ - Εκτός σύνδεσης[br]#002 Χόλαντ, Ρίτσαρντ - Εκτός σύνδεσης[br]#014 Λάνσκι, Πόλα - Εκτός σύνδεσης[br]#009 Σόρβαρι, Όλαβι - Εκτός σύνδεσης[br]#015 Σάδερ, Άντρεα - Εκτός σύνδεσης[br]#005 Βάλντεκ, Άλαν - Εκτός σύνδεσης]]>
+03_01_omicron_outside|SystemUpdate_1	Χρονοσήμανση: 2098-10-09[br]Χρήστης: ΒΟΛΤΣΕΚ[br][br]Σημείωση: Η ενημέρωση ενεργοποιεί τα Blackbox. Εφαρμόστηκε η ασφαλιστική δικλίδα CRTH4 (Carthage).
+03_01_omicron_outside|SystemUpdate_2	Χρονοσήμανση: 2099-07-11[br]Χρήστης: ΓΚΟΛΑΣΚΙ[br][br]Σημείωση: Τυπική επέκταση x4B (Haimatsu)
+03_01_omicron_outside|SystemUpdate_3	Χρονοσήμανση: 2099-08-05[br]Χρήστης: ΓΚΟΛΑΣΚΙ[br][br]Σημείωση: Βαθμονομητής περιοχής για το ACR.
+03_01_omicron_outside|SystemUpdate_4	Χρονοσήμανση: 2103-01-14[br]Χρήστης: ΓΚΟΛΑΣΚΙ[br][br]Σημείωση: Διαγνωστικό εργαλείο για το σχέδιο έκτακτης ανάγκης μετά την πρόσκρουση.
+03_01_omicron_outside|SystemUpdate_6	Χρονοσήμανση: 2103-12-20[br]Χρήστης: ΣΟΡΒΑΡΙ[br][br]Σημείωση: Πράγματα που χρειάζονται για να ξαναδουλέψει ο γερανός. Όλα στα χέρια του Άλαν τώρα.
+03_01_omicron_outside|SystemUpdate_7	Χρονοσήμανση: 2104-01-06[br]Χρήστης: ΣΟΡΒΑΡΙ[br][br]Σημείωση: Περιττή ενημέρωση ασφαλείας για τα παρανοϊκά πειραματόζωα του εργαστηρίου. Οι νεκροί δε δαγκώνουν.
+03_01_omicron_outside|OpenDoorButton	Άνοιγμα
+03_01_omicron_outside|CloseDoorButton	Κλείσιμο
+03_01_omicron_outside|DoorStatusButton	Κατάσταση
+03_01_omicron_outside|DoorOpenFail	Καραντίνα - Η πόρτα δεν μπορεί να ανοίξει.
+03_01_omicron_outside|BrokenAirlockError	ΜΗΧΑΝΙΚΗ ΒΛΑΒΗ[br][br]Χρησιμοποιήστε εναλλακτική είσοδο
+03_01_omicron_outside|DoorTerminalStatus_Active	[Καραντίνα Όμικρον[br]Έναρξη: 2104-01-16[br]Κωδικός έκτακτης ανάγκης: Μ/Δ]
+03_01_omicron_outside|DoorTerminalStatus_Inactive	[Η καραντίνα του Όμικρον άρθηκε]
+03_01_omicron_outside|LockdownOverrideConfirmation	Η καραντίνα του Όμικρον άρθηκε
+03_01_omicron_outside|AirlockReady	ΕΤΟΙΜΟ
+03_01_omicron_outside|AirlockFilling	ΠΛΗΡΩΣΗ
+03_01_omicron_outside|AirlockFlushing	ΕΚΚΕΝΩΣΗ
+03_01_omicron_outside|AirlockCOMPLETED	ΟΛΟΚΛΗΡΩΘΗΚΕ
+03_01_omicron_outside|Species	Είδη
+03_01_omicron_outside|Population	Πληθυσμός
+03_01_omicron_outside|FishSphereError	Τα διαγνωστικά απέτυχαν (E:116C)[br]Η καταμέτρηση πληθυσμού είναι αναξιόπιστη
+03_01_omicron_outside|FishSpecies_1	Ταρπόν του Ατλαντικού
+03_01_omicron_outside|FishSpecies_2	Σαυρίδι με κηλίδα
+03_01_omicron_outside|FishSpecies_3	Κόμπια
+03_01_omicron_outside|FishSpecies_4	Λύχνος
+03_01_omicron_outside|FishSpecies_5	Μεγαλόφθαλμος αμμοκαρχαρίας
+03_01_omicron_outside|FishSpecies_6	Ilisha africana
+03_01_omicron_outside|FishSpecies_7	Μαυρόψαρο
+03_01_omicron_outside|FishSpecies_8	Πολυγωνική σμέρνα
+03_01_omicron_outside|FishSpecies_9	Ρέγγα του Ατλαντικού
+03_01_omicron_outside|FishSpecies_10	Λίτσα
+03_01_omicron_outside|ManualOverrideInstructions	Πριν από την εκκένωση, βεβαιωθείτε ότι ανοίξατε τις βαλβίδες και ενεργοποιήσατε την αντλία!
+03_01_omicron_outside|GolaskiNote_Front	Αναμεταδοθέν μήνυμα[br]Από: Τ. Στρόμαϊερ[br][br]Ο Άνταμ Γκολάσκι διατάσσεται να έρθει στο Θήτα το συντομότερο δυνατό. Επείγον!
+03_01_omicron_outside|GolaskiNote_Back	Γκασκ, προσπάθησα να μάθω περί τίνος πρόκειται, αλλά δε μου έλεγαν τίποτα. Το μόνο που ξέρω είναι ότι ρώτησαν αν αγνοείσαι ή αν είσαι νεκρός. Κάτι πρέπει να τους τρόμαξε. Νομίζω ότι καλύτερα να κάνεις ό,τι σου λένε.[br][br]Χέρμπι
+03_02_omicron_inside|BioWhiteboard_1	δομικό τζελ
+03_02_omicron_inside|BioWhiteboard_2	διάταξη: διαιρεμένη πλακέτα κυκλώματος, μικρομπαταρία
+03_02_omicron_inside|BioWhiteboard_3	όχι το ιδανικό
+03_02_omicron_inside|BioWhiteboard_4	... στο Θήτα
+03_02_omicron_inside|BioWhiteboard_5	... συστημικό σοκ (Θάνατος)
+03_02_omicron_inside|BioWhiteboard_6	έλεγχος προηγούμενων αποτελεσμάτων
+03_02_omicron_inside|BioWhiteboard_7	μίμηση κυκλώματος
+03_02_omicron_inside|BioWhiteboard_8	δοκιμαστική φόρμουλα
+03_02_omicron_inside|ZoomArea_Omicron	ΚΑΛΩΣ ΗΡΘΑΤΕ ΣΤΗ ΒΑΣΗ ΟΜΙΚΡΟΝ[br] - Εγκαταστάσεις ιατρικής έρευνας[br] - Προηγμένη θαλάσσια καλλιέργεια[br] - Έδρα του ACR (Abyss Climber Rig)[br][br]Καλή διαμονή!
+03_02_omicron_inside|CommTerminal_1	2104-01-16 - Εξερχόμενη : Θήτα
+03_02_omicron_inside|CommTerminal_2	2103-12-25 - Εισερχόμενη : ACR
+03_02_omicron_inside|CommTerminal_3	2103-12-11 - Εξερχόμενη : Ταυ
+03_02_omicron_inside|CommTerminal_4	2103-12-28 - Εξερχόμενη : Ταυ
+03_02_omicron_inside|CommTerminal_5	2103-12-28 - Εξερχόμενη : Φι
+03_02_omicron_inside|CommTerminal_6	????-??-?? - Μετάδοση προς Φι
+03_02_omicron_inside|CraneEntryFileName_1	Πληροφορίες ACR
+03_02_omicron_inside|CraneEntry_1	ACR «Το Climber»[br]A2088[br][br]Μήκος καλωδίου: 4019m[br]Προσωπικό: 6[br]Φορτίο: 1500kg
+03_02_omicron_inside|CraneEntryFileName_2	Κατάσταση ACR
+03_02_omicron_inside|CraneEntry_2	Θέση: Όμικρον[br]Τελευταία χρήση: 135 ημέρες (Service A5)[br]Χειριστής: Βάλντεκ, Άλαν[br]Κατάσταση: Έτοιμο
+03_02_omicron_inside|CraneEntryFileName_3	Αρχείο χρήσης
+03_02_omicron_inside|CraneEntry_3	2103-08-03[br]Χειριστής: Άλαν[br]Τύπος: Κάθοδος[br]Δεκαπενθήμερος έλεγχος - Η Λάνσκι και ο Χόλαντ κατέβηκαν.[br][br]2103-08-03[br]Χειριστής: Άλαν[br]Τύπος: Άνοδος[br]Δεκαπενθήμερος έλεγχος - Η Λάνσκι και ο Χόλαντ γύρισαν, έκαναν «όλα καλά» με τον αντίχειρα.[br][br]2103-09-13[br]Χειριστής: Σόρβαρι[br]Τύπος: Κάθοδος[br]Εκκένωση ΤΑΥ - Η Νταλ και ο Βάλντεκ ορίστηκαν να βγάλουν όλους από το Ταυ.[br][br]2103-09-13[br]Χειριστής: Σόρβαρι[br]Τύπος: Άνοδος[br]Εκκένωση ΤΑΥ - Η Νταλ και ο Βάλντεκ γύρισαν μόνοι. Η εκκένωση απέτυχε.[br][br]2103-11-05[br]Χειριστής: Άλαν[br]Τύπος: Κάθοδος[br]Ο Έβανς και ο Ντεφρέν από το Θήτα κατέβηκαν στη ζώνη του μεσονυχτίου για να φτιάξουν το χαλασμένο ανιχνευτή LUMAR.[br][br]2013-11-05[br]Χειριστής: Άλαν[br]Τύπος: Άνοδος[br]Ο Έβανς και ο Ντεφρέν γύρισαν με ένα μεγάλο ψάρι που έμοιαζε με δαίμονα. Η Ιμς με έβαλε να το κουβαλήσω στο Όμικρον.[br][br]2103-12-25[br]Χειριστής: Άλαν[br]Τύπος: Κάθοδος[br]Η Κάθριν Τσαν και οι φίλοι της μεταφέρουν το μηχάνημα ARK στο διαστημικό κανόνι.[br][br]2103-12-27[br]Χειριστής: Άλαν[br]Τύπος: Άνοδος[br]Ανέβασα τον ανελκυστήρα σήμερα όπως ήταν προγραμματισμένο. Περίμενα να εμφανιστούν η Τσαν και η παρέα της, αλλά βρήκα ένα νεκρό μέσα στο κλουβί. Μου κόπηκαν τα πόδια.
+03_02_omicron_inside|ContainmentAppName	ΑΡΧΕΙΑ ΚΑΤΑΓΡΑΦΗΣ
+03_02_omicron_inside|ContainmentEntryFileName_1	ROUGHY
+03_02_omicron_inside|ContainmentEntry_1	ROUGHY[br]Τζέικομπ Χάλπεριν[br][br]Ένα ασυνήθιστα νωθρό ψάρι Orange Roughy βρέθηκε να αιωρείται έξω από τον υποσταθμό του Όμικρον. Είχε μια αξιοσημείωτη οστική ανάπτυξη που φαινόταν να επηρεάζει την αντίληψή του. Το έφερα μέσα για να το μελετήσω, αλλά κοκάλωσε και πέθανε στην πορεία. Κατά τη νεκροψία, το πράγμα ξαναζωντάνεψε ενώ ήταν έξω από το νερό. Συνέχισε να σπαρταράει για μερικά λεπτά, οπότε το έβαλα πίσω σε ένα ενυδρείο. Αμέσως άρχισε να χτυπιέται πάνω στο τζάμι και σκοτώθηκε από τα χτυπήματα πριν προλάβω να το μετακινήσω.
+03_02_omicron_inside|ContainmentEntryFileName_2	SHELLEY
+03_02_omicron_inside|ContainmentEntry_2	SHELLEY - Νεκρό κατά την άφιξη[br]Κλαούντια Ιμς[br][br]Ο Ντάρμπι και ο Βάλντεκ το αναγνώρισαν ως αυτό που σαμπόταρε τον ανιχνευτή LUMAR σε βάθος περίπου 900 μέτρων. Είναι ένα μαυρόψαρο μήκους 150cm που μοιάζει να έχει συγχωνευτεί με κάποιο άλλο είδος ψαριού ή καρχαρία. Είναι η πιο αλλόκοτη μορφή μετάλλαξης που έχουμε δει μέχρι τώρα. Είναι σαφές ότι χειροτερεύει. Κάτι το προκαλεί και δεν τρώω τις ανοησίες για τη ραδιενεργό μόλυνση για τις οποίες δε σταματά να μιλάει ο Όρβαρι.
+03_02_omicron_inside|ContainmentEntryFileName_3	ΓΙΟΧΑΝ ΡΟΣ
+03_02_omicron_inside|ContainmentEntry_3	ΓΙΟΧΑΝ ΡΟΣ - Νεκρός κατά την άφιξη[br]Κλαούντια Ιμς[br][br]Ο νεκρός που βρέθηκε στο Climber σήμερα το πρωί αναγνωρίστηκε ως ο Γιόχαν Ρος, ο ψυχολόγος AI που δούλευε στο Ταυ. Δεν μπορώ καν να φανταστώ τι έχει συμβεί εκεί κάτω στην άβυσσο και ειλικρινά δε θα ρισκάρω να χάσω το προσωπικό μου πηγαίνοντας εκεί κάτω να δω. Αν η ομάδα του ARK είναι ζωντανή, κάτι που αμφιβάλλω πολύ, θα πρέπει να βρουν τρόπο να μας δώσουν σημάδι. Δεν ξανακατεβαίνουμε εκεί χωρίς σοβαρό λόγο.
+03_02_omicron_inside|PowerPamphletTitle_1	ENERGY PAL
+03_02_omicron_inside|PowerPamphlet_1	ENERGY PAL S3[br][br]Επαναφορτιζόμενες μπαταρίες λιθίου-θείου υψηλής απόδοσης - 515Wh[br][br]Το ENERGY PAL της Haimatsu με τυπική σύνδεση S3 για εργαλειομηχανές, εξέδρες X0 και στολές ισχύος. Όταν αδειάσει, φορτίστε την μπαταρία σε φορτιστή Haimatsu Charge N5 ή σε άλλον φορτιστή συμβατό με S3.
+03_02_omicron_inside|FlesherMessage0	ΣΩΣΕ ΤΟΝ ΕΑΥΤΟ ΣΟΥ
+03_02_omicron_inside|FlesherMessage1	ΠΑΡ' ΤΑ ΟΛΑ
+03_02_omicron_inside|FlesherMessage2	ΠΑΡΕ ΤΟ ΔΗΛΗΤΗΡΙΟ
+03_02_omicron_inside|FlesherMessage3	ΔΕΝ ΥΠΑΡΧΕΙ ΓΥΡΙΣΜΟΣ
+03_02_omicron_inside|FlesherMessage4	ΤΡΕΞΕ ΝΑ ΣΩΘΕΙΣ
+03_02_omicron_inside|LockdownActive	ΓΕΝΙΚΗ ΑΠΟΜΟΝΩΣΗ ΕΝΕΡΓΗ[br]ΠΑΡΑΚΑΜΨΗ ΑΠΟ ΤΗΝ ΚΟΝΣΟΛΑ ΤΗΣ ΑΙΘΟΥΣΑΣ ΚΑΤΑΔΥΣΕΩΝ
+03_02_omicron_inside|LocalLockdown	ΑΠΟΜΟΝΩΣΗ ΟΜΙΚΡΟΝ
+03_02_omicron_inside|LocalLockdownRemoved	Η τοπική απομόνωση άρθηκε
+03_02_omicron_inside|Unlocking	Άρση απομόνωσης
+03_02_omicron_inside|PuzzleHeader	Χειροκίνητη ανακατεύθυνση ενέργειας
+03_02_omicron_inside|LockdownFAULT	Σφάλμα κατά την άρση της απομόνωσης
+03_02_omicron_inside|LockdownSTANDBY	Αναμονή για διάγνωση
+03_02_omicron_inside|LockdownLOCATED	Εντοπίστηκε βλάβη - F3 - Αίθουσα ενέργειας
+03_02_omicron_inside|LockdownREASON	ΑΙΤΙΑ : Υπερφόρτωση συστήματος
+03_02_omicron_inside|DetectingFaultWindow	ΔΙΑΓΝΩΣΗ
+03_02_omicron_inside|DetectingFault	Εντοπισμός θέσης βλάβης
+03_02_omicron_inside|LoadingRepairWindow	ΦΟΡΤΩΣΗ
+03_02_omicron_inside|LoadingRepair	Εκκίνηση εργαλείου ανακατεύθυνσης
+03_02_omicron_inside|ButtonRetry	Νέα προσπάθεια
+03_02_omicron_inside|ButtonMain	Κύριο μενού
+03_02_omicron_inside|ButtonPuzzleReset	Επαναφορά ακολουθίας
+03_02_omicron_inside|ButtonStatus	Επισκόπηση σταθμού
+03_02_omicron_inside|ButtonRemoveLockdown	Παράκαμψη
+03_02_omicron_inside|ButtonFloor0	Κάτω
+03_02_omicron_inside|ButtonFloor1	Μεσαίο
+03_02_omicron_inside|ButtonFloor2	Πάνω
+03_02_omicron_inside|LockdownWrongFloor	Επιλέχθηκε λάθος όροφος
+03_02_omicron_inside|ChargerNoCube	Εισαγάγετε μπαταρία για φόρτιση
+03_02_omicron_inside|ChargerBadValues	Η ενέργεια δεν έχει δρομολογηθεί σωστά. Δρομολογήστε τη στην ΠΕΡΙΟΧΗ 3
+03_02_omicron_inside|ChargerHatchOpen	Η πόρτα της μονάδας φόρτισης δεν έχει σφραγιστεί

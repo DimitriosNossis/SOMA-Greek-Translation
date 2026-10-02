@@ -1,0 +1,32 @@
+Voices_global|globaltestscene_globaltestsub_001_globaltestchar_001	Αυτή είναι μια γενική δοκιμή!
+Voices_global|globaltestscene_firstdatamine_001_player_001	Τι - πώς το έκανα αυτό;
+Voices_global|globaltestscene_firstwauflower_human_001_player_001	Α, τι ήταν αυτό;
+Voices_global|globaltestscene_firstwauflower_tentacle_001_player_001	Θεέ μου, τι διάολο --
+Voices_global|globaltestscene_getflashlight_001_player_001	Πώς - από πού βρήκα φακό;
+Voices_global|globaltestscene_getflashlightunderwater_001_player_001	Πώς - από πού βρήκα φακό;
+Voices_global|GlobalTestScene_WauFlower_CathAndSimon_001_Catherine_001	Τι στο διάολο κάνεις;
+Voices_global|GlobalTestScene_WauFlower_CathAndSimon_002_Player_001	Ξέρω ότι φαίνεται άσχημο, αλλά με κάνει να νιώθω πολύ καλύτερα. Με βοηθάει να συγκεντρωθώ.
+Voices_global|GlobalTestScene_WauFlower_CathAndSimon_003_Catherine_001	Αυτό... Δηλαδή, με το WAU συνδέεσαι.
+Voices_global|GlobalTestScene_WauFlower_CathAndSimon_004_Player_001	Το χρειάζομαι, εντάξει; Δε θα είχα φτάσει ως εδώ χωρίς αυτό.
+Voices_global|GlobalTestScene_WauFlower_CathAndSimon_005_Catherine_001	Ας συνεχίσουμε.
+Voices_global|globaltestscene_firstwauflower_human_001_player_002	Δεν πονάει πια.
+Voices_00_00_intro|intro_intro_0_001_simon_001	Άσλεϊ, θες να σε πάω;
+Voices_00_00_intro|intro_intro_0_004_ashley_001	Ναι, γιατί όχι, αν δε σε πειράζει να περάσουμε από το Parkdale.
+Voices_00_00_intro|intro_intro_0_005_simon_001	Κανένα πρόβλημα, μπες.
+Voices_00_00_intro|intro_intro_1_001_simon_001	*γυρίζει το κλειδί της μίζας*
+Voices_00_00_intro|intro_intro_2_003_simon_001	Σου αρέσει η δουλειά μέχρι στιγμής;
+Voices_00_00_intro|intro_intro_2_004_ashley_001	Ναι, περνάω καλά. Ήταν καλή εβδομάδα.
+Voices_00_00_intro|intro_intro_3_001_ashley_001	Είσαι καλά, Σάιμον; Νομίζω ότι αιμορραγείς.
+Voices_00_00_intro|intro_intro_3_002_simon_001	Α, δεν είναι τίποτα -- απλώς ο εγκέφαλός μου δε σταματά να αιμορραγεί από το ατύχημα.
+Voices_00_00_intro|intro_intro_4_001_ashley_001	Ορίστε, πάρε αυτό.
+Voices_00_00_intro|intro_intro_5_001_simon_001	Όχι, αυτό είναι για αργότερα -- για τη σάρωση.
+Voices_00_00_intro|intro_intro_5_002_ashley_001	Πράσινο είναι.
+Voices_00_00_intro|intro_intro_6_001_simon_001	Άσλεϊ, πρέπει να σου πω κάτι.
+Voices_00_00_intro|intro_intro_6_002_ashley_001	Σάιμον, σε παρακαλώ, μην το κάνεις περίεργο--
+Voices_00_00_intro|intro_intro_6_003_simon_001	Όχι, όχι, δεν είναι αυτό.
+Voices_00_00_intro|intro_intro_7_001_simon_001	Γιατί τώρα;
+Voices_00_00_intro|intro_intro_7_002_ashley_001	Ποιος είναι ο Ντέιβιντ Μούνσι;
+Voices_00_00_intro|intro_intro_7_003_simon_001	Γιατί δεν υπάρχει ποτέ αρκετός χρόνος;!
+Voices_00_00_intro|intro_Intro_7_004_Ashley_001	Για ποιο πράγμα;
+Voices_00_00_intro|intro_intro_8_001_ashley_001	Για ποιο πράγμα;
+Voices_00_00_intro|intro_intro_9_001_simon_001	Για να πω ότι λυπάμαι.

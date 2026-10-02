@@ -1,0 +1,119 @@
+01_02_upsilon_inside|MachineRoomTerminalBtnBack	Πίσω
+01_02_upsilon_inside|CommRoomRadioTerminalLabel	ΣΥΝΔΕΣΗ ΕΠΙΚΟΙΝΩΝΙΑΣ ΜΕ:
+01_02_upsilon_inside|CommRoomRadioTerminalStation1	Θήτα
+01_02_upsilon_inside|CommRoomRadioTerminalStation2	Όμικρον
+01_02_upsilon_inside|CommRoomRadioTerminalStation3	Μι
+01_02_upsilon_inside|CommRoomRadioTerminalStation4	Άγνωστο
+01_02_upsilon_inside|CommRoomRadioTerminalStation5	Λάμδα
+01_02_upsilon_inside|CommRoomRadioTerminalStation6	Ταυ
+01_02_upsilon_inside|CommRoomRadioTerminalStation7	Φι
+01_02_upsilon_inside|ComputerPostIt	Ξεκίνησε η διαδικασία απομόνωσης[br]Δείτε το τερματικό για λεπτομέρειες
+01_02_upsilon_inside|TransformersOff	ΑΠΑΙΤΕΙΤΑΙ ΕΠΑΝΑΦΟΡΑ
+01_02_upsilon_inside|TransformersOn	ΣΥΣΤΗΜΑ ΣΕ ΛΕΙΤΟΥΡΓΙΑ
+01_02_upsilon_inside|TransformersBroken	ΒΛΑΒΗ ΣΥΣΤΗΜΑΤΟΣ
+01_02_upsilon_inside|BlackBoxTitle	Σύντομη εισαγωγή στο CCRV-7 «Μαύρο κουτί»
+01_02_upsilon_inside|BlackBox	Αυτό το Μαύρο κουτί είναι ένα όργανο ακριβείας σχεδιασμένο να παρακολουθεί τη γενική σας κατάσταση. Μετρά ένα ευρύ φάσμα δεδομένων, από τη θερμοκρασία του σώματος μέχρι τη δραστηριότητα των εγκεφαλικών κυμάτων. Οι πληροφορίες αυτές μεταβιβάζονται συνεχώς στη μονάδα επιτήρησης του Pathos-II, το WAU, ώστε ο σταθμός να σας παρέχει το κατάλληλο κλίμα για κάθε περίσταση. Για βέλτιστη απόδοση, ακολουθήστε προσεκτικά τις οδηγίες του αυτόματου εγχυτήρα, ώστε το εμφύτευμα να τοποθετηθεί σωστά.
+01_02_upsilon_inside|CommRoomMap_Africa	Αφρική
+01_02_upsilon_inside|CommRoomMap_Europe	Ευρώπη
+01_02_upsilon_inside|CommRoomMap_NAmerica	Βόρεια Αμερική
+01_02_upsilon_inside|CommRoomMap_Atlantic	Ατλαντικός Ωκεανός
+01_02_upsilon_inside|StorageListTitle	Εκκένωση!
+01_02_upsilon_inside|StorageListLeft	Η Αζάρο και ο Σέμκεν έχουν μαζέψει ό,τι χρειάζονται πάνω στην αίθουσα επικοινωνιών, οπότε ό,τι υπάρχει εδώ μέσα είναι ελεύθερο.[br][br]Το Θήτα ζήτησε:[br]1. Οτιδήποτε τρώγεται: μίσο, καφέ, ρύζι κ.λπ.[br]2. Όλες τις μπαταρίες που λειτουργούν[br]3. Φάρμακα, μαζί με τα κιτ πρώτων βοηθειών[br]4. Omnitool και όργανα ακριβείας[br]5. Είδη υγιεινής: σαπούνι, οδοντόκρεμα κ.λπ.[br][br]Πέρα από αυτά, φέρτε οτιδήποτε θα σας κρατήσει ζωντανούς και θα σας ανεβάσει το ηθικό.[br]Άνταμς
+01_02_upsilon_inside|StorageMap_Basement	Σταθμός ενέργειας
+01_02_upsilon_inside|StorageMap_Entresol	Διοίκηση
+01_02_upsilon_inside|StorageMap_2ndFloor	Επικοινωνίες
+01_02_upsilon_inside|StorageMap_FirstFloor	Εργοστάσιο
+01_02_upsilon_inside|BootSequenceHeader	ΧΕΙΡΟΚΙΝΗΤΗ ΕΚΚΙΝΗΣΗ
+01_02_upsilon_inside|BootSequence_1	S1
+01_02_upsilon_inside|BootSequence_2	S2
+01_02_upsilon_inside|Turbines	ΤΟΥΡΜΠΙΝΕΣ
+01_02_upsilon_inside|MainPower	ΚΥΡΙΟ ΡΕΥΜΑ
+01_02_upsilon_inside|Coolant	ΨΥΚΤΙΚΟ
+01_02_upsilon_inside|RPM	rpm
+01_02_upsilon_inside|CommSystems	ΣΥΣΤΗΜΑΤΑ ΕΠΙΚ.
+01_02_upsilon_inside|Online	ΕΝΕΡΓΟ
+01_02_upsilon_inside|Offline	ΑΝΕΝΕΡΓΟ
+01_02_upsilon_inside|Doors	ΠΟΡΤΕΣ
+01_02_upsilon_inside|Locked	ΚΛΕΙΔΩΜΕΝΕΣ
+01_02_upsilon_inside|Wait	ΞΕΚΛΕΙΔΩΜΑ
+01_02_upsilon_inside|Unlocked	ΞΕΚΛΕΙΔΩΤΕΣ
+01_02_upsilon_inside|ControlRoomPrompt	Σε αναμονή
+01_02_upsilon_inside|StationWindowCaption	Σταθμοί
+01_02_upsilon_inside|StationStatusWindowCaption	Κατάσταση
+01_02_upsilon_inside|AmyReactorFlowNote	Διάβασε αυτό![br]Ζορίσαμε το σύστημα. Αν τραβήξεις το μοχλό, δεν υπάρχει γυρισμός. Σιγουρέψου ότι το θέλεις αρκετά.
+01_02_upsilon_inside|CarlID	ΣΕΜΚΕΝ, ΚΑΡΛ[br]ID: 0722
+01_02_upsilon_inside|AmyID	ΑΖΑΡΟ, ΕΪΜΙ[br]ID: 0735
+01_02_upsilon_inside|StationCodesNote	Ύψιλον - 99m - Κν:2201[br]Θήτα - 153m - Κν:2202[br]Λάμδα - 96m - Κν:2203[br]Δέλτα - 64m - Κν:2204[br]Όμικρον - 115m - Κν:2205[br]Ταυ - 4114m - Κν:2206[br]Φι - 3802m - Κν:2207[br]Ωμέγα - 0m - Κν:2208
+01_02_upsilon_inside|CommRoomError_InvalidCode	Το κανάλι δεν αναγνωρίστηκε
+01_02_upsilon_inside|CommRoomError_BadConnection	Δεν είναι δυνατή η σύνδεση
+01_02_upsilon_inside|CommRoomError_UpsilonCall	Δεν είναι δυνατή η κλήση [Βάση Ύψιλον] από [Βάση Ύψιλον]
+01_02_upsilon_inside|ComUtility	ΕΡΓΑΛΕΙΟ ΕΠΙΚ.
+01_02_upsilon_inside|ContactID	ID ΕΠΑΦΗΣ
+01_02_upsilon_inside|EstablishingConnection	Σύνδεση...
+01_02_upsilon_inside|LinkError	ΣΦΑΛΜΑ ΣΥΝΔΕΣΗΣ
+01_02_upsilon_inside|CommLogTerminal_Caption	ΗΧΟΓΡΑΦΗΣΕΙΣ
+01_02_upsilon_inside|CommLogTerminal_File_1	2103-04-27 @ 10:51:26
+01_02_upsilon_inside|CommLogTerminal_File_2	2103-04-28 @ 08:52:22
+01_02_upsilon_inside|CommLogTerminal_File_3	2103-04-29 @ 22:42:19
+01_02_upsilon_inside|CommLogTerminal_File_4	2103-05-04 @ 14:11:54
+01_02_upsilon_inside|CommLogTerminal_Corruption	Εντοπίστηκαν κατεστραμμένα δεδομένα![br]Πατήστε OK για απόπειρα ανακατασκευής.
+01_02_upsilon_inside|CommLogTerminal_Restoring	Επαναφορά...
+01_02_upsilon_inside|CommLogTerminal_Results	Επιτυχής μερική ανακατασκευή!
+01_02_upsilon_inside|AmyAirlockPostitNote	Θήτα - Γυρίστε πίσω![br]Σφραγίσαμε το Ύψιλον για να συνεχίσει να λειτουργεί. Μην τα κάνετε σκατά.[br][br]Έ. Αζάρο[br][br]Για τον Καρλ δεν έφταιγα εγώ.
+01_02_upsilon_inside|CityNote_1	ΝΕΑ ΥΟΡΚΗ[br]Κατάσταση: Εκτός λειτουργίας[br]Τελευταία επαφή: 2103, 10 Ιανουαρίου - 19:24:05[br]Μήνυμα:[br]Τζόνσι,[br][br]Το γραφείο κλείνει και όλοι εκκενώνονται. Εκ μέρους όλων εδώ, θέλω να πω ότι ήταν τιμή μας να δουλεύουμε μαζί σου και με το Ύψιλον. Ο Θεός μαζί σας και καλή τύχη με την αποκάλυψη.[br][br]- Μπεν
+01_02_upsilon_inside|CityNote_2	ΚΑΝΤΙΘ (Βοηθητικό)[br]Κατάσταση: Εκτός λειτουργίας[br]Τελευταία επαφή: 2103, 12 Ιανουαρίου - 05:12:09[br]Μήνυμα:[br]Τζόνσι,[br]Ξέρω ότι εσείς έχετε πολύ περισσότερες πιθανότητες να επιζήσετε, αλλά εμείς έχουμε καλύτερη θέα.[br][br]Salud!
+01_02_upsilon_inside|CityNote_3	ΛΟΝΔΙΝΟ[br]Κατάσταση: Εκτός λειτουργίας[br]Τελευταία επαφή: 2103, 11 Ιανουαρίου - 12:00:00[br]Μήνυμα:[br]Αγαπητή δεσποινίς Βίγκντις Γιόνσντοτιρ,[br][br]Με μεγάλη λύπη οφείλω να σας ενημερώσω ότι το γραφείο θα κλείσει και δεν μπορεί πλέον να υποστηρίζει το Ύψιλον και το Pathos-II. Θα ήθελα να εκμεταλλευτώ την ευκαιρία να ευχαριστήσω εσάς, την προϊσταμένη σας Τζέιν Άνταμς και το υπόλοιπο προσωπικό. Είστε μια εξαιρετική ομάδα και λέω με μεγάλη βεβαιότητα ότι εκεί που εμείς πέφτουμε, εσείς σίγουρα θα συνεχίσετε με γενναιότητα.[br][br]Με εκτίμηση,[br]Διευθυντής Συστημάτων Τζέιμς Μπλουμ
+01_02_upsilon_inside|CityNote_4	ΛΙΣΑΒΟΝΑ (Κύριο)[br]Κατάσταση: Εκτός λειτουργίας[br]Τελευταία επαφή: 2103, 12 Ιανουαρίου - 04:52:02[br]Μήνυμα:[br]Ενημέρωση για τα αμυντικά μέτρα.[br]Οι τελευταίες προσπάθειες της παγκόσμιας κοινότητας να αποτρέψει τη σύγκρουση απέτυχαν. Το Pathos-II θα πρέπει να κάνει ό,τι μπορεί για να αντιμετωπίσει τον αναπόφευκτο σεισμό που θα ακολουθήσει την πρόσκρουση. Εκτιμώμενη ώρα πρόσκρουσης 05:13.[br]-LIS
+01_02_upsilon_inside|CommStationNoLink	Η σύνδεση LUMAR διακόπηκε[br]Απαιτείται χειροκίνητη εισαγωγή
+01_02_upsilon_inside|CommTunerLinkEstablished	Συνδέθηκε
+01_02_upsilon_inside|CommTunerListTitle	Βάσεις
+01_02_upsilon_inside|CommTunerStation1	2201: Ύψιλον - 99m
+01_02_upsilon_inside|CommTunerStation2	2202: Θήτα - 153m
+01_02_upsilon_inside|CommTunerStation3	2203: Λάμδα - 96m
+01_02_upsilon_inside|CommTunerStation4	2204: Δέλτα - 64m
+01_02_upsilon_inside|CommTunerStation5	2205: Όμικρον - 115m
+01_02_upsilon_inside|CommTunerStation6	2206: Ταυ - 4114m
+01_02_upsilon_inside|CommTunerStation7	2207: Φι - 3802m
+01_02_upsilon_inside|CommTunerStation8	2208: Ωμέγα - 0m
+01_02_upsilon_inside|CommTunerTuningTitle	Ευθυγράμμιση
+01_02_upsilon_inside|WelcomeToUpsilonSign	ΚΑΛΩΣ ΗΡΘΑΤΕ ΣΤΗ ΒΑΣΗ ΥΨΙΛΟΝ[br]Τροφοδοτούμε όλο το Pathos-II[br][br] - Ο μεγαλύτερος γεωθερμικός σταθμός στον κόσμο[br] - Διυλιστήριο φυσικού αερίου[br] - Εργοστάσιο κατασκευών[br][br]Καλή διαμονή!
+01_04_transport_station|CargoTerminalApp_Inventory	ΔΗΛΩΤΙΚΟ
+01_04_transport_station|CargoTerminalApp_CometMemo	ΠΡΟΣΚΡΟΥΣΗ
+01_04_transport_station|CargoTerminalApp_Video	ΒΙΝΤΕΟ
+01_04_transport_station|CargoTerminalInventory	ΔΗΛΩΤΙΚΟ: ΣΑΤΛ "BEAT"[br]Δρομολόγιο: Ups-B  /  Theta Pr[br]Ημερομηνία αναχώρησης: -[br][br]ΑΝΤΙΚΕΙΜΕΝΑ (ΑΡ.)[br]Σχοινί LW, 250m (#187)[br]Αναφορά κινδύνου (#11)[br]Κιτ βοηθού, x4 (#899)[br]Αυτόματος φουσκωτήρας, x3 (#91)
+01_04_transport_station|CargoTerminalCometMemo	ΥΠΟΜΝΗΜΑ Pathos-II - «ΠΡΟΣΚΡΟΥΣΗ»[br][br]Σήμερα το πρωί, 12 Ιανουαρίου (05:13), ο κομήτης Τέλος έπεσε στον Ειρηνικό Ωκεανό. Η πρόσκρουση κατατάσσεται ανάμεσα στις μεγαλύτερες συγκρούσεις που έχουν καταγραφεί ποτέ στη Γη. Όλα τα στοιχεία δείχνουν ότι η επιφάνεια έχει ερημώσει εντελώς και δεν μπορεί πλέον να συντηρήσει ζωή. Η μοναδική τοποθεσία του Pathos-II έχει προσφέρει απαράμιλλη ασφάλεια στο προσωπικό μας. Έχουν σημειωθεί κάποιες ζημιές στη δομή, αλλά δεν αναφέρθηκαν θύματα. Η μεγαλύτερη απώλεια ήταν ο μετεωρολογικός σταθμός και σταθμός επικοινωνιών στην πλατφόρμα επιφανείας Ωμέγα (μη επανδρωμένη), κάτι που υπό τις περιστάσεις είναι μικρό τίμημα.[br]Το Θήτα θα πραγματοποιήσει έκτακτη σύσκεψη για να συζητήσει το μέλλον του Pathos-II και, τελικά, της ανθρωπότητας. Περισσότερα θα ακολουθήσουν.[br][br]Επόπτης Κ. Φόρκουριαν
+01_04_transport_station|PlatformPowerInfo_NoPower	ΑΝΕΠΑΡΚΗΣ ΤΡΟΦΟΔΟΣΙΑ
+01_04_transport_station|PlatformPowerInfo_Good	ΤΡΟΦΟΔΟΣΙΑ ΕΝΕΡΓΗ
+01_04_transport_station|PlatformPowerInfo_Bad	ΜΟΝΟ ΕΚΤΑΚΤΗ ΑΝΑΓΚΗ
+01_04_transport_station|PlatformPowerInfo_Ready	ΤΡΟΦΟΔΟΣΙΑ ΑΝΕΝΕΡΓΗ
+01_04_transport_station|AmyRoomPower_Status	ΣΤΑΘΜΟΣ ΣΑΤΛ ΥΨΙΛΟΝ B
+01_04_transport_station|AmyRoomPower_Main	ΤΡΟΦΟΔΟΣΙΑ:
+01_04_transport_station|AmyRoomPower_Backup	ΒΑΣΙΚΑ ΣΥΣΤΗΜΑΤΑ:
+01_04_transport_station|AmyRoomPower_Shuttle	ΡΑΓΕΣ (ΣΑΤΛ):
+01_04_transport_station|AmyRoomPower_Safety	ΣΥΣΤΗΜΑΤΑ ΑΣΦΑΛΕΙΑΣ:
+01_04_transport_station|AmyRoomPower_Online	ΤΡΟΦΟΔΟΤΕΙΤΑΙ
+01_04_transport_station|AmyRoomPower_Offline	ΑΝΕΝΕΡΓΟ
+01_04_transport_station|AmyRoomPower_Stable	ΣΤΑΘΕΡΟ
+01_04_transport_station|AmyRoomPower_Unstable	ΑΣΤΑΘΕΣ
+01_04_transport_station|AmyRoomPower_Reserves	ΑΠΟΘΕΜΑΤΑ
+01_04_transport_station|GUIMapTitle	ΧΑΡΤΗΣ ΔΙΑΔΡΟΜΩΝ
+01_04_transport_station|GUIStation01Name	ΥΨΙΛΟΝ A
+01_04_transport_station|GUIStation02Name	ΥΨΙΛΟΝ B
+01_04_transport_station|GUIStation03Name	ΛΑΜΔΑ
+01_04_transport_station|GUIStation04Name	ΘΗΤΑ
+01_04_transport_station|GUIStation05Name	ΟΜΙΚΡΟΝ
+01_04_transport_station|GUIStation06Name	ΔΕΛΤΑ
+01_04_transport_station|GUIStation07Name	ΤΑΥ
+01_04_transport_station|GUIStation08Name	ΦΙ
+01_04_transport_station|GUIStation01Desc	Θερμικός σταθμός &amp; μονάδα παραγωγής[br]Βάθος: 99 μέτρα [Επιπελ.][br]Προσωπικό: 8
+01_04_transport_station|GUIStation02Desc	Άντληση &amp; διύλιση αερίου[br]Βάθος: 107 μέτρα [Επιπελ.][br]Προσωπικό: -
+01_04_transport_station|GUIStation03Desc	Τερματικός σταθμός μεταφορών[br]&amp; κέντρο επισκεπτών[br]Βάθος: 96 μέτρα [Επιπελ.][br]Προσωπικό: 4
+01_04_transport_station|GUIStation04Desc	Διοίκηση, κέντρο ελέγχου αποστολής, συναρμολόγηση φορτίου[br]Βάθος: 153 μέτρα [Επιπελ.][br]Προσωπικό: 24
+01_04_transport_station|GUIStation05Desc	MedRes, Biosphere X, ACR[br]Βάθος: 185 μέτρα [Επιπελ.][br]Προσωπικό: 12
+01_04_transport_station|GUIStation06Desc	Κατασκευή κελυφών &amp; περιβλημάτων[br]Βάθος: 64 μέτρα [Επιπελ.][br]Προσωπικό: 4
+01_04_transport_station|GUIStation07Desc	Επιχειρήσεις Ωμέγα[br]Βάθος: 4114 μέτρα [Άβυσσος][br]Προσωπικό: 8
+01_04_transport_station|GUIStation08Desc	Διαστημικό Κανόνι Ωμέγα[br]Βάθος: 3902 μέτρα [Βαθυπελ.][br]Προσωπικό: -
+01_04_transport_station|GUIStationErrorCaption	ΣΦΑΛΜΑ
+01_04_transport_station|GUIStationError	Ο προορισμός δεν είναι διαθέσιμος[br]λόγω τεχνικών προβλημάτων.[br][br]Δοκιμάστε άλλον προορισμό.
+01_04_transport_station|GUIStationSelected	Το σάτλ είναι έτοιμο για αναχώρηση
+01_04_transport_station|GUIStationCurrent	Το σάτλ βρίσκεται ήδη στο Ύψιλον B

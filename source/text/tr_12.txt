@@ -1,0 +1,136 @@
+03_02_omicron_inside|CreepyRossMessage_6	Ένας αιώνιος εφιάλτης
+03_02_omicron_inside|CreepyRossMessage_7	Πάρε το τζελ
+03_02_omicron_inside|CreepyRossMessage_8	Άκουσέ με
+03_02_omicron_inside|HerberWauDrawingText_WauHeart	Η καρδιά του Άλφα!
+03_02_omicron_inside|HerberWauDrawingText_WauRoomInfected_1	Είναι άρρωστο
+03_02_omicron_inside|HerberWauDrawingText_WauRoomInfected_2	Το Άλφα χρειάζεται φάρμακο
+03_02_omicron_inside|HerberWauDrawingText_MapOfAbyss_1	Όμικρον
+03_02_omicron_inside|HerberWauDrawingText_MapOfAbyss_2	Ταυ
+03_02_omicron_inside|HerberWauDrawingText_MapOfAbyss_3	Άλφα;
+03_02_omicron_inside|HerberWauDrawingText_MapOfAbyss_4	Φι
+03_02_omicron_inside|HerberRossNote_1	ΣΤΗΝ ΑΒΥΣΣΟ ΠΑΡ' ΤΟ ΣΤΟ ΑΛΦΑ ΣΤΗΝ ΑΒΥΣΣΟ
+03_02_omicron_inside|HerberRossNote_2	ΒΡΕΣ ΤΟ ΤΑΥ ΒΡΕΣ ΤΟ ΑΛΦΑ ΠΑΡΕ ΤΟ ΤΖΕΛ ΣΤΟ ΑΛΦΑ
+03_03_omicron_descent|GUIStartKnob1	ACR
+03_03_omicron_descent|GUIStartKnob1_0	ΚΑΘΟΔΟΣ
+03_03_omicron_descent|GUIStartKnob1_1	ΑΝΟΔΟΣ
+03_03_omicron_descent|GUIStartKnob1_2	ΣΤΑΣΗ
+03_03_omicron_descent|GUIStartKnob2	ΕΠΙΒΑΤΕΣ
+03_03_omicron_descent|DepthGUI_Depth	ΒΑΘΟΣ: %fm
+03_03_omicron_descent|DepthGUI_Pressure	ΠΙΕΣΗ: %fatm
+03_03_omicron_descent|DepthGUI_Speed	ΤΑΧΥΤΗΤΑ: %fm/s
+03_03_omicron_descent|ElevGUI_Probe	Επαφή με ανιχνευτή
+03_03_omicron_descent|ElevGUI_ProbeDist	Απόσταση: %fm
+03_03_omicron_descent|ElevGUI_ZoneTitle0	Η φωτεινή ζώνη
+03_03_omicron_descent|ElevGUI_ZoneSubtitle0	(Επιπελαγική : 0m - 200m)
+03_03_omicron_descent|ElevGUI_ZoneInfo0	:: Πλούσια σε φως και οξυγόνο[br]:: Κύριο οροπέδιο του Pathos-II
+03_03_omicron_descent|ElevGUI_ZoneTitle1	Η ζώνη του λυκόφωτος
+03_03_omicron_descent|ElevGUI_ZoneSubtitle1	(Μεσοπελαγική : 200m - 1000m)
+03_03_omicron_descent|ElevGUI_ZoneInfo1	:: Λίγο φως, έλλειψη οξυγόνου[br]:: Καμία μόνιμη βάση
+03_03_omicron_descent|ElevGUI_ZoneTitle2	Η ζώνη του μεσονυχτίου
+03_03_omicron_descent|ElevGUI_ZoneSubtitle2	(Βαθυπελαγική : 1000m - 3000m)
+03_03_omicron_descent|ElevGUI_ZoneInfo2	:: Αιώνιο σκοτάδι[br]:: Καμία μόνιμη βάση
+03_03_omicron_descent|ElevGUI_ZoneTitle3	Η άβυσσος
+03_03_omicron_descent|ElevGUI_ZoneSubtitle3	(Αβυσσοπελαγική : 3000m - 6000m)
+03_03_omicron_descent|ElevGUI_ZoneInfo3	:: Η ράχη του Ατλαντικού εξομαλύνεται[br]:: Βάσεις Φι και Ταυ
+03_03_omicron_descent|ElevGUI_ZoneTitle4	Ο βαθύς κόσμος
+03_03_omicron_descent|ElevGUI_ZoneSubtitle4	(Χαδαλοπελαγική : 6000m - 11000m)
+04_01_tau_outside|SmashedElevatorPanel	ΣΦΑΛΜΑ[br]Απαιτείται σύνδεση LUMAR για κλήση του Climber
+04_01_tau_outside|DepthApproachDock	Προσέγγιση
+04_01_tau_outside|DepthArrived	Προσδέθηκε
+04_01_tau_outside|MapText	Κίνδυνος![br]Μη ασφαλής περιοχή[br]Μείνετε κοντά στα φώτα.
+04_01_tau_outside|Map_Overview	Επισκόπηση αποβίβασης ACR
+04_01_tau_outside|Map_Label1	Πλατφόρμα ACR
+04_01_tau_outside|Map_Label2	Θάλαμος χειρισμού
+04_01_tau_outside|Map_Label3	Αποθήκη
+04_01_tau_outside|Map_Label4	Αναμεταδότης ενέργειας
+04_01_tau_outside|Map_Label5	Σταθμός συντήρησης
+04_01_tau_outside|Map_Label6	Ταυ
+04_01_tau_outside|LightSwitchSign	Κεντρικός διακόπτης[br]6600 V
+04_01_tau_outside|LogTerminalTitle	Αρχείο ACR
+04_01_tau_outside|LogMenuSignIn	Σύνδεση
+04_01_tau_outside|LogMenuReader	Αρχείο ACR
+04_01_tau_outside|LogTitle_1	2103-08-03 ΑΦΙΞ
+04_01_tau_outside|LogTitle_2	2103-08-03 ΑΝΑΧ
+04_01_tau_outside|LogTitle_3	2103-09-13 ΑΦΙΞ
+04_01_tau_outside|LogTitle_4	2103-09-13 ΑΝΑΧ
+04_01_tau_outside|LogTitle_5	2103-12-26 ΑΦΙΞ
+04_01_tau_outside|LogTitle_6	2103-12-28 ΑΝΑΧ
+04_01_tau_outside|LogEntry_1	2103-08-03 @ 11:23:54 ΑΦΙΞ[br]ΥΠΟΓΡΑΦΗ: Τζούλια Νταλ | Ρίτσαρντ Χόλαντ[br]  * Συλλογή δειγμάτων[br]  * Σωματικοί έλεγχοι
+04_01_tau_outside|LogEntry_2	2103-08-03 @ 18:02:28 ΑΝΑΧ[br]ΥΠΟΓΡΑΦΗ: Τζούλια Νταλ | Ρίτσαρντ Χόλαντ[br]  * Έλεγχος
+04_01_tau_outside|LogEntry_3	2103-09-13 @ 11:31:51 ΑΦΙΞ[br]ΥΠΟΓΡΑΦΗ: Άλαν Βάλντεκ | Τζούλια Νταλ[br]  * Εκκένωση Ταυ
+04_01_tau_outside|LogEntry_4	2103-09-13 @ 14:27:10 ΑΝΑΧ[br]ΥΠΟΓΡΑΦΗ: Άλαν Βάλντεκ | Τζούλια Νταλ[br]  * Απέτυχε
+04_01_tau_outside|LogEntry_5	2103-12-26 @ 14:01:08 ΑΦΙΞ[br]ΥΠΟΓΡΑΦΗ: Κάθριν Τσαν | Ίαν Πέντερσεν | Σάρα Λίντγουολ | Νικολάι Ιβάσκιν | Τζάσπερ Χιλ[br]  * Μεταφορά του ARK στο Φι
+04_01_tau_outside|LogEntry_6	2103-12-27 @ 08:00:00 ΑΝΑΧ[br]ΥΠΟΓΡΑΦΗ: Άλαν Βάλντεκ (εξ αποστάσεως)
+04_01_tau_outside|ObsMenuInventory	Απόθεμα
+04_01_tau_outside|ObsMenuLogs	Αρχεία αποστολών
+04_01_tau_outside|ObsMenuStats	Στατιστικά
+04_01_tau_outside|ObsLogsTitle	Αρχεία αποστολών
+04_01_tau_outside|ObsLogsTitle_1	Παρατήρηση #134
+04_01_tau_outside|ObsLogsTitle_2	Παρατήρηση #172
+04_01_tau_outside|ObsLogsTitle_3	Παρατήρηση #188
+04_01_tau_outside|ObsLogsEntry_1	2103-01-07 :: Παρατήρηση #134[br]ΔΙΑΤΑΞΗ[br]Δόλωμα: Αποξηραμένο καλαμάρι (1kg), 60 τεμάχια Anema LAL[br]Κάμερες: Quad HDR, χαμηλή φωτεινότητα[br][br]ΑΠΟΤΕΛΕΣΜΑΤΑ[br]Στόχος: Καρχαρίας με βολάν (150 cm)[br]Περιγραφή:[br]Σπάνιος καρχαρίας πλησίασε το φωτεινό δόλωμα.[br]Έκανε κύκλους για να φάει το αποξηραμένο καλαμάρι.[br]Απίθανο να συχνάζει σε αυτό το βάθος. Ανωμαλία.[br]/Σ.Γκλάσερ
+04_01_tau_outside|ObsLogsEntry_2	2103-07-14 :: Παρατήρηση #172[br]ΔΙΑΤΑΞΗ[br]Δόλωμα: LBT(L) - Μπλε μαρλίν του Ατλαντικού (42 kg), 40 τεμάχια Anema RAL[br]Κάμερες: Quad HDR, φωτεινότητα ML[br][br]ΑΠΟΤΕΛΕΣΜΑΤΑ[br]Στόχος: Γιγάντιο καλαμάρι (1200 cm)[br]Περιγραφή:[br]Μανδύας στο μέγεθος ανθρώπου, 170 - 200 cm.[br]Εκτιμώμενο μήκος ολόκληρου του πλάσματος: 10 - 12 μέτρα.[br]Μια λυσσαλέα επίθεση κομμάτιασε το μαρλίν. Μόλις ανάψαμε τα φώτα, έφυγε γρήγορα από την περιοχή. Προφανώς άλλο ένα δείγμα που επηρεάστηκε από τη διαρροή δομικού τζελ.[br]Εν μέρει καλυμμένο με λέπια και με νεοσχηματισμένη οστική δομή να προεξέχει μέσα από το μανδύα.[br]/Σ.Γκλάσερ
+04_01_tau_outside|ObsLogsEntry_3	2103-09-01 :: Παρατήρηση #188[br]ΔΙΑΤΑΞΗ[br]Δόλωμα: LBT(L) - 15 τεμάχια Anema LAL, 25 τεμάχια Anema RAL[br]Κάμερες: Quad HDR, φωτεινότητα ML, Vectored ISO[br][br]ΑΠΟΤΕΛΕΣΜΑΤΑ[br]Στόχος: Άγνωστο (40 cm)[br]Περιγραφή:[br]Τα πλάσματα που έχουν παραμορφωθεί από το τζελ είναι μανιακά και επιτίθενται σε οτιδήποτε. Είναι ακόμα δύσκολο να προσδιοριστεί πώς το WAU επηρέασε τη συμπεριφορά τους πέρα από την εμφανή επιθετικότητα και την έλξη τους προς το φως. Τα πλάσματα φαίνεται να κυνηγούν κάτι συγκεκριμένο, κάτι που δεν υπάρχει σε αυτό το οικοσύστημα.[br]/Σ.Γκλάσερ
+04_01_tau_outside|ObsInventory	Απόθεμα[br]==================[br]Anema φωτεινό τεχνητό δόλωμα, 120 τεμάχια[br]Anema ανακλαστικό τεχνητό δόλωμα, 80 τεμάχια[br]Αποξηραμένο καλαμάρι, 0 kg[br]Νιφάδες ψαριού, 0 kg[br]Κατεψυγμένα ψαράκια, 0 kg[br]Juipo, 0 kg[br]Εκχύλισμα μανιταριών, 0 τεμάχια[br]Απόθεμα πλαγκτόν, 0 τεμάχια[br]Κασάβα σε σκόνη, 0 kg[br]Αυγά σε σκόνη, 0 kg[br]Δεξαμενή ζωντανού δολώματος (Μεγάλη), άδεια[br]Δεξαμενή ζωντανού δολώματος (Μικρή), άδεια[br]Δεξαμενή ζωντανού δολώματος (Μικρή), άδεια
+04_01_tau_outside|ObsStatsTitle	Στατιστικά
+04_01_tau_outside|ObsStatsBtn1	Είδος #1
+04_01_tau_outside|ObsStatsBtn2	Είδος #2
+04_01_tau_outside|ObsStatsBtn3	Είδος #3
+04_01_tau_outside|ObsStatsTitle1	Μεγάπτερη φάλαινα
+04_01_tau_outside|ObsStatsTitle2	Καλαμάρι
+04_01_tau_outside|ObsStatsTitle3	Ψάρι-ψαράς
+04_01_tau_outside|BotObservatory	Παρατηρητήριο
+04_01_tau_outside|BotTau	Ταυ
+04_01_tau_outside|BotElevator	Αποβίβαση ACR
+04_01_tau_outside|BotRecall	Ανάκληση
+04_01_tau_outside|BotStatusEntry	Δεν είναι δυνατή η ανάκτηση δεδομένων
+04_01_tau_outside|BotMenuControl	Έλεγχος
+04_01_tau_outside|BotMenuStatus	Κατάσταση
+04_01_tau_outside|BotMenuBroken	(Φάρος εκτός λειτουργίας)
+04_01_tau_outside|Unpowered	Ανεπαρκής τροφοδοσία
+04_01_tau_outside|navigationsign	Κίνδυνος![br]Μείνετε κοντά στα φώτα[br]Τα μπλε οδηγούν στο ΤΑΥ[br]Τα κόκκινα οδηγούν στο Climber
+04_02_tau_inside|MaintenanceDoorText	Κλειδώθηκε για καλό λόγο. Να το θυμάστε όταν ρυθμίζετε τις κλειδαριές εξ αποστάσεως.
+04_02_tau_inside|InventoryList	ΤΡΟΦΙΜΑ[br]Aho-Agua[br]Καφές[br]Αποξηραμένο κρέας[br]Χυμός[br]Μίσο[br]Νόρι[br]NutraSub[br]Γάλα σε σκόνη[br]Γεύματα σέικερ[br]Τσάι[br][br]Αποξηραμένο καλαμάρι[br]Ψαράκια[br]Πάστα επισκευής[br]Ενδοφλέβια;
+04_02_tau_inside|StationList	ΣΗΜΕΙΩΣΕΙΣ ΜΕΤΑ ΤΗΝ ΠΡΟΣΚΡΟΥΣΗ[br]12 Ιαν: Μικρές ζημιές στη δομή, ο ασύρματος έπεσε[br]17 Ιαν: Οι επικοινωνίες αποκαταστάθηκαν - Το Όμικρον και το υπόλοιπο Pathos-II είναι εντάξει![br]3 Απρ: Ο ασύρματος μεταξύ βάσεων αποτυγχάνει, οι ανιχνευτές LUMAR χάνουν συνέχεια τη σύνδεση.[br]Χρειάζεται επειγόντως επισκευή: Το Ταυ δεν μπορεί να καλέσει το Climber μέχρι να λειτουργήσει η σύνδεση![br]11 Απρ: Επίσκεψη από τον SSE Βόλτσεκ, την Νταλ και το Χόλαντ. Καθιερώθηκαν δεκαπενθήμερες επισκέψεις μέχρι να επανέλθουν οι επικοινωνίες (LUMAR) στο 100%.[br]13 Σεπ: Διατάχθηκε εκκένωση του Ταυ. Φεύγουμε όλοι για το Όμικρον.[br]15 Σεπ: Μας κατέκλυσαν τέρατα και δεν έχουμε ασύρματο - την πατήσαμε
+04_02_tau_inside|ToBeFlesherNote	Μου φάνηκε ότι άκουσα το Σεντέγιο στον ασύρματο χθες. Ανατριχιαστικό. Είναι όσο πιο νεκρός γίνεται.[br]Ο Ρος λέει ότι έχουμε κατάθλιψη. Τι έκπληξη, γαμώτο. Ο Δρ. Γιόχαν Ρος κάνει τον επαγγελματία, αλλά το βλέπω να αλλάζει. Πιστεύει ότι όλα αυτά είναι μαλακίες. Ότι εμείς είμαστε σκουπίδια. Ότι τίποτα δεν έχει νόημα. Αν το δεις αυτό, άντε γαμήσου Ρος!
+04_02_tau_inside|CrewList	Υπόσχομαι να κρατήσω το ARK ασφαλές πάση θυσία. Να καθαρίζω όλο το δομικό τζελ που βλέπω. Να το κρατάω ασφαλές. Να το κρατάω μακριά από τα χέρια του WAU.[br][br]Οκλέρ[br]Εσπινόζα[br]Χιλ[br]Πέντερσεν[br]Λίντγουολ[br]Ιβάσκιν
+04_02_tau_inside|RobotArmUploading	ΜΕΤΑΦΟΡΤΩΣΗ...
+04_02_tau_inside|BulkheadStatus_Locked	ΣΦΑΛΜΑ![br][br]ΑΣΤΑΘΗ ΕΠΙΠΕΔΑ ΕΝΕΡΓΕΙΑΣ
+04_02_tau_inside|BulkheadStatus_Open	ΑΝΟΙΧΤΟ
+04_02_tau_inside|RadioactivityMsg	ΠΡΟΕΙΔΟΠΟΙΗΣΗ ΑΚΤΙΝΟΒΟΛΙΑΣ!
+04_02_tau_inside|LivingAreaDoorStatus_Locked	ΚΛΕΙΔΩΜΕΝΗ ΕΞ ΑΠΟΣΤΑΣΕΩΣ
+04_02_tau_inside|LivingAreaDoorStatus_Unlocked	ΞΕΚΛΕΙΔΩΤΗ
+04_02_tau_inside|AirlockDoorStatus_Flushing	ΕΚΚΕΝΩΣΗ...
+04_02_tau_inside|AirlockDoorStatus_Error	ΣΦΑΛΜΑ!
+04_02_tau_inside|AirlockPanelStatus_Waiting	ΑΝΑΜΟΝΗ ΓΙΑ ΦΟΡΤΙΟ. . .
+04_02_tau_inside|AirlockPanelStatus_CargoDetected	ΤΟ ΦΟΡΤΙΟ ΠΡΟΣΑΡΤΗΘΗΚΕ
+04_02_tau_inside|AirlockPanelStatus_ArkError	ΔΕΝ ΕΝΤΟΠΙΣΤΗΚΕ ΦΟΡΤΙΟ!
+04_02_tau_inside|AirlockPanelStatus_Filling	ΠΛΗΡΩΣΗ ΑΕΡΟΦΡΑΚΤΗ
+04_02_tau_inside|AirlockPanelStatus_Malfunction	ΔΥΣΛΕΙΤΟΥΡΓΙΑ ΜΗΧΑΝΙΣΜΟΥ ΠΛΗΡΩΣΗΣ!
+04_02_tau_inside|AirlockPanelStatus_Collapse	Η ΔΙΑΔΙΚΑΣΙΑ ΣΤΑΜΑΤΗΣΕ![br]ΑΔΥΝΑΜΙΑ ΕΞΙΣΟΡΡΟΠΗΣΗΣ ΠΙΕΣΗΣ!
+04_02_tau_inside|AirlockPanelStatus_PressureDiff	ΔΙΑΦΟΡΑ ΠΙΕΣΗΣ
+04_02_tau_inside|AirlockPanelStatus_Outside	ΕΞΩ
+04_02_tau_inside|AirlockPanelStatus_Inside	ΜΕΣΑ
+04_02_tau_inside|AirlockPanelStatus_Idle	ΑΔΡΑΝΕΣ
+04_02_tau_inside|AirlockPanelStatus_Closing	ΚΛΕΙΣΙΜΟ ΠΟΡΤΑΣ
+04_02_tau_inside|AirlockPanelStatus_Opening	ΑΝΟΙΓΜΑ ΠΟΡΤΑΣ
+04_02_tau_inside|AirlockPanelStatus_Draining	ΑΠΟΣΤΡΑΓΓΙΣΗ ΑΕΡΟΦΡΑΚΤΗ
+04_02_tau_inside|AirlockPanelStatusHeader	ΚΑΤΑΣΤΑΣΗ
+04_02_tau_inside|AirlockPanelCargoHeader	ΦΟΡΤΙΟ
+04_02_tau_inside|AirlockPanelCargoData	ID: ARK001[br]ΤΥΠΟΣ: ΦΟΡΤΙΟ[br]ΒΑΡΟΣ: 20kg[br][br]ΧΡΗΣΤΗΣ: Κ.ΤΣΑΝ
+04_02_tau_inside|AirlockPanelChangeCargo	ΡΥΘΜΙΣΗ
+04_02_tau_inside|AirlockPanelAttachCargo	ΠΡΟΣΑΡΤΗΣΗ
+04_02_tau_inside|AirlockPanelDetachCargo	ΑΠΟΣΠΑΣΗ
+04_02_tau_inside|ChangeCargoButtonError	ΣΦΑΛΜΑ 94[br]Αποτυχία ρύθμισης
+04_02_tau_inside|DivingRoomTerminalApp_SuitStatus	ΚΑΤΑΣΤΑΣΗ ΣΤΟΛΩΝ
+04_02_tau_inside|DivingRoomTerminalApp_AccessLog	ΑΡΧΕΙΟ ΠΡΟΣΒΑΣΗΣ
+04_02_tau_inside|DivingRoomTerminalApp_Tracking	ΕΝΤΟΠΙΣΜΟΣ
+04_02_tau_inside|DivingRoomTerminal_SuitStatus	HPS #1 - Χάθηκε το σήμα[br][br]HPS #2 - Χάθηκε το σήμα[br][br]HPS #3 - ΕΝΕΡΓΗ (ΤΑΥ)[br][br]HPS #4 - Χάθηκε το σήμα
+04_02_tau_inside|DivingRoomTerminal_AccessLog	2103-10-23: HPS1 - Β. Οκλέρ[br]2103-11-18: HPS3 - Τζ. Γιοσίντα[br]2103-11-19: HPS3 - Α. Κούτσι[br]2103-12-26: HPS2 - Σ. Γκλάσερ[br]2103-12-26: HPS4 - Γ. Ρος[br]2103-12-27: HPS1 - Ν. Τσιολκόφσκι[br]2104-01-02: HPS3 - Α. Κούτσι[br]2104-04-11: HPS3 - /4subjWAUr/[br]2104-04-12: HPS3 - Τζ. Γιοσίντα
+04_02_tau_inside|ReactorControlTerminalApp_ReactorAccess	ΠΡΟΣΒΑΣΗ ΣΤΟΝ ΑΝΤΙΔΡΑΣΤΗΡΑ
+04_02_tau_inside|ReactorControlTerminalApp_PowerInfo	ΕΝΕΡΓΕΙΑ ΒΑΣΗΣ
+04_02_tau_inside|ReactorControlTerminalApp_Map	ΤΟΠΙΚΟΣ ΧΑΡΤΗΣ
+04_02_tau_inside|ReactorControlTerminalApp_AccessHistory	ΑΡΧΕΙΟ ΠΡΟΣΒΑΣΗΣ
+04_02_tau_inside|ReactorControlTerminalApp_CommandCode	ΕΙΣΑΓΩΓΗ ΚΩΔΙΚΟΥ ΕΝΤΟΛΗΣ
+04_02_tau_inside|ReactorControlTerminalApp_ReactorStatus	ΚΑΤΑΣΤΑΣΗ
+04_02_tau_inside|ReactorControlTerminalApp_ReactorHistory	ΙΣΤΟΡΙΚΟ ΑΠΟΔΟΣΗΣ

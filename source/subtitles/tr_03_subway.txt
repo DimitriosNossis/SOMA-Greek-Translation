@@ -1,0 +1,39 @@
+Voices_00_02_subway|Announcer_StationStAndrew_001_Announcer_001	St Andrew -- Επόμενη στάση: St Andrew.
+Voices_00_02_subway|Announcer_StationOsgoode_001_Announcer_001	Osgoode -- Επόμενη στάση: Osgoode.
+Voices_00_02_subway|Announcer_StationStPatrick_001_Announcer_001	St Patrick -- Επόμενη στάση: St Patrick.
+Voices_00_02_subway|Announcer_StationQueensPark_001_Announcer_001	Queen's Park -- Επόμενη στάση: Queen's Park.
+Voices_00_02_subway|Simon_Phonecall_EmailSent_001_Player_001	Τζέσι.
+Voices_00_02_subway|Simon_Phonecall_EmailSent_002_Jesse_001	Έλα, Σάιμον. Πήρα το μέιλ σου. Ήθελα μόνο να σου ευχηθώ καλή τύχη και να σου πω ότι σε καλύπτω.
+Voices_00_02_subway|Simon_Phonecall_EmailSent_003_Player_001	Ευχαριστώ, θα μπορέσω να περάσω από το μαγαζί μετά τη σάρωση.
+Voices_00_02_subway|Simon_Phonecall_EmailSent_004_Jesse_001	Μην αγχώνεσαι. Με βοηθάνε ο Ματ και ο Κρις.
+Voices_00_02_subway|Simon_Phonecall_EmailSent_005_Player_001	Ο Μάτι από το S&amp;L;
+Voices_00_02_subway|Simon_Phonecall_EmailSent_006_Jesse_001	Μάλλον δεν το έμαθες. Έρχεται για πλήρες ωράριο -- θα δουλεύει στο τμήμα των κόμικς.
+Voices_00_02_subway|Simon_Phonecall_EmailSent_007_Player_001	Αυτή είναι η δουλειά της Άσλεϊ.
+Voices_00_02_subway|Simon_Phonecall_EmailSent_008_Jesse_001	Ναι, ε. Ξέρεις...
+Voices_00_02_subway|Simon_Phonecall_EmailSent_009_Player_001	Άσ' το. Δεν της κάνουμε καμιά χάρη αφήνοντας τη θέση άδεια. Δεν πρόκειται να γυρίσει.
+Voices_00_02_subway|Simon_Phonecall_EmailSent_010_Jesse_001	Λοιπόν, καλή τύχη. Ελπίζω να βρουν τρόπο να αναστρέψουν όλο αυτό το... ξέρεις... το θέμα με το θάνατο.
+Voices_00_02_subway|simon_phonecall_emailsent_011_player_001	Το θέμα με το θάνατο; Είσαι ο χειρότερος στο να στηρίζεις.
+Voices_00_02_subway|Simon_Phonecall_EmailSent_012_Jesse_001	Ε, τι να πω;
+Voices_00_02_subway|simon_phonecall_emailsent_013_player_001	Τα λέμε αργότερα, Τζέσι. Μην κάψεις το μαγαζί όσο λείπω.
+Voices_00_02_subway|Simon_Phonecall_EmailSent_014_Jesse_001	Ελήφθη, φιλαράκο.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_001_Player_001	Τζέσι.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_002_Jesse_001	Σάιμον, τι λέει; Ήθελα να δω αν θα έρθεις στο μαγαζί σήμερα.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_003_Player_001	Ίσως αργότερα. Έχω τη σάρωση του εγκεφάλου, θυμάσαι;
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_004_Jesse_001	Σήμερα είναι!
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_005_Player_001	Ήξερα ότι θα το ξεχνούσες.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_006_Jesse_001	Συγγνώμη. Στείλε μου μέιλ την άλλη φορά. Αυτά τα θέλω γραπτώς, το ξέρεις!
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_007_Player_001	Ξέρεις ότι πουλάμε ημερολόγια; Πάρε κι εσύ ένα.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_008_Jesse_001	Έχω ένα. Απλώς -- δε γράφω ποτέ τίποτα μέσα.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_009_Player_001	Ίσως περάσω αργότερα. Εξαρτάται πόσο θα κρατήσει αυτή η σάρωση.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_010_Jesse_001	Εντάξει. Θα πω στον Κρις να με βοηθήσει. Τέλος πάντων, σήμερα έρχεται ένα καινούριο τσιράκι. Σκέφτηκα ότι ίσως θες να περάσεις να πεις ένα γεια.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_011_Player_001	Αντικαθιστάτε ήδη την Άσλεϊ. Γρήγορα έγινε.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_012_Jesse_001	Όχι, καθόλου γρήγορα. Είμαστε λίγοι εδώ και εβδομάδες και το ξέρεις.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_013_Player_001	Μάλλον έχει περάσει καιρός.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_014_Jesse_001	Όντως. Σχεδόν ένας μήνας ήδη.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_015_Jesse_001	Τέλος πάντων, κάνε τη σάρωση. Πάρε καλά νέα από το γιατρό ή ό,τι είναι, έλα στο μαγαζί, πες ένα γεια στον καινούριο και το φαγητό κερνάω εγώ.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_016_Player_001	Ευχαριστώ, Τζέσι. Εκτιμώ πραγματικά τη στήριξή σου.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_017_Jesse_001	Δε θέλω να αντικαταστήσω κι άλλο τσιράκι.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_018_Player_001	Δεν είναι αστείο.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_019_Jesse_001	Λίγο αστείο είναι.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_020_Player_001	Όχι, όχι, δεν είναι. Γεια, Τζέσι.
+Voices_00_02_subway|Simon_Phonecall_EmailNotSent_021_Jesse_001	Τα λέμε.

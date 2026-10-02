@@ -1,0 +1,160 @@
+Voices_02_07_theta_exit|wakingup_wakeup_2_001_player_001	Σωστά, Σάιμον. Μείνε στον πραγματικό κόσμο -- το σκατένιο πραγματικό κόσμο.
+Voices_02_07_theta_exit|victimbabbles_victimkoster_001_victimkoster_001	Μπράντον...
+Voices_02_07_theta_exit|victimbabbles_victimkoster_002_victimkoster_001	Ήξερα ότι θα έρθεις.
+Voices_02_07_theta_exit|victimbabbles_victimkoster_003_victimkoster_001	Είσαι πολύ ρομαντικός για να ξεχάσεις.
+Voices_02_07_theta_exit|victimbabbles_victimkoster_004_victimkoster_001	Αλλά αυτό το θυμάσαι;
+Voices_02_07_theta_exit|victimbabbles_victimkoster_005_victimkoster_001	Το κολιέ που μου χάρισες.
+Voices_02_07_theta_exit|victimbabbles_victimkoster_006_victimkoster_001	*χαχανητό*
+Voices_02_07_theta_exit|victimbabbles_victimkoster_007_victimkoster_001	Έλα, πάμε μέσα.
+Voices_02_07_theta_exit|victimbabbles_victimkoster_008_victimkoster_001	Φτιάχνουν τον καλύτερο καφέ.
+Voices_02_07_theta_exit|victimbabbles_victimkoster_009_victimkoster_001	Και η θέα -- να πεθαίνεις.
+Voices_02_07_theta_exit|victimbabbles_victimkoster_010_victimkoster_001	Θα ζούσα εδώ αν με άφηναν.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_001_victimstrohmeier_001	Νταγκ, άσε επιτέλους το κατσαβίδι.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_002_victimstrohmeier_001	Ο ήλιος δύει ήδη...
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_003_victimstrohmeier_001	Ας το βάλουμε μπρος αυτό το πράγμα.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_004_victimstrohmeier_001	Μην ανησυχείς, θα πετάξει μια χαρά.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_005_victimstrohmeier_001	Θα πετάμε πάνω από τα χωράφια.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_006_victimstrohmeier_001	Θα είναι απίστευτο.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_007_victimstrohmeier_001	Όταν βαρεθούμε, θα γυρίσουμε στην πόλη.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_008_victimstrohmeier_001	Καμιά μπίρα, κανένα μπιλιάρδο.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_009_victimstrohmeier_001	Όπως τα παλιά τα καλά χρόνια.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_010_victimstrohmeier_001	Τώρα δώσε το ρημάδι το κατσαβίδι.
+Voices_02_07_theta_exit|victimbabbles_victimgoya_001_victimgoya_001	Δεν το πιστεύω ότι κέρδισα!
+Voices_02_07_theta_exit|victimbabbles_victimgoya_002_victimgoya_001	Αυτό θα μείνει στην ιστορία.
+Voices_02_07_theta_exit|victimbabbles_victimgoya_003_victimgoya_001	Τώρα μπορώ επιτέλους να πεθάνω ευτυχισμένος.
+Voices_02_07_theta_exit|victimbabbles_victimgoya_004_victimgoya_001	Ξέχνα το, Τέρι. Δεν ξαναπαίζω.
+Voices_02_07_theta_exit|victimbabbles_victimgoya_005_victimgoya_001	Να πάρει... άκουσες, Μπραντ;
+Voices_02_07_theta_exit|victimbabbles_victimgoya_006_victimgoya_001	Ναι, κέρδισα. Στρίμωξα το βασιλιά.
+Voices_02_07_theta_exit|victimbabbles_victimgoya_007_victimgoya_001	Α, ήρθε νέα παραγγελία; Τέλεια, ας πιάσουμε δουλειά!
+Voices_02_07_theta_exit|victimbabbles_victimgoya_008_victimgoya_001	Άλλος ένας τηλεπικοινωνιακός δορυφόρος;
+Voices_02_07_theta_exit|victimbabbles_victimgoya_009_victimgoya_001	Στρατιωτικός; Τότε καλύτερα να σιγουρευτούμε ότι θα το κάνουμε σωστά.
+Voices_02_07_theta_exit|victimbabbles_victimgoya_010_victimgoya_001	Έλα, Μπραντ. Ας βοηθήσουμε τα παιδιά μας.
+Voices_02_07_theta_exit|victimbabbles_victimfrost_001_victimfrost_001	Θα ήθελα να ευχαριστήσω την επιτροπή.
+Voices_02_07_theta_exit|chase_akerschase_1_001_akers_001	Γιατί απορρίπτεις την προσφορά μου;
+Voices_02_07_theta_exit|chase_akerschase_2_001_akers_001	Δεν το βλέπεις;
+Voices_02_07_theta_exit|chase_akerschase_3_001_akers_001	Είναι τέλειο.
+Voices_02_07_theta_exit|chase_akerschase_4_001_akers_001	Ύπνος ως το θάνατο.
+Voices_02_07_theta_exit|chase_akerschase_5_001_akers_001	Πώς μπορείς να πεις όχι;
+Voices_02_07_theta_exit|chase_akerschase_6_001_akers_001	Άφησέ το να σε καταπιεί.
+Voices_02_07_theta_exit|chase_akerschase_7_001_akers_001	Ονειρέψου!
+Voices_02_07_theta_exit|chase_akerschase_8_001_akers_001	Είναι ό,τι θα μπορούσες να ζητήσεις!
+Voices_02_07_theta_exit|chase_akerschase_9_001_akers_001	Όλα όσα ήθελες ποτέ.
+Voices_02_07_theta_exit|chase_akerschase_10_001_akers_001	Δεν έχει μείνει τίποτα.
+Voices_02_07_theta_exit|chase_akerschase_11_001_akers_001	Κανένας λόγος να μείνεις πίσω.
+Voices_02_07_theta_exit|chase_akerschase_capture_001_akers_001	Παραδώσου στον ύπνο.
+Voices_02_07_theta_exit|chase_akerschase_speech_1_001_akers_001	Σε λυπάμαι -- δεν μπορείς να κοιμηθείς όπως οι άλλοι.
+Voices_02_07_theta_exit|chase_akerschase_speech_2_001_akers_001	Μην ανησυχείς, δε θα σε αφήσω να πάει χαμένος. Το μεγαλύτερο μέρος σου τρώγεται.
+Voices_02_07_theta_exit|chase_akerschase_death_001_akers_001	Όχιιιι...
+Voices_02_07_theta_exit|victimbabbles_victimfrost_random_001_victimfrost_001	Σας ευχαριστώ.
+Voices_02_07_theta_exit|victimbabbles_victimfrost_random_002_victimfrost_001	Χάρηκα επίσης.
+Voices_02_07_theta_exit|victimbabbles_victimfrost_random_003_victimfrost_001	Είναι πραγματικά τιμή μου.
+Voices_02_07_theta_exit|victimbabbles_victimfrost_random_004_victimfrost_001	Παρακαλώ, με μεγάλη μου χαρά.
+Voices_02_07_theta_exit|victimbabbles_victimfrost_random_005_victimfrost_001	Είναι μια σπουδαία ανακάλυψη για όλους μας.
+Voices_02_07_theta_exit|victimbabbles_victimgoya_random_001_victimgoya_001	Απλώς πρόσεχε τις ενδείξεις.
+Voices_02_07_theta_exit|victimbabbles_victimgoya_random_002_victimgoya_001	Θα το πιάσω από εδώ.
+Voices_02_07_theta_exit|victimbabbles_victimgoya_random_003_victimgoya_001	Πάει, πάει.
+Voices_02_07_theta_exit|victimbabbles_victimgoya_random_004_victimgoya_001	Προσεκτικά, Μπράντον.
+Voices_02_07_theta_exit|victimbabbles_victimgoya_random_005_victimgoya_001	Αργά και σταθερά.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_random_001_victimstrohmeier_001	Ορίστε.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_random_002_victimstrohmeier_001	Άσε, θα το πιάσω εγώ.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_random_003_victimstrohmeier_001	Προχωράει.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_random_004_victimstrohmeier_001	Ναι, αυτό θα κάνει.
+Voices_02_07_theta_exit|victimbabbles_victimstrohmeier_random_005_victimstrohmeier_001	Νταγκ...
+Voices_02_07_theta_exit|victimbabbles_victimfrost_010_victimfrost_001	Τον αείμνηστο Έλιοτ Φροστ, που με ενέπνεε όλα αυτά τα χρόνια.
+Voices_02_07_theta_exit|victimbabbles_victimfrost_009_victimfrost_001	Πρέπει να το αφιερώσω στον πατέρα μου...
+Voices_02_07_theta_exit|victimbabbles_victimfrost_008_victimfrost_001	Είναι ίσως σπουδαιότερο από οτιδήποτε.
+Voices_02_07_theta_exit|victimbabbles_victimfrost_007_victimfrost_001	Να μαθαίνουμε ότι δεν είμαστε μόνοι.
+Voices_02_07_theta_exit|victimbabbles_victimfrost_006_victimfrost_001	Ζούμε σε μια συναρπαστική εποχή.
+Voices_02_07_theta_exit|victimbabbles_victimfrost_005_victimfrost_001	Αναγνωρισμένη πια, επιτέλους.
+Voices_02_07_theta_exit|victimbabbles_victimfrost_004_victimfrost_001	Ήταν δύσκολο να το κρατάω μυστικό.
+Voices_02_07_theta_exit|victimbabbles_victimfrost_003_victimfrost_001	Αυτή η ανακάλυψη ανήκει σε όλους.
+Voices_02_07_theta_exit|victimbabbles_victimfrost_002_victimfrost_001	Μεγαλειοτάτη, Βασίλισσα Χριστίνα Β', σας ευχαριστώ.
+Voices_03_01_omicron_outside|datamine_1_dataminejonsy_001_strasky_001	Έλα, ανοίξτε!
+Voices_03_01_omicron_outside|datamine_1_dataminejonsy_001_strasky_002	Τι σκατά είναι αυτό -- θωρακισμένο για την αποκάλυψη;
+Voices_03_01_omicron_outside|datamine_1_dataminejonsy_002_thabo_001	Το Όμικρον είναι σε καραντίνα. Γι' αυτό δεν απάντησαν στην κλήση μας.
+Voices_03_01_omicron_outside|datamine_1_dataminejonsy_003_strasky_001	Είναι κανείς εκεί!!!
+Voices_03_01_omicron_outside|datamine_1_dataminejonsy_004_thabo_001	Χριστέ μου, Στράσκι. Ασύρματος λέγεται. Δε θα σε ακούσουν καλύτερα αν ουρλιάζεις.
+Voices_03_01_omicron_outside|datamine_1_dataminejonsy_005_alvaro_001	Τζόνσι, είσαι καλά; Κοίτα, ξέρω ότι είσαι ο δυνατός και σιωπηλός τύπος, αλλά θέλω να λες κάτι πού και πού, για να ξέρω ότι είσαι εντάξει.
+Voices_03_01_omicron_outside|datamine_1_dataminejonsy_005_alvaro_002	Τζόνσι... Τζονς;
+Voices_03_01_omicron_outside|datamine_1_dataminejonsy_006_strasky_001	Ανοίξτε!!!
+Voices_03_01_omicron_outside|datamine_1_dataminejonsy_007_thabo_001	Γαμώ το κέρατό μου. Ας ξαναδοκιμάσουμε το παράρτημα -- ίσως μπορέσουμε να μπούμε με το ζόρι.
+Voices_03_01_omicron_outside|datamine_1_dataminejonsy_008_alvaro_001	Χάνουμε την Τζόνσι. Πρέπει να τη βάλουμε μέσα.
+Voices_03_01_omicron_outside|datamine_1_dataminejonsy_009_strasky_001	Ε, μπες στην ουρά!
+Voices_03_01_omicron_outside|datamine_1_dataminejonsy_010_thabo_001	Άλβαρο, δεν μπορούμε να κάνουμε τίποτα γι' αυτήν τώρα. Πάτα το διακόπτη στάσης και πάμε να ελέγξουμε το παράρτημα.
+Voices_03_01_omicron_outside|datamine_1_dataminestrasky_001_strasky_001	Δεν ανοίγει με τίποτα, γαμώτο. Και κανείς δεν απαντάει σε τίποτα!
+Voices_03_01_omicron_outside|datamine_1_dataminestrasky_001_strasky_002	Τι είδους ψυχροί καριόληδες θα μας άφηναν εδώ έξω να πεθάνουμε;
+Voices_03_01_omicron_outside|datamine_1_dataminestrasky_002_alvaro_001	Δεν το καταλαβαίνεις; Είναι νεκροί. Είναι όλοι νεκροί.
+Voices_03_01_omicron_outside|datamine_1_dataminestrasky_003_thabo_001	Ναι, έχεις δίκιο.
+Voices_03_01_omicron_outside|datamine_1_dataminestrasky_004_strasky_001	Πώς μπορείτε να είστε τόσο ήρεμοι με αυτά τα σκατά; Πεθαίνουμε!
+Voices_03_01_omicron_outside|datamine_1_dataminestrasky_005_alvaro_001	Πόσο αέρα έχετε, παιδιά;
+Voices_03_01_omicron_outside|datamine_1_dataminestrasky_006_thabo_001	Είκοσι λεπτά, το πολύ.
+Voices_03_01_omicron_outside|datamine_1_dataminestrasky_007_strasky_001	Ε, εγώ είμαι στο κόκκινο. Δευτερόλεπτα μακριά πριν με πιάσει το CO2.
+Voices_03_01_omicron_outside|datamine_1_dataminestrasky_008_alvaro_001	Στράσκι...
+Voices_03_01_omicron_outside|datamine_1_dataminestrasky_009_strasky_001	Γιατί να περιμένω, σωστά; Είμαι κύριος της μοίρας μου.
+Voices_03_01_omicron_outside|datamine_1_dataminestrasky_010_alvaro_001	Στάσου, Στράσκ, τι κάνεις;
+Voices_03_01_omicron_outside|datamine_1_dataminestrasky_011_strasky_001	*πνίγεται*
+Voices_03_01_omicron_outside|datamine_1_dataminehart_001_strasky_001	Χαρτ! Όχι!
+Voices_03_01_omicron_outside|datamine_1_dataminehart_002__soundeffect_001	*Μπουουουμ!*
+Voices_03_01_omicron_outside|datamine_1_dataminehart_003_thabo_001	Τι έγινε; Τι έκανε;!
+Voices_03_01_omicron_outside|datamine_1_dataminehart_004_strasky_001	Ελάτε, πρέπει να τη βγάλουμε από εκεί!
+Voices_03_01_omicron_outside|datamine_1_dataminehart_005_alvaro_001	Ιερά σκατά, η Χαρτ ανατίναξε το απόθεμα O2 -- σφράγισε το τούνελ.
+Voices_03_01_omicron_outside|datamine_1_dataminehart_006_thabo_001	Πραγματικά δεν ήθελε να μας ακολουθήσει ο Έικερς στο Όμικρον.
+Voices_03_01_omicron_outside|datamine_1_dataminehart_007_strasky_001	Αχ γαμώτο, είναι χτυπημένη, πανάθεμά το.
+Voices_03_01_omicron_outside|datamine_1_dataminehart_008_alvaro_001	Η στολή της έχει διαρροή.
+Voices_03_01_omicron_outside|datamine_1_dataminehart_009_strasky_001	Πρέπει να την πάμε στο Όμικρον.
+Voices_03_01_omicron_outside|datamine_1_dataminehart_010_alvaro_001	Σκατά, είναι άσχημα. Πολύ άσχημα.
+Voices_03_01_omicron_outside|datamine_1_dataminehart_011_strasky_001	Όχι, γαμώτο! Όχι--!
+Voices_03_01_omicron_outside|comment_3_interactsubbasecorpse_nocatherine_001_player_001	Δεν πιάνω τίποτα. Δεν μπορώ να το διαβάσω όπως τους άλλους.
+Voices_03_01_omicron_outside|dialog_3_interactsubbasecorpse_catherine_001_player_001	Ιδέα ποιος είναι αυτός;
+Voices_03_01_omicron_outside|dialog_3_interactsubbasecorpse_catherine_002_catherine_001	Όχι ακριβώς. Δεν ξέρω καλά τους ανθρώπους στο Όμικρον.
+Voices_03_01_omicron_outside|dialog_3_catherinepluggedin_001_player_001	Κάθριν;
+Voices_03_01_omicron_outside|dialog_3_catherinepluggedin_002_catherine_001	Τι;
+Voices_03_01_omicron_outside|dialog_3_catherinepluggedin_003_player_001	Να 'σαι.
+Voices_03_01_omicron_outside|dialog_3_catherinepluggedin_004_catherine_001	Πού είμαστε;
+Voices_03_01_omicron_outside|dialog_3_catherinepluggedin_005_player_001	Ακριβώς δίπλα στο Όμικρον -- σε ένα μικρότερο κτίριο συνδεδεμένο με την κύρια βάση. Δεν το καταλαβαίνεις;
+Voices_03_01_omicron_outside|dialog_3_catherinepluggedin_006_catherine_001	Όχι, η οπτική μου είναι αρκετά περιορισμένη -- έχω σοβαρούς περιορισμούς στην πρόσβαση στο σύστημα.
+Voices_03_01_omicron_outside|dialog_3_catherinepluggedin_006_catherine_002	Βρήκες Στολή Ισχύος;
+Voices_03_01_omicron_outside|dialog_3_catherinepluggedin_007_player_001	Όχι ακόμα. Προσπαθώ να βρω πώς να μπω στο Όμικρον -- το μεγάλο κτίριο.
+Voices_03_01_omicron_outside|dialog_3_catherinepluggedin_008_catherine_001	Α, εντάξει. Συνέχισε την καλή δουλειά.
+Voices_03_01_omicron_outside|dialog_3_catherinepluggedin_009_player_001	Αυτό ήταν; Τίποτα δεν έχεις;
+Voices_03_01_omicron_outside|dialog_3_catherinepluggedin_010_catherine_001	Καλή τύχη;
+Voices_03_01_omicron_outside|dialog_3_catherinepluggedin_011_player_001	Ευχαριστώ.
+Voices_03_01_omicron_outside|dialog_3_idledialog_1_1_001_player_001	Κάθ, πώς είσαι τόσο εντάξει με όλο αυτό;
+Voices_03_01_omicron_outside|dialog_3_idledialog_1_1_002_catherine_001	Με ποιο;
+Voices_03_01_omicron_outside|dialog_3_idledialog_1_1_003_player_001	Με το ότι είσαι ένα κουτί που μιλάει, για αρχή -- ότι δεν είσαι άνθρωπος.
+Voices_03_01_omicron_outside|dialog_3_idledialog_1_1_004_catherine_001	Δεν είναι και τόσο άσχημα.
+Voices_03_01_omicron_outside|dialog_3_idledialog_1_2_001_player_001	Δηλαδή δε σε ενοχλεί καθόλου που δεν έχεις σώμα;
+Voices_03_01_omicron_outside|dialog_3_idledialog_1_2_002_catherine_001	Αρχίζει να με ενοχλεί. Με κάνεις να νιώθω πολύ αμήχανα.
+Voices_03_01_omicron_outside|dialog_3_idledialog_1_2_003_player_001	Έλα, σοβαρέψου.
+Voices_03_01_omicron_outside|dialog_3_idledialog_1_2_004_catherine_001	Ποτέ δεν ένιωσα και πολύ άνετα ως άνθρωπος εξαρχής. Αυτό δεν είναι πολύ χειρότερο.
+Voices_03_01_omicron_outside|dialog_3_idledialog_1_3_001_player_001	Αν δεν μπορούσα να κουνηθώ, θα τρελαινόμουν. Καλά που το κουτί το πήρες εσύ κι όχι εγώ.
+Voices_03_01_omicron_outside|dialog_3_idledialog_1_3_002_catherine_001	Θα μου ήταν λίγο πιο εύκολο να βοηθήσω αν είχα σώμα, αλλά κάνεις καλή δουλειά.
+Voices_03_01_omicron_outside|dialog_3_idledialog_1_3_003_player_001	Απλώς σκέφτηκα ότι αν μπορούσες να τεντωθείς λίγο, θα ανακουφιζόσουν.
+Voices_03_01_omicron_outside|dialog_3_idledialog_1_3_004_catherine_001	Οι σωματικοί μου περιορισμοί δε μεταφράζονται πολύ στην εμπειρία μου. Νιώθω σχεδόν το ίδιο άνθρωπος όπως πριν, αλλά σαν να αιωρούμαι στον αέρα. Που είναι κάπως ενδιαφέρον, τώρα που το σκέφτομαι.
+Voices_03_01_omicron_outside|dialog_3_idledialog_2_1_001_player_001	Κάθ, γιατί πιστεύεις ότι φτιάχτηκα; Γιατί αυτή η AI -- το WAU -- να με φέρει εδώ;
+Voices_03_01_omicron_outside|dialog_3_idledialog_2_1_002_catherine_001	Δε νομίζω ότι θα μπορέσουμε ποτέ να το μάθουμε. Έχω τις δικές μου πεποιθήσεις, αλλά τίποτα που να μπορεί να επαληθευτεί.
+Voices_03_01_omicron_outside|dialog_3_idledialog_2_2_001_player_001	Πες μου, γιατί πιστεύεις ότι με έφερε εδώ το WAU;
+Voices_03_01_omicron_outside|dialog_3_idledialog_2_2_002_catherine_001	Το WAU είχε μια σειρά από αποστολές, αλλά όλες πήγαζαν από μία και μόνη ιδέα: να διατηρήσει την ανθρωπότητα.
+Voices_03_01_omicron_outside|dialog_3_idledialog_2_2_002_catherine_002	Όταν ο κομήτης χτύπησε τη γη, σκοτώνοντας τα πάντα και αφήνοντας ζωντανό ένα κλάσμα της ανθρωπότητας, το WAU άρχισε να αντισταθμίζει.
+Voices_03_01_omicron_outside|dialog_3_idledialog_2_2_003_player_001	Αποκαθιστά την ανθρωπότητα;
+Voices_03_01_omicron_outside|dialog_3_idledialog_2_2_004_catherine_001	Έτσι νομίζω. Αλλά δε νομίζω ότι έχουμε τον ίδιο ορισμό για τον άνθρωπο... ή για τη ζωή, αν είναι να το πούμε.
+Voices_03_01_omicron_outside|dialog_3_idledialog_3_1_001_player_001	Κάθριν, είμαστε ζωντανοί;
+Voices_03_01_omicron_outside|dialog_3_idledialog_3_1_002_catherine_001	Αυτή είναι μια ερώτηση που είναι αδύνατο να απαντηθεί. Μας λείπουν ουσιαστικοί ορισμοί.
+Voices_03_01_omicron_outside|dialog_3_idledialog_3_1_003_player_001	Απλώς σκέφτηκα ότι πρέπει να υπάρχει τρόπος να ξέρουμε -- να ξέρουμε αν αυτή η ζωή αξίζει να τη ζεις.
+Voices_03_01_omicron_outside|dialog_3_idledialog_3_1_004_catherine_001	Υποθέτεις ότι άλλαξες τόσο πολύ, αλλά άλλαξες στ' αλήθεια;
+Voices_03_01_omicron_outside|dialog_3_idledialog_3_1_005_player_001	Δεν ξέρω. Εγώ δε νιώθω τόσο διαφορετικός, αλλά ο κόσμος σίγουρα είναι.
+Voices_03_01_omicron_outside|dialog_3_idledialog_3_2_001_player_001	Ποτέ δεν είχα καταλάβει πόσο εξαρτιόταν η ιδέα που έχω για τον εαυτό μου από το πού βρίσκομαι.
+Voices_03_01_omicron_outside|dialog_3_idledialog_3_2_002_catherine_001	Τι εννοείς;
+Voices_03_01_omicron_outside|dialog_3_idledialog_3_2_003_player_001	Μου λείπει το Τορόντο -- όχι επειδή είναι εκεί οι φίλοι και η οικογένειά μου, αλλά επειδή ξέρω πού ταιριάζω. Στο Τορόντο ξέρω ποιος είμαι.
+Voices_03_01_omicron_outside|dialog_3_idledialog_3_2_004_catherine_001	Ενδιαφέρουσα παρατήρηση.
+Voices_03_01_omicron_outside|recording_3_bloodterminalrecording_001_darby_001	Χέρμπερ, μας έχουν μείνει καθόλου παυσίπονα; Αυτές οι εμβοές έχουν γίνει ανυπόφορες.
+Voices_03_01_omicron_outside|recording_3_bloodterminalrecording_002_herber_001	Λυπάμαι. Έχουν μείνει μόνο τα βαριά -- φάρμακα επιπέδου μορφίνης.
+Voices_03_01_omicron_outside|recording_3_bloodterminalrecording_003_darby_001	Θα τα πάρω. Νιώθω σαν να πρόκειται να σκάσει το κεφάλι μου.
+Voices_03_01_omicron_outside|recording_3_bloodterminalrecording_004_herber_001	Δε γίνεται, αυτά είναι για επείγοντα.
+Voices_03_01_omicron_outside|recording_3_bloodterminalrecording_004_herber_002	Άλλωστε η Κάμερον πιστεύει ότι το κουδούνισμα θα σταματήσει όταν το JR φτάσει στο 100%.
+Voices_03_01_omicron_outside|recording_3_bloodterminalrecording_005_darby_001	Τότε πες τους να κάνουν γρήγορα, γαμώτο.
+Voices_03_01_omicron_outside|recording_3_bloodterminalrecording_006_herber_001	Θέμα ωρών πρέπει να είναι. Κάνε λίγη υπομονή.
+Voices_03_01_omicron_outside|recording_3_bloodterminalrecording_007_darby_001	Κράτα με ενήμερο.
+Voices_03_01_omicron_outside|recording_3_bloodterminalrecording_008_herber_001	Ναι, λοιπόν... έχω κάτι που πρέπει να τακτοποιήσω... Οπότε, τα λέμε αργότερα, εντάξει;
+Voices_03_01_omicron_outside|recording_3_bloodterminalrecording_009_darby_001	Εννοείται, Χερμπ.
+Voices_03_01_omicron_outside|dialog_3_cancelidledialog_001_player_001	Στάσου.

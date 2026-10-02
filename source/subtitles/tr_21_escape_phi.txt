@@ -1,0 +1,160 @@
+Voices_04_02_tau_inside|automatedvoice_airlockdepressurising_001_automatedvoice_001	Προσοχή, ο αεροφράκτης συμπιέζεται. Απομακρυνθείτε.
+Voices_04_03_tau_escape|agentbark_2_flesherappears_001_flesher_001	Είμαστε τόσο κοντά τώρα. Βιάσου.
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_001__soundeffect_001	*Η δομή του τούνελ τρίζει δυνατά*
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_002_hillblackbox_001	Τι διάολο έχει αυτό το μέρος;
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_003_tsiolkovskyblackbox_001	Δεν υπάρχει λόγος ανησυχίας -- απλώς ο Φύλακας δείχνει τους μυς του.
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_004_hillblackbox_001	Ο Φύλακας -- εννοείς το WAU;
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_005_tsiolkovskyblackbox_001	Εδώ κάτω έχει πολλά ονόματα -- Φύλακας, το Άλφα...
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_006_hillblackbox_001	Όπως η βάση Άλφα; Νόμιζα ότι ήταν επινόηση.
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_007_tsiolkovskyblackbox_001	Επινόηση; Τότε κάποιος πρέπει οπωσδήποτε να απολύσει το Γιόχαν Ρος. Να του πει ότι δεν υπάρχει λόγος να περπατάει πια σε αυτά τα τούνελ.
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_008__soundeffect_001	*δυνατό τρίξιμο*
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_009_lindwallblackbox_001	Αυτό το τμήμα θα καταρρεύσει.
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_010_tsiolkovskyblackbox_001	Να περάσεις λίγο καιρό στην άβυσσο, γλυκιά μου, για να δεις πότε τα πράγματα σοβαρεύουν.
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_011_lindwallblackbox_001	Κάθριν; Έλα μπροστά. Έλα μαζί μου.
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_012_catherineblackbox_001	Α, εντάξει.
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_013_ivashkinblackbox_001	Ε, περιμένετέ με.
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_014__soundeffect_001	*άλλο ένα δυνατό τρίξιμο*
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_015_hillblackbox_001	Προσοχή με το ARK.
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_016_tsiolkovskyblackbox_001	Ηρέμησε, δεν πρόκειται να--
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_017__soundeffect_001	*δυνατό τρίξιμο ακριβώς πάνω από το κεφάλι του Τσιολκόφσκι*
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_018_tsiolkovskyblackbox_001	Ουφ... για μια στιγμή νόμιζα ότι θα κατέρρεε.
+Voices_04_03_tau_escape|blackbox_2_caveinblackbox_019__soundeffect_001	*το τούνελ καταρρέει*
+Voices_04_03_tau_escape|dialog_3_rosstunnelchat_001_flesher_001	Είμαστε τόσο κοντά.
+Voices_04_03_tau_escape|dialog_3_rosstunnelchat_002_player_001	Απλώς πες μου τι θέλεις.
+Voices_04_03_tau_escape|dialog_3_rosstunnelchat_003_flesher_001	Θέλω να σταματήσεις το WAU.
+Voices_04_03_tau_escape|dialog_3_rosstunnelchat_004_player_001	Τι;! Πώς;
+Voices_04_03_tau_escape|dialog_3_rosstunnelchat_005_flesher_001	Η υποδουλωμένη πρωτεΐνη που πλατσουρίζει μέσα στη στολή σου είναι η θηλιά με την οποία το WAU θα κρεμαστεί.
+Voices_04_03_tau_escape|dialog_3_rosstunnelchat_006_player_001	Για τι πράγμα μιλάς;
+Voices_04_03_tau_escape|dialog_3_rosstunnelchat_007_flesher_001	Μόλις συνήλθα στο Όμικρον. Προσπάθησα να τους πω να φτιάξουν την τοξίνη που θα έκανε το WAU να μαραθεί.
+Voices_04_03_tau_escape|dialog_3_rosstunnelchat_007_flesher_002	Αλλά δεν κατάλαβαν. Την έβαλαν μέσα σε ένα ντουλάπι. Ήταν τόσο εξοργιστικό. Έπρεπε να την πάνε στο Άλφα, την πηγή της δυστυχίας που δημιουργήσαμε.
+Voices_04_03_tau_escape|dialog_3_rosstunnelchat_007_flesher_003	Και μετά η κοπέλα, εκείνη το κατάλαβε. Θα το αναλάμβανε -- αλλά το WAU ούρλιαξε!
+Voices_04_03_tau_escape|dialog_3_rosstunnelchat_007_flesher_004	Πέθαναν όλοι -- αλλά εσύ, εσύ! Πήρες το τζελ από το ντουλάπι και έκανες τον εαυτό σου δηλητηριώδες φίδι.
+Voices_04_03_tau_escape|dialog_3_rosstunnelchat_008_player_001	Λες ότι αυτή η τοξίνη μέσα μου μπορεί να σκοτώσει το WAU, ολοκληρωτικά;
+Voices_04_03_tau_escape|dialog_3_rosstunnelchat_009_flesher_001	Εσύ είσαι το φίδι, Σάιμον. Τώρα χτύπα στην καρδιά.
+Voices_04_03_tau_escape|dialog_3_rossenterwauroom_001_player_001	Τι διάολο είναι αυτό;!
+Voices_04_03_tau_escape|dialog_3_rossenterwauroom_002_flesher_001	Η καρδιά. Ελέγχει όλο το δομικό τζελ στο Pathos-II.
+Voices_04_03_tau_escape|dialog_3_rossenterwauroom_002_flesher_002	Το μόνο που χρειάζεται είναι να δηλητηριάσεις το αποτύπωμα και η καρδιά, παρά τη θέλησή της, θα το απλώσει σε όλο το Pathos-II. Και θα το σκοτώσει.
+Voices_04_03_tau_escape|dialog_3_rossenterwauroom_002_flesher_003	Τάισέ την, Σάιμον. Βάλε το χέρι σου μέσα στην καρδιά.
+Voices_04_03_tau_escape|dialog_3_simonafterrossdeath_losthand_001_player_001	Συγγνώμη, WAU! Δεν ήθελα να σε μολύνω! Σε παρακαλώ, άφησέ με να φύγω.
+Voices_04_03_tau_escape|dialog_3_simonafterrossdeath_hashand_001_player_001	WAU, κράτα τη γη -- δε με νοιάζει. Απλώς άσε με να εκτοξεύσω το ARK!
+Voices_04_03_tau_escape|dialog_3_puthandintowau_001_player_001	Αααργκ!!!
+Voices_04_03_tau_escape|dialog_3_puthandintowau_002_flesher_001	Ναι, ναι. Πιάνει, πιάνει!
+Voices_04_03_tau_escape|dialog_3_wauswallowsross_1_001_player_001	Μη.
+Voices_04_03_tau_escape|dialog_3_wauswallowsross_1_002_flesher_001	Πρέπει να το κάνεις, Σάιμον. Αυτό είναι μεγαλύτερο κι από τους δυο μας.
+Voices_04_03_tau_escape|dialog_3_wauswallowsross_2_002_player_001	Θεέ μου.
+Voices_04_03_tau_escape|dialog_3_simonescapeattempt_1_001_flesher_001	Όχι, δεν μπορείς να φύγεις. Δεν τελειώσαμε!
+Voices_04_03_tau_escape|dialog_3_simonescapeattempt_2_001_flesher_001	Σταμάτα! Πρέπει να το τελειώσουμε!
+Voices_04_03_tau_escape|dialog_3_simonescapeattempt_3_001_player_001	Φύγε από τη μέση, γαμώτο!
+Voices_04_03_tau_escape|dialog_3_simonescapeattempt_3_002_flesher_001	Δε θα σε αφήσω να το καταστρέψεις!
+Voices_04_03_tau_escape|dialog_3_simonescapeattempt_4_001_flesher_001	Αν δεν το τελειώσεις -- θα σε αναγκάσω.
+Voices_04_03_tau_escape|dialog_3_simonescapeattempt_5_finalcomment_001_flesher_001	Ωραία. Όπως θέλεις.
+Voices_04_03_tau_escape|dialog_3_rossdemandsimondoit_1_001_flesher_001	Έλα, κάν' το.
+Voices_04_03_tau_escape|dialog_3_rossdemandsimondoit_2_001_flesher_001	Δεν μπορούμε να αφήσουμε το WAU να συνεχίσει να παράγει τη βρομιά του. Σκότωσέ το!
+Voices_04_03_tau_escape|dialog_3_rossdemandsimondoit_2_002_player_001	Ηρέμησε.
+Voices_04_03_tau_escape|dialog_3_rossdemandsimondoit_3_001_flesher_001	Απλώς χώσε το χέρι σου μέσα!
+Voices_04_03_tau_escape|dialog_3_rossdemandsimondoit_3_002_player_001	Κάνε πίσω, εντάξει;
+Voices_04_03_tau_escape|dialog_3_rossdemandsimondoit_4_001_flesher_001	Σε παρακαλώ, Σάιμον.
+Voices_04_03_tau_escape|dialog_3_rossdemandsimondoit_5_001_flesher_001	Μην αφήσεις τη γη να καταβροχθιστεί από τους εφιάλτες του WAU.
+Voices_04_03_tau_escape|dialog_2_rossbanter_1_001_flesher_001	Εδώ πήγαν όλα στραβά, Σάιμον. Η βάση Άλφα.
+Voices_04_03_tau_escape|dialog_2_rossbanter_2_001_flesher_001	Εδώ φυτέψαμε το σπόρο του καρκίνου που τρώει το Pathos-II.
+Voices_04_03_tau_escape|dialog_2_rossbanter_3_001_flesher_001	Δεν έπρεπε να γίνει έτσι. Κανείς δε μας είπε ότι αυτό μπορούσε να συμβεί.
+Voices_04_03_tau_escape|dialog_3_dodgedross_001_flesher_001	Σε παρακαλώ, Σάιμον. Η ανθρωπότητα θα υποφέρει -- για μια αιωνιότητα!
+Voices_04_03_tau_escape|dialog_3_wauswallowsross_noarm_001_player_001	Σε παρακαλώ, έκανα αυτό που ήθελες.
+Voices_04_03_tau_escape|dialog_3_wauswallowsross_noarm_002_flesher_001	Τα πήγες καλά, Σάιμον. Αλλά δεν μπορείς να φύγεις.
+Voices_04_03_tau_escape|dialog_3_wauswallowsross_noarm_002_flesher_002	Ο μόνος τρόπος να σιγουρευτούμε ότι το WAU θα μείνει νεκρό είναι να καταστρέψουμε το μόνο που έχει ανοσία στο νέο μοτίβο.
+Voices_04_03_tau_escape|dialog_3_wauswallowsross_noarm_003_flesher_001	Μην ανησυχείς, θα γίνει γρήγορα.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_1_001_catherine_001	Έμαθες τι απέγινε η ομάδα του ARK;
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_1_002_player_001	Όχι ακριβώς. Για κάποιον λόγο δεν προχώρησαν στην εκτόξευση, οπότε πήγαν το ARK πίσω στο Ταυ.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_1_003_catherine_001	Ελπίζω να είναι όλα εντάξει με το διαστημικό κανόνι.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_1_004_player_001	Ναι, αμφιβάλλω αν θα μπορούσα να επισκευάσω κάτι τέτοιο.
+Voices_05_01_phi_inside|cathandsimon_1b_cath_pluggedincontrolroomopen_001_player_001	Κάθριν, με ακούς;
+Voices_05_01_phi_inside|cathandsimon_1b_cath_pluggedincontrolroomopen_002_catherine_001	Σε ακούω. Αυτό είναι το Φι. Τι έγινε στο Ταυ;
+Voices_05_01_phi_inside|cathandsimon_1b_cath_pluggedincontrolroomopen_003_player_001	Πολλά, για την ακρίβεια, αλλά είμαστε πάλι εντός προγράμματος.
+Voices_05_01_phi_inside|cathandsimon_1b_cath_pluggedincontrolroomopenlostarm_001_catherine_001	Χριστέ μου, τι διάολο έπαθε το χέρι σου;!
+Voices_05_01_phi_inside|cathandsimon_1b_cath_pluggedincontrolroomopenlostarm_002_player_001	Είναι περίπλοκο -- θέλω να ξέρω μόνο ένα πράγμα. Θα έχω και τα δύο μου χέρια στο ARK, σωστά;
+Voices_05_01_phi_inside|cathandsimon_1b_cath_pluggedincontrolroomopenlostarm_003_catherine_001	Ναι, φυσικά.
+Voices_05_01_phi_inside|cathandsimon_1b_cath_pluggedincontrolroomopenlostarm_003_catherine_002	Εσύ όμως είσαι καλά; Μπορείς να... κάνεις πράγματα;
+Voices_05_01_phi_inside|cathandsimon_1b_cath_pluggedincontrolroomopenlostarm_004_player_001	Ναι, ας τελειώνουμε μ' αυτό.
+Voices_05_01_phi_inside|cathandsimon_1b_cath_controlroomsetupdone_001_catherine_001	Εντάξει, το Φι είναι σε λειτουργία.
+Voices_05_01_phi_inside|cathandsimon_1b_cath_pluggedincontrolroom_001_catherine_001	Βρήκες το ARK;
+Voices_05_01_phi_inside|cathandsimon_1b_cath_pluggedincontrolroom_002_player_001	Το βρήκα, αλλά κάπως το έχασα στο δρόμο προς τα εδώ, σε ένα αυτόματο τραμ ή κάτι τέτοιο που πήγαινε στο Φι. Οπότε θα είναι κάπου εδώ γύρω.
+Voices_05_01_phi_inside|cathandsimon_1b_cath_pluggedincontrolroom_003_catherine_001	Τέλεια. Πάμε να το πάρουμε.
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_001_lindwall_001	Προτείνεις να το κρατήσουμε εδώ κάτω; Αυτό δεν αναιρεί όλο το νόημα; Αιωνιότητα ανάμεσα στα αστέρια, θυμάσαι;
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_002_pedersen_001	Οι άνθρωποι μέσα στο ARK δε θα καταλάβουν τη διαφορά. Μπορούμε απλώς να το κρατήσουμε εδώ κάτω και να μη ρισκάρουμε να εκτοξευτεί το ARK μέσα από 5.000 μέτρα χαλασμένης κάννης και μετά να περάσει άλλα 100.000 μέτρα ατμόσφαιρας γεμάτης σκόνη.
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_003_hill_001	Θα αντέξει το περίβλημα όλη αυτή την πίεση;
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_004_pedersen_001	Ε, οι πιθανότητες δεν είναι και σπουδαίες!
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_005_lindwall_001	Κάθριν, πες κάτι.
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_006_catherineblackbox_001	Δε με νοιάζει τι πιστεύετε, εγώ θα το εκτοξεύσω.
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_007_pedersen_001	Δε χρειάζεται να είσαι έτσι. Ας το κρατήσουμε για λίγο και ας το σκεφτούμε. Μπορούμε να το εκτοξεύσουμε αργότερα.
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_008_catherineblackbox_001	Όχι, δεν ήταν αυτή η συμφωνία! Το φτιάξαμε για να τους σώσουμε, για να το εκτοξεύσουμε. Εκεί έξω είναι ελπίδα! Εδώ κάτω είναι ένα γαμημένο τεράριουμ που περιμένει να πεθάνει μαζί με όλους εμάς.
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_009_hill_001	Έλα, Κάθριν. Δε ζητάμε πολλά. Ας το σκεφτούμε πριν ρισκάρουμε τη μόνη ελπίδα που έχει η ανθρωπότητα να επιβιώσει από αυτή την κόλαση.
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_011_catherineblackbox_001	Όχι! Θα το εκτοξεύσουμε σήμερα. Είναι το δικό μου έργο, το δικό μου ARK!
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_012_pedersen_001	Είναι μεγαλύτερο από αυτό. Δεν το καταλαβαίνεις;! Δεν είναι δική σου απόφαση. Μιλάμε για τη μοίρα της ανθρωπότητας.
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_013_catherineblackbox_001	Φύγε από το ARK. Το παίρνω!
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_014_pedersen_001	Όχι, δεν το παίρνεις.
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_015_catherineblackbox_001	Δε θα σε αφήσω να το καταστρέψεις!
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_016_lindwall_001	Σταματήστε!
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_017_hill_001	Παιδιά, ηρεμήστε!
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_018_catherineblackbox_001	Φύγε μακριά μου!
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_019_lindwall_001	Όχι!
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_020_hill_001	Τι γαμημένο πράγμα έκανες;
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_021_pedersen_001	Ήταν ατύχημα.
+Voices_05_01_phi_inside|datamine_1f_dataminecathslastmoments_022_lindwall_001	Κάθριν, μίλα μου. Κάθριν;
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_2_001_player_001	Αυτή μοιάζει με τη μεγαλύτερη μέρα της ζωής μου.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_2_001_player_002	Μόνο μία μέρα έχει περάσει;
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_2_002_catherine_001	Δεν έχω ιδέα. Ο χρόνος μας μαζί είναι για μένα ένα μπερδεμένο συνονθύλευμα από στιγμές.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_2_003_player_001	Τι ώρα είναι τότε, τι μέρα;
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_2_004_catherine_001	Είναι 11 Μαΐου 2104 - 3:30 π.μ.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_2_004_catherine_002	Αλλά δε θυμάμαι πότε ξεκινήσαμε.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_3_001_player_001	Ξέρεις, σήμερα ξύπνησα στο κρεβάτι μου. Απλώς έτυχε να συμβεί πριν από εκατό χρόνια.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_3_002_catherine_001	Ακούγεται σαν αίνιγμα.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_3_003_player_001	Όντως. Σήμερα ξύπνησα στο κρεβάτι μου -- πριν από εκατό χρόνια. Ποιος είμαι;
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_3_003_player_002	Ποιος είμαι;
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_4_001_player_001	Είναι τρελό να σκέφτομαι πού βρίσκομαι. Όχι μόνο είναι το μέλλον, είναι και στη μέση της θάλασσας.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_4_001_player_002	Δεν ξέρω τίποτα γι' αυτή την εποχή ή για το πώς είναι ο κόσμος.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_4_002_catherine_001	Δεν υπάρχουν και πολλά να καυχηθεί κανείς τώρα. Πριν τον κομήτη, μάλλον ήταν εντάξει.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_4_003_player_001	Ναι, καλύτερα να μην το παινεύεις πολύ. Μπορεί να αλλάξω γνώμη για το ARK.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_5_001_player_001	Τι θα κάνεις όταν μπεις στο ARK; Ποιο θα είναι το πρώτο πράγμα;
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_5_002_catherine_001	Θα σιγουρευτώ ότι το ARK είναι ασφαλές, θα σταθεροποιήσω την πορεία πτήσης, θα ενεργοποιήσω τα ηλιακά πάνελ--
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_5_003_player_001	Όχι, ποιο είναι το πρώτο ανθρώπινο πράγμα που θα κάνεις;
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_5_004_catherine_001	Α... Να βλέπω τα σύννεφα να περνούν; Μετράει αυτό;
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_5_005_player_001	Θα έλεγα πως ναι.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_reacttocorpse_001_player_001	Θεέ μου, Κάθριν.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_reacttocorpse_002_catherine_001	Είπες κάτι;
+Voices_05_01_phi_inside|cathandsimon_1f_cath_reacttocorpse_003_player_001	Είσαι εσύ. Είχες ατύχημα.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_reacttocorpse_004_catherine_001	Τι εννο...; Α, εννοείς την Κάθριν.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_reacttocorpse_004_catherine_002	Μην ανησυχείς. Είναι καλύτερα έτσι.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_1_001_catherine_001	Πώς πέθανε;
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_1_002_player_001	Τσακώθηκες με τους συναδέλφους σου. Δεν ήθελαν να ρισκάρουν να εκτοξεύσουν το ARK. Πίστευαν ότι μπορεί να μην άντεχε να περάσει την ατμόσφαιρα.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_1_003_catherine_001	Με σκότωσαν;
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_1_004_player_001	Είμαι σίγουρος ότι ήταν ατύχημα. Απλώς προσπαθούσαν να σε εμποδίσουν να το εκτοξεύσεις.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_2_001_catherine_001	Πώς μπόρεσαν να με σκοτώσουν;
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_2_002_player_001	Κάθριν...
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_2_003_catherine_001	Ξέρω ότι δεν είμαι άνθρωπος που το συμπαθείς εύκολα. Απλώς νόμιζα ότι με εμπιστεύονταν.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_2_004_player_001	Έλα, μην το κάνεις αυτό στον εαυτό σου.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_3_001_catherine_001	Είχες φίλους στο Τορόντο, Σάιμον; Αληθινούς φίλους;
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_3_002_player_001	Είχα κάποιους: τον Τζέσι, το Σον... τον Κέβιν.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_3_003_catherine_001	Πάντα ήθελα ένα φίλο -- έναν αληθινό. Κάποιον με τον οποίο δε θα κρατιόσουν ποτέ.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_3_004_player_001	Θα γίνω εγώ φίλος σου.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_3_005_catherine_001	Α, φιλία από λύπηση; Τώρα νιώθω ακόμα χειρότερα.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_4_001_player_001	Πιστεύεις ότι το ARK θα περάσει την ατμόσφαιρα και θα φτάσει στο διάστημα;
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_4_002_catherine_001	Σχεδόν δεν έχει πια σημασία. Απλώς πρέπει να προσπαθήσουμε. Αν καούμε, καήκαμε. Αν είμαστε τυχεροί, μόλις δώσαμε στην ανθρωπότητα μια νέα ευκαιρία -- μια ολόκληρη νέα εποχή.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_4_002_catherine_002	Με το ARK στη γη, ίσως έχουμε ενέργεια για λίγες δεκαετίες για να λειτουργεί· στο διάστημα έχουμε χιλιάδες χρόνια.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_4_003_player_001	Παρ' όλα αυτά, είναι τρομερό ρίσκο.
+Voices_05_01_phi_inside|cathandsimon_1f_cath_afterdatamine_4_004_catherine_001	Δεν ήταν ποτέ θέμα βεβαιότητας, είναι θέμα ελπίδας.
+Voices_05_01_phi_inside|cathandsimon_2a_cath_simonarrivesaftersettingupshell_001_player_001	Και τώρα;
+Voices_05_01_phi_inside|cathandsimon_2a_cath_simonarrivesaftersettingupshell_002_catherine_001	Τώρα απλώς πρέπει να βάλουμε το βλήμα στο κανόνι και μετά -- Μπαμ!
+Voices_05_01_phi_inside|cathandsimon_2a_cath_simonarrivesaftersettingupshell_003_player_001	Δεν ξεχνάς κάτι; Πώς θα μας βάλεις μέσα στο ARK; Δεν πρέπει να κάνουμε άλλη μια σάρωση;
+Voices_05_01_phi_inside|cathandsimon_2a_cath_simonarrivesaftersettingupshell_004_catherine_001	Α, μην ανησυχείς. Κάτι σαν το Διαστημικό Κανόνι Ωμέγα δεν το χειρίζεσαι με γυμνά χέρια.
+Voices_05_01_phi_inside|cathandsimon_2a_cath_simonarrivesaftersettingupshell_005_player_001	Δηλαδή... είναι Θέση πιλότου; Όπως στο Όμικρον;
+Voices_05_01_phi_inside|cathandsimon_2a_cath_simonarrivesaftersettingupshell_006_catherine_001	Ναι, και μπορούμε να τη χρησιμοποιήσουμε για να σε μεταφέρουμε στο ARK ενώ χειρίζεσαι το κανόνι. Δυο πουλιά με μια πέτρα και τα λοιπά.
+Voices_05_01_phi_inside|cathandsimon_2a_cath_simonarrivesaftersettingupshell_006_catherine_002	Τώρα πάρε το omnitool και σύνδεσέ το δίπλα στη θέση και θα σε καθοδηγήσω στα τελευταία βήματα.
+Voices_05_01_phi_inside|cathandsimon_3a_cath_pluggedinpilotseat_001_catherine_001	Ουάου... δε θα το συνηθίσω ποτέ αυτό.
+Voices_05_01_phi_inside|cathandsimon_3a_cath_pluggedinpilotseat_002_player_001	Μάλλον δε θα χρειαστεί. Όχι αφού τελειώσει αυτό.
+Voices_05_01_phi_inside|cathandsimon_3a_cath_pluggedinpilotseat_003_catherine_001	Σωστά. Κάθισε.
+Voices_05_01_phi_inside|cathandsimon_3a_cath_playersitsonpilotseat_001_catherine_001	Άνετα;
+Voices_05_01_phi_inside|cathandsimon_3a_cath_playersitsonpilotseat_002_player_001	Όσο καλύτερα γίνεται.
+Voices_05_01_phi_inside|cathandsimon_3a_cath_playersitsonpilotseat_003_catherine_001	Εντάξει, θα ενεργοποιήσω τη θέση. Θα μπορείς να χρησιμοποιήσεις τα μηχανήματα για να φορτώσεις το βλήμα που συναρμολόγησες.
+Voices_05_01_phi_inside|cathandsimon_3b_cath_playerdoneloadinggun_001_player_001	Ορίστε.
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playernotpressinglaunch_1_001_catherine_001	Τι περιμένεις;
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playernotpressinglaunch_1_002_player_001	Απλώς παίρνω κουράγιο.

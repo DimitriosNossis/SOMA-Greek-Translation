@@ -1,0 +1,180 @@
+Voices_02_05_theta_inside|dialog_3_correctscantraitexport_2_002_player_001	Τι ακριβώς κάνουμε;
+Voices_02_05_theta_inside|dialog_3_correctscantraitexport_2_003_catherine_001	Θα κάνουμε μια κουβέντα με τον κύριο Γουάν. Χρησιμοποίησε τον υπολογιστή για να ενεργοποιήσεις την προσομοίωση.
+Voices_02_05_theta_inside|dialog_3_alonevoiddone_001_catherine_001	Ακόμα δεν είναι αρκετό. Πρέπει να βρούμε κάτι να απαλύνει το ξύπνημα.
+Voices_02_05_theta_inside|dialog_3_alonevoiddone_002_player_001	Θα ρίξω μια ματιά.
+Voices_02_05_theta_inside|dialog_3_alicescanroomdone_2_001_player_001	Αυτό είμαστε -- προσομοιώσεις;
+Voices_02_05_theta_inside|dialog_3_alicescanroomdone_2_002_catherine_001	Ναι, αλλά δε θα έπρεπε να έχει καμία διαφορά. Είσαι ακόμα εσύ.
+Voices_02_05_theta_inside|comment_3_grabbedbrokenchip_001_player_001	Χαλασμένο.
+Voices_02_05_theta_inside|comment_3_grabbedbrokenchip_002_player_001	Κατεστραμμένο.
+Voices_02_05_theta_inside|comment_3_grabbedbrokenchip_003_player_001	Φθαρμένο.
+Voices_02_05_theta_inside|comment_3_insertchipbeforeserverfix_troubleshot_001_player_001	Πρέπει να φτιάξω τη σύνδεση με τον κεντρικό υπολογιστή.
+Voices_02_05_theta_inside|dialog_3_insertchipbeforeserverfix_notroubleshoot_1_001_catherine_001	Τι φταίει τώρα;
+Voices_02_05_theta_inside|dialog_3_insertchipbeforeserverfix_notroubleshoot_2_001_player_001	Δεν είναι καλό αυτό. Μπορώ να το φτιάξω;
+Voices_02_05_theta_inside|dialog_4_fixedserversandleftarea_001_catherine_001	Καλή δουλειά, Σάιμον.
+Voices_02_05_theta_inside|dialog_4_fixedserversandleftarea_002_player_001	Ελπίζω να δούλεψε. Δεν ξανακατεβαίνω εκεί κάτω.
+Voices_02_05_theta_inside|dialog_3_entersimroomfixedservers_chipin_001_catherine_001	Ας φορτώσουμε αυτό το τσιπ.
+Voices_02_05_theta_inside|dialog_3_entersimroomfixedservers_tookchip_001_catherine_001	Εμπρός, βάλε το τσιπ που βρήκες.
+Voices_02_05_theta_inside|dialog_3_entersimroomfixedservers_foundchiproom_001_catherine_001	Πρέπει οπωσδήποτε να ψάξουμε για μια σάρωση. Κοίτα στην αποθήκη.
+Voices_02_05_theta_inside|comment_2_hint_fixservers_001_catherine_001	Τα τερματικά του εργαστηρίου έχασαν την επαφή με τον κεντρικό υπολογιστή. Πρέπει να επανεκκινήσουμε το δρομολογητή στον κάτω όροφο.
+Voices_02_05_theta_inside|comment_2_hint_fixservers_002_player_001	Μην ανησυχείς. Θα το αναλάβω εγώ.
+Voices_02_05_theta_inside|comment_2_hint_findscan_001_catherine_001	Σκεφτόμουν, με τόσους ανθρώπους που σαρώθηκαν για το ARK, κάποιος θα είχε πρόσβαση στο DUNBAT.
+Voices_02_05_theta_inside|comment_2_hint_findscan_001_catherine_002	Αν βρεις τη σάρωση κάποιου που ήξερε τον κωδικό ασφαλείας, ίσως μπορέσουμε να τον εξαγάγουμε κάπως.
+Voices_02_05_theta_inside|comment_2_hint_findscan_002_player_001	Να τον εξαγάγουμε από πού; Τι ακριβώς ψάχνω;
+Voices_02_05_theta_inside|comment_2_hint_findscan_003_catherine_001	Ψάξε για τα μεγάλα ράφια με τσιπ δεδομένων στην αποθήκη δίπλα στο εργαστήριό μου.
+Voices_02_05_theta_inside|comment_2_hint_findscan_003_catherine_002	Θα έχει πολλά να διαλέξεις.
+Voices_02_05_theta_inside|comment_2_hint_findaliceinfo_001_catherine_001	Νομίζω ότι ο Μπράντον Γουάν είναι καλό στοιχείο, αλλά πρέπει να μάθουμε περισσότερα γι' αυτόν.
+Voices_02_05_theta_inside|comment_2_hint_findaliceinfo_001_catherine_002	Δες αν μπορείς να το γνωρίσεις λίγο. Ρίξε μια ματιά στο δωμάτιό του -- ψάξε τα πράγματά του.
+Voices_02_05_theta_inside|comment_2_hint_findaliceinfo_002_player_001	Μπορώ να το κάνω αυτό.
+Voices_02_05_theta_inside|comment_2_hint_findscanroomenvironment_001_catherine_001	Νομίζω ότι πρέπει να βρούμε καλύτερο σκηνικό για τον Μπράντον Γουάν.
+Voices_02_05_theta_inside|comment_2_hint_findscanroomenvironment_001_catherine_002	Το Vivarium με έβαλε να σκεφτώ γιατί ήταν απλώς το ίδιο δωμάτιο.
+Voices_02_05_theta_inside|comment_2_hint_findscanroomenvironment_002_player_001	Vivarium; Για τι πράγμα μιλάς;
+Voices_02_05_theta_inside|comment_2_hint_findscanroomenvironment_003_catherine_001	Δε μου αρέσει να μαντεύω τι έκανα μετά τη σάρωσή μου, αλλά είναι πολύ πιθανό να έφτιαξα ένα σχέδιο της αίθουσας σαρώσεων.
+Voices_02_05_theta_inside|comment_2_hint_findscanroomenvironment_004_player_001	Μου προτείνεις να ψάξω στην αίθουσα σαρώσεων για σχέδια της αίθουσας σαρώσεων;
+Voices_02_05_theta_inside|comment_2_hint_findscanroomenvironment_005_catherine_001	Ναι. Και να τα βάλεις στον προσομοιωτή. Αυτό θα πρέπει να δουλέψει.
+Voices_02_05_theta_inside|comment_2_hint_simulatescan_001_catherine_001	Το αρχείο που διάλεξες, ο Μπράντον Γουάν, νομίζω ότι πρέπει να δοκιμάσουμε να τον τρέξουμε στον προσομοιωτή.
+Voices_02_05_theta_inside|comment_2_hint_simulatescan_002_player_001	Λες να έχει τον κωδικό;
+Voices_02_05_theta_inside|comment_2_hint_simulatescan_003_catherine_001	Είναι το καλύτερο στοιχείο που έχουμε.
+Voices_02_05_theta_inside|dialog_3_playerabortedsimulation_001_catherine_001	Περίμενε! Σάιμον, μόλις επανέφερες την προσομοίωση.
+Voices_02_05_theta_inside|dialog_3_playerabortedsimulation_002_catherine_001	Σάιμον, τι στο διάολο! Πρέπει να το κάνουμε αυτό.
+Voices_02_05_theta_inside|dialog_3_playerabortedsimulation_003_catherine_001	Σε παρακαλώ, σταμάτα να επαναφέρεις την προσομοίωση. Είναι σημαντικό.
+Voices_02_05_theta_inside|dialog_3_playerabortedsimulation_004_catherine_001	*αναστεναγμός*
+Voices_02_05_theta_inside|simulation_3_alicescanroom_2_001_alice_001	Ναι, το έπιασα. Λυπάμαι, κύριε Γουάν... Μπράντον. Αντίο.
+Voices_02_05_theta_inside|comment_addendum_dunbatwreckleavewocath_001_player_001	Δεν μπορώ να φύγω χωρίς την Κάθριν.
+Voices_02_05_theta_inside|comment_addendum_clueaboutalice_001_catherine_001	Αναρωτιέμαι αν μπορούμε να χρησιμοποιήσουμε κάπως την Άλις στην προσομοίωση.
+Voices_02_05_theta_inside|simulation_3_alicescanroom_3_001_wan_001	Τι εννοείς; Όχι, περίμενε!
+Voices_02_05_theta_inside|dialog_3_samescanupload_001_catherine_001	Αυτόν το δοκίμασες ήδη.
+Voices_02_05_theta_inside|dialog_3_samescanupload_002_catherine_001	Σου είπα, αυτός δε θα δουλέψει.
+Voices_02_05_theta_inside|dialog_3_samescanupload_003_catherine_001	Σάιμον, δεν άλλαξε ως διά μαγείας από την τελευταία φορά που το δοκίμασες! Ηλίθιε.
+Voices_02_05_theta_inside|dialog_3_samescanupload_004_catherine_001	*απογοητευμένος αναστεναγμός*
+Voices_02_05_theta_inside|dialog_3_samescanupload_005_catherine_001	*χμφ*
+Voices_02_05_theta_inside|dialog_3_samescanupload_006_catherine_001	*εκνευρισμένος αναστεναγμός*
+Voices_02_05_theta_inside|dialog_3_entersimroomalicemoduleready_001_catherine_001	Έφτιαξα μια μονάδα Άλις που μπορούμε να χρησιμοποιήσουμε.
+Voices_02_05_theta_inside|dialog_3_entersimroomalicemoduleready_002_player_001	Δηλαδή θα είναι με τον Μπράντον στην προσομοίωση.
+Voices_02_05_theta_inside|dialog_3_entersimroomalicemoduleready_003_player_001	Κάπως. Εγώ θα μιλάω και πάλι, αλλά θα ακούγεται και θα μοιάζει με την Άλις.
+Voices_02_05_theta_inside|dialog_2_whereiseveryone_1_001_catherine_001	Τι απέγιναν όλοι οι άνθρωποι;
+Voices_02_05_theta_inside|dialog_2_whereiseveryone_1_002_player_001	Αυτό το μέρος μοιάζει εγκαταλελειμμένο... μέχρι στιγμής.
+Voices_02_05_theta_inside|dialog_2_whereiseveryone_1_003_catherine_001	Δε βγάζει κανένα νόημα. Το Θήτα είναι σαφώς η καλύτερη επιλογή για επιβίωση.
+Voices_02_05_theta_inside|dialog_3_lookatpregnantalicephotofirst_2_001_catherine_001	Χαριτωμένο.
+Voices_02_05_theta_inside|dialog_3_readloveletterfirst_001_player_001	Ένα γράμμα από κάποια Άλις. Ήταν μαζί κατά τη σάρωση. Την ξέρεις;
+Voices_02_05_theta_inside|dialog_3_readloveletterfirst_002_catherine_001	Ήταν κοντά με την Κόστερ; Δε θα το περίμενα. Μπορούμε να το χρησιμοποιήσουμε κάπως; Συνέχισε να ψάχνεις.
+Voices_02_05_theta_inside|dialog_3_afterdataminingintercomfirst_001_player_001	Φαίνεται ότι ετοιμάζονταν να φύγουν. Άκουσα μια κυρία να λέει στον Μπράντον να βιαστεί.
+Voices_02_05_theta_inside|dialog_3_afterdataminingintercomfirst_002_catherine_001	Το έπιασες από την ενδοεπικοινωνία; Πρέπει να είναι μνήμη μετάδοσης. Περίμενε.
+Voices_02_05_theta_inside|dialog_3_afterdataminingintercomfirst_003_catherine_001	Αυτή είναι η Άλις Κόστερ. Δε θα φανταζόμουν ότι γνωρίζονταν καν. Ενδιαφέρον.
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_001_catherine_001	Φτάσαμε; Φτάσαμε! Εντάξει, τέλεια. Ώρα να κλέψουμε ένα υποβρύχιο. Τίποτα δε θα μας σταματήσει όταν έχουμε το DUNBAT.
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_002_player_001	Έχετε πολλά μηχανήματα και οχήματα εδώ κάτω. Τι το ιδιαίτερο έχει αυτό;
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_003_catherine_001	Είναι το μόνο μεταφορικό μέσο που μπορεί να κατέβει στην άβυσσο χωρίς να σπάσει σαν κονσέρβα.
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_004_player_001	Αν είναι μοναδικό, τότε πώς κατέβασαν εξαρχής το ARK στην άβυσσο;
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_005_catherine_001	Καλή ερώτηση. Υποθέτω ότι το έκαναν με το δύσκολο τρόπο και απλώς περπάτησαν.
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_006_catherine_001	Δεν ήξερα ότι ήταν επιλογή αυτό.
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_007_player_001	Κάθ, πώς είναι μέσα στο ARK -- σαν ταινία ή σαν εικονική πραγματικότητα;
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_008_catherine_001	Όχι, φυσικά όχι. Είναι, ξέρεις, σαν την πραγματική ζωή. Αλλά λίγο καλύτερη.
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_010_catherine_001	Ευχάριστη θερμοκρασία, καθαρός αέρας, καλός καιρός.
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_011_player_001	Δηλαδή οι άνθρωποι στο ARK απλώς κυκλοφορούν και κάνουν ότι είναι ο πραγματικός κόσμος;
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_012_catherine_001	Δε χρειάζεται να κάνουν. Η εμβύθιση είναι τέλεια.
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_013_player_001	Και μπορεί να συντηρεί τον εαυτό του;
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_014_catherine_001	Ναι, συνδεδεμένο σε ένα σκάφος με ηλιακούς συλλέκτες, θα μπορούσε να επιβιώσει για χιλιάδες χρόνια.
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_015_player_001	Καταπληκτικό.
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_017_player_001	Όταν σκέφτομαι ότι η Γη είναι έτσι όπως είναι κι εμείς ξεκινάμε να σώσουμε τα τελευταία απομεινάρια της ανθρωπότητας, είναι... είναι...
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_018_catherine_001	Ηρωικό;
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_019_player_001	Τουλάχιστον νιώθω ότι αξίζει τον κόπο.
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_020_catherine_001	Ορίστε -- το DUNBAT!
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_021_catherine_001	Αχ, να πάρει. Ήξερα ότι ήταν πολύ καλό για να είναι αληθινό.
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_022_player_001	Τι φταίει;
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_023_catherine_001	Είναι... είναι σε καραντίνα;!
+Voices_02_05_theta_inside|dialog_2_catherinepluggedin_023_catherine_002	Περίμενε.
+Voices_02_05_theta_inside|dialog_2_lookedatterminalmap_001_player_001	Φαίνεται ότι όλοι οι φίλοι σου μετακόμισαν στον κάτω όροφο.
+Voices_02_05_theta_inside|dialog_2_lookedatterminalmap_002_catherine_001	Γιατί να εγκαταλείψουν την πύλη... και το χώρο διαβίωσης; Είναι τόσο παράξενο. Δε μου αρέσει καθόλου αυτό.
+Voices_02_05_theta_inside|dialog_2_dockdoorneedcode_001_catherine_001	Χρειαζόμαστε κωδικό ασφαλείας.
+Voices_02_05_theta_inside|dialog_2_dockdoorneedcode_002_player_001	Πόσο άσχημο είναι;
+Voices_02_05_theta_inside|dialog_2_dockdoorneedcode_003_catherine_001	Είναι άσχημο του τύπου &quot;αυτά δεν τα γράφουμε πουθενά&quot;.
+Voices_02_05_theta_inside|dialog_2_dockdoorneedcode_004_player_001	Ίσως υπάρχει ακόμα κάποιος εδώ που μπορεί να μας πει ποιος είναι;
+Voices_02_05_theta_inside|dialog_2_dockdoorneedcode_005_catherine_001	Χμ, σίγουρα. Ας πούμε ότι ισχύει.
+Voices_02_05_theta_inside|dialog_2_dockdoorneedcode_005_catherine_002	Θα σου ξεκλειδώσω τις άλλες πόρτες για να εξερευνήσεις το σταθμό.
+Voices_02_05_theta_inside|dialog_2_whereiseveryone_2_001_catherine_001	Πού στο διάολο πήγαν όλοι;
+Voices_02_05_theta_inside|dialog_2_whereiseveryone_2_002_player_001	Αν το Θήτα είναι εκτός, εσύ πού θα πήγαινες;
+Voices_02_05_theta_inside|dialog_2_whereiseveryone_2_003_catherine_001	Μάλλον στο Λάμδα ή στο Όμικρον.
+Voices_02_05_theta_inside|dialog_2_whereiseveryone_2_004_player_001	Λοιπόν, το Λάμδα το έχουμε ήδη δει. Άρα, ίσως στο Όμικρον.
+Voices_02_05_theta_inside|dialog_2_whereiseveryone_3_001_catherine_001	Ανησυχώ ότι δε θα βρούμε κανέναν.
+Voices_02_05_theta_inside|dialog_2_whereiseveryone_3_002_player_001	Ίσως βοήθησαν όλοι με το ARK.
+Voices_02_05_theta_inside|dialog_2_whereiseveryone_3_003_catherine_001	Να το κουβαλήσουν μέχρι το Ταυ; Μου φαίνεται υπερβολικό, αλλά όχι αδύνατο.
+Voices_02_05_theta_inside|dialog_2_whereiseveryoneseenmap_1_001_catherine_001	Γιατί να εγκαταλείψουν όλοι αυτόν τον όροφο;
+Voices_02_05_theta_inside|dialog_2_whereiseveryoneseenmap_1_002_player_001	Ούτε εγώ το καταλαβαίνω. Λες και απλώς άδειασαν το χώρο.
+Voices_02_05_theta_inside|dialog_2_whereiseveryoneseenmap_2_001_catherine_001	Τι τόσο ενδιαφέρον υπάρχει κάτω; Μόνο εργαστήρια και γραφεία... ίσως ο σταθμός σάτλ;
+Voices_02_05_theta_inside|dialog_2_whereiseveryoneseenmap_2_002_player_001	Να πάμε να δούμε;
+Voices_02_05_theta_inside|dialog_2_whereiseveryoneseenmap_2_003_catherine_001	Καλύτερα όχι. Έχω άσχημο προαίσθημα.
+Voices_02_05_theta_inside|dialog_2_whereiseveryoneseenmap_3_001_catherine_001	Ίσως ήθελαν να μένουν κοντά στο σταθμό σάτλ σε περίπτωση που κάτι πήγαινε στραβά.
+Voices_02_05_theta_inside|dialog_2_whereiseveryoneseenmap_3_002_player_001	Έχεις κολλήσει πραγματικά με αυτό.
+Voices_02_05_theta_inside|dialog_2_whereiseveryoneseenmap_3_003_catherine_001	Απλώς ανησυχώ για τους συναδέλφους μου.
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_1_001_player_001	Η παλιά σάρωση του εαυτού μου που ήταν στον υπολογιστή -- σε τι τη χρησιμοποίησες;
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_1_002_catherine_001	Είναι ένα πρότυπο που έχει ήδη χαραγμένο στη βάση του ένα μοτίβο νοημοσύνης. Έτσι, αν ήθελα να φτιάξω μια AI, δε θα χρειαζόταν να επινοήσω από την αρχή ολόκληρο μοντέλο, θα μπορούσα να επικεντρωθώ σε αυτό για το οποίο θα χρησιμοποιούνταν η AI.
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_1_003_player_001	Έχει κάθε AI επίγνωση του εαυτού της; Νομίζουν κι αυτές ότι είναι ο Σάιμον;
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_1_004_catherine_001	Τι; Όχι, Σάιμον. Μην ανησυχείς.
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_1_005_catherine_001	Δε βάζουμε απλώς ανθρώπους σε ρομπότ και μηχανήματα και τους αφήνουμε να τριγυρνάνε ελεύθεροι -- αυτό θα ήταν πολύ σκληρό -- δε λειτουργεί έτσι. Ή τουλάχιστον δε λειτουργούσε έτσι. Μηχανές με πραγματική συνείδηση, που νομίζουν ότι είναι άνθρωποι, είναι σίγουρα κάτι καινούριο.
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_1_006_player_001	Αλλά εσύ τις κράτησες με συνείδηση για το ARK.
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_1_007_catherine_001	Ναι, και ουσιαστικά χρειάστηκε να εφεύρω τη μέθοδο.
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_2_001_player_001	Δηλαδή δεν ανησυχείς ότι μπορεί να κυκλοφορούν κι άλλοι Σάιμον ή άλλες Κάθριν εκεί έξω;
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_2_002_catherine_001	Τώρα ανησυχώ. Έλεος, Σάιμον. Κάποιες σκέψεις καλύτερα να μένουν ασχολίαστες.
+Voices_02_05_theta_inside|dialog_3_postbrandonscan_1_001_player_001	Κάθριν, δε θα μπορούσαμε απλώς να εξαγάγουμε κάπως τον κωδικό από τα δεδομένα του Μπράντον; Ήταν τόσο σκληρό να τον επαναφέρουμε έτσι.
+Voices_02_05_theta_inside|dialog_3_postbrandonscan_1_002_catherine_001	Όχι, αυτό είναι αδύνατο. Οι αναμνήσεις δε λειτουργούν έτσι.
+Voices_02_05_theta_inside|dialog_3_postbrandonscan_1_003_player_001	Ας ελπίσουμε ότι άξιζε.
+Voices_02_05_theta_inside|dialog_3_postbrandonscan_2_001_player_001	Νιώθω απαίσια με την υπόθεση του Μπράντον. Ακόμα χειρότερα απ' ό,τι με το ρομπότ στο Δέλτα.
+Voices_02_05_theta_inside|dialog_3_postbrandonscan_2_002_catherine_001	Είναι για καλό σκοπό.
+Voices_02_05_theta_inside|dialog_3_simulationdone_1_001_player_001	Μόλις φέραμε αυτόν τον τύπο στη ζωή; Δηλαδή, είναι τέλεια σάρωση, φτιαγμένη για το ARK -- είναι ο πραγματικός.
+Voices_02_05_theta_inside|dialog_3_simulationdone_1_003_player_001	Και τον κλείσαμε. Του τα πήραμε όλα ξανά.
+Voices_02_05_theta_inside|dialog_3_simulationdone_1_004_catherine_001	Πίστευα πραγματικά ότι θα δούλευε. Ίσως μπορούμε να ξαναδοκιμάσουμε.
+Voices_02_05_theta_inside|dialog_3_simulationdone_2_001_player_001	Πρέπει να τον κλείσουμε; Δεν μπορούμε απλώς να τον κρατήσουμε ζωντανό μέχρι να πάρουμε τον κωδικό;
+Voices_02_05_theta_inside|dialog_3_simulationdone_2_002_catherine_001	Όσο περισσότερο εκτίθεται στο υπολογιστικό μοντέλο, τόσο περισσότερο θα κολλάει σε αυτό.
+Voices_02_05_theta_inside|dialog_3_simulationdone_2_003_player_001	Τι το τόσο κακό έχει να τον αφήσουμε να συνηθίσει λίγο;
+Voices_02_05_theta_inside|dialog_3_simulationdone_2_004_catherine_001	Θα τον τρέλαινε. Ας κρατήσουμε λοιπόν τις συνεδρίες σύντομες και τον πόνο στο ελάχιστο.
+Voices_02_05_theta_inside|dialog_3_simulationdone_3_001_player_001	Νομίζω ότι πρέπει να στήσουμε τη σκηνή ώστε να είναι πιο κοντά σε αυτό που θα περίμενε. Μόλις αρχίσει να αμφιβάλλει, το χάσαμε.
+Voices_02_05_theta_inside|dialog_3_simulationdone_3_002_catherine_001	Έχεις δίκιο. Πρέπει να το σκεφτούμε καλά. Χρειαζόμαστε περισσότερα δεδομένα.
+Voices_02_05_theta_inside|dialog_3_simulationdone_4_001_player_001	Πόσες φορές θα πρέπει να το κάνουμε αυτό;
+Voices_02_05_theta_inside|dialog_3_simulationdone_4_002_catherine_001	Έλα, Σάιμον. Μην τα παρατάς τώρα.
+Voices_02_05_theta_inside|dialog_3_simulationdone_5_001_player_001	Μεταφέρεται τίποτα; Δηλαδή, θα μπορούσε να θυμάται αυτή την κόλαση που του περνάμε;
+Voices_02_05_theta_inside|dialog_3_simulationdone_5_002_catherine_001	Η προσομοίωση δεν επηρεάζει ποτέ το μοτίβο της σάρωσης. Κάθε φορά είναι μια νέα αρχή.
+Voices_02_05_theta_inside|dialog_3_simulationdone_5_003_player_001	Αυτό είναι λίγο παρήγορο, υποθέτω.
+Voices_02_05_theta_inside|dialog_3_simulationdone_generic_001_player_001	Σε παρακαλώ, ας τελειώσει σύντομα αυτό.
+Voices_02_05_theta_inside|dialog_3_simulationdone_generic_002_player_001	Δώσε μας τον κωδικό επιτέλους.
+Voices_02_05_theta_inside|dialog_3_simulationdone_generic_003_player_001	Για όνομα του Θεού.
+Voices_02_05_theta_inside|dialog_3_simulationdone_destroychip_001_catherine_001	Δεν ξέρω τι να κάνω με τα δεδομένα. Αποφάσισε εσύ.
+Voices_02_05_theta_inside|dialog_3_entercathsroom_001_catherine_001	Έι, αυτό είναι το δωμάτιό μου.
+Voices_02_05_theta_inside|dialog_3_entercathsroom_002_player_001	Θέλεις να φέρω κάτι -- ένα ενθύμιο;
+Voices_02_05_theta_inside|dialog_3_entercathsroom_003_catherine_001	Όχι. Είναι απλώς αναμνήσεις.
+Voices_02_05_theta_inside|recording_3_sarangmemo_001_sarang_001	Ξέρατε ότι το ανθρώπινο σώμα αποτελείται από έως και 75 τρισεκατομμύρια μεμονωμένα κύτταρα; Συνήθως δε μένουν μαζί μας μέχρι να πεθάνουμε -- κάποια ζουν λίγες μέρες, ενώ άλλα λίγα χρόνια.
+Voices_02_05_theta_inside|recording_3_sarangmemo_001_sarang_002	Δεν επηρεαζόμαστε από τη σύντομη διάρκεια ζωής τους, αφού αντικαθίστανται από νέα κύτταρα που βοηθούν στη συντήρηση του σώματός μας.
+Voices_02_05_theta_inside|recording_3_sarangmemo_001_sarang_003	Δε νομίζω ότι θα ισχυριζόταν κανείς πως χάνουμε ποτέ την προσωπικότητά μας εξαιτίας αυτής της διαδικασίας, κι όμως βρισκόμαστε σαφώς σε διαρκή μεταμόρφωση.
+Voices_02_05_theta_inside|recording_3_sarangmemo_002_sarang_001	Πώς λοιπόν παραμένουμε οι ίδιοι;
+Voices_02_05_theta_inside|recording_3_sarangmemo_002_sarang_002	Μια συνεχής ροή σκέψης και αντίληψης διατηρεί μια αδιάσπαστη αλυσίδα συνέχειας, αυτό που γνωρίζουμε ως εαυτό μας.
+Voices_02_05_theta_inside|recording_3_sarangmemo_002_sarang_003	Η συνείδησή μας δεν είναι το μοτίβο του εγκεφάλου μας, αλλά μια συνεχώς αναδυόμενη οντότητα που βασίζεται σε αυτό το μοτίβο.
+Voices_02_05_theta_inside|recording_3_sarangmemo_003_sarang_001	Όταν η Δρ. Τσαν γεμίζει το ARK, αποτυπώνει μια στιγμή της ύπαρξής μας και την τοποθετεί μέσα στον ψηφιακό κόσμο.
+Voices_02_05_theta_inside|recording_3_sarangmemo_003_sarang_002	Σύντομα εσείς και ο ψηφιακός σας εαυτός θα απομακρυνθείτε, λόγω διαφορετικών εμπειριών, αλλά για ένα ελάχιστο διάστημα είστε ακριβώς οι ίδιοι.
+Voices_02_05_theta_inside|recording_3_sarangmemo_003_sarang_003	Με αδιάσπαστη συνέχεια θα συνεχίσει να ζει -- μια γεμάτη ζωή, χωρίς αμφιβολία, όχι λιγότερο αληθινή από εκείνη από την οποία αποσπάστηκε.
+Voices_02_05_theta_inside|recording_3_sarangmemo_004_sarang_001	Θυμηθείτε λοιπόν, δεν είστε το σώμα σας, είστε η αναδυόμενη οντότητα. Απλώς αυτή η οντότητα τυχαίνει να βρίσκεται σε δύο μέρη ταυτόχρονα για λίγο.
+Voices_02_05_theta_inside|recording_3_sarangmemo_004_sarang_003	Αν αφαιρούσατε το σώμα σας, θα ήσασταν απλώς ο μόνος που μπορείτε να είστε. Ο εαυτός σας μέσα στο ARK.
+Voices_02_05_theta_inside|recording_3_sarangmemo_005_sarang_002	Αφήστε το σώμα σας να πεθάνει και συνεχίστε στον ψηφιακό παράδεισο ανάμεσα στα άστρα.
+Voices_02_05_theta_inside|dialog_7_dunbatspeaks_001_dunbat_001	Δεν το αντέχω. Δεν το αντέχω. Δεν το αντέχω.
+Voices_02_05_theta_inside|dialog_7_dunbattoolate_001_dunbat_001	Κάθριν. Όλα αυτά είναι δικό σου φταίξιμο.
+Voices_02_05_theta_inside|dialog_7_dunbattoolate_002_dunbat_001	Όλα είναι δικό σου φταίξιμο!
+Voices_02_05_theta_inside|dialog_legacy_enter_001_catherine_001	Α, κατάλαβα.
+Voices_02_05_theta_inside|dialog_legacy_enter_002_player_001	Τι;
+Voices_02_05_theta_inside|dialog_legacy_enter_003_catherine_001	Κοίτα το τερματικό. Θέλω απλώς να βεβαιωθώ.
+Voices_02_05_theta_inside|dialog_legacy_munshibeforesimon_001_player_001	Ντέιβιντ Μούνσι; Πώς αυτό... τι είναι αυτό;
+Voices_02_05_theta_inside|dialog_legacy_seensimon_001_player_001	Κάθ, τι είναι αυτό; Γιατί έχεις αρχείο με εμένα;
+Voices_02_05_theta_inside|dialog_legacy_seensimon_002_catherine_001	Είσαι ένα από τα πρότυπα του Δρ. Μούνσι -- μια παλιά σάρωση.
+Voices_02_05_theta_inside|dialog_legacy_whatslegacyscan_001_player_001	Τι είναι η παλιά σάρωση;
+Voices_02_05_theta_inside|dialog_legacy_whatslegacyscan_002_catherine_001	Είναι ιστορικά πρότυπα για την κατασκευή AI. Κανένας μηχανικός που σέβεται τον εαυτό του δε θα τα χρησιμοποιούσε πια, αλλά είναι εξαιρετικά για εκμάθηση. Συνοδεύουν κάθε πακέτο ανάπτυξης.
+Voices_02_05_theta_inside|dialog_legacy_whatslegacyscan_003_player_001	Δηλαδή η σάρωση του εγκεφάλου μου έγινε πρότυπο για τεχνητή νοημοσύνη.
+Voices_02_05_theta_inside|dialog_legacy_whatslegacyscan_004_catherine_001	Θα έπρεπε να είσαι περήφανος.
+Voices_02_05_theta_inside|dialog_legacy_whatslegacyscan_005_player_001	Αυτό λύνει το μυστήριο. Δε χρειάστηκε ούτε μαγεία ούτε ταξίδι στο χρόνο. Ήμουν εδώ από πάντα, περιμένοντας κάποιον να χώσει μια φωτογραφία του εγκεφάλου μου σε μια στολή και να πατήσει το κουμπί.
+Voices_02_05_theta_inside|dialog_legacy_deletedimmediately_001_player_001	Είναι νεκρός, Κάθ. Ο πραγματικός Σάιμον είναι νεκρός.
+Voices_02_05_theta_inside|dialog_legacy_deletedimmediately_001_player_002	Κι εγώ είμαι ένα αντίγραφο εκείνης της σάρωσης που έκανε ο Μούνσι, που νομίζει ότι είναι ο Σάιμον.
+Voices_02_05_theta_inside|dialog_legacy_deletedimmediately_002_catherine_001	Τι περίμενες;
+Voices_02_05_theta_inside|dialog_legacy_deletedimmediately_003_player_001	Δεν ξέρω, δεν ξέρω τι ήλπιζα... μια εξήγηση, ίσως μια συγγνώμη.
+Voices_02_05_theta_inside|dialog_legacy_deletedimmediately_004_catherine_001	Λυπάμαι... λυπάμαι.
+Voices_02_05_theta_inside|dialog_legacy_deletedimmediately_005_player_001	Όχι από σένα.
+Voices_02_05_theta_inside|dialog_legacy_deletedimmediately_006_player_001	Τέλος πάντων, ευχαριστώ... υποθέτω.
+Voices_02_05_theta_inside|dialog_legacy_deletedimmediately_006_player_002	Διέγραψα το αρχείο, οπότε ελπίζω να είμαι ο τελευταίος Σάιμον που περνάει τα πάνδεινα σε αυτό το μέρος.
+Voices_02_05_theta_inside|dialog_legacy_deletedimmediately_007_catherine_001	Έτοιμος να προχωρήσουμε;
+Voices_02_05_theta_inside|dialog_legacy_deletedimmediately_008_player_001	Ναι, πάμε.
+Voices_02_05_theta_inside|dialog_legacy_deletedonreturn_001_player_001	Ελπίζω αυτό να σταματήσει κάθε μελλοντική τρέλα.
+Voices_02_05_theta_inside|dialog_legacy_deletedonreturn_002_catherine_001	Μόλις διέγραψες το νευρογράφημά σου;

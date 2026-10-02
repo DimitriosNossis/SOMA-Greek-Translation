@@ -1,0 +1,130 @@
+01_04_transport_station|GUIStationSettingTo	Επιβεβαίωση προορισμού
+01_04_transport_station|GUIStationWarningCaption	ΠΡΟΕΙΔΟΠΟΙΗΣΗ
+01_04_transport_station|GUIStationInformationCaption	ΠΛΗΡΟΦΟΡΙΕΣ
+01_04_transport_station|GUIStatusDisplayActivated01	Συστήματα OK
+01_04_transport_station|GUIStatusDisplayDepart	Αναχώρηση από[br]Ύψιλον B
+01_04_transport_station|GUIStatusDisplayWarning	Προσοχή![br]Εμπόδιο στις ράγες
+01_04_transport_station|GUIStatusDisplayWarningDetail	Επικείμενη σύγκρουση!
+01_04_transport_station|GUIStatusDisplayCrash	Ενεργοποίηση[br]φρένων έκτακτης ανάγκης
+01_04_transport_station|GUIStatusDisplayCrashDetail	Τα φρένα έκτακτης ανάγκης ενεργοποιήθηκαν
+01_04_transport_station|GUIStatusDisplayShutdown	Σφάλμα τροφοδοσίας![br]Φρένο έκτακτης ανάγκης
+01_04_transport_station|GUIStatusDisplayShutdownDetail	Φρένο έκτακτης ανάγκης
+01_04_transport_station|GUIStatusDisplayDeparting	Το τρένο αναχωρεί
+01_04_transport_station|GUIStatusDisplayDepartCaption	Αναχώρηση:
+01_04_transport_station|GUIStatusDisplayLowPowerCaption	Τροφοδοσία
+01_04_transport_station|GUIStatusDisplayLowPower	Τροφοδοσία[br]ασταθής
+01_04_transport_station|GUIDisplayETA	Άφιξη:
+01_04_transport_station|GUIDisplayDepth	Βάθος:
+01_04_transport_station|GUIAirlockBroken	ΕΝΤΟΠΙΣΤΗΚΕ ΔΙΑΡΡΟΗ: ΧΑΜΗΛΗ ΠΙΕΣΗ
+01_04_transport_station|GUIAirlockFixed	ΔΙΑΔΙΚΑΣΙΑ ΣΕ ΕΞΕΛΙΞΗ
+01_04_transport_station|GUIStationYouAreHere	ΕΙΣΤΕ ΕΔΩ
+01_04_transport_station|PipesNote	Pathos-II: Κατακλυζόμενος αεροφράκτης[br]Σετ επισκευής[br][br]- Διπλή αντλία x2[br]- Καθαριστικό πολλαπλών χρήσεων x1[br]- Πακέτο βαλβίδων x5[br]- Φλάντζες x10[br]- Κρουστικό κλειδί x1[br]- Προσαρμοζόμενοι σωλήνες x4
+02_01_ms_curie_outside|OK	OK
+02_01_ms_curie_outside|CloudComputerLoginMessage	Ανακτήθηκαν δεδομένα: ARK
+02_01_ms_curie_outside|CloudComputerLoginTitle	Λάμδα
+02_01_ms_curie_outside|Interviews	Δημοσκόπηση
+02_01_ms_curie_outside|CityPlans	Περιβάλλοντα ARK
+02_01_ms_curie_outside|ARKSchematics	Σχέδια ARK
+02_01_ms_curie_outside|Examination	Έρευνα βαθμονόμησης v0.3
+02_01_ms_curie_outside|Tracking	Εντοπισμός ARK
+02_01_ms_curie_outside|Interview_1	Συνέντευξη #1
+02_01_ms_curie_outside|Interview_2	Συνέντευξη #2
+02_01_ms_curie_outside|Interview_3	Συνέντευξη #3
+02_01_ms_curie_outside|InterviewName_1	Ρόμπιν Μπας
+02_01_ms_curie_outside|InterviewName_2	Ίαν Πέντερσεν
+02_01_ms_curie_outside|InterviewName_3	Μαρκ Σαράνγκ
+02_01_ms_curie_outside|InterviewDate_1	7 Ιουλίου 2103
+02_01_ms_curie_outside|InterviewDate_2	8 Ιουλίου 2103
+02_01_ms_curie_outside|InterviewDate_3	9 Ιουλίου 2103
+02_01_ms_curie_outside|Name:	Όνομα:
+02_01_ms_curie_outside|Date:	Ημερομηνία:
+02_01_ms_curie_outside|Play	Αναπαραγωγή
+02_01_ms_curie_outside|Files	Αρχεία
+02_01_ms_curie_outside|Subject	Θέμα
+02_01_ms_curie_outside|Images	Εικόνες
+02_01_ms_curie_outside|Previous	Προηγούμενο
+02_01_ms_curie_outside|Next	Επόμενο
+02_01_ms_curie_outside|CityPlanImageDesc_1	ΣΤΟΙΧΕΙΟ: CYAN v2[br]- 5,11 τετραγωνικά χιλιόμετρα[br]- Αρθρωτός χώρος
+02_01_ms_curie_outside|CityPlanImageDesc_2	ΣΤΟΙΧΕΙΟ: KEYWOOD v4[br]- 12,2 τετραγωνικά χιλιόμετρα[br]- Μικτό φυλλοβόλο δάσος
+02_01_ms_curie_outside|CityPlanImageDesc_3	ΣΤΟΙΧΕΙΟ: AUROUS v2[br]- 2 τετραγωνικά χιλιόμετρα[br]- Αστικό πάρκο
+02_01_ms_curie_outside|ExaminationAppName	Έρευνα βαθμονόμησης v0.3
+02_01_ms_curie_outside|ExaminationIntro	Καλώς ήρθατε![br][br]Αν διαβάζετε αυτό το μήνυμα, έχετε μπει με επιτυχία στο ARK. Αυτή η έρευνα έχει σχεδιαστεί για να βοηθήσει τους δημιουργούς να κατανοήσουν καλύτερα την υποκειμενική σας εμπειρία και πώς να βελτιώσουν την ευημερία σας.[br][br]Παρακαλούμε συνεχίστε με την έρευνα.
+02_01_ms_curie_outside|StartExamination	Συνέχεια
+02_01_ms_curie_outside|Next Question	Επόμενη ερώτηση
+02_01_ms_curie_outside|Question	Ερώτηση
+02_01_ms_curie_outside|Answers	Απαντήσεις
+02_01_ms_curie_outside|Question_0	1. Πώς θα περιγράφατε τη σωματική σας κατάσταση;
+02_01_ms_curie_outside|Answer_0_0	Νιώθω φυσιολογικά.
+02_01_ms_curie_outside|Answer_0_1	Νιώθω αναζωογόνηση - μια καλύτερη εκδοχή του εαυτού μου.
+02_01_ms_curie_outside|Answer_0_2	Νιώθω ξένο σώμα - επισκέπτης μέσα σε ένα άλλο σώμα.
+02_01_ms_curie_outside|Answer_0_3	Νιώθω ψεύτικο - όχι πια αληθινός άνθρωπος.
+02_01_ms_curie_outside|Question_1	2. Πώς θα περιγράφατε την ψυχική σας κατάσταση;
+02_01_ms_curie_outside|Answer_1_0	Νιώθω φυσιολογικά.
+02_01_ms_curie_outside|Answer_1_1	Νιώθω αποσύνδεση - ένα διαχωρισμό νου και σώματος.
+02_01_ms_curie_outside|Answer_1_2	Νιώθω αλλαγή - μια μεταβολή στο χαρακτήρα μου.
+02_01_ms_curie_outside|Answer_1_3	Νιώθω χαμένο - δεν υπάρχω πια.
+02_01_ms_curie_outside|Question_2	3. Πώς θα περιγράφατε τις αισθήσεις σας;
+02_01_ms_curie_outside|Answer_2_0	Όπως αναμενόταν - φυσιολογικές.
+02_01_ms_curie_outside|Answer_2_1	Νιώθω μεγαλύτερη ευαισθησία και επίγνωση του περιβάλλοντός μου.
+02_01_ms_curie_outside|Answer_2_2	Νιώθω μπλοκάρισμα - σαν να έχουν μουδιάσει οι αισθήσεις μου.
+02_01_ms_curie_outside|Answer_2_3	Μου λείπουν μία ή περισσότερες από τις φυσικές μου αισθήσεις.
+02_01_ms_curie_outside|Question_3	4. Πώς θα περιγράφατε την αίσθηση της νέας σας κατάστασης;
+02_01_ms_curie_outside|Answer_3_0	Είναι ευχάριστη.
+02_01_ms_curie_outside|Answer_3_1	Δε μου αρέσει - κάτι δεν πάει καλά.
+02_01_ms_curie_outside|Answer_3_2	Είναι ανησυχητική - όλα μοιάζουν κατασκευασμένα.
+02_01_ms_curie_outside|Answer_3_3	Καταθλιπτική - δεν μπορώ να διώξω την αίσθηση ότι όλα είναι ψεύτικα.
+02_01_ms_curie_outside|Question_4	5. Σας ενοχλεί το γεγονός ότι δεν είστε πλέον αυστηρά άνθρωπος;
+02_01_ms_curie_outside|Answer_4_0	Όχι, νιώθω μια χαρά.
+02_01_ms_curie_outside|Answer_4_1	Κάπως, νιώθω ότι έχασα τον εαυτό μου,
+02_01_ms_curie_outside|Answer_4_2	Ναι, πενθώ την προηγούμενη ύπαρξή μου.
+02_01_ms_curie_outside|Answer_4_3	Δε με νοιάζει τι μορφή θα πάρω, αρκεί να συνεχίσω.
+02_01_ms_curie_outside|Question_5	6. Πώς αντιλαμβάνεστε τη νέα σας ύπαρξη;
+02_01_ms_curie_outside|Answer_5_0	Είναι άμεση συνέχεια του προηγούμενου εαυτού μου.
+02_01_ms_curie_outside|Answer_5_1	Σαν ένα νέο κεφάλαιο στη ζωή μου.
+02_01_ms_curie_outside|Answer_5_2	Είναι σαν να γεννιέμαι ξανά από την αρχή - μια εντελώς νέα αρχή.
+02_01_ms_curie_outside|Answer_5_3	Είναι κάτι εντελώς διαφορετικό και δεν έχει καμία σχέση με τον προηγούμενο εαυτό μου.
+02_01_ms_curie_outside|Question_6	7. Πιστεύετε ότι αυτή η νέα ύπαρξη θα είναι μια ζωή που αξίζει να τη ζήσει κανείς;
+02_01_ms_curie_outside|Answer_6_0	Ναι, όσο και η προηγούμενη ζωή μου.
+02_01_ms_curie_outside|Answer_6_1	Ναι, αλλά με λιγότερο νόημα.
+02_01_ms_curie_outside|Answer_6_2	Ίσως μπορούμε να βρούμε ένα νέο νόημα σε αυτόν τον κόσμο.
+02_01_ms_curie_outside|Answer_6_3	Όχι, είναι πολύ αποκομμένη από την πραγματικότητα και από όλα όσα ξέρω.
+02_01_ms_curie_outside|Question_7	8. Θα προτιμούσατε να αφαιρεθείτε από το πρόγραμμα και να αποδεχτείτε το θάνατο;
+02_01_ms_curie_outside|Answer_7_0	Όχι.
+02_01_ms_curie_outside|Answer_7_1	Ίσως - πρέπει να το σκεφτώ.
+02_01_ms_curie_outside|Answer_7_2	Ναι.
+02_01_ms_curie_outside|Saving	Αποθήκευση
+02_01_ms_curie_outside|Alert	Ειδοποίηση
+02_01_ms_curie_outside|ExaminationEnd	Οι απαντήσεις σας αποθηκεύτηκαν. Σας ευχαριστούμε για τη συμμετοχή.[br]- Η ομάδα του ARK
+02_01_ms_curie_outside|SignalStrength	Αναζήτηση ARK...
+02_01_ms_curie_outside|BadSignal	Το ARK δε βρίσκεται στην επιλεγμένη περιοχή
+02_01_ms_curie_outside|GoodSignal	Το ARK βρίσκεται στον τομέα
+02_01_ms_curie_outside|SelectSearchSector	Επιλέξτε τομέα για σάρωση
+02_01_ms_curie_outside|Results	Αποτελέσματα
+02_01_ms_curie_outside|TrackingDone	Το ARK εντοπίστηκε:[br]Pathos-II[br]Βάση Ταυ (Ιατρείο)[br][br]Γεωγρ. πλάτος 35N 13'2.26"[br]Γεωγρ. μήκος 36W 1'46.78"
+02_01_ms_curie_outside|OmniToolNotInserted	Συνδέστε το Omnitool για λειτουργία
+02_01_ms_curie_outside|CorextChipNotInserted	ΣΦΑΛΜΑ - Απαιτείται τσιπ φλοιού για αυτόματο έλεγχο.
+02_01_ms_curie_outside|OmniToolStatus	Καλώς ήρθατε, Λ. Μερόν (ΥΨΙΛΟΝ)
+02_01_ms_curie_outside|LifeBoatCortexChip	ΣΦΑΛΜΑ - Απαιτείται τσιπ φλοιού
+02_01_ms_curie_outside|CometArticle_Text	Κρις,[br]Έμεινα ξύπνιος όλη τη νύχτα. Μου φάνηκε κρίμα να κοιμηθώ. Έχω την τηλεόραση ανοιχτή στο βάθος, οι παρουσιαστές καλύπτουν τον κομήτη που έρχεται σαν να κάνουν αντίστροφη μέτρηση για την Πρωτοχρονιά. Ξέρω ότι είναι λάθος να εύχομαι να ήσουν εδώ μαζί μου. Υποθέτω ότι αν κάποιος έχει πιθανότητες να επιζήσει από αυτό το πράγμα, είστε εσείς εκεί κάτω από τα κύματα. Ελπίζω να μπορέσεις να συνεχίσεις, αν είναι μια ζωή που αξίζει να τη ζεις.[br][br]Φαίνεται ότι τα σκατά είναι έτοιμα να πάρουν τον ανεμιστήρα. Καλύτερα να πατήσω αποστολή πριν μας φτάσει το ωστικό κύμα.[br][br]Είμαι περήφανος για σένα, γιε μου.[br]Ο μπαμπάς
+02_02_ms_curie_inside|EscapePodSign	Σκάφος διάσωσης
+02_02_ms_curie_inside|SafetyProcedures	Διαδικασίες ασφαλείας #12: Διατήρηση[br][br]Σε καταστάσεις έκτακτης ανάγκης, τα διαφράγματα σφραγίζουν αυτόματα τμήματα του σκάφους για να γίνει πιο αποδοτική η υποστήριξη ζωής. Ενεργοποιήστε τη λειτουργία Διατήρησης για χώρους που χρησιμοποιούνται μόνο για τη συντήρηση τροφίμων ή άλλων ευαίσθητων στο κλίμα αντικειμένων, όπως φυτά ή φάρμακα.
+02_02_ms_curie_inside|ButtonPrev	Προηγούμενη σελίδα
+02_02_ms_curie_inside|ButtonNext	Επόμενη σελίδα
+02_02_ms_curie_inside|PortmapButton1	Λισαβόνα (Κύριο)
+02_02_ms_curie_inside|PortmapButton2	Κάντιθ (Βοηθητικό)
+02_02_ms_curie_inside|PortmapButton3	Βρέστη
+02_02_ms_curie_inside|PortmapButton4	Καζαμπλάνκα
+02_02_ms_curie_inside|PortmapButton5	Δουβλίνο
+02_02_ms_curie_inside|PortmapButton6	Πλίμουθ
+02_02_ms_curie_inside|PortmapButton7	Ραμπάτ
+02_02_ms_curie_inside|PortmapButton8	Ταγγέρη
+02_02_ms_curie_inside|PortmapButton9	Pathos II - Λάμδα
+02_02_ms_curie_inside|PortmapLisbon	Λισαβόνα (Κύριο)[br][br]Εμφύλιος πόλεμος
+02_02_ms_curie_inside|PortmapCadiz	Κάντιθ (Βοηθητικό)[br][br]Καταστράφηκε από φωτιά
+02_02_ms_curie_inside|PortmapBrest	Βρέστη[br][br]Εχθρικές παραστρατιωτικές δυνάμεις
+02_02_ms_curie_inside|PortmapCasablanca	Καζαμπλάνκα[br][br]Εμπόλεμη ζώνη
+02_02_ms_curie_inside|PortmapDublin	Δουβλίνο[br]Καταστράφηκε από όπλα μαζικής καταστροφής[br]Ραδιενεργή μόλυνση
+02_02_ms_curie_inside|PortmapPlymouth	Πλίμουθ[br][br]Γενοκτονία
+02_02_ms_curie_inside|PortmapRabat	Ραμπάτ[br][br]Ερημιά
+02_02_ms_curie_inside|PortmapTangier	Ταγγέρη[br][br]Αρκετές ένοπλες ομάδες σε μάχη μεταξύ τους
+02_02_ms_curie_inside|PortmapPathos	Pathos II - Λάμδα[br][br]Τελευταία ευκαιρία;

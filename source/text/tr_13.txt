@@ -1,0 +1,229 @@
+04_02_tau_inside|ReactorControlTerminalApp_ReactorInfo	ΠΛΗΡΟΦΟΡΙΕΣ ΑΝΤΙΔΡΑΣΤΗΡΑ
+04_02_tau_inside|ReactorControlTerminalReactorCode	Επιλέξτε αντιδραστήρα:
+04_02_tau_inside|ReactorControlTerminal_CommandCodeHeader	Κωδικός εντολής
+04_02_tau_inside|ReactorControlTerminal_CommandFeedbackHeader	Η εντολή εκτελέστηκε
+04_02_tau_inside|ReactorControlTerminal_CommandExecutingHeader	Παρακαλώ περιμένετε...
+04_02_tau_inside|ReactorControlTerminal_DecontaminationReadied	Η απολύμανση είναι έτοιμη! Για να εκτελεστεί, πρέπει να χρησιμοποιηθούν και τα δύο κλειδιά του αντιδραστήρα στο θάλαμο του αντιδραστήρα.
+04_02_tau_inside|ReactorControlTerminal_BatteryBypassed	Η μπαταρία παρακάμπτεται πλέον και μπορεί να αφαιρεθεί με ασφάλεια.
+04_02_tau_inside|ReactorControlTerminal_BatteryNotBypassed	Η μπαταρία δεν παρακάμπτεται πλέον.
+04_02_tau_inside|ReactorControlTerminal_KineticBuffer	Ο κινητικός αποσβεστήρας άδειασε. Αφήστε λίγα δευτερόλεπτα για να σταθεροποιηθούν ξανά οι τουρμπίνες.
+04_02_tau_inside|ReactorControlTerminal_ResetPosition	Οι δακτύλιοι του αντιδραστήρα επανήλθαν!
+04_02_tau_inside|ReactorControlTerminal_ReactorLabel	ΑΝΤΙΔΡΑΣΤΗΡΑΣ:
+04_02_tau_inside|ReactorControlTerminal_EffectLabel	ΙΣΧΥΣ:
+04_02_tau_inside|ReactorControlTerminal_FreqLabel	ΣΥΧΝ.:
+04_02_tau_inside|ReactorControlTerminal_VoltageLabel	ΤΑΣΗ:
+04_02_tau_inside|ReactorControlTerminal_ShutdownLabel	ΤΕΡΜΑΤΙΣΜΟΣ:
+04_02_tau_inside|ReactorControlTerminal_BackupPowerLabel	ΕΦΕΔΡΙΚΗ ΕΝΕΡΓΕΙΑ:
+04_02_tau_inside|ReactorControlTerminal_Online	ΣΕ ΛΕΙΤΟΥΡΓΙΑ
+04_02_tau_inside|ReactorControlTerminal_Offline	ΑΝΕΝΕΡΓΟ
+04_02_tau_inside|ReactorControlTerminal_Active	ΕΝΕΡΓΟ
+04_02_tau_inside|ReactorControlTerminal_Inactive	ΑΝΕΝΕΡΓΟ
+04_02_tau_inside|ReactorControlTerminal_NA	Μ/Δ
+04_02_tau_inside|ReactorControlTerminalError_IncorrectCommandCode	Μη έγκυρος κωδικός εντολής.
+04_02_tau_inside|ReactorControlTerminalError_TestRotation	Οι διαγνωστικές μονάδες είναι προς το παρόν απενεργοποιημένες.
+04_02_tau_inside|ReactorControlTerminalError_FlushTurbine	Ο αντιδραστήρας πρέπει να τερματιστεί πριν από την έκπλυση των τουρμπινών.
+04_02_tau_inside|ReactorControlTerminalError_RunGenerator	Η γεννήτρια λειτουργεί ήδη.
+04_02_tau_inside|ReactorControlTerminalError_DecontaminationReady	Η απολύμανση εκκρεμεί ήδη. Χρησιμοποιήστε τα κλειδιά στο θάλαμο του αντιδραστήρα για να εκτελεστεί.
+04_02_tau_inside|ReactorControlTerminalError_DecontaminationInProgress	Απολύμανση σε εξέλιξη...
+04_02_tau_inside|ReactorControlTerminalError_DecontaminationNoRadiation	Δε χρειάζεται απολύμανση. Τα επίπεδα ακτινοβολίας είναι φυσιολογικά.
+04_02_tau_inside|ReactorControlTerminalError_ResetPositionRunning	Η εντολή είναι απενεργοποιημένη όσο ο αντιδραστήρας λειτουργεί.
+04_02_tau_inside|ReactorControlTerminalError_InvalidReactorNo	Δε βρέθηκε αντιδραστήρας με το συγκεκριμένο αριθμό.
+04_02_tau_inside|ReactorControlTerminalError_RestartProductionRunning	Η εντολή είναι απενεργοποιημένη όσο ο αντιδραστήρας λειτουργεί.
+04_02_tau_inside|ReactorControlTerminalError_ReactorBroken	Δεν είναι δυνατή η σύνδεση με τον REACTOR2550!
+04_02_tau_inside|ReactorControlTerminal_Info	ΠΛΗΡΟΦΟΡΙΕΣ ΑΝΤΙΔΡΑΣΤΗΡΑ:[br]Τουρμπίνα κινητικών διακυμάνσεων κλειστού βρόχου που μετατρέπει τη δραστηριότητα των θερμικών πηγών σε ηλεκτρική ενέργεια.
+04_02_tau_inside|ReactorControlTerminal_ReactorWarning	ΠΡΟΕΙΔΟΠΟΙΗΣΗ ΑΚΤΙΝΟΒΟΛΙΑΣ!
+04_02_tau_inside|ReactorControlTerminal_AccessHistory	2103-12-02: Τζιν Γιοσίντα[br]2103-12-13: Τζιν Γιοσίντα[br]2103-12-23: Τζιν Γιοσίντα[br]2103-12-26: Τζιν Γιοσίντα
+04_02_tau_inside|CommRoomTerminalApp_Transmission	ΜΕΤΑΔΟΣΗ
+04_02_tau_inside|CommRoomTerminalApp_CommLogs	ΑΡΧΕΙΟ ΕΠΙΚΟΙΝΩΝΙΩΝ
+04_02_tau_inside|CommRoomTerminalApp_PhiStatus	ΚΑΤΑΣΤΑΣΗ ΦΙ
+04_02_tau_inside|CommRoomTerminal_Transmission_1	ΥΨΙΛΟΝ
+04_02_tau_inside|CommRoomTerminal_Transmission_2	ΘΗΤΑ
+04_02_tau_inside|CommRoomTerminal_Transmission_3	ΛΑΜΔΑ
+04_02_tau_inside|CommRoomTerminal_Transmission_4	ΔΕΛΤΑ
+04_02_tau_inside|CommRoomTerminal_Transmission_5	ΟΜΙΚΡΟΝ
+04_02_tau_inside|CommRoomTerminal_Transmission_6	ΦΙ
+04_02_tau_inside|CommRoomTerminal_Transmission_7	ΩΜΕΓΑ
+04_02_tau_inside|CommRoomTerminal_Transmission_8	ΛΙΣΑΒΟΝΑ
+04_02_tau_inside|CommRoomTerminal_Transmission_9	ΚΑΝΤΙΘ
+04_02_tau_inside|CommRoomTerminal_LandLineError	Δεν είναι δυνατή η σύνδεση!
+04_02_tau_inside|CommRoomTerminal_CommLogs	2103-01-09 - Εξερχόμενη : Όμικρον - Χέρμπερ[br]2103-01-11 - Εισερχόμενη : Όμικρον - Χέρμπερ[br]2103-01-17 - Εξερχόμενη : Όμικρον - Χέρμπερ[br]2103-01-24 - Εισερχόμενη : Φι - Τσιολκόφσκι[br]2103-02-12 - Εξερχόμενη : Όμικρον - Χέρμπερ[br]2103-03-04 - Εξερχόμενη : Όμικρον - Χέρμπερ[br]2103-03-26 - Εξερχόμενη : Φι - Γιοσίντα[br]2103-04-02 - Εξερχόμενη : Όμικρον - Χέρμπερ
+04_02_tau_inside|CommRoomTerminal_PhiNoSelection	ΕΛΕΓΧΟΣ ΚΑΤΑΣΤΑΣΗΣ
+04_02_tau_inside|CommRoomTerminal_PhiInfoHeader	ΠΛΗΡΟΦΟΡΙΕΣ
+04_02_tau_inside|CommRoomTerminal_PhiArea_1	ΣΗΡΑΓΓΕΣ ΠΡΟΣΒΑΣΗΣ
+04_02_tau_inside|CommRoomTerminal_PhiArea_2	ΚΥΡΙΩΣ ΦΙ
+04_02_tau_inside|CommRoomTerminal_PhiArea_3	ΔΚ ΩΜΕΓΑ
+04_02_tau_inside|CommRoomTerminal_PhiAreaInfo_1	ΣΗΡΑΓΓΕΣ ΠΡΟΣΒΑΣΗΣ (Φι/Ταυ) - Ασταθείς
+04_02_tau_inside|CommRoomTerminal_PhiAreaInfo_2	ΦΙ[br]Σημείο εκτόξευσης: OK[br]Κέντρο ελέγχου αποστολής: OK[br]Συναρμολόγηση: OK[br][br]Η βάση λειτουργεί πλήρως
+04_02_tau_inside|CommRoomTerminal_PhiAreaInfo_3	ΔΙΑΣΤΗΜΙΚΟ ΚΑΝΟΝΙ ΩΜΕΓΑ[br]Εύκαμπτη κάννη: 7290m[br]Φορτίο (μέγ.): 10 τόνοι[br]Ταχύτητα (μέγ.): 42 000 km/h
+04_02_tau_inside|InfirmaryTerminalApp_Airlocks	ΠΟΡΤΕΣ ΑΕΡΟΦΡΑΚΤΩΝ
+04_02_tau_inside|InfirmaryTerminalApp_Media	ΠΟΛΥΜΕΣΑ
+04_02_tau_inside|InfirmaryTerminalApp_Docs	ΠΡΟΣΦΑΤΑ ΕΓΓΡΑΦΑ
+04_02_tau_inside|InfirmaryTerminalApp_Film	ΤΑΙΝΙΕΣ
+04_02_tau_inside|InfirmaryTerminalApp_Music	ΜΟΥΣΙΚΗ
+04_02_tau_inside|InfirmaryTerminalApp_Photos	ΦΩΤΟΓΡΑΦΙΕΣ
+04_02_tau_inside|InfirmaryTerminalFile_1	ΤΡΟΦΗ ΕΚΤΑΚΤΗΣ ΑΝΑΓΚΗΣ[br]της Ναντίν Μάστερς[br][br]Μια διεξοδική ματιά στο ποιες κοινές χημικές ουσίες και ενώσεις που υπάρχουν στο Pathos-II θα μπορούσαν να σας κρατήσουν ζωντανούς σε καταστάσεις έκτακτης ανάγκης.[br][br]Τελευταία πρόσβαση από: Σάρα Λίντγουολ
+04_02_tau_inside|InfirmaryTerminalFile_2	ΘΡΕΨΗ ΜΕΣΩ ΤΩΝ ΦΛΕΒΩΝ[br]του Ρίτσαρντ Χόλαντ[br][br]Εγχειρίδιο για το πώς να τρέφετε αναίσθητους ή σε κώμα συναδέλφους με ενδοφλέβιο ορό.[br][br]Τελευταία πρόσβαση από: Σάρα Λίντγουολ
+04_02_tau_inside|InfirmaryTerminalFile_3	ΜΕΤΑΤΡΟΠΕΣ ΜΕΤΑ ΤΗΝ ΚΑΤΑΣΚΕΥΗ[br]της Άστριντ Κρίερ[br][br]Μέθοδοι για να δημιουργηθεί χώρος για επιπλέον φορτίο αφού το περίβλημα έχει κατασκευαστεί και έχει φύγει από το Δέλτα.[br][br]Τελευταία πρόσβαση από: Κάθριν Τσαν
+04_02_tau_inside|InfirmaryTerminalFileName_1	ΤΡΟΦΗ ΕΚΤΑΚΤΗΣ ΑΝΑΓΚΗΣ
+04_02_tau_inside|InfirmaryTerminalFileName_2	ΘΡΕΨΗ
+04_02_tau_inside|InfirmaryTerminalFileName_3	ΜΕΤΑΤΡΟΠΕΣ
+04_02_tau_inside|InfirmaryTerminalNoFilmError	Εντοπίστηκε αλλοίωση δεδομένων!
+04_02_tau_inside|DoorControlApp_Name	ΚΛΕΙΔΑΡΙΕΣ
+04_02_tau_inside|DoorControlApp_Label	Έλεγχος κλειδαριών
+04_02_tau_inside|DoorControlAppRoom_1	ΣΥΝΤΟΝΙΣΜΟΣ[br]Σεντέγιο, Άμπο
+04_02_tau_inside|DoorControlAppRoom_2	ΕΞΟΔΟΣ προς[br]Εμπρός - T1
+04_02_tau_inside|DoorControlAppRoom_3	ΑΠΟΘΗΚΗ
+04_02_tau_inside|DoorControlAppRoom_4	ΘΑΛΑΜΟΣ A[br]Ρος, Γιόχαν
+04_02_tau_inside|DoorControlAppRoom_5	ΘΑΛΑΜΟΣ B[br]Κούτσι, Άντζι[br]Εσπινόζα, Ρενάτα
+04_02_tau_inside|DoorControlAppRoom_6	ΘΑΛΑΜΟΣ C[br]Οκλέρ, Βικ
+04_02_tau_inside|DoorControlAppRoom_7	ΘΑΛΑΜΟΣ D[br]Γκλάσερ, Στιβ[br]Γιοσίντα, Τζιν
+04_02_tau_inside|DoorControlAppRoom_8	ΜΠΑΝΙΟ
+04_02_tau_inside|DoorControlAppRoom_9	ΙΑΤΡΕΙΟ[br](Χωρίς προσωπικό)
+04_02_tau_inside|DoorControlAppRoom_10	ΕΞΟΔΟΣ προς[br]Φι/Διαστημικό Κανόνι[br](Αεροφράκτης)
+04_02_tau_inside|DoorControlApp_Locked	Κλειδωμένη
+04_02_tau_inside|DoorControlApp_Unlocked	Ξεκλείδωτη
+04_02_tau_inside|DoorControlApp_Broken	ΣΦΑΛΜΑ
+04_02_tau_inside|IntercomApp_Label	ΕΝΔΟΕΠΙΚΟΙΝΩΝΙΑ
+04_02_tau_inside|IntercomApp_Room_1	Συντονισμός
+04_02_tau_inside|IntercomApp_Room_2	Έλεγχος αντιδραστήρα
+04_02_tau_inside|IntercomApp_Room_3	Κοινόχρηστος χώρος
+04_02_tau_inside|IntercomApp_Room_4	Ιατρείο
+04_02_tau_inside|IntercomApp_Room_5	Γραφείο Οκλέρ
+04_02_tau_inside|IntercomApp_Call	Κλήση
+04_02_tau_inside|IntercomApp_Hangup	Τερματισμός
+04_02_tau_inside|AirlockApp_Label	Έλεγχος αεροφράκτη
+04_02_tau_inside|AirlockAppDoor_1	ΚΥΡΙΑ
+04_02_tau_inside|AirlockAppDoor_2	ΔΕΥΤΕΡΕΥΟΥΣΑ
+04_02_tau_inside|LifeSupportTerminal_Label	Υποστήριξη ζωής:
+04_02_tau_inside|LifeSupportTerminalStatus_Active	Ενεργή
+04_02_tau_inside|LifeSupportTerminalStatus_Inactive	Απενεργοποιημένη
+04_02_tau_inside|LifeSupportTerminal_TurnOffButton	Απενεργοποίηση
+04_02_tau_inside|LifeSupportTerminal_TurnOffHeader	Προειδοποίηση
+04_02_tau_inside|LifeSupportTerminal_TurnOffWarning	Απενεργοποίηση υποστήριξης ζωής;
+04_02_tau_inside|ARKTerminal_Active	ΚΑΤΑΣΤΑΣΗ ARK:[br][br]ΣΕ ΛΕΙΤΟΥΡΓΙΑ
+04_02_tau_inside|ARKTerminal_Paused	ΚΑΤΑΣΤΑΣΗ ARK:[br][br]ΣΕ ΠΑΥΣΗ[br]ΗΜΕΡΑ 312 - 10:07:31
+04_02_tau_inside|ARKTerminal_EjectButton	ΕΞΑΓΩΓΗ
+04_02_tau_inside|CrewMember1PadLogin	ΣΥΝΔΕΔΕΜΕΝΟΣ: ΤΖΑΣΠΕΡ ΧΙΛ
+04_02_tau_inside|CrewMember1Pad_1	ΘΗΤΑ[br]Όλα πήγαν καλά. Όλο το πλήρωμα σαρώθηκε και αποθηκεύτηκε στο ARK. Φορτώνουμε το σάτλ για Όμικρον. Φεύγουμε το συντομότερο.
+04_02_tau_inside|CrewMember1Pad_2	ΟΜΙΚΡΟΝ[br]Η Ιμς και η ομάδα της μας υποδέχτηκαν με ανοιχτές αγκάλες. Οι σαρώσεις πήγαν καλά, θα πρέπει να έχουμε τους περισσότερους.
+04_02_tau_inside|CrewMember1Pad_3	ΤΑΥ[br]Βρήκαμε πέντε επιζώντες στο Ταυ. Είναι αποκλεισμένοι εδώ εδώ και μήνες χωρίς επικοινωνία με ασύρματο και χωρίς κανονικό φαγητό. Καταφέραμε να τους σαρώσουμε όλους, αν και υποψιάζομαι ότι η άφιξή τους θα δημιουργήσει προβλήματα μέσα στο ARK, αφού νιώθουν ότι το Όμικρον τους εγκατέλειψε. Ελπίζω μόνο ότι όλοι θα μπορέσουν να συγχωρήσουν ο ένας τον άλλον.
+04_02_tau_inside|CrewMember1Pad_4	ΦΙ[br]Έγινε της κακομοίρας. Δεν μπορέσαμε να εκτοξεύσουμε. Γυρνάμε στο Ταυ να δούμε τι θα κάνουμε.
+04_02_tau_inside|CatherinePadLogin	ΣΥΝΔΕΔΕΜΕΝΗ: ΚΑΘΡΙΝ ΤΣΑΝ
+04_02_tau_inside|CatherinePadFileHeader	ΑΡΧΕΙΑ
+04_02_tau_inside|CatherinePadFile_1	ΘΗΤΑ[br]Μαζέψαμε όλα όσα χρειαζόμαστε. Αύριο θα πάρουμε το σάτλ για Όμικρον. Δεν έχω πάει ποτέ στις άλλες βάσεις, εκτός από το Λάμδα. Θα έχει ενδιαφέρον. Ελπίζω να καταλαβαίνουν τι προσπαθούμε να κάνουμε.
+04_02_tau_inside|CatherinePadFile_2	ΟΜΙΚΡΟΝ[br]Υπήρξαν ερωτήσεις για το ARK και για το τι είναι, αλλά ο Τζάσπερ τους έπεισε γρήγορα. Δεν είμαι σίγουρη ότι θα τα κατάφερνα εγώ. Χαίρομαι που δεν είμαι μόνη σε αυτό. Πήρε λίγο χρόνο, αλλά το πλήρωμα σαρώθηκε με επιτυχία μόλις σύνδεσα σωστά τη θέση πιλότου.
+04_02_tau_inside|CatherinePadFile_3	ACR[br]Η κάθοδος ήταν λίγο ταραγμένη, αλλά χωρίς πραγματικό κίνδυνο. Τώρα τα πράγματα δυσκολεύουν με το ARK. Είναι βαρύ και χωρίς σάτλ πρέπει να το κουβαλήσουμε μέχρι το Ταυ.
+04_02_tau_inside|CatherinePadFile_4	ΤΑΥ[br]Ο Οκλέρ και οι άλλοι αιφνιδιάστηκαν. Δεν περίμεναν να εμφανιστούμε. Νομίζω ότι έχουν περάσει δύσκολα.
+04_02_tau_inside|CatherinePadFile_5	ΦΙ[br]Καθ' οδόν προς το Φι. Το Ταυ έχει χτυπηθεί πολύ άσχημα. Φοβόμουν ότι ο αεροφράκτης θα κατέρρεε κατά την έξοδο. Πρέπει να προσέξουμε όταν επιστρέψουμε.
+04_02_tau_inside|ToBeFlesherPadApp_Diary	ΗΜΕΡΟΛΟΓΙΟ
+04_02_tau_inside|ToBeFlesherPadApp_Recordings	ΗΧΟΓΡΑΦΗΣΕΙΣ
+04_02_tau_inside|ToBeFlesherPadFileName_1	2103-09-13
+04_02_tau_inside|ToBeFlesherPadFileName_2	2103-11-19
+04_02_tau_inside|ToBeFlesherPadFileName_3	2103-12-25
+04_02_tau_inside|ToBeFlesherPadFileName_4	2103-12-26
+04_02_tau_inside|ToBeFlesherPadFile_1	Ήλπιζα να δω το Όμικρον σήμερα. Η εκκένωση που διέταξαν οι άνθρωποι στο Θήτα ήταν δώρο, μια δικαιολογία για να φύγω από το Άλφα και να εγκαταλείψω το WAU. Μόλις καθάρισε η θύελλα, μας κατέκλυσαν τέρατα που το WAU είχε «διευκολύνει». Μας έστησαν ενέδρα και μας ανάγκασαν να γυρίσουμε προς το Ταυ. Ο Γκλάσερ, ο Κόφσκι, η Κούτσι κι εγώ επιζήσαμε. Ο Οκλέρ είναι στο ιατρείο, αλλά δε φαίνεται καλά.
+04_02_tau_inside|ToBeFlesherPadFile_2	Η Κούτσι το έσκασε τρέχοντας για να ψάξει στο Παρατηρητήριο για οτιδήποτε θύμιζε φαγητό. Το να βγεις έξω είναι κάτι παραπάνω από επικίνδυνο. Είναι σαν να βγαίνεις να πάρεις τσιγάρα μέσα σε τυφώνα. Γύρισε και είχε μαζί της μερικά ψίχουλα. Όλοι ξέραμε ότι ήταν άδειο. Νομίζω ότι απλώς ήθελε μια ευκαιρία να πεθάνει χωρίς να κουβαλήσει την ευθύνη ότι έβαλε η ίδια τέλος στη ζωή της.
+04_02_tau_inside|ToBeFlesherPadFile_3	Εμφανίστηκαν άνθρωποι από το Οροπέδιο. Ήταν μια ομάδα μηχανικών από το Θήτα που μας είπαν ότι ήθελαν να χρησιμοποιήσουν το Διαστημικό Κανόνι Ωμέγα για να εκτοξεύσουν κάτι που λέγεται ARK. Είναι ένας τεχνητός κόσμος που μεταφέρει σαρώσεις εγκεφάλου ανθρώπων που δούλευαν στο Pathos-II. Η ιδέα είναι ανόητη, αλλά συγκινητική. Συμφωνήσαμε όλοι να σαρωθούμε, για να συμμετέχουμε κι εμείς σε αυτή τη «μετά θάνατον ζωή».
+04_02_tau_inside|ToBeFlesherPadFile_4	Μερικοί από τους μηχανικούς γύρισαν από το Φι. Απ' ό,τι φαίνεται, ανέβαλαν την εκτόξευση του ARK. Ήταν όλοι σε πολύ κακή διάθεση και ήταν δύσκολο να πάρεις ευθεία απάντηση από αυτούς. Εκτός από ένα πολύ σημαντικό πράγμα: Όλοι ήθελαν να μείνουν στο Ταυ για να λύσουν το θέμα με το ARK, αλλά είχαν κανονίσει να τους παραλάβει το Climber αύριο. Κάποιος θα έπρεπε να προλάβει εκείνο το Climber για να ειδοποιήσει το Όμικρον για το τι συμβαίνει. Ευτυχώς ο Γκλάσερ κι εγώ μπορούσαμε να αναλάβουμε αυτή την αποστολή. Επιτέλους θα μπορέσω να προειδοποιήσω την Νταλ και το Σαράνγκ για την κρίσιμη κατάσταση στη βάση Άλφα.
+04_02_tau_inside|ToBeFlesherPadRecording_1	Ισορροπία
+04_02_tau_inside|ToBeFlesherPadRecording_2	Μετά την πρόσκρουση
+04_02_tau_inside|ToBeFlesherPadRecording_3	Άγρια ανάπτυξη
+04_02_tau_inside|ToBeFlesherPadRecording_4	Terrarium
+04_02_tau_inside|ToBeFlesherPadRecording_5	Τερματισμός
+04_02_tau_inside|RossScribbles	Το μοτίβο του WAU αναπαράγεται στο δομικό τζελ: πλησιάζει C2933-53 A5530-32 G9531-44 U3635-66[br][br]Ενίσχυση C &amp; U για παλινδρόμηση[br][br]Το WAU είναι κάτι παραπάνω από το τζελ -> Οντότητα[br][br]Επεκτείνεται μέσω του τζελ[br]διάνυσμα ανάπτυξης ≈ 51c:1000q[br]αντίρροπη δύναμη[br][br]Δηλητηρίασε το αποτύπωμα![br]Αποστείρωσε την παρτίδα -> τάισε την καρδιά[br][br]Ανάγκασε το WAU να αυτοκτονήσει[br][br]Πρέπει να φτάσω στο Όμικρον
+04_03_tau_escape|Status	Κατάσταση WAU
+04_03_tau_escape|LogFiles	Φάκελοι περιπτώσεων
+04_03_tau_escape|AccessControl	Έλεγχος πρόσβασης
+04_03_tau_escape|LogFileName_1	ΠΕΡΙΠΤΩΣΗ#002: Ισορροπία [2102:10:12] - Δρ. Ρος
+04_03_tau_escape|LogFileName_2	ΠΕΡΙΠΤΩΣΗ#012: Μετά την πρόσκρουση [2103:01:21] - Δρ. Ρος
+04_03_tau_escape|LogFileName_3	ΠΕΡΙΠΤΩΣΗ#013: Άγρια ανάπτυξη [2103:03:10] - Δρ. Ρος
+04_03_tau_escape|LogFileName_4	ΠΕΡΙΠΤΩΣΗ#017: Terrarium [2103:04:02] - Δρ. Ρος
+04_03_tau_escape|LogFileName_5	ΠΕΡΙΠΤΩΣΗ#023: Ο Φύλακας, ο Προστάτης μας [2103:11:07] - Δρ. Ρος
+04_03_tau_escape|Previous	Προηγούμενο
+04_03_tau_escape|Next	Επόμενο
+04_03_tau_escape|StatusFileText	WAU (Μονάδα Επιτήρησης) - 2104:05:10[br]================================[br]ΚΛΙΜΑ ΠΥΡΗΝΑ[br] - Πίεση: 51.6 psi [br] - Θερμοκρασία: 4 C [br] - Υγρασία (RH): 89% [br]ΜΟΤΙΒΟ[br] - Διακριτό: C1045 / A8264 / G3153 / U3084 [br] - Ορμή: A3:U4 / Gx:Cy / G1:G2 / Cx:U7 [br]ΑΝΑΠΤΥΞΗ[br] - Κύκλοι (εκτίμηση): 114 τρισεκατομμύρια[br] - Ποσοτικοποιημένο διάνυσμα: 51c:1000q[br] - Σχετική ανάπτυξη: 40151%[br]ΠΡΟΓΝΩΣΗ[br] - Κοινές αξίες: 0.4% (Τεράστια απόκλιση) [br] - Προγνωστική ανάλυση: Μ/Δ (αναξιόπιστη οντότητα)
+04_03_tau_escape|AccessErrorMessage	Δεν είναι δυνατή η συνέχεια[br][br]Απαιτείται πρόσβαση Άλφα
+04_03_tau_escape|ManualAccessGranted	Επιβολή σφραγίδας ασφαλείας[br][br]Ανακατεύθυνση...
+04_03_tau_escape|ManualAccess	Χειροκίνητη παράκαμψη ασφαλείας
+04_03_tau_escape|AccessGranted	Άλφα - Θάλαμος WAU[br][br]Πρόσβαση επιτράπηκε
+05_01_phi_inside|InfoAreaMap	Χάρτης βάσης
+05_01_phi_inside|InfoLaunchMechanism	Επισκόπηση ΔΚΩ
+05_01_phi_inside|InfoCargoTransportStatus	Μεταφορά μέσω σήραγγας
+05_01_phi_inside|InfoStaffActivity	Δραστηριότητα προσωπικού
+05_01_phi_inside|InfoLaunchHistory	Αρχείο εκτοξεύσεων
+05_01_phi_inside|InfoMain0	Ρύθμιση φορτίου
+05_01_phi_inside|InfoLaunch0	Διαστημικό Κανόνι Ωμέγα
+05_01_phi_inside|InfoLaunch3	Γεμιστήρας κελυφών
+05_01_phi_inside|InfoLaunch6	Χειριστήρια εκτόξευσης
+05_01_phi_inside|InfoCargoArrived	TT1 - Χώρος φορτίου Φι [br]Περιεχόμενο: ARK [br]Κατάσταση: Απαιτείται χειροκίνητη εκφόρτωση
+05_01_phi_inside|InfoCargoUnloaded	TT1 - Χώρος φορτίου Φι [br]Περιεχόμενο: - [br]Κατάσταση: Έτοιμο για χρήση
+05_01_phi_inside|InfoStaff_1	Είσοδοι
+05_01_phi_inside|InfoStaff_2	Έξοδοι
+05_01_phi_inside|InfoStaff_3	Δραστηριότητα
+05_01_phi_inside|InfoStaffCont_1	2104-05-11: ΕΙΣ - Ρ. Χέρμπερ[br]2103-12-27: ΕΙΣ - Ί. Πέντερσεν[br]2103-12-27: ΕΙΣ - Σ. Λίντγουολ[br]2103-12-27: ΕΙΣ - Κ. Τσαν[br]2103-12-27: ΕΙΣ - Ν. Ιβάσκιν[br]2103-12-27: ΕΙΣ - Τ. Χιλ
+05_01_phi_inside|InfoStaffCont_2	2103-12-27: ΕΞ - Ί. Πέντερσεν[br]2103-12-27: ΕΞ - Σ. Λίντγουολ[br]2103-12-27: ΕΞ - Ν. Ιβάσκιν[br]2103-12-27: ΕΞ - Τ. Χιλ
+05_01_phi_inside|InfoStaffCont_3	2104-05-11 :: ...ανυπόγραφη επίσκεψη Ρ. Χέρμπερ...[br]2103-12-27 :: Εκτόξευση του ARK[br]2103-11-14 :: Μια τελευταία επίσκεψη
+05_01_phi_inside|InfoLaunchHistory_1	Εβδομάδα #488
+05_01_phi_inside|InfoLaunchHistory_2	Εβδομάδα #489
+05_01_phi_inside|InfoLaunchHistory_3	Εβδομάδα #490
+05_01_phi_inside|InfoLaunchHistory_4	Εβδομάδα #491
+05_01_phi_inside|InfoLaunchHistoryCont_1	Έργο: TACT-SX[br]Ιδιοκτήτης: Haimatsu[br]Τύπος: Φορτηγό τροχιακής πλατφόρμας[br]Εκτόξευση: 2102-12-19 @ 13:00:00[br]***Η ΑΠΟΣΤΟΛΗ ΟΛΟΚΛΗΡΩΘΗΚΕ***[br][br]Έργο: ENDO[br]Ιδιοκτήτης: Luna Prospex[br]Τύπος: Δορυφόρος τηλεπισκόπησης[br]Εκτόξευση: 2103-12-20 @ 13:30:00[br]***Η ΑΠΟΣΤΟΛΗ ΟΛΟΚΛΗΡΩΘΗΚΕ***
+05_01_phi_inside|InfoLaunchHistoryCont_2	Έργο: TACT-SX[br]Ιδιοκτήτης: Haimatsu[br]Τύπος: Φορτηγό τροχιακής πλατφόρμας[br]Εκτόξευση: 2102-12-26 @ 13:00:00[br]***Η ΑΠΟΣΤΟΛΗ ΟΛΟΚΛΗΡΩΘΗΚΕ***[br][br]Έργο: REVEAL[br]Ιδιοκτήτης: Σινο-Ινδική Ομοσπονδία[br]Τύπος: Δορυφόρος επικοινωνιών[br]Εκτόξευση: 2102-12-27 @ 13:00:00[br]***Η ΑΠΟΣΤΟΛΗ ΟΛΟΚΛΗΡΩΘΗΚΕ***
+05_01_phi_inside|InfoLaunchHistoryCont_3	Έργο: TACT-SX[br]Ιδιοκτήτης: Haimatsu[br]Τύπος: Φορτηγό τροχιακής πλατφόρμας[br]Εκτόξευση: 2103-01-02 @ 14:00:00[br]***Η ΑΠΟΣΤΟΛΗ ΟΛΟΚΛΗΡΩΘΗΚΕ***[br][br]Έργο: AUGE[br]Ιδιοκτήτης: Zentraler Deutscher Kern [br]Τύπος: Δορυφόρος αναγνώρισης[br]Εκτόξευση: 2103-01-03 @ 13:00:00[br]***Η ΑΠΟΣΤΟΛΗ ΟΛΟΚΛΗΡΩΘΗΚΕ***
+05_01_phi_inside|InfoLaunchHistoryCont_4	Έργο: TACT-SX[br]Ιδιοκτήτης: Haimatsu[br]Τύπος: Φορτηγό τροχιακής πλατφόρμας[br]Εκτόξευση: 2103-01-09 @ 12:30:00[br]***ΣΕ ΑΝΑΜΟΝΗ***[br][br]Έργο: KARMAN[br]Ιδιοκτήτης: Atmos Surveyor[br]Τύπος: Μετεωρολογικός δορυφόρος[br]Εκτόξευση: 2103-01-11 @ 13:00:00[br]***ΣΕ ΑΝΑΜΟΝΗ***[br][br]Μετά από δέκα χρόνια άψογης λειτουργίας, το Διαστημικό Κανόνι Ωμέγα θα σταματήσει, αλλά χρειάστηκε μια αποκάλυψη για να γίνει περιττό.[br]- Βικ Οκλέρ
+05_01_phi_inside|NoteStorage	Οι μερίδες έχουν ήδη μεταφερθεί στο Ταυ. Κουβάλα τον κώλο σου πίσω εκεί αν πεινάς. - Κόφσκι
+05_01_phi_inside|NotePowerMaintenance	Χρησιμοποιήστε μπαταρίες για να ανοίξετε με το ζόρι τις κλειδαριές που επηρεάστηκαν από τα μπλακ άουτ. - Κόφσκι
+05_01_phi_inside|SatFrameEmpty	Κανένα φορτίο
+05_01_phi_inside|SatFrameInserted	Εντοπίστηκε φορτίο
+05_01_phi_inside|SatFrameClosing	Κλείσιμο χώρου φορτίου
+05_01_phi_inside|SatFrameInsertedAndClosed	Το βλήμα σφραγίστηκε
+05_01_phi_inside|SatFrameInTransit	Το βλήμα μεταφέρεται
+05_01_phi_inside|SatFrameOutside	Ολοκληρώθηκε
+05_01_phi_inside|InfoPayload	ΦΟΡΤΙΟ
+05_01_phi_inside|InfoShell	ΚΕΛΥΦΟΣ ΜΕΤΑΦΟΡΑΣ
+05_01_phi_inside|InfoSpaceGun	ΔΙΑΣΤΗΜΙΚΟ ΚΑΝΟΝΙ ΩΜΕΓΑ
+05_01_phi_inside|InfoLaunchStation	ΦΙ (ΣΗΜΕΙΟ ΕΚΤΟΞΕΥΣΗΣ)
+05_01_phi_inside|InfoSurfaceStation	ΩΜΕΓΑ (ΠΛΑΤΦΟΡΜΑ ΕΠΙΦΑΝΕΙΑΣ)
+05_01_phi_inside|InfoDockComplete	Η ΑΝΑΠΤΥΞΗ ΟΛΟΚΛΗΡΩΘΗΚΕ
+05_01_phi_inside|InfoSlide1	Ένας δορυφόρος τοποθετείται μέσα σε ένα κέλυφος.
+05_01_phi_inside|InfoSlide2	Το κέλυφος επιταχύνεται από ηλεκτρομαγνήτες κατά μήκος του σωλήνα.
+05_01_phi_inside|InfoSlide3	Πριν από την έξοδο αποκτά αρκετή ορμή για να ξεφύγει από τη βαρύτητα της Γης.
+05_01_phi_inside|InfoSlide4	Φτάνοντας στο διάστημα, ο δορυφόρος αποβάλλει το κέλυφος και ξεδιπλώνεται.
+05_01_phi_inside|InfoSlide5	Οι ενσωματωμένοι προωθητήρες τοποθετούν το δορυφόρο σε τροχιά.
+05_01_phi_inside|InfoMapPlayer	ΕΙΣΤΕ ΕΔΩ
+05_01_phi_inside|InfoMapAux	ΒΟΗΘ. ΕΛΕΓΧΟΣ
+05_01_phi_inside|InfoMapStorage	ΑΠΟΘΗΚΗ
+05_01_phi_inside|InfoCargo	ΦΟΡΤΙΟ
+05_01_phi_inside|TransferPrepare	Προετοιμασία προγράμματος σάρωσης...
+05_01_phi_inside|TransferTransferring	Πρόγραμμα⇥σάρωσης σε εκτέλεση
+05_01_phi_inside|TransferTransferred	Το πρόγραμμα σάρωσης ολοκληρώθηκε
+05_01_phi_inside|TransferTransferring1	Έναρξη ανοδικής ζεύξης...
+05_01_phi_inside|TransferTransferring2	Προετοιμασία προτύπου SOMA...
+05_01_phi_inside|TransferTransferring3	Αποστολή προτύπου SOMA...
+05_01_phi_inside|TransferTransferring4	Έναρξη καταγραφής...
+05_01_phi_inside|TransferTransferring5	Έτοιμο για καταγραφή:3
+05_01_phi_inside|TransferTransferring6	Έτοιμο για καταγραφή:2
+05_01_phi_inside|TransferTransferring7	Έτοιμο για καταγραφή:1
+05_01_phi_inside|TransferTransferring8	Καταγραφή
+05_01_phi_inside|TransferTransferring9	Ολοκληρώθηκε
+05_01_phi_inside|TransferSimon	Σάιμον Τζ.
+05_01_phi_inside|TransferCath	Κάθριν Τσ.
+05_01_phi_inside|TransferDone	ΤΕΛΟΣ
+05_01_phi_inside|LaunchButtonLaunch	Εκτόξευση
+05_01_phi_inside|LaunchButtonLaunching	Εκτοξεύεται
+05_01_phi_inside|LaunchStatus	ΕΛΕΓΧΟΣ ΣΥΣΤΗΜΑΤΟΣ
+05_01_phi_inside|LaunchPrimarySystems	ΚΥΡΙΑ ΣΥΣΤΗΜΑΤΑ:
+05_01_phi_inside|LaunchPrimary1	ΑΝΑΠΤΥΞΗ ΗΛΙΑΚΟΥ ΙΣΤΙΟΥ:
+05_01_phi_inside|LaunchPrimary2	ΠΑΡΑΓΩΓΗ ΕΝΕΡΓΕΙΑΣ:
+05_01_phi_inside|LaunchPrimary3	ΚΥΡΙΟΣ ΠΡΟΩΘΗΤΗΡΑΣ:
+05_01_phi_inside|LaunchPrimary4	ΕΦΕΔΡΙΚΕΣ ΜΠΑΤΑΡΙΕΣ:
+05_01_phi_inside|LaunchSecondarySystems	ΔΕΥΤΕΡΕΥΟΝΤΑ ΣΥΣΤΗΜΑΤΑ:
+05_01_phi_inside|LaunchSecondary1	ΕΠΙΚΟΙΝΩΝΙΑ:
+05_01_phi_inside|LaunchSecondary2	ΟΠΤΙΚΟΣ ΑΙΣΘΗΤΗΡΑΣ:
+05_01_phi_inside|LaunchSecondary3	ΠΡΟΣΘΕΤΟ (αναγν.: ARK):
+05_01_phi_inside|LaunchSecondary4	ΔΕΥΤΕΡΕΥΩΝ ΠΡΟΩΘΗΤΗΡΑΣ:
+05_01_phi_inside|LaunchCheck	ΕΛΕΓΧΟΣ...
+05_01_phi_inside|LaunchOK	OK
+05_01_phi_inside|DieErr1	ΚΡΙΣΙΜΗ ΒΛΑΒΗ
+05_01_phi_inside|DieErr2	Σφάλμα EXT_READCTX570: Το τσιπ φλοιού είναι κατεστραμμένο.
+05_01_phi_inside|DieErrRepeat	Παρακαλώ δοκιμάστε ξανά.

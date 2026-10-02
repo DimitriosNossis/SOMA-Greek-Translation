@@ -1,0 +1,109 @@
+01_01_upsilon_awake|ConfigChipComplete	Το τσιπ εργαλείων ενημερώθηκε.[br]Αφαιρέστε το Omnitool
+01_01_upsilon_awake|BrainChip	ΤΣΙΠ ΦΛΟΙΟΥ: Δεν έχει εισαχθεί
+01_01_upsilon_awake|ScanningWindow	Σάρωση Omnitool
+01_01_upsilon_awake|ScanningTool	Ανάγνωση
+01_01_upsilon_awake|TermLocked	ΚΛΕΙΔΩΜΕΝΟ
+01_01_upsilon_awake|TechTermLocked	ΚΟΝΣΟΛΑ ΣΥΝΤΗΡΗΣΗΣ[br][br]Εισαγάγετε Omnitool για πρόσβαση
+01_01_upsilon_awake|PilotTermLocked	ΑΥΤΟΜΑΤΟ[br][br]Ξεκλειδώστε το τερματικό από την Κονσόλα Συντήρησης
+01_01_upsilon_awake|ConfigChipNotInserted	ΤΣΙΠ ΕΡΓΑΛΕΙΩΝ: Δεν έχει εισαχθεί
+01_01_upsilon_awake|ConfigChipInserted	ΤΣΙΠ ΕΡΓΑΛΕΙΩΝ: HaiTT-7 (Απαιτείται ενημέρωση!)
+01_01_upsilon_awake|PilotControls	Θέση πιλότου #3 - Ύψιλον
+01_01_upsilon_awake|PilotReports	Αναφορές
+01_01_upsilon_awake|PilotError	Θέση πιλότου #3 - Ύψιλον ΕΚΤΟΣ ΛΕΙΤΟΥΡΓΙΑΣ
+01_01_upsilon_awake|PilotNoUser	Δε βρέθηκε πιλότος
+01_01_upsilon_awake|PilotControlStatus	Σε εξέλιξη
+01_01_upsilon_awake|PilotControlConnect	Δημιουργία δικτύου
+01_01_upsilon_awake|PilotControlPilotStatus	Κατάσταση πιλότου
+01_01_upsilon_awake|PilotControlNeocortex	Συγχρονισμός μαύρου κουτιού πιλότου
+01_01_upsilon_awake|PilotControlConnectStatus	Κατάσταση σύνδεσης
+01_01_upsilon_awake|PilotTerminalFileName_1	Αναφορά πιλότου #01053
+01_01_upsilon_awake|PilotTerminalFile_1	¶⇥ΠΙΛΟΤΟΣ: Καρλ Σέμκεν[br]ΥΠΟΣΤΗΡΙΞΗ: Έιμι Αζάρο[br]ΟΧΗΜΑ: Tugger (UH-3)[br][br]ΕΡΓΑΣΙΑ: Αντικατάσταση θερμικών ασπίδων (Νότιος αγωγός)[br]ΑΠΟΤΕΛΕΣΜΑ: Επιτυχία (η παραγωγή αποκαταστάθηκε)[br][br]ΣΗΜΕΙΩΣΕΙΣ:[br]Ο Σέμκεν ανέφερε ασυνήθιστα έντονη ναυτία μετά την αποστολή. Τα διαγνωστικά δείχνουν μια αιχμή ηλεκτρομαγνητισμού γύρω από το κράνος του πιλότου, η οποία πιστεύεται ότι προκάλεσε τα συμπτώματα του Σέμκεν. Καμία ένδειξη για το τι προκάλεσε αυτή την ανωμαλία.¶⇥
+01_01_upsilon_awake|PilotTerminalFileName_2	ΠΡΟΣΟΧΗ!
+01_01_upsilon_awake|PilotTerminalFile_2	Το σύστημα πιλότου γίνεται όλο και πιο αναξιόπιστο. Όλοι όσοι το χρησιμοποίησαν τους τελευταίους δύο μήνες έχουν πονοκεφάλους και κρίσεις ναυτίας. Την περασμένη εβδομάδα ο Γκάβιν έμεινε αναίσθητος για 30 ώρες προσπαθώντας να κατευθύνει ένα σύμπλεγμα βοηθών. Αυτό δεν είναι αποδεκτό. Θα βρούμε τι φταίει, αλλά προς το παρόν σταματάω τη χρήση του συστήματος πιλότου. Αυτό σημαίνει ότι θα πρέπει να κάνετε περισσότερη βαριά δουλειά, εκτελώντας τις εργασίες μέσω προγραμματισμού ή με τα χέρια. Δεν είναι κανείς ευχαριστημένος με αυτό, οπότε μην μπείτε στον κόπο να παραπονεθείτε.[br][br]Τζέιν Άνταμς, Επικεφαλής Διαχειρίστρια
+01_01_upsilon_awake|OmniToolSign	ΚΟΝΣΟΛΑ ΣΥΝΤΗΡΗΣΗΣ[br][br]ΕΓΚΑΤΑΣΤΑΣΗ ΤΣΙΠ OMNITOOL[br][br]Φτιάξτε, διαμορφώστε και βελτιστοποιήστε το Omnitool σας με πλήρως προσαρμοσμένα εργαλεία και βοηθούς.
+01_01_upsilon_awake|ToolBoxSign	ΕΡΓΑΛΕΙΟΘΗΚΗ
+01_02_upsilon_inside|CommContact_1	Λισαβόνα, Πορτογαλία
+01_02_upsilon_inside|CommContact_2	Κάντιθ, Ισπανία
+01_02_upsilon_inside|CommContact_3	Βάση Ύψιλον
+01_02_upsilon_inside|CommContact_4	Βάση Θήτα
+01_02_upsilon_inside|CommContact_5	Βάση Λάμδα
+01_02_upsilon_inside|CommContact_6	Βάση Δέλτα
+01_02_upsilon_inside|CommContact_7	Βάση Όμικρον
+01_02_upsilon_inside|CommContact_8	Βάση Ταυ
+01_02_upsilon_inside|CommContact_9	Βάση Φι
+01_02_upsilon_inside|CommContact_10	Βάση Ωμέγα
+01_02_upsilon_inside|WauBoxNote	Μην αγγίζετε τη διαρροή δομικού τζελ. Δεν μπορούμε να επιβεβαιώσουμε την επίδρασή της στο WAU. Το πρόβλημα έχει αναφερθεί στον SSE Βόλτσεκ.
+01_02_upsilon_inside|ThermalTerminalText1	Τροφοδοσία: Αποκαταστάθηκε[br]Καταγεγραμμένος χρόνος εκτός λειτουργίας:[br] 143 ημέρες, 11 ώρες, 37 λεπτά[br]Παραγωγή ενέργειας: 426 Megawatt
+01_02_upsilon_inside|ThermalTerminalText2	Πρότυπο Ύψιλον[br]Πίεση: 2.017 bar[br]Οξυγόνο: Μη διαθέσιμο[br]Διάγνωση σταθμού: Μη διαθέσιμη
+01_02_upsilon_inside|ThermalTerminalText3	Δομή[br]Ακεραιότητα εσωτερικού κύτους: Πολλαπλά ρήγματα στους τομείς A, D, G, J, K[br]Βασική δομή:[br].... Υπόστρωμα: Μικρή διάτρηση[br].... Θωράκιση: Η περιοχή U4-U5 εγκαταλείφθηκε[br]Θυρίδες πίεσης: Κλειδωμένη η S3[br]Πλαίσιο αποβάθρας: Περιορισμός στις D1, D2
+01_02_upsilon_inside|ThermalTerminalCaption1	ΠΑΡΑΓΩΓΗ
+01_02_upsilon_inside|ThermalTerminalCaption2	ΣΥΣΤΗΜΑΤΑ
+01_02_upsilon_inside|ThermalTerminalCaption3	ΔΟΜΗ
+01_02_upsilon_inside|ThermalTerminalCaption4	ΥΠΟΒΙΒΑΣΜΟΣ
+01_02_upsilon_inside|ThermalTerminalTransformerStatus	Κατάσταση μετασχηματιστή:
+01_02_upsilon_inside|ControlTerminalNoPower	Το ραδιοσήμα μπλοκαρίστηκε[br]Ανεπαρκής τροφοδοσία
+01_02_upsilon_inside|ControlTerminalNoConnection	Δεν υπάρχει σήμα
+01_02_upsilon_inside|ControlTerminalMail_Subject_Amy_1	Αυτόματη λειτουργία Ύψιλον
+01_02_upsilon_inside|ControlTerminalMail_Body_Amy_1	Προς: Βόλτσεκ, Χέδερ[br]Θέμα: Αυτόματη λειτουργία Ύψιλον[br][br]Καταφέραμε να συνδέσουμε τις περισσότερες εφεδρικές τουρμπίνες και να ενεργοποιήσουμε όλες τις γεννήτριες. Το Ύψιλον θα μπορεί να παράγει ενέργεια για τουλάχιστον μια δεκαετία πριν αρχίσουμε να καίμε τους αγωγούς.[br][br]Τα κακά νέα είναι ότι τα μηχανήματα χειροτερεύουν. Προσπαθήσαμε να βρούμε τρόπο να τα κλείσουμε όλα, αλλά με τον τρελό αριθμό μονάδων που υπάρχουν στο Ύψιλον δε φαίνεται καλό. Ανησυχώ σοβαρά ότι μπορεί να διαταράξουν την παραγωγή ενέργειας όταν φύγουμε.[br][br]Ιδέες;[br][br]Έιμι Αζάρο
+01_02_upsilon_inside|ControlTerminalMail_Date_Amy_1	2103-05-03 @ 15:41:02
+01_02_upsilon_inside|ControlTerminalMail_Subject_Amy_2	Re: Αυτόματη λειτουργία Ύψιλον
+01_02_upsilon_inside|ControlTerminalMail_Body_Amy_2	Από: Βόλτσεκ, Χέδερ[br]Θέμα: Αυτόματη λειτουργία Ύψιλον[br][br]Καλή δουλειά. Προσπαθήστε να βάλετε μπρος όλες τις εφεδρικές τουρμπίνες και να μειώσετε την παραγωγή στο 60%. Με όλες τις εκκενώσεις, μπορούμε να επιβιώσουμε με ένα χαμηλό και σταθερό βουητό. Δε χρειάζεται να ζορίζουμε το σύστημα. Θα πρέπει να έχουμε παραγωγή για 20 - 25 χρόνια πριν χρειαστεί να καταφύγουμε στις τουρμπίνες.[br][br]Τα ρομπότ συμπεριφέρονται όλο και πιο αλλόκοτα σε όλο το Pathos-II και δυστυχώς δεν υπάρχει γενικός διακόπτης απενεργοποίησης. Αφού δε θα επιστρέψουμε στο Ύψιλον, θα μπορούσατε να σφραγίσετε τομείς για να μη φτάνουν οι βοηθοί στις ευαίσθητες περιοχές.[br][br]Βόλτσεκ
+01_02_upsilon_inside|ControlTerminalMail_Date_Amy_2	2103-05-03 @ 16:09:24
+01_02_upsilon_inside|ControlTerminalMail_Subject_Carl_1	Re: Re: Αυτόματη λειτουργία Ύψιλον
+01_02_upsilon_inside|ControlTerminalMail_Body_Carl_1	Προς: Βόλτσεκ, Χέδερ[br]Θέμα: Αυτόματη λειτουργία Ύψιλον[br][br]Η παραγωγή ενέργειας εξασφαλίστηκε.[br]Σφραγίσαμε τα εργοστάσια για να συνεχίσει να λειτουργεί η μονάδα. Όλα τα περιττά συστήματα έχουν απενεργοποιηθεί.[br]Αν χρειαστεί ποτέ να επιστρέψει κάποιος, να ξέρει ότι ο ρυθμιστής ροής ενέργειας κρέμεται από μια κλωστή. Αν γυρίσεις το διακόπτη, μάλλον δεν υπάρχει γυρισμός.[br][br]Φεύγουμε από εδώ.[br]Καρλ
+01_02_upsilon_inside|ControlTerminalMail_Date_Carl_1	-
+01_02_upsilon_inside|ControlTerminalMail_DraftNotice	ΚΑΤΑΣΤΑΣΗ: ΠΡΟΧΕΙΡΟ
+01_02_upsilon_inside|ControlTerminalMail_Send	ΑΠΟΣΤΟΛΗ
+01_02_upsilon_inside|ControlTerminalMail_Sending	Αποστολή...
+01_02_upsilon_inside|ControlTerminalStaff_Header	Προσωπικό Ύψιλον
+01_02_upsilon_inside|ControlTerminalStaff_Text	ΕΠΙΚΕΦΑΛΗΣ ΔΙΑΧΕΙΡΙΣΤΡΙΑ[br]Άνταμς, Τζέιν  (Τοπ.: Θήτα)[br][br]ΣΥΝΤΟΝΙΣΤΡΙΑ[br]Γιόνσντοτιρ, Βίγκντις  (Τοπ.: Θήτα)[br][br]ΓΕΩΤΕΧΝΙΚΟΣ ΜΗΧΑΝΙΚΟΣ[br]Ρότζερς, Μπάξτερ  (Τοπ.: Θήτα)[br][br]ΤΕΧΝΙΚΟΙ ΠΕΔΙΟΥ[br]Αζάρο, Έιμι  (Τοπ.: Ύψιλον - Σταθμός σάτλ B)[br]Φίνλεϊ, Γκάβιν  (Τοπ.: Θήτα)[br]Μερόν, Λουίζ  (Τοπ.: Θήτα)[br][br]ΧΕΙΡΙΣΤΕΣ ΡΟΜΠΟΤ[br]Σέμκεν, Καρλ  (Τοπ.: Ύψιλον - Κατάστρωμα ελέγχου)[br]Σανκάρ, Ασίς  (Τοπ.: Θήτα)
+01_02_upsilon_inside|ControlTerminalRoom_1	Θερμ. θάλαμος
+01_02_upsilon_inside|ControlTerminalRoom_2	Αποθήκη
+01_02_upsilon_inside|ControlTerminalRoom_3	Έλεγχος ροής
+01_02_upsilon_inside|ControlTerminalRoom_4	Κέντρο Επικ/νίας
+01_02_upsilon_inside|ControlTerminalRoom_5	Εργοστ. κατασκ.
+01_02_upsilon_inside|ControlTerminalRoom_6	Σιφόνι
+01_02_upsilon_inside|ControlTerminalPower_On	ΝΑΙ
+01_02_upsilon_inside|ControlTerminalPower_Off	ΟΧΙ
+01_02_upsilon_inside|ControlTerminalPower_NA	Μ/Δ
+01_02_upsilon_inside|ControlTerminalError_NoConnection	ΑΝΕΠΑΡΚΗΣ ΤΡΟΦΟΔΟΣΙΑ[br]Δε βρέθηκε λύση
+01_02_upsilon_inside|ControlTerminalError_LowPower	ΑΝΕΠΑΡΚΗΣ ΤΡΟΦΟΔΟΣΙΑ[br]Βρέθηκε λύση: Απενεργοποιήστε έναν από τους επισημασμένους τομείς [br] για να μεταφερθεί ενέργεια στο Κέντρο Επικοινωνιών
+01_02_upsilon_inside|ControlTerminalError_WrongCode	Μη έγκυρη σύνδεση!
+01_02_upsilon_inside|ControlTerminalError_CommRoomPower	Το μήνυμα δε στάλθηκε![br]Δεν ήταν δυνατή η σύνδεση
+01_02_upsilon_inside|ControlTerminalDialog_Info	ΠΛΗΡΟΦΟΡΙΕΣ
+01_02_upsilon_inside|ControlTerminalDialog_PowerRerouted	Η κατάσταση τροφοδοσίας άλλαξε!
+01_02_upsilon_inside|ControlTerminalApp_Mail	ΜΗΝΥΜΑΤΑ
+01_02_upsilon_inside|ControlTerminalApp_Power	ΔΙΑΧΕΙΡΙΣΗ ΕΝΕΡΓΕΙΑΣ
+01_02_upsilon_inside|ControlTerminalApp_Staff	ΠΡΟΣΩΠΙΚΟ
+01_02_upsilon_inside|ControlTerminalApp_LogIn	ΣΥΝΔΕΣΗ
+01_02_upsilon_inside|ControlTerminalApp_LogOut	ΑΠΟΣΥΝΔΕΣΗ
+01_02_upsilon_inside|ControlTerminalLogin_User	ΧΡΗΣΤΗΣ:
+01_02_upsilon_inside|ControlTerminalLogin_Code	ID#:
+01_02_upsilon_inside|ControlTerminalLogin_Staff_1	Τζ.Άνταμς
+01_02_upsilon_inside|ControlTerminalLogin_Staff_2	Έ.Αζάρο
+01_02_upsilon_inside|ControlTerminalLogin_Staff_3	Γκ.Φίνλεϊ
+01_02_upsilon_inside|ControlTerminalLogin_Staff_4	Β.Γιόνσντοτιρ
+01_02_upsilon_inside|ControlTerminalLogin_Staff_5	Λ.Μερόν
+01_02_upsilon_inside|ControlTerminalLogin_Staff_6	Μπ.Ρότζερς
+01_02_upsilon_inside|ControlTerminalLogin_Staff_7	Κ.Σέμκεν
+01_02_upsilon_inside|ControlTerminalLogin_Staff_8	Α.Σανκάρ
+01_02_upsilon_inside|GUIChange	Αλλαγή
+01_02_upsilon_inside|ControlTerminalLogin_Welcome	ΚΑΛΩΣ ΗΡΘΑΤΕ
+01_02_upsilon_inside|ControlTerminalLogin_Message_Amy	Συνδεθήκατε ως Έιμι Αζάρο.
+01_02_upsilon_inside|ControlTerminalLogin_Message_Carl	Συνδεθήκατε ως Καρλ Σέμκεν.
+01_02_upsilon_inside|PowerTerminalApp_Status	ΚΑΤΑΣΤΑΣΗ
+01_02_upsilon_inside|PowerTerminalApp_EventLog	ΑΡΧΕΙΟ ΣΥΜΒΑΝΤΩΝ
+01_02_upsilon_inside|PowerTerminalApp_PowerOutput	ΙΣΧΥΣ ΕΞΟΔΟΥ
+01_02_upsilon_inside|PowerTerminalStatus	Μέγιστη ισχύς: 710 Megawatt[br]Επίπεδο παραγωγής: 60%[br]Συχνότητα: 30 Hz[br]Τάση: 690 V
+01_02_upsilon_inside|PowerTerminalEventLog	2102-10-29 @ 05:41:13 - Καταστροφή θερμικής ασπίδας αγωγού (Β)[br]2102-12-11 @ 16:09:24 - Υπερθέρμανση τουρμπίνας[br]2103-01-12 @ 05:31:57 - Σεισμός διαταράσσει το κανάλι του οροπεδίου (πρόσκρουση)[br]2103-01-12 @ 05:33:39 - Μπλακ άουτ στο Λάμδα (μετασεισμός)[br]2103-01-12 @ 06:01:23 - Μπλακ άουτ στο Όμικρον (μετασεισμός)[br]2103-01-12 @ 06:01:51 - Σοβαρό μπλακ άουτ στο Δέλτα (μετασεισμός)[br]2103-01-19 @ 09:11:42 - Καταστροφή θερμικής ασπίδας αγωγού (Ν)
+01_02_upsilon_inside|LogWindowCaption	ΑΡΧΕΙΟ ΔΡΑΣΤΗΡΙΟΤΗΤΑΣ
+01_02_upsilon_inside|LogWindowActivityON	Log: Εκκίνηση συστήματος [br]BootException: Could not load boot sequence (at Boot.cs:1447) [br]FormatException: Input was not in correct format. Parse failed (at Parser.cs:2112) [br]Log: Αποτυχία συστήματος [br]ArgumentException: Index out of range (at Parser.cs:2113)[br]Log: Επανεκκίνηση σε 5...[br]Log: Επανεκκίνηση σε 4...[br]Log: Επανεκκίνηση σε 3...[br]Log: Επανεκκίνηση σε 2...[br]Log: Επανεκκίνηση σε 1...
+01_02_upsilon_inside|MachineRoomRobotTerminalButtonOn	ΣΕ ΛΕΙΤΟΥΡΓΙΑ
+01_02_upsilon_inside|MachineRoomRobotTerminalButtonOff	ΑΝΕΝΕΡΓΟ
+01_02_upsilon_inside|MachineRoomRobotTerminalButtonWarning	ΠΡΟΕΙΔΟΠΟΙΗΣΗ
+01_02_upsilon_inside|MachineRoomTerminalTitle	Έλεγχος γραμμής παραγωγής
+01_02_upsilon_inside|MachineRoomTerminalStatusOn	Κατάσταση: Σε λειτουργία
+01_02_upsilon_inside|MachineRoomTerminalStatusOff	Κατάσταση: Σε παύση
+01_02_upsilon_inside|MachineRoomTerminalBtnProduction	Παραγωγή
+01_02_upsilon_inside|MachineRoomTerminalBtnTransmission	Μετάδοση
+01_02_upsilon_inside|MachineRoomTerminalBtnLogs	Αρχεία

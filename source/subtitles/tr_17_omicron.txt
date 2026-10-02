@@ -1,0 +1,160 @@
+Voices_03_01_omicron_outside|dialog_3_cancelidledialog_002_player_001	Άκου.
+Voices_03_01_omicron_outside|dialog_3_cancelidledialog_003_player_001	Έπιασα κάτι.
+Voices_03_01_omicron_outside|dialog_3_cancelidledialog_004_catherine_001	Τι είναι αυτό;
+Voices_03_01_omicron_outside|dialog_3_cancelidledialog_005_catherine_001	Ω, να 'το.
+Voices_03_01_omicron_outside|dialog_3_cancelidledialog_006_catherine_001	Περίμενε.
+Voices_03_01_omicron_outside|dialog_3_afterbloodterminalrecording_002_catherine_001	Θα υπερφόρτωσε το μαύρο κουτί του.
+Voices_03_01_omicron_outside|dialog_3_afterbloodterminalrecording_003_player_001	Οι άνθρωποι έχουν μαύρα κουτιά;
+Voices_03_01_omicron_outside|dialog_3_afterbloodterminalrecording_004_catherine_001	Εδώ έχουμε -- πολιτική της εταιρείας.
+Voices_03_01_omicron_outside|dialog_3_afterbloodterminalrecording_004_catherine_002	Καταγράφει τα ζωτικά σου σημεία για να βοηθήσει το ιατρικό προσωπικό να σε περιθάλψει σε περίπτωση ατυχήματος.
+Voices_03_01_omicron_outside|dialog_3_afterbloodterminalrecording_005_player_001	Έτσι μπορώ και ακούω τους νεκρούς.
+Voices_03_01_omicron_outside|dialog_3_afterbloodterminalrecording_006_catherine_001	Ε; Σωστά, θα πρέπει να μπορείς να εξάγεις δεδομένα από μαύρα κουτιά. Όπως με την ενδοεπικοινωνία στο Θήτα.
+Voices_03_01_omicron_outside|dialog_3_lockdowncodeunknown_001_catherine_001	Πρέπει να υπάρχει τρόπος να ακυρωθεί ο αποκλεισμός. Ρίξε μια ματιά στο δωμάτιο.
+Voices_03_01_omicron_outside|dialog_4_hiddenbuttonappears_001_player_001	Εσύ το έκανες αυτό, Κάθριν;
+Voices_03_01_omicron_outside|dialog_4_hiddenbuttonappears_002_catherine_001	Τι;
+Voices_03_01_omicron_outside|dialog_4_hiddenbuttonappears_003_player_001	Άσ' το.
+Voices_03_01_omicron_outside|dialog_4_overridecodeentered_004_player_001	Κάτι θέλει να μπούμε μέσα.
+Voices_03_01_omicron_outside|dialog_4_overridecodeentered_005_catherine_001	Κι εμείς θέλουμε να μπούμε μέσα. Πού είναι το πρόβλημα;
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_001_alvaro_001	Ο κόσμος είναι νεκρός, Ρίτσαρντ.
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_001_alvaro_002	Ακόμα κι αν μπαίναμε στο Όμικρον, τι έμεινε; Να αρπάξουμε δυο στολές και να κατευθυνθούμε στο Ταυ;
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_001_alvaro_003	Στράσκι, Τζόνσι, Χαρτ -- όλοι είναι νεκροί κι εμείς είμαστε ακριβώς πίσω τους.
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_001_alvaro_004	Μάλλον είμαστε οι τελευταίοι ζωντανοί άνθρωποι. Οι τελευταίες στιγμές της ανθρωπότητας.
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_002_alvaro_001	Δεν έμεινε οξυγόνο. Καλύτερα να κάτσω. Δε θέλω να πέσω στην άβυσσο.
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_003_thabo_001	Υπάρχουν και χειρότεροι τρόποι να πεθάνεις... μάλλον.
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_004_thabo_001	Γιατί σε λένε Εμ;
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_005_alvaro_001	Ε; Α. Από το Έμα.
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_006_alvaro_001	Έμα Άλβαρο; Μου αρέσει. Ωραίο όνομα.
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_006_alvaro_002	Έπρεπε να κάναμε περισσότερη παρέα. Νομίζω ότι θα γινόμασταν καλοί φίλοι.
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_007_alvaro_001	Ευχαριστώ. Θα μου άρεσε αυτό.
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_008_thabo_001	Αντίο, Έμα.
+Voices_03_01_omicron_outside|datamine_1_dataminealvaro_009_alvaro_001	Αντίο...
+Voices_03_01_omicron_outside|comment_1_addentry_001_player_001	Τι κάνει αυτό;
+Voices_03_01_omicron_outside|comment_1_addentry_002_player_001	Δε βαριέσαι.
+Voices_03_01_omicron_outside|comment_1_addentry_003_player_001	Δεν ξέρω.
+Voices_03_01_omicron_outside|comment_1_addentry_004_player_001	Καλύτερα να μην το πειράξω.
+Voices_03_01_omicron_outside|dialog_3_catherinepowerpuzzlecomment_001_catherine_001	Ωραία. Πίνακας ρεύματος. Πάντα χρήσιμος.
+Voices_03_01_omicron_outside|comment_3_wrongvalvecomment_001_player_001	Ωπ, καλύτερα να προσέχω.
+Voices_03_01_omicron_outside|comment_2_crossingtheabyssprematurely_001_player_001	Πού πάω; Αυτό δεν είναι ασφαλές.
+Voices_03_01_omicron_outside|comment_5_crossingtheabyss_001_player_001	Ελπίζω αυτός να είναι ο σωστός δρόμος.
+Voices_03_01_omicron_outside|dialog_3_cathchattopfloor_001_catherine_001	Πού πήγες;
+Voices_03_01_omicron_outside|dialog_3_cathchattopfloor_002_player_001	Απλώς εξερευνώ λίγο.
+Voices_03_01_omicron_outside|dialog_3_cathchatglitchsound_001_catherine_001	Ακούς αυτόν τον παραμορφωμένο θόρυβο;
+Voices_03_01_omicron_outside|dialog_3_cathchatglitchsound_002_player_001	Ναι, τι είναι αυτό;
+Voices_03_01_omicron_outside|dialog_3_cathchatpowerpuzzledone_001_catherine_001	Α, το τερματικό μόλις άναψε.
+Voices_03_01_omicron_outside|dialog_3_cathchatwausystemupdate_001_catherine_001	Εντάξει. Αυτό είναι καινούριο.
+Voices_03_01_omicron_outside|dialog_3_cathchatwausystemupdate_002_player_001	Υποτίθεται ότι σημαίνει κάτι αυτό;
+Voices_03_01_omicron_outside|dialog_3_cathchatsecretbuttonclicked_001_player_001	Νομίζω ότι το έλυσα.
+Voices_03_01_omicron_outside|dialog_3_cathchatsecretbuttonclicked_002_catherine_001	Τι έλυσες;
+Voices_03_01_omicron_outside|dialog_3_cathchatsecretbuttonclicked_003_player_001	Γιατί έχω την αίσθηση ότι μόλις μας παρέσυραν στο πίσω μέρος ενός βαν;
+Voices_03_01_omicron_outside|dialog_3_cathchatsecretbuttonclicked_004_catherine_001	Για τι πράγμα μιλάς;
+Voices_03_01_omicron_outside|dialog_hint_nopower_1_001_catherine_001	Φαίνεται ότι αυτό το μέρος λειτουργεί με εφεδρείες. Δεν υπάρχει λόγος, το Ύψιλον παράγει άφθονη ενέργεια. Δες αν μπορείς να επαναφέρεις το ρεύμα.
+Voices_03_01_omicron_outside|dialog_hint_nopower_2_001_catherine_001	Επανάφερε το ρεύμα.
+Voices_03_01_omicron_outside|dialog_hint_noemerglocktry_1_001_catherine_001	Το Όμικρον έθεσε τον εαυτό του σε καραντίνα και κλείδωσε τα πάντα. Δες αν μπορείς να ακυρώσεις τον αποκλεισμό από το τερματικό.
+Voices_03_01_omicron_outside|dialog_hint_noemerglocktry_2_001_catherine_001	Δοκίμασε να ακυρώσεις τον αποκλεισμό από το τερματικό.
+Voices_03_01_omicron_outside|dialog_hint_nosecretcode_1_001_catherine_001	Φαίνεται ότι χρειαζόμαστε κωδικό για να ακυρώσουμε τον αποκλεισμό. Ρίξε μια ματιά γύρω σου και δες αν μπορείς να το βρεις.
+Voices_03_01_omicron_outside|dialog_hint_nosecretcode_2_001_catherine_001	Ψάξε γύρω σου για κωδικό ακύρωσης του αποκλεισμού.
+Voices_03_01_omicron_outside|dialog_hint_hasseencode_1_001_catherine_001	Χρειαζόμαστε ακόμα κωδικό για να ακυρώσουμε τον αποκλεισμό. Κάποια περίεργα σήματα περνούν από το σύστημα -- νομίζω ότι κάποιος ίσως προσπαθεί να επικοινωνήσει μαζί μας. Έλεγξε το τερματικό στην άλλη άκρη του δωματίου.
+Voices_03_01_omicron_outside|dialog_hint_hasseencode_2_001_catherine_001	Έλεγξε το τερματικό στην άλλη άκρη του δωματίου.
+Voices_03_01_omicron_outside|comment_1_objective_001_player_001	Εντάξει, ας βρούμε το Όμικρον.
+Voices_03_01_omicron_outside|datamine_1_dataminepowerhubcorpse_001__soundeffect_001	*παράσιτα*
+Voices_03_01_omicron_outside|dialog_4_overridecodeentered_nohint_001_player_001	Το βρήκα. Απλώς μάντεψα τον κωδικό!
+Voices_03_01_omicron_outside|dialog_4_overridecodeentered_001_catherine_001	Το Όμικρον μάζεψε τα ρολά καραντίνας. Ο αποκλεισμός ακυρώθηκε!
+Voices_03_01_omicron_outside|dialog_4_overridecodeentered_end_001_catherine_001	Έλα, ας ξεκινήσουμε.
+Voices_03_01_omicron_outside|comment_4_lookatomicron_001_player_001	Αυτό είναι το Όμικρον; Ελπίζω να μου κράτησαν μια στολή κατάδυσης.
+Voices_03_02_omicron_inside|general_2dcatherineactivates_001_catherine_001	Αυτό είναι το Όμικρον; Όλα είναι τόσο στοιχειώδη, τόσο περιορισμένα. Ελπίζω να μη διαλύεται το omnitool.
+Voices_03_02_omicron_inside|general_2dcatherineactivates_001_catherine_002	Εντάξει, πρέπει να σου βρούμε μια Στολή Ισχύος, ξέρεις -- για να μπούμε στην άβυσσο χωρίς να καταλήξουμε σαν ανακυκλωμένο κουτάκι αναψυκτικού;
+Voices_03_02_omicron_inside|general_2dcatherineactivates_002_player_001	Πιστεύεις ότι θα βρούμε μία στα μέτρα μου; Εννοώ, είμαι ήδη κάπως μέσα σε μια στολή.
+Voices_03_02_omicron_inside|general_2dcatherineactivates_003_catherine_001	Αυτό με απασχολεί κι εμένα.
+Voices_03_02_omicron_inside|general_2dcatherineactivates_004_catherine_001	Ξέρεις πώς μεταφέρθηκες από το Βανκούβερ...
+Voices_03_02_omicron_inside|general_2dcatherineactivates_005_player_001	Το Τορόντο.
+Voices_03_02_omicron_inside|general_2dcatherineactivates_006_catherine_001	Από τότε στο τώρα.
+Voices_03_02_omicron_inside|general_2dcatherineactivates_007_player_001	Πώς θα μπορούσα να το ξεχάσω;
+Voices_03_02_omicron_inside|general_2dcatherineactivates_008_catherine_001	Εντάξει, οπότε το ξανακάνουμε.
+Voices_03_02_omicron_inside|general_2dcatherineactivates_009_player_001	Θέλεις να με στείλεις στο μέλλον;
+Voices_03_02_omicron_inside|general_2dcatherineactivates_010_catherine_001	Όχι, ηλίθιε... θέλω να μεταφέρω το μυαλό σου σε ένα καινούριο σώμα.
+Voices_03_02_omicron_inside|general_2dcatherineactivates_011_player_001	Τι;
+Voices_03_02_omicron_inside|general_2dcatherineactivates_012_catherine_001	Κοίτα, ξέρουμε ήδη ότι γίνεται. Δε χρειάζεται να το κάνουμε θέμα.
+Voices_03_02_omicron_inside|general_2dcatherineactivates_013_player_001	Είναι θέμα, Κάθ! Είναι τεράστιο γαμημένο θέμα.
+Voices_03_02_omicron_inside|general_2dcatherineactivates_014_player_001	Πρέπει να υπάρχει κάτι άλλο που να μπορεί να μας κατεβάσει εκεί...
+Voices_03_02_omicron_inside|general_2dcatherineactivates_015_catherine_001	Το DUNBAT στο Θήτα ήταν το μόνο σκάφος που άντεχε αυτή την πίεση και είδες τι έγινε.
+Voices_03_02_omicron_inside|general_2dcatherineactivates_016_player_001	Τότε σκέψου κάτι άλλο!
+Voices_03_02_omicron_inside|general_2dcatherineactivates_017_catherine_001	Σάιμον, σε παρακαλώ. Δε χρειάζεται να αλλάξεις αυτή τη στιγμή. Απλώς κάνε πως συμφωνείς για τώρα. Αν βρούμε κάτι άλλο, τέλεια... αν όχι...
+Voices_03_02_omicron_inside|general_2dcatherineactivates_018_player_001	Δεν υπόσχομαι τίποτα.
+Voices_03_02_omicron_inside|general_2dcatherineactivates_019_catherine_001	Ευχαριστώ, Σάιμον. Ρίξε μια ματιά στο δωμάτιο. Εδώ θα φύλαγαν τις Στολές Ισχύος. Αν έχει μείνει καμία.
+Voices_03_02_omicron_inside|general_1efindsuit_001_player_001	Θεέ μου. Ωραία. Βρήκα μία από τις Στολές Ισχύος.
+Voices_03_02_omicron_inside|general_1efindsuit_002_player_001	Έχει μια νεκρή γυναίκα μέσα -- τουλάχιστον νομίζω ότι είναι γυναίκα. Όπως και το πτώμα που βρήκαμε στο παράρτημα, της λείπει το κεφάλι.
+Voices_03_02_omicron_inside|general_1efindsuit_003_catherine_001	Αηδία. Αυτό όμως μπορεί να παίξει υπέρ μας. Ψάξε για κάποιο τερματικό εκεί κοντά και δες αν μπορείς να το ξεκινήσεις.
+Voices_03_02_omicron_inside|general_1fsuitterminal_001_player_001	Όχι ακριβώς πρώτης ποιότητας υλικό.
+Voices_03_02_omicron_inside|general_1fsuitterminal_002_catherine_001	Μην την ξεγράφεις ακόμα.
+Voices_03_02_omicron_inside|general_1fsuitterminal_002_catherine_002	Θυμήσου τι ανακαλύψαμε στο Θήτα: η στολή που &quot;φοράς&quot; είναι βασικά ένα τσιπ φλοιού που δουλεύει μερικά λίτρα δομικού τζελ, τροφοδοτούμενο από την μπαταρία της στολής.
+Voices_03_02_omicron_inside|general_1fsuitterminal_003_player_001	Και μια νεκρή συνάδελφος, η Ίμοτζεν Ριντ.
+Voices_03_02_omicron_inside|general_1fsuitterminal_004_catherine_001	Ακριβώς. Αν το σκεφτείς, είμαστε απίστευτα τυχεροί. Βρήκαμε μια στολή που έχει ήδη ένα νεκρό σώμα μέσα.
+Voices_03_02_omicron_inside|general_1fsuitterminal_005_player_001	Μάλλον έχεις δίκιο.
+Voices_03_02_omicron_inside|general_1fsuitterminal_005_player_002	Κι όσο για το WAU, τι σε κάνει να πιστεύεις ότι θα συνεργαστεί;
+Voices_03_02_omicron_inside|general_1fsuitterminal_006_catherine_001	Δεν είναι μαγεία. Είναι αλγόριθμοι -- ένα σταθερό μοτίβο. Το WAU δε θα μπορέσει να μας αρνηθεί. Ακόμα κι αν ήταν ικανό να το θελήσει.
+Voices_03_02_omicron_inside|general_1fsuitterminal_007_player_001	Ακόμα δεν ενθουσιάζομαι με αυτό το σχέδιο. Μου φαίνεται λάθος.
+Voices_03_02_omicron_inside|general_1fsuitterminal_008_catherine_001	Σε παρακαλώ, Σάιμον. Δεν μπορώ να εγκαταλείψω το ARK. Πρέπει να πετύχει αυτό.
+Voices_03_02_omicron_inside|general_1fsuitterminal_009_player_001	Άρα χρειαζόμαστε ένα τσιπ φλοιού, δομικό τζελ και μια μπαταρία. Τρομερή λίστα για ψώνια.
+Voices_03_02_omicron_inside|general_1fsuitterminal_010_catherine_001	Ευχαριστώ. Εγώ θα κάτσω εδώ, αν δε σε πειράζει.
+Voices_03_02_omicron_inside|general_1fsuitterminal_011_player_001	Θα γυρίσω.
+Voices_03_02_omicron_inside|general_4astructuregel_001_player_001	Μερικά από αυτά τα εργαστήρια φαίνονται υποσχόμενα. Πιστεύεις ότι υπάρχει κάτι εδώ που θα μπορούσαμε να χρησιμοποιήσουμε;
+Voices_03_02_omicron_inside|general_4astructuregel_002_catherine_001	Έχε τα μάτια σου ανοιχτά για δομικό τζελ. Δε θα με εξέπληττε να βρεις καμιά δεξαμενή κάπου.
+Voices_03_02_omicron_inside|general_6aenterrobotics_001_player_001	Μοιάζει με σταθμό συντήρησης για ρομπότ.
+Voices_03_02_omicron_inside|general_6aenterrobotics_002_catherine_001	Το τέλειο μέρος για να βρεις ένα μυαλό.
+Voices_03_02_omicron_inside|general_6aenterrobotics_003_player_001	Ακόμα μιλάμε για τσιπ υπολογιστή, σωστά;
+Voices_03_02_omicron_inside|general_6aenterrobotics_004_catherine_001	Φυσικά.
+Voices_03_02_omicron_inside|general_6bgetbrain_001_player_001	Πήρα το τσιπ φλοιού.
+Voices_03_02_omicron_inside|general_6bgetbrain_002_catherine_001	Μπράβο, Σάιμον.
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_001_player_001	Δεν το πιστεύω ότι το κάνουμε αυτό.
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_002_catherine_001	Όλα θα πάνε καλά.
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_003_player_001	Τότε γιατί δεν μπαίνεις εσύ στη στολή;
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_004_catherine_001	Θα το πρότεινα αν αρνιόσουν.
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_005_player_001	Θα πήγαινες χωρίς εμένα;
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_006_catherine_002	Πρέπει να το κάνω, Σάιμον. Είναι σημαντικό. Πρέπει να εκτοξεύσω το ARK.
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_007_player_001	Θα το έκανες στ' αλήθεια -- θα άλλαζες σώμα;
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_008_catherine_001	Ναι.
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_010_catherine_001	Αν θέλεις να μείνεις εδώ, δε θα σου σταθώ εμπόδιο. Δε θέλω να σου πω τι να κάνεις.
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_011_player_001	Θα είναι όπως πριν; Κλείνω τα μάτια μου και μετά...
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_012_catherine_001	...και μετά τα ξανανοίγεις.
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_013_player_001	Εντάξει. Ας το κάνουμε.
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_014_catherine_001	Ευχαριστώ, Σάιμον.
+Voices_03_02_omicron_inside|general_10efinalsuitactivation_015_catherine_001	Πήγαινε κάτσε στη Θέση πιλότου στο διπλανό δωμάτιο. Ίσως χρειαστεί να την ξεκινήσεις.
+Voices_03_02_omicron_inside|general_10gtakeseat_001_catherine_001	Αυτά ήταν όλα. Μπορείς να ανέβεις στη Θέση πιλότου τώρα.
+Voices_03_02_omicron_inside|general_10gtakeseat_002_player_001	Κιόλας;
+Voices_03_02_omicron_inside|general_10gtakeseat_003_catherine_001	Τα έχω όλα υπό έλεγχο. Οπότε σε παρακαλώ... κάθισε.
+Voices_03_02_omicron_inside|general_10gtakeseatlong_001_catherine_001	Συγγνώμη για οποιαδήποτε δυσφορία, σε λίγο θα έχει τελειώσει.
+Voices_03_02_omicron_inside|general_10gtakeseatlong_002_player_001	Σαν να σε φωτογραφίζουν.
+Voices_03_02_omicron_inside|general_10gtakeseatlong_003_catherine_001	Αλλά με την πιο ακριβή κάμερα στον κόσμο.
+Voices_03_02_omicron_inside|general_10gtakeseatlong_004_player_001	Ξέρεις, οι Ινδιάνοι πίστευαν ότι οι φωτογραφίες τούς έκλεβαν την ψυχή.
+Voices_03_02_omicron_inside|general_10gtakeseatlong_005_catherine_001	Σε αυτή την περίπτωση, θα είχαν δίκιο.
+Voices_03_02_omicron_inside|general_10gtakeseatshort_001_player_001	Εντάξει, άλλη μια φορά.
+Voices_03_02_omicron_inside|general_10gtakeseatshort_002_catherine_001	Ξεκινάμε.
+Voices_03_02_omicron_inside|general_10fbadtransfer_almostright_001_automatedvoice_001	Η αντιγραφή ολοκληρώθηκε.
+Voices_03_02_omicron_inside|general_10fbadtransfer_almostright_002_player_001	Ξέρω ότι δεν είναι αληθινό, αλλά νιώθω στ' αλήθεια κάπως ζαλισμένος. Πήγαν όλα όπως τα σχεδιάσαμε; Κάθριν;
+Voices_03_02_omicron_inside|general_10fbadtransfer_almostright_003_player_001	Κάθριν, γιατί είμαι ακόμα...;
+Voices_03_02_omicron_inside|general_10fhelpconfigurechair_001_catherine_001	Τα πήρες όλα;
+Voices_03_02_omicron_inside|general_10iscancomplete_001_automatedvoice_001	Η αντιγραφή ολοκληρώθηκε.
+Voices_03_02_omicron_inside|general_10iscancomplete_002_oldsimon_001	Κάτι πρέπει να πήγε στραβά. Δεν μπορείς να τρέξεις μια διάγνωση ή κάτι τέτοιο; Κάθριν...
+Voices_03_02_omicron_inside|general_10iscancomplete_003_player_001	Τι ήταν αυτό;
+Voices_03_02_omicron_inside|general_10iscancomplete_004_catherine_001	Όχι, εγώ... απλώς...
+Voices_03_02_omicron_inside|general_10iscancomplete_005_player_001	Γιατί μιλούσε ακόμα;
+Voices_03_02_omicron_inside|general_10iscancomplete_006_catherine_001	Είναι το ίδιο. Όπως πριν.
+Voices_03_02_omicron_inside|general_10iscancomplete_007_player_001	Κάθριν. Γιατί μιλούσε ακόμα;
+Voices_03_02_omicron_inside|general_10iscancomplete_008_catherine_001	Έτσι λειτουργεί. Το ξέρεις αυτό.
+Voices_03_02_omicron_inside|general_10iscancomplete_009_player_001	Τι εννοείς;!
+Voices_03_02_omicron_inside|general_10iscancomplete_010_catherine_001	Ξέρεις ότι δεν είναι μαγεία. Αντιγράφτηκες. Ο Σάιμον που κοιμόταν στη θέση αντιγράφτηκε... και τώρα είσαι εδώ. Όπως ο Σάιμον συνέχισε να ζει στο Τορόντο.
+Voices_03_02_omicron_inside|general_10iscancomplete_011_player_001	Ανάθεμά σε, Κάθ. Δύο Σάιμον; Δεν μπορεί να υπάρχουν δύο Σάιμον!
+Voices_03_02_omicron_inside|general_10iscancomplete_012_catherine_001	Τι νόμιζες ότι θα γινόταν;!
+Voices_03_02_omicron_inside|general_10iscancomplete_013_player_001	Ότι θα έπαιρνες το μυαλό μου και θα το έβαζες στο άλλο σώμα. Σαν μεταμόσχευση εγκεφάλου.
+Voices_03_02_omicron_inside|general_10iscancomplete_014_catherine_001	Λυπάμαι. Δε θα δούλευε έτσι.
+Voices_03_02_omicron_inside|general_10iscancomplete_015_player_001	Καταλαβαίνεις πόσο αρρωστημένο είναι αυτό;
+Voices_03_02_omicron_inside|general_10iscancomplete_016_catherine_001	Σε παρακαλώ, δεν ήθελα να σε αναστατώσω--
+Voices_03_02_omicron_inside|general_10iscancomplete_017_player_001	Πώς περίμενες να αντιδράσω σε αυτά τα σκατά;
+Voices_03_02_omicron_inside|general_10iscancomplete_018_catherine_001	Σε παρακαλώ, σταμάτα.
+Voices_03_02_omicron_inside|general_10iscancomplete_019_player_001	Είσαι αηδιαστική, γαμώτο!
+Voices_03_02_omicron_inside|general_10iscancomplete_020_player_001	Τι θα γίνει με αυτόν;
+Voices_03_02_omicron_inside|general_10iscancomplete_021_catherine_001	Θα κοιμηθεί για λίγο. Μερικές μέρες.
+Voices_03_02_omicron_inside|general_10iscancomplete_022_player_001	Και μετά τι, θα ξυπνήσει πάλι σε αυτόν το γαμημένο εφιάλτη;
+Voices_03_02_omicron_inside|general_10iscancomplete_022_player_002	Ολομόναχος.
+Voices_03_02_omicron_inside|general_10iscancomplete_022_player_003	Τόσο σκληρό.
+Voices_03_02_omicron_inside|general_10iscancomplete_023_catherine_001	Ε, τι θέλεις να κάνεις μαζί του; Να γίνετε φίλοι; Να του πεις ότι πρέπει να τον αφήσουμε πίσω όταν πάμε στην άβυσσο;

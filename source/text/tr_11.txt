@@ -1,0 +1,137 @@
+03_02_omicron_inside|ChargerCharging	Φόρτιση μπαταρίας
+03_02_omicron_inside|ChargingCube	Φόρτιση
+03_02_omicron_inside|ChargerComplete	Η μπαταρία φορτίστηκε πλήρως. Αφαιρέστε την όποτε είστε έτοιμοι.
+03_02_omicron_inside|ButtonIncubator	ΑΝΟΙΓΜΑ/ΚΛΕΙΣΙΜΟ
+03_02_omicron_inside|ChipExploded	ΣΦΑΛΜΑ[br][br]Δυσλειτουργία[br]τσιπ ελέγχου[br][br]Απαιτείται συντήρηση
+03_02_omicron_inside|ChipInserted	ΚΑΤΑΣΤΑΣΗ[br][br]Θερμ.: -20C[br]Τζελ χωρίς βαθμονόμηση
+03_02_omicron_inside|Biomech_Cell1	ΚΥΨΕΛΗ 1
+03_02_omicron_inside|Biomech_Cell2	ΚΥΨΕΛΗ 2
+03_02_omicron_inside|Biomech_Cell3	ΚΥΨΕΛΗ 3
+03_02_omicron_inside|BioMechTerminalFileName_1	Συνδεσιμότητα
+03_02_omicron_inside|BioMechTerminalFile_1	Λίζα Κάμερον[br]2103-03-23[br][br]Το δομικό τζελ έχει φορτιστεί και στην πραγματικότητα συνεχίζει να λειτουργεί για λίγο, ακόμα κι όταν αποσυνδεθεί από την πηγή ενέργειας. Αν εφαρμοστεί σε κυκλώματα, φαίνεται να βοηθά τη συνδεσιμότητα.
+03_02_omicron_inside|BioMechTerminalFileName_2	Λειτουργία
+03_02_omicron_inside|BioMechTerminalFile_2	Λίζα Κάμερον[br]2103-03-25[br][br]Φαίνεται ότι δεν πρόκειται μόνο για συνδεσιμότητα αλλά και για λειτουργικότητα. Το τζελ μπορεί να κάνει απλά μηχανήματα να δουλεύουν και να λειτουργούν πιο αποδοτικά. Ωστόσο, οι τροποποιήσεις που έχει κάνει το WAU στο τζελ είναι γεμάτες επιπλέον πληροφορίες που δε βγάζουν απαραίτητα νόημα - όταν εφαρμόζεται σε κάτι πιο περίπλοκο, το τζελ συμπεριφέρεται σαν καρκίνος στον ξενιστή και τελικά τον καταστρέφει. Θα μπορούσαμε να χρησιμοποιήσουμε το τζελ προς όφελός μας, αλλά πρέπει να αφαιρεθεί η βαθμονόμησή του για να ξεφορτωθούμε τον κακό κώδικα.
+03_02_omicron_inside|BioMechTerminalFileName_3	Παθολογία
+03_02_omicron_inside|BioMechTerminalFile_3	Τζέικομπ Χάλπεριν[br]2103-05-07[br][br]Εφαρμόστηκε τζελ σε νεκρό ποντίκι. Το τζελ έκανε το ποντίκι να φαίνεται ζωντανό. Τοποθετήθηκε στον ίδιο χώρο με ένα ζωντανό ποντίκι. Το αναζωογονημένο ποντίκι ήταν απαθές, ενώ το ζωντανό έδειχνε αγχωμένο. Μετά από 15 λεπτά το αναζωογονημένο ποντίκι επιτέθηκε και σκότωσε το ζωντανό. Μισή ώρα αργότερα το αναζωογονημένο ποντίκι σταμάτησε να κινείται. Το πτώμα ήταν σκληρό, καθώς το τζελ είχε στερεοποιηθεί μέσα του.
+03_02_omicron_inside|BioMechTerminalFileName_4	Πρόοδος
+03_02_omicron_inside|BioMechTerminalFile_4	Τζέικομπ Χάλπεριν[br]2103-07-09[br][br]Αναζωογονήσαμε άλλο ένα ποντίκι με δομικό τζελ. Αυτή τη φορά με τζελ χωρίς βαθμονόμηση, όπως το παράγει η Ιμς. Τα αποτελέσματα ήταν εντυπωσιακά. Το πλάσμα φαίνεται κατατονικό, αλλά μοιάζει περισσότερο με υπνοβάτη. Για να μη στερεοποιηθεί όπως πριν, χρησιμοποιούνται ηλεκτρομαγνήτες που προκαλούν ένα χαμηλό ηλεκτρικό ρεύμα μέσα στο ζώο. Αυτό μας έδωσε επίσης τη δυνατότητα να το ελέγχουμε ως ένα βαθμό.
+03_02_omicron_inside|BioMechTerminalFileName_5	Χημική ανάλυση
+03_02_omicron_inside|BioMechTerminalFile_5	Πόλα Λάνσκι[br]2103-12-12[br][br]Το δομικό τζελ παραμένει αμετάβλητο σε θεμελιώδες επίπεδο. Είναι ακόμα το ίδιο διασυνδεδεμένο τζελ με ευθυγραμμισμένο γραφένιο σε πολυακόρεστη μήτρα που εγκαταστάθηκε σε όλο το Pathos-II πριν από μερικά χρόνια. Το πρόβλημα δεν είναι το τζελ, αλλά αυτό που το ελέγχει, το WAU. Το τζελ δεν έχει αποκτήσει καμία νέα ιδιότητα. Το WAU απλώς το χρησιμοποιεί με τρόπους που δε θα είχαμε φανταστεί ποτέ.
+03_02_omicron_inside|BioMechTerminalFileName_6	Αποτελέσματα μελέτης
+03_02_omicron_inside|BioMechTerminalFile_6	Κλαούντια Ιμς[br]2103-12-19[br][br]Συντριπτικά στοιχεία καταλήγουν στο ότι όλα τα παραμορφωμένα πλάσματα, τα ψάρια, οι καρχαρίες, ακόμα και οι βοηθοί, χειραγωγήθηκαν από το WAU μέσω του δομικού τζελ. Με κάποιον τρόπο εκτέθηκαν σε φορτισμένο τζελ και στη συνέχεια προσβλήθηκαν από καρκινικές αναπτύξεις που επηρεάζουν ολόκληρη την ύπαρξή τους. Είναι δύσκολο να ρωτήσεις «γιατί» όταν μιλάς για μια AI, αλλά όλα ξεκίνησαν λίγο μετά τη στιγμή που ο κομήτης σκότωσε την επιφάνεια. Δεν μπορώ να πω με σιγουριά αν πρόκειται για κακό κώδικα ή για μια προσεκτικά προγραμματισμένη ευθανασία, αλλά φαίνεται ότι δε θα μας κάνει ευκολότερη την επιβίωση.
+03_02_omicron_inside|DiveSuitTerminalFileName_1	HPS - Πληροφορίες
+03_02_omicron_inside|DiveSuitTerminalFile_1	Μια στολή ισχύος υψηλής πίεσης που εγγυάται αντοχή σε θερμοκρασίες από 50°C έως -75°C, διατηρώντας σταθερά 40°C (προεπιλογή) στο εσωτερικό. Η στολή προστατεύει αυτόματα το χρήστη από την πίεση και διατηρεί την κανονική 1 ATM έως βάθος 5000m. Ο ενσωματωμένος ελεγκτής παρακολουθεί τη σωματική κατάσταση του χρήστη και μπορεί να ελαχιστοποιήσει τον κίνδυνο σοκ, υπεραερισμού, ακόμα και αφυδάτωσης.
+03_02_omicron_inside|DiveSuitTerminalFileName_2	HPS - Χρήση
+03_02_omicron_inside|DiveSuitTerminalFile_2	Η στολή συναρμολογείται εύκολα με περιστρεφόμενους δακτυλίους στο λαιμό και τους καρπούς που κλειδώνουν τα γάντια και το κράνος στη θέση τους. Σημειώστε ότι οι αρμοί δε σφραγίζουν αν ο Ελεγκτής δεν μπορεί να αναγνωρίσει χρήστη μέσω ενός συνόλου αισθητήριων συστημάτων. Οι στολές μπορούν να κλειδωθούν για συγκεκριμένα μέλη του προσωπικού, αλλά από προεπιλογή η στολή δέχεται οποιονδήποτε.
+03_02_omicron_inside|DiveSuitTerminalFileName_3	HPS - Ελεγκτής
+03_02_omicron_inside|DiveSuitTerminalFile_3	Ο Ελεγκτής είναι ο ενσωματωμένος υπολογιστής που παρακολουθεί το σφυγμό, την εγκεφαλική δραστηριότητα, τη θερμοκρασία του σώματος και το άγχος μέσω της αγωγιμότητας του δέρματος. Χρησιμοποιεί αυτές τις πληροφορίες για να προσφέρει στο χρήστη την ασφαλέστερη δυνατή εμπειρία.
+03_02_omicron_inside|SuitActivation	Εισαγάγετε σειριακό αριθμό
+03_02_omicron_inside|DivesuitChecks	Προετοιμασία στολής ισχύος
+03_02_omicron_inside|DivesuitTest1	Γαλβανική απόκριση δέρματος
+03_02_omicron_inside|DivesuitTest2	Πηγή ενέργειας
+03_02_omicron_inside|DivesuitTest3	Δραστηριότητα φλοιού
+03_02_omicron_inside|DivesuitTest4	Θερμοκρασία σώματος
+03_02_omicron_inside|DivesuitFail	ΑΠΟΤΥΧΙΑ
+03_02_omicron_inside|DivesuitOkay	OK
+03_02_omicron_inside|DivesuitFinal	ΔΕΝ ΗΤΑΝ ΔΥΝΑΤΗ Η ΕΝΕΡΓΟΠΟΙΗΣΗ ΤΗΣ ΣΤΟΛΗΣ
+03_02_omicron_inside|DivesuitBigError	ΒΡΕΘΗΚΕ ΣΦΑΛΜΑ ΣΤΗ ΣΤΟΛΗ, ΑΠΑΙΤΕΙΤΑΙ ΠΡΟΣΟΧΗ
+03_02_omicron_inside|DivesuitPreparingDiag	Προετοιμασία διαγνωστικών
+03_02_omicron_inside|ButtonSuitInfo	Στολή Ισχύος Haimatsu
+03_02_omicron_inside|ButtonSuitTracking	Εντοπισμός HPS
+03_02_omicron_inside|ButtonSuitBoot	Ενεργοποίηση HPS
+03_02_omicron_inside|ButtonReformat	Επαναδιαμόρφωση
+03_02_omicron_inside|ButtonAccept	Αποδοχή
+03_02_omicron_inside|ButtonCancel	Ακύρωση
+03_02_omicron_inside|ButtonCopy	Αντιγραφή εικόνας
+03_02_omicron_inside|ButtonCircuitTest	Έλεγχος κυκλώματος
+03_02_omicron_inside|ButtonRAMCheck	Έλεγχος RAM
+03_02_omicron_inside|ButtonStorageSectors	Έλεγχος αποθήκευσης
+03_02_omicron_inside|ButtonMoreTests	Περισσότερα διαγνωστικά
+03_02_omicron_inside|ButtonSuit1	ΘΑΛΑΜΟΣ A
+03_02_omicron_inside|ButtonSuit2	ΘΑΛΑΜΟΣ B
+03_02_omicron_inside|ButtonSuit3	ΘΑΛΑΜΟΣ C
+03_02_omicron_inside|ButtonSuit4	ΘΑΛΑΜΟΣ D
+03_02_omicron_inside|ButtonSuit5	ΘΑΛΑΜΟΣ E
+03_02_omicron_inside|ButtonSuit6	ΘΑΛΑΜΟΣ F
+03_02_omicron_inside|LockerError	ΣΦΑΛΜΑ: Λείπει η στολή ισχύος
+03_02_omicron_inside|ErrorNoBrain	Ο αναγνώστης δε βρήκε μονάδα AI
+03_02_omicron_inside|ErrorNoSpace	Ανεπαρκής χώρος
+03_02_omicron_inside|ErrorImageSpace	Δεν υπάρχει αρκετός χώρος για την εικόνα
+03_02_omicron_inside|ErrorIncompatible	Ανεπαρκής χώρος για FS
+03_02_omicron_inside|Filesystem	Σύστημα αρχείων
+03_02_omicron_inside|LoadingWindow	Φόρτωση
+03_02_omicron_inside|Loading	Φόρτωση
+03_02_omicron_inside|Deploying	Αντιγραφή εικόνας
+03_02_omicron_inside|Formatting	Προετοιμασία συστήματος αρχείων
+03_02_omicron_inside|Diagnostic	Εκτέλεση διαγνωστικών
+03_02_omicron_inside|DiagnosticComplete	Τα διαγνωστικά ολοκληρώθηκαν
+03_02_omicron_inside|DiagnosticRemoveBrain	Η μονάδα AI μπορεί να αφαιρεθεί με ασφάλεια
+03_02_omicron_inside|SetupDataFlow	Ρύθμιση παραμέτρων
+03_02_omicron_inside|SelectedDataFlow	ΣΥΧΝΟΤΗΤΑ
+03_02_omicron_inside|SelectedDataAlignment	ΜΕΤΑΤΟΠΙΣΗ
+03_02_omicron_inside|EncryptionSignal	ΠΛΑΤΟΣ
+03_02_omicron_inside|TransferSPacket	Πακέτο S
+03_02_omicron_inside|TransferDPacket	Πακέτο D
+03_02_omicron_inside|TransferContBurst	Συνεχής ριπή
+03_02_omicron_inside|TransferCodepBurst	Αλληλοεξαρτώμενη ριπή
+03_02_omicron_inside|TransferLinear	Γραμμική
+03_02_omicron_inside|TransferPseudo	Ψευδοτυχαία
+03_02_omicron_inside|BeginReading	Κλείδωμα παραμέτρων
+03_02_omicron_inside|ScanInProgress	Η σύνδεση επιτεύχθηκε.[br]Έτοιμο για μεταφορά.
+03_02_omicron_inside|ScanError	ΣΦΑΛΜΑ: Ασυμφωνία σήματος
+03_02_omicron_inside|ScanLocked	Απομακρυσμένη σύνδεση ενεργή
+03_02_omicron_inside|AbortLink	Εκτέλεση: drain_battery
+03_02_omicron_inside|LinkActive	ΚΑΤΑΣΤΑΣΗ:[br] Σύνδεση ενεργή[br] Όλα τα συστήματα OK
+03_02_omicron_inside|LinkInactive	ΚΑΤΑΣΤΑΣΗ:[br] Σύνδεση ενεργή[br] Προειδοποίηση: Δυσλειτουργία μπαταρίας!
+03_02_omicron_inside|RobotPuzzle_COMMS	ΕΠΙΚΟΙΝΩΝΙΕΣ
+03_02_omicron_inside|RobotPuzzle_MOTOR	ΚΙΝΗΤΗΡΑΣ
+03_02_omicron_inside|RobotPuzzle_OPTICS	ΟΠΤΙΚΑ
+03_02_omicron_inside|RobotPuzzle_REJECT	ΕΞΑΓΩΓΗ
+03_02_omicron_inside|RobotPuzzle_CORTEXCHIP	ΤΣΙΠ ΦΛΟΙΟΥ
+03_02_omicron_inside|RobotPuzzle_DIAGNOSTIC	ΔΙΑΓΝΩΣΤΙΚΑ
+03_02_omicron_inside|RobotPuzzle_Solved	Η μονάδα φλοιού αφαιρέθηκε.[br]Κανένα σήμα προς τον ξενιστή
+03_02_omicron_inside|Files	Αρχεία
+03_02_omicron_inside|RobotRepair_Root_Folder	_root (12% ελεύθερο)
+03_02_omicron_inside|RobotRepair_Robot_Folder	Ρομποτική
+03_02_omicron_inside|RobotRepair_Robot_File_1_Info	Ύψος: 42cm[br]Βάρος: 2.1kg[br]Μέγιστη ταχύτητα: 15m/s[br]Αισθητήρες: 33[br]Μπορεί να εξοπλιστεί με διάφορα εργαλεία, όπως φλόγιστρο, αυτόματο κλειδί και επεκτάσεις αναμετάδοσης.
+03_02_omicron_inside|RobotRepair_Robot_File_2_Info	Ύψος: 115cm[br]Βάρος: 90kg[br]Μέγιστη ταχύτητα: 12m/s[br]Αισθητήρες: 14[br]Εξοπλισμένο με δύο πανκατευθυντικούς βραχίονες με υπεράνθρωπη ακρίβεια. Σε συνδυασμό με το στροβιλοκινητήρα του, μπορεί να μεταφέρει φορτίο 2 τόνων.
+03_02_omicron_inside|RobotRepair_Robot_File_3_Name	Ζέπελιν(Z-PL1n)
+03_02_omicron_inside|RobotRepair_Robot_File_3_Info	Ύψος: 740cm[br]Βάρος: 525kg[br]Μέγιστη ταχύτητα: 11m/s[br]Αισθητήρες: 7[br]Φορτηγό σκάφος μεταξύ βάσεων με χωρητικότητα φορτίου 7000kg.
+03_02_omicron_inside|RobotRepair_Scans_Folder	Νευρογραφικές σαρώσεις
+03_02_omicron_inside|RobotRepair_Scans_File_1_Name	Ντάρμπι, Έρικ
+03_02_omicron_inside|RobotRepair_Scans_File_2_Name	Ιμς, Κλαούντια
+03_02_omicron_inside|RobotRepair_Scans_File_3_Name	Χόλαντ, Ρίτσαρντ
+03_02_omicron_inside|RobotRepair_Scans_File_4_Name	Σόρβαρι, Όλαβι
+03_02_omicron_inside|BiolabReaderTitle	Βιολογία Όμικρον
+03_02_omicron_inside|BiolabReaderArticleTitle_1	Ο Ρος και το WAU
+03_02_omicron_inside|BiolabReaderArticleTitle_2	Η επαναφόρτιση του Ρος
+03_02_omicron_inside|BiolabReaderArticle_1	Πόλα Λάνσκι[br]2104-01-03[br][br]Επιβεβαιώθηκε συσχέτιση ανάμεσα στα υπερφορτωμένα συστήματα και στο πτώμα του Δρ. Ρος. Κατάφερα να θωρακίσω το πτώμα μέσα στο γυάλινο δοχείο για λίγα δευτερόλεπτα και είδα τεράστια πτώση στις μετρήσεις. Αν πραγματικά πρέπει να κρατήσουμε το Ρος μέσα στο Όμικρον, προτείνω να βρούμε τρόπο να στήσουμε ένα μόνιμο φράγμα για να αποφύγουμε σοβαρές δυσλειτουργίες του συστήματος.
+03_02_omicron_inside|BiolabReaderArticle_2	Λίζα Κάμερον[br]2104-01-15[br][br]Το WAU σίγουρα επισκευάζει το πτώμα του Ρος. Είναι το πιο τρελό πράγμα που έχω συναντήσει ποτέ. Κατά κάποιον τρόπο το WAU, που περιορίζεται κυρίως στο δομικό τζελ μέσα στους τοίχους, βομβαρδίζει το πτώμα με κάθε σύστημα στο οποίο έχει πρόσβαση. Το γυάλινο δοχείο περιβάλλεται από ανθυγιεινή ποσότητα ηλεκτρομαγνητισμού και ακτινοβολίας, η οποία φαίνεται να δίνει οδηγίες στο τζελ που βρίσκεται ήδη μέσα στο σώμα του Ρος. Δεν ξέρω τι περιμένει το WAU να συμβεί όταν αποκατασταθεί, αλλά τουλάχιστον όλη αυτή η τρέλα θα πρέπει να σταματήσει όταν το σώμα φτάσει στο 100%.
+03_02_omicron_inside|PressureStatus	Κατάσταση πίεσης
+03_02_omicron_inside|DECOMPRESSION	Έναρξη αποσυμπίεσης
+03_02_omicron_inside|PRESSURE	Τρέχουσα πίεση
+03_02_omicron_inside|ButtonLaptopRecordings	Ηχογραφήσεις
+03_02_omicron_inside|ButtonLaptopDocuments	Έγγραφα
+03_02_omicron_inside|ButtonLaptopImages	Εικόνες
+03_02_omicron_inside|DahlLaptopRecording_1	Αναφορά που δεν παραδόθηκε #1
+03_02_omicron_inside|DahlLaptopRecording_2	Αναφορά που δεν παραδόθηκε #2
+03_02_omicron_inside|DahlLaptopRecording_3	Αναφορά που δεν παραδόθηκε #3
+03_02_omicron_inside|DahlLaptopFilename_1	Εκκένωση ΤΑΥ
+03_02_omicron_inside|DahlLaptopFile_1	Στις 13 Σεπτεμβρίου ο Βικ Οκλέρ διέταξε το προσωπικό του Ταυ να εκκενώσει και να ανέβει στο οροπέδιο. Μαζί με το μηχανικό Άλαν Βάλντεκ κατέβηκα στην άβυσσο για να βοηθήσω την εκκένωση. Σύμφωνα με το πρωτόκολλο, περιμέναμε στην πλατφόρμα του Climber για 140 λεπτά και κάναμε αρκετές απόπειρες να επικοινωνήσουμε με το Ταυ. Αποφάσισα να κινηθώ προς τη βάση, σκεπτόμενη ότι ίσως τους συναντούσα στο δρόμο. Τότε πρόσεξα ότι τα φώτα καθοδήγησης τρεμόπαιζαν και σύντομα ολόκληρο το μονοπάτι έσβησε - ο Τομέας Ωμέγα χάθηκε στο σκοτάδι. Συνέχισα με τον προβολέα μου μέχρι που άκουσα ουρλιαχτά από τον ασύρματο μικρής εμβέλειας. Συνεχίζονταν, χάνονταν και ξαναγύριζαν. Καθώς πλησίαζα βιαστικά για να ερευνήσω, βρήκα το κατακρεουργημένο σώμα της εργάτριας πεδίου Εσπινόζα - κάτι μεγάλο την είχε σχεδόν κόψει στα δύο. Σκέφτηκα πόσο σημαντικό ήταν να σωθεί το Ταυ, και πιο συγκεκριμένα ο Ρος, ενώ άκουγα τους συναδέλφους της Εσπινόζα να σφάζονται στον ασύρματο. Μη βλέποντας κανέναν τρόπο να βελτιώσω την κατάσταση, γύρισα βιαστικά στο Climber και άφησα τους ανθρώπους του Ταυ στη μοίρα τους.
+03_02_omicron_inside|DahlLaptopFilename_2	ΤΑΥ (Σημ. Carth.)
+03_02_omicron_inside|DahlLaptopFile_2	Με λίγη τύχη ο Ρος γύρισε στο Ταυ και μπορεί να συνεχίσει τη δουλειά του στο Άλφα. Για να αποφύγω περαιτέρω αναστατώσεις, αποφάσισα να αναφέρω την εκκένωση ως πλήρη αποτυχία, ελπίζοντας ότι έτσι το Θήτα δε θα επιχειρήσει άλλη. Η Κλαούντια Ιμς, η διευθύντρια του Όμικρον, έχει ήδη διατάξει να μείνει το Climber στο οροπέδιο προς το παρόν. Η αναφορά μου για την άγρια πανίδα τρόμαξε τόσο πολύ όλους, που σταμάτησαν ακόμα και ο Βάλντεκ και ο Ντάρμπι τη συντήρηση των ανιχνευτών LUMAR. Ευτυχώς ο Γκολάσκι λείπει, γιατί κάτι μου λέει ότι δε θα το ενέκρινε.[br]Οι περιορισμοί βγήκαν λίγο αυστηρότεροι απ' ό,τι περίμενα, αλλά τους δέχομαι. Αρκεί να αφήσουν το Ρος ήσυχο να δουλεύει με το WAU.
+03_02_omicron_inside|DahlLaptopFilename_3	CARTHAGE
+03_02_omicron_inside|DahlLaptopFile_3	Τζούλια Νταλ[br]Γιόχαν Ρος[br]Μαρκ Σαράνγκ
+03_02_omicron_inside|RobotArmError	Η κυψέλη δεν είναι ασφαλισμένη. Κλείστε το δίσκο και δοκιμάστε ξανά.
+03_02_omicron_inside|RobotArmErrorCaption	ΣΦΑΛΜΑ
+03_02_omicron_inside|SuitCraftHeadingComplete	Η ΒΑΘΜΟΝΟΜΗΣΗ ΟΛΟΚΛΗΡΩΘΗΚΕ
+03_02_omicron_inside|SuitCraftHeadingInProgress	ΒΑΘΜΟΝΟΜΗΣΗ...
+03_02_omicron_inside|ARKTeam_Title	Λίστα ελέγχου ομάδας ARK
+03_02_omicron_inside|ARKTeam_Body	Οι στολές ισχύος δοκιμάστηκαν και είναι έτοιμες[br][Επιβεβαίωση: Τζάσπερ][br][br]Οι σαρώσεις του Όμικρον είναι στο ARK[br][Επιβεβαίωση: Κάθριν][br][br]Φορτώθηκε ο εξοπλισμός και οι επιπλέον μερίδες[br][Επιβεβαίωση: Ιβάσκιν][br][br]Το Climber βαθμονομήθηκε για το βάρος[br][Επιβεβαίωση: Άλαν][br][br]Ο χειριστής του γερανού είναι έτοιμος[br][Επιβεβαίωση: Άλαν][br][br]Το Όμικρον περιμένει για παραλαβή σε δύο μέρες[br][Επιβεβαίωση: Ιμς]
+03_02_omicron_inside|HerberSuitScreenName	Ράλεϊ Χέρμπερ
+03_02_omicron_inside|HerberSuitScreenRank	Συντονιστής (Όμικρον)
+03_02_omicron_inside|CreepyRossMessage_1	Πρέπει να το σταματήσουμε
+03_02_omicron_inside|CreepyRossMessage_2	Σταματήστε το WAU
+03_02_omicron_inside|CreepyRossMessage_3	Πάρτε τον ιό
+03_02_omicron_inside|CreepyRossMessage_4	Καταστρέψτε το WAU
+03_02_omicron_inside|CreepyRossMessage_5	Υποφέρουμε

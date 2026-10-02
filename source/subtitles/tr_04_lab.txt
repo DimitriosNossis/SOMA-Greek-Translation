@@ -1,0 +1,155 @@
+Voices_00_03_laboratory|general_1_arriving_001_player_001	Γεια; Δρ. Μούνσι;
+Voices_00_03_laboratory|general_2_lockeddoor0_001_player_001	Εδώ είναι, σωστά; Πρέπει να είναι.
+Voices_00_03_laboratory|general_2_lockeddoor1_001_player_001	Δρ. Μούνσι; Με ακούτε; Είναι κανείς εδώ;!
+Voices_00_03_laboratory|general_2_lockeddoor2_001_player_001	Εντάξει, χρειαζόμαστε κωδικό.
+Voices_00_03_laboratory|General_3_TryExit0_001_Player_001	Δεν μπορώ να τα παρατήσω ακόμα.
+Voices_00_03_laboratory|General_3_TryExit1_001_Player_001	Όχι ακόμα, μπορώ να το λύσω αυτό.
+Voices_00_03_laboratory|General_3_TryExit2_001_Player_001	Πρέπει να υπάρχει τρόπος να μπω στο εργαστήριο.
+Voices_00_03_laboratory|General_4_TurnOnLights_001_Player_001	Πού είναι όλοι; Νόμιζα ότι θα είχε κόσμο εδώ.
+Voices_00_03_laboratory|General_7_GreetDavid_001_David_001	Α, γεια! Δε σας άκουσα να μπαίνετε. Ο Σάιμον Τζάρετ, σωστά;
+Voices_00_03_laboratory|General_7_GreetDavid_002_Player_001	Δρ. Μούνσι;
+Voices_00_03_laboratory|General_7_GreetDavid_003_David_001	Σκέτο κύριος Μούνσι, αλλά το δουλεύω. Για την ακρίβεια, αυτή τη στιγμή με βοηθάτε.
+Voices_00_03_laboratory|General_7_GreetDavid_004_Player_001	Είναι μέρος της διατριβής σας;
+Voices_00_03_laboratory|General_7_GreetDavid_005_David_001	Ναι, είναι μια μελέτη που κάνω με το συνάδελφό μου, τον Πολ Μπεργκ. Ελπίζουμε να σχεδιάσουμε έναν ήπιο τρόπο αποκατάστασης του εγκεφάλου. Για να βοηθήσουμε ανθρώπους σαν εσάς.
+Voices_00_03_laboratory|General_7_GreetDavid_006_David_001	Ήπιατε το σκιαγραφικό;
+Voices_00_03_laboratory|General_7_GreetDavid_007_Player_001	Ναι, ναι, το ήπια.
+Voices_00_03_laboratory|General_7_GreetDavid_008_David_001	Τέλεια. Μπορούμε να ξεκινήσουμε όποτε είστε έτοιμος.
+Voices_00_03_laboratory|General_8_InteractDavid1_001_Player_001	Λοιπόν -- τι ακριβώς θα κάνουμε;
+Voices_00_03_laboratory|General_8_InteractDavid1_002_David_001	Θα σαρώσουμε τον εγκέφαλό σας. Μετά θα φτιάξουμε ένα υπολογιστικό μοντέλο του και θα το βομβαρδίσουμε με ερεθίσματα. Το πρόγραμμα θα μας βοηθήσει να βελτιώνουμε γρήγορα το θεραπευτικό σας πλάνο μέχρι να γίνει άριστο. Με λίγα λόγια, θα βρούμε την τέλεια θεραπεία για την κατάστασή σας.
+Voices_00_03_laboratory|General_8_InteractDavid1_003_Player_001	Δηλαδή δεν είναι απλώς μια μελέτη, θα με βοηθήσει κιόλας;
+Voices_00_03_laboratory|General_8_InteractDavid1_004_David_001	Ελπίζω. Αλλιώς θα ήταν τεράστια σπατάλη χρόνου.
+Voices_00_03_laboratory|General_8_InteractDavid2_001_Player_001	Ξέρετε ότι έχω σοβαρό πρόβλημα, σωστά; Μάθατε για το τροχαίο -- το «σας μένουν Χ μήνες ζωής»;
+Voices_00_03_laboratory|General_8_InteractDavid2_002_David_001	Ναι, το έμαθα. Πρέπει να είναι δύσκολο να ακούς κάτι τέτοιο. Όπως ξέρετε, ο εγκέφαλός σας έχει εξασθενήσει τόσο πολύ που μπορεί να αιμορραγεί πού και πού...
+Voices_00_03_laboratory|General_8_InteractDavid2_003_Player_001	... κι αν ποτέ γίνει πολύ άσχημα, θα με σκοτώσει.
+Voices_00_03_laboratory|General_8_InteractDavid2_004_David_001	Λοιπόν, μάλλον δεν μπορούμε να αποκαταστήσουμε πλήρως τον εγκέφαλό σας, αλλά θα μπορέσουμε να κάνουμε αυτούς τους Χ μήνες χρόνια. Ίσως και δεκαετίες. Αν προσέχετε τον εαυτό σας και δεν κάνετε καμιά τρέλα, θα μπορέσουμε να σας κάνουμε να ζήσετε περισσότερο από όλους μας.
+Voices_00_03_laboratory|general_8_interactdavid3_001_player_001	Ελπίζω πραγματικά να έχετε δίκιο.
+Voices_00_03_laboratory|general_8_interactdavid3_002_david_001	Κι εγώ. Αυτό θα μπορούσε να αλλάξει πολύ τον τρόπο που θεραπεύουμε ανθρώπους με εγκεφαλική βλάβη.
+Voices_00_03_laboratory|general_8_interactdavid3_003_david_001	Λοιπόν, τι λέτε, να ξεκινάμε;
+Voices_00_03_laboratory|general_8_interactdavid3_004_player_001	Βεβαίως, ας ξεκινήσουμε.
+Voices_00_03_laboratory|general_8_interactdavid3_005_david_001	Καθίστε.
+Voices_00_03_laboratory|General_10_SitDown_001_David_001	Εντάξει, ας τελειώνουμε πρώτα με τα τυπικά. Είστε ο Σάιμον Τζάρετ, σωστά;
+Voices_00_03_laboratory|General_10_SitDown_002_Player_001	Σωστά.
+Voices_00_03_laboratory|General_10_SitDown_003_David_001	Τορόντο, Καναδάς. Ντέιβιντ Μούνσι.
+Voices_00_03_laboratory|General_10_SitDown_004_David_001	Γεννηθήκατε 16 Ιουλίου 1988;
+Voices_00_03_laboratory|General_10_SitDown_005_Player_001	Σωστά.
+Voices_00_03_laboratory|General_10_SitDown_006_David_001	Επίπεδο νευρογράφημα, έκδοση έξι.
+Voices_00_03_laboratory|General_10_SitDown_007_David_001	Ωραία. Όλα τα αρχεία εντάξει.
+Voices_00_03_laboratory|General_10_SitDown_008_Player_001	Θα πονέσει;
+Voices_00_03_laboratory|General_10_SitDown_009_David_001	Απλώς μια σάρωση είναι. Θα πονέσει όσο και μια φωτογραφία.
+Voices_00_03_laboratory|General_11_GogglesOn_001_Player_001	Οι Ινδιάνοι πίστευαν ότι οι φωτογραφικές μηχανές έκλεβαν την ψυχή τους.
+Voices_00_03_laboratory|General_11_GogglesOn_002_David_001	Αλήθεια; Ας ελπίσουμε ότι έκαναν λάθος.
+Voices_00_03_laboratory|General_11_GogglesOn_003_David_001	Έτοιμος; Πείτε «τυρί»!
+Voices_00_03_laboratory|general_13_davidreminder_0_001_david_001	Παρακαλώ, καθίστε.
+Voices_00_03_laboratory|General_13_DavidReminder_1_001_David_001	Απλώς καθίστε και θα τελειώσουμε σε χρόνο μηδέν.
+Voices_00_03_laboratory|General_14_LeaveRoom_0_001_David_001	Μην τριγυρνάτε. Υπάρχουν βελόνες και τέτοια πεταμένα.
+Voices_00_03_laboratory|General_14_LeaveRoom_1_001_David_001	Τι λέτε, να προχωρήσουμε με τη σάρωση;
+Voices_00_03_laboratory|General_14_LeaveRoom_2_001_David_001	Βιαστείτε. Δεν έχουμε όλη τη μέρα.
+Voices_00_03_laboratory|general_7_greetdavidfirst_001_player_001	Ντέιβιντ Μούνσι;
+Voices_00_03_laboratory|General_15_PowerSwitchMessage_001_David_001	Παρακαλώ, μην αγγίζετε τίποτα.
+Voices_00_03_laboratory|General_15_PowerSwitchMessage_002_David_001	Απλώς καθίστε να ξεκινήσουμε.
+Voices_00_03_laboratory|General_15_PowerSwitchMessage_003_David_001	Ελάτε, ας το κάνουμε.
+Voices_00_03_laboratory|General_8_InteractDavid4_001_David_001	Όποτε είστε έτοιμος.
+Voices_00_03_laboratory|General_8_InteractDavid4_002_David_001	Καθίστε.
+Voices_00_03_laboratory|General_8_InteractDavid4_003_David_001	Ας ξεκινήσουμε την παράσταση.
+Voices_00_03_laboratory|general_2_lockeddoor0_noanswer_001_player_001	Τέλεια, έχει κλειστό το τηλέφωνο.
+Voices_00_03_laboratory|general_2_lockeddoor0_noanswer_002_player_001	Δεν πειράζει. Μπορώ να το λύσω.
+Voices_00_03_laboratory|general_2_lockeddoor0_dialing_001_player_001	Ας πάρω γρήγορα τηλέφωνο το Μούνσι.
+Voices_00_03_laboratory|comment_3_tryexitaftermunshi_001_player_001	Πρέπει οπωσδήποτε να κάνω τη σάρωση πριν φύγω.
+Voices_00_03_laboratory|comment_3_tryexitaftermunshi_002_player_001	Πεθαίνω ήδη. Αμφιβάλλω αν η σάρωση του Μούνσι μπορεί να το κάνει χειρότερο.
+Voices_00_03_laboratory|comment_3_tryexitaftermunshi_003_player_001	Δεν μπορώ να φύγω ακόμα, ο Μούνσι με περιμένει για τη σάρωση.
+Voices_00_03_laboratory|comment_3_codewithouthint_001_player_001	Α, το μάντεψα! Απίστευτο.
+Voices_01_01_upsilon_awake|general_1a_wakeup_001_player_001	Τι έγινε;
+Voices_01_01_upsilon_awake|general_1a_stumblingindark_001_player_001	Είναι κανείς εδώ; Κύριε Μούνσι;
+Voices_01_01_upsilon_awake|general_1a_stumblingindark_002_player_001	Πήγε κάτι στραβά;
+Voices_01_01_upsilon_awake|general_1a_stumblingindark_003_player_001	Δεν είναι αστείο.
+Voices_01_01_upsilon_awake|general_1a_stumblingindark_004_player_001	Δεν επιτρέπεται να βάζω τον εαυτό μου σε -
+Voices_01_01_upsilon_awake|general_1a_stumblingindark_005_player_001	- αυτό με αγχώνει λίγο.
+Voices_01_01_upsilon_awake|general_1a_stumblingindark_006_player_001	Έι;! Κανείς;
+Voices_01_01_upsilon_awake|General_1B_PowerOn_BeforeCollapse_001_Player_001	Τι στο διάολο είναι αυτό το μέρος; Πώς βρέθηκα εδώ;
+Voices_01_01_upsilon_awake|General_1B_PowerOn_StandUp_001_Player_001	Μπορώ να το καταλάβω. Πρέπει απλώς να μείνω ψύχραιμος. Δε χρειάζεται να κάνω τα πράγματα χειρότερα.
+Voices_01_01_upsilon_awake|datamine_2b_datamineairlockintercom_001_amy_001	Καρλ, δουλεύει καλύτερα απ' ό,τι περιμέναμε. Δυσκολεύονται πάρα πολύ να ανοίξουν τις πόρτες.
+Voices_01_01_upsilon_awake|datamine_2b_datamineairlockintercom_002_carl_001	Ωραία, σφράγισε μόνιμα όσες περισσότερες μπορείς. Δε θέλω να ρισκάρουμε.
+Voices_01_01_upsilon_awake|datamine_2b_datamineairlockintercom_003_amy_001	Ελήφθη. Απομόνωσες το χώρο του εργοστασίου;
+Voices_01_01_upsilon_awake|datamine_2b_datamineairlockintercom_004_carl_001	Έτοιμο. Θα κρατήσει έξω τα περισσότερα. Πάω να κλειδώσω το κέντρο επικοινωνιών.
+Voices_01_01_upsilon_awake|datamine_2b_datamineairlockintercom_005_amy_001	Απλώς φρόντισε να αφήσεις μια έξοδο από εδώ.
+Voices_01_01_upsilon_awake|datamine_2b_datamineairlockintercom_006_carl_001	Εμπιστέψου με, θα σε πάω στο Θήτα σώα και αβλαβή. Πρέπει μόνο να αφήσουμε αρκετή ενέργεια να τρέχει, για να μη χρειαστεί να γυρίσουμε.
+Voices_01_01_upsilon_awake|datamine_2b_datamineairlockintercom_007_amy_001	Σύμφωνοι. Τα λέμε στον καταυλισμό.
+Voices_01_01_upsilon_awake|datamine_2c_dataminesemiinfectedrobot_001_semiinfectedrobot_001	*Βασανιστική ανάσα*
+Voices_01_01_upsilon_awake|datamine_2c_dataminesemiinfectedrobot_002_amy_001	Έι, εσύ. Μπορείς να μιλήσεις; Μπορείς να μιλήσεις σαν τα άλλα;
+Voices_01_01_upsilon_awake|datamine_2c_dataminesemiinfectedrobot_003_semiinfectedrobot_001	*Βασανιστική ανάσα*
+Voices_01_01_upsilon_awake|datamine_2c_dataminesemiinfectedrobot_004_amy_001	Γιατί είσαι έτσι;
+Voices_01_01_upsilon_awake|datamine_2c_dataminesemiinfectedrobot_005_semiinfectedrobot_001	*Βασανιστική ανάσα*
+Voices_01_01_upsilon_awake|datamine_2c_dataminesemiinfectedrobot_006_amy_001	Θέλεις δομικό τζελ; Ναι, θέλεις. Τόσο περίεργο. Δε βγάζει κανένα νόημα.
+Voices_01_01_upsilon_awake|datamine_2c_dataminesemiinfectedrobot_007_semiinfectedrobot_001	*Βασανιστική ανάσα*
+Voices_01_01_upsilon_awake|datamine_2c_dataminesemiinfectedrobot_008_amy_001	Θα σε κλείσω τώρα, εντάξει; Ναι, είσαι ανατριχιαστικό όσο δεν πάει, οπότε θα σε κλεί--
+Voices_01_01_upsilon_awake|Datamine_2I_SuitRobotRambling_001_SuitRobot_001	Κράτα τες κλειστές, κράτα τα έξω.
+Voices_01_01_upsilon_awake|Datamine_2I_SuitRobotRambling_002_SuitRobot_001	Δεν αναγνωρίζω αυτό το μέρος. Μοιάζει με το Pathos-II, αλλά δεν έχω ξαναέρθει εδώ.
+Voices_01_01_upsilon_awake|Datamine_2I_SuitRobotRambling_003_SuitRobot_001	Πες κάτι, Βανέσα. Έκλεισες τις πόρτες; Πρέπει να τις κρατάμε κλειστές.
+Voices_01_01_upsilon_awake|Datamine_2I_SuitRobotRambling_004_SuitRobot_001	Όλα θολώνουν τώρα. Μάλλον είναι κάποιου είδους κρίση, αλλά δεν το έχω ξανανιώσει αυτό.
+Voices_01_01_upsilon_awake|Datamine_2I_SuitRobotRambling_005_SuitRobot_001	Βλέπω κάτι, κάτι διαφορετικό τώρα. Σίγουρα δεν είναι το Λάμδα.
+Voices_01_01_upsilon_awake|Datamine_2I_SuitRobotRambling_006_SuitRobot_001	Δεν αναγνωρίζω αυτό το μέρος. Είμαστε ακόμα στο Pathos-II;
+Voices_01_01_upsilon_awake|Datamine_2I_SuitRobotRambling_007_SuitRobot_001	Πήγαινέ με πίσω στο Λάμδα. Ας μπούμε στο Curie, ας μπούμε απλώς στο Curie και ας ξεχάσουμε όλα αυτά.
+Voices_01_01_upsilon_awake|Datamine_2I_SuitRobotRambling_008_SuitRobot_001	Τα μαύρα λύματα που στάζουν από το WAU. Αυτό θέλουν.
+Voices_01_01_upsilon_awake|Datamine_2I_SuitRobotRambling_009_SuitRobot_001	Κλείσ' την, κλείσ' τες όλες. Οι πόρτες είναι με το μέρος μας.
+Voices_01_01_upsilon_awake|Datamine_2I_SuitRobotRambling_010_SuitRobot_001	Είναι το Ύψιλον αυτό; Κάπως θα έβγαζε νόημα.
+Voices_01_01_upsilon_awake|datamine_2i_suitrobotcallsout_005_suitrobot_001	Σε παρακαλώ, μη φεύγεις, φοβάμαι!
+Voices_01_01_upsilon_awake|Datamine_2I_SimonConfrontSuitRobot_001_Player_001	Τι έχεις εσύ;
+Voices_01_01_upsilon_awake|Datamine_2I_SuitRobotScaredOfEnemy_001_SuitRobot_001	Θεέ μου! Έρχεται για εμάς. Δε θέλω να είμαι εδώ. Σε παρακαλώ. Βανέσα. Όχι, όχι, μη σκέφτεσαι τη Βανέσα. Θα πιάσει κι εκείνη.
+Voices_01_01_upsilon_awake|Datamine_2I_SuitRobotScaredOfEnemy_002_SuitRobot_001	Φύγε! Δε σου έκανα τίποτα. Δε φταίω εγώ που έγινε αυτό. Το WAU φταίει. Κατηγόρησε το WAU.
+Voices_01_01_upsilon_awake|Datamine_2J_SuitRobotDies_001_SuitRobot_001	Όχι! Όχι, δεν είναι δίκαιο! Επέζησα! Άααχ, όχι, Θεέ--
+Voices_01_01_upsilon_awake|Datamine_2J_SuitRobotDatamine_001_SuitRobot_001	Όχι! Δεν είναι δίκαιο! Επέζησα! Άααχ!
+Voices_01_01_upsilon_awake|Datamine_2J_SuitRobotDatamine_002_SuitRobot_001	*ήχοι από το ρομπότ-στολή που γίνεται κομμάτια*
+Voices_01_01_upsilon_awake|General_2K_OmniToolNotConfigured_001_AutomatedVoice_001	Άρνηση πρόσβασης. Λάθος μορφή.
+Voices_01_01_upsilon_awake|General_2M_OmniToolFixed_001_AutomatedVoice_001	Πρόσβαση επιτράπηκε.
+Voices_01_01_upsilon_awake|Datamine_2J_SuitRobotDrained_001_SuitRobot_001	Όχι, όχιιι! Σε παρακαλώ... Θέλω να ζήσω!
+Voices_01_01_upsilon_awake|Datamine_2J_SuitRobotDatamineDrained_001_SuitRobot_001	Όχι, όχιιι! Σε παρακαλώ... Θέλω να ζήσω.
+Voices_01_01_upsilon_awake|Datamine_2J_SuitRobotDatamineDrained_002_SuitRobot_001	*Ο Σάιμον αγγίζει το λουλούδι του WAU ενώ το ρομπότ-στολή εκπνέει και πεθαίνει*
+Voices_01_01_upsilon_awake|datamine_3b_datamineamyintercom_001_carl_001	Έιμι, είσαι εκεί;
+Voices_01_01_upsilon_awake|datamine_3b_datamineamyintercom_002_amy_001	Εδώ είμαι.
+Voices_01_01_upsilon_awake|datamine_3b_datamineamyintercom_003_carl_001	Έτοιμη να το αφήσεις πίσω;
+Voices_01_01_upsilon_awake|datamine_3b_datamineamyintercom_004_amy_001	Μάλλον.
+Voices_01_01_upsilon_awake|datamine_3b_datamineamyintercom_005_carl_001	Θα έχεις άπειρες ευκαιρίες να κάνεις ζεν με τα ψάρια στο Θήτα.
+Voices_01_01_upsilon_awake|datamine_3b_datamineamyintercom_006_amy_001	Θα μου λείψει αυτό το μέρος.
+Voices_01_01_upsilon_awake|datamine_3b_datamineamyintercom_007_carl_001	Το Ύψιλον;
+Voices_01_01_upsilon_awake|datamine_3b_datamineamyintercom_008_amy_001	Έλα τώρα, δουλεύουμε εδώ χρόνια. Ούτε λίγο δε θα σου λείψει;
+Voices_01_01_upsilon_awake|datamine_3b_datamineamyintercom_009_carl_001	Ένας σταθμός ενέργειας γεμάτος ψυχοπαθή μηχανήματα; Θα βρω τρόπο να το ξεπεράσω.
+Voices_01_01_upsilon_awake|datamine_3b_datamineamyintercom_010_amy_001	Ψυχρό αυτό, φίλε. Δε φταίει το Ύψιλον που το κατέκλυσαν.
+Voices_01_01_upsilon_awake|datamine_3b_datamineamyintercom_011_carl_001	Όπως και να 'χει, σφράγισε το πράγμα και γύρνα στον καταυλισμό επιτέλους.
+Voices_01_01_upsilon_awake|datamine_3b_datamineamyintercom_012_amy_001	Ελήφθη.
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoor_001_TalkingDoor_001	Δεν καταλαβαίνω.
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoor_002_TalkingDoor_001	Μπορείς να βοηθήσεις;
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoor_003_TalkingDoor_001	Δεν ξέρω, δεν ξέρω τι έγινε.
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoor_004_TalkingDoor_001	Πρέπει απλώς να γυρίσω πίσω.
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoor_005_TalkingDoor_001	Πρέπει να με βοηθήσεις.
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoorCloses_001_TalkingDoor_001	...
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoorWeeps_001_TalkingDoor_001	Μείνε, μείνε, μείνε. Μείνε, μείνε εδώ, μείνε.
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoorWeeps_002_TalkingDoor_001	Όλα θα πάνε καλά. Όλα θα πάνε καλά. Όλα θα πάνε καλά.
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoorWeeps_003_TalkingDoor_001	Εσύ αντί για μένα. Εσύ αντί για μένα.
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoorWeeps_004_TalkingDoor_001	Όλα είναι εντάξει. Όλα είναι εντάξει.
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoorWeeps_005_TalkingDoor_001	Μείνε εδώ. Μείνε. Μείνε εδώ. Μείνε.
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoorWeeps_006_TalkingDoor_001	Αντί για μένα. Αντί για μένα.
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoorWeeps_007_TalkingDoor_001	Εντάξει είναι. Εντάξει είναι.
+Voices_01_01_upsilon_awake|Datamine_3G_TalkingDoorButton_001_TalkingDoor_001	Φύγε μακριά μου!
+Voices_01_01_upsilon_awake|Datamine_3G_TalkingDoorButton_002_TalkingDoor_001	Άφησέ με ήσυχο!
+Voices_01_01_upsilon_awake|Datamine_3G_TalkingDoorButton_003_TalkingDoor_001	Σταμάτα!
+Voices_01_01_upsilon_awake|Datamine_2I_InteractAfterDoorBang_001_Player_001	Τι είναι αυτό -- τι συμβαίνει;
+Voices_01_01_upsilon_awake|Datamine_2I_InteractAfterDoorBang_002_SuitRobot_001	Κράτα την πόρτα κλειστή.
+Voices_01_01_upsilon_awake|Datamine_2J_SuitRobotSeeCorpse_001_Player_001	Χριστέ μου! Δεν ήθελα να συμβεί αυτό.
+Voices_01_01_upsilon_awake|datamine_3a_entertunnel_001_player_001	Τι...  πού βρίσκομαι;
+Voices_01_01_upsilon_awake|Datamine_3C_ReadAmyNotes_001_Player_001	Δε βγάζω άκρη. Ποιοι είναι αυτοί οι άνθρωποι;
+Voices_01_01_upsilon_awake|Datamine_OrientationVideo_1_001_Strohmeier_001	Ξέρω ότι σας είπαν πως οι τεχνικοί πεδίου θα έχουν πλήρη πρόσβαση σε όλο το Pathos-II. Είμαι εδώ για να σας πω ότι αυτό δεν πρόκειται να γίνει.
+Voices_01_01_upsilon_awake|Datamine_OrientationVideo_1_002_Strohmeier_001	Μη με παρεξηγείτε. Δε θέλω να σας μπαίνω στα πόδια, σας χρειαζόμαστε για να κρατάτε αυτό το μέρος σε λειτουργία, αλλά πρέπει να υπάρχει τουλάχιστον κάποιο επίπεδο ασφάλειας σε αυτά τα πράγματα.
+Voices_01_01_upsilon_awake|Datamine_OrientationVideo_2_001_Strohmeier_001	Δε θέλω να ακούσω ότι μπουκάρατε σε καμιά περιοχή σε καραντίνα στο Όμικρον και ρίξατε ολόκληρο το μέρος με κάποιον ιό ή ό,τι στο διάολο κάνουν εκεί πέρα.
+Voices_01_01_upsilon_awake|Datamine_OrientationVideo_3_001_Strohmeier_001	Να τι μπορείτε να κάνετε. Θα μπορείτε να το χρησιμοποιείτε για να ανοίγετε πόρτες -- ουσιαστικά όλες. Αν δεν μπορείτε, κάτι δεν πάει καλά ή κάποιος δεν ήθελε να μπείτε. Τότε τι κάνετε;
+Voices_01_01_upsilon_awake|Datamine_OrientationVideo_4_001_Strohmeier_001	Χώνετε το omnitool σε ένα τερματικό και βλέπετε αν μπορείτε να το παρακάμψετε κάπως. Εννοώ, μερικές φορές θα χρειαστεί να μπείτε σε μέρη όπου δε σας πέφτει λόγος.
+Voices_01_01_upsilon_awake|Datamine_OrientationVideo_4_002_Strohmeier_001	Απλώς βρείτε τρόπο, μηχανικοί είστε, για όνομα του Θεού.
+Voices_01_01_upsilon_awake|Datamine_OrientationVideo_5_001_Strohmeier_001	Τι άλλο; Να προσέχετε τον εξοπλισμό σας. Μην είστε μαλάκες. Αυτά περίπου. Με λένε Τζον Στρόμαϊερ, υπεύθυνος ασφαλείας του Pathos-II.
+Voices_01_01_upsilon_awake|Datamine_OrientationVideo_5_002_Strohmeier_001	Έχω γραφείο στο Θήτα. Ελάτε να με βρείτε αν έχετε κάποιο πρόβλημα που δεν μπορείτε να λύσετε μόνοι σας. Καλή τύχη.
+Voices_01_01_upsilon_awake|Datamine_3F_TalkingDoorDrains_001_TalkingDoor_001	Όχι, σταμάτα, σταμάτα!
+Voices_01_01_upsilon_awake|general_pickingupomnitool_001_player_001	Θα το κρατήσω αυτό. Κάτι μου λέει ότι θα φανεί χρήσιμο.
+Voices_01_01_upsilon_awake|General_ReactingToOmnitool_001_Player_001	Τι κάνει; Πιάνει κάτι εδώ κοντά;
+Voices_01_01_upsilon_awake|general_omnitoolopensdoor_001_player_001	Ανοίγει πόρτες. Φυσικά.
+Voices_01_01_upsilon_awake|general_helperjaneplugin_001_helperjane_001	Η κονσόλα συντήρησης Ύψιλον 3, μαζί με τη θέση πιλότου, ενεργοποιήθηκε.
+Voices_01_01_upsilon_awake|general_helperjaneplugtoolchipfound_001_helperjane_001	Βρέθηκε τσιπ εργαλείων.
+Voices_01_01_upsilon_awake|general_helperjaneupdatetoolchip_001_helperjane_001	Ο κωδικός ασφαλείας του τσιπ εργαλείων ενημερώθηκε.
+Voices_01_01_upsilon_awake|general_simonhurt_001_player_001	Αχ, γαμώτο.

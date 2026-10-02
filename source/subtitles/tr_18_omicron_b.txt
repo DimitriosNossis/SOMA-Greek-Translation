@@ -1,0 +1,160 @@
+Voices_03_02_omicron_inside|general_10iscancomplete_024_player_001	Κι αν... κι αν δε χρειαζόταν να ξυπνήσει;
+Voices_03_02_omicron_inside|general_10iscancomplete_025_catherine_001	Θα το έκανες αυτό;
+Voices_03_02_omicron_inside|general_10iscancomplete_026_player_001	Δεν ξέρω... ίσως.
+Voices_03_02_omicron_inside|general_10iscancomplete_027_catherine_001	Ορίστε. Σου το ετοίμασα. Πάτα το διακόπτη αν θέλεις να αδειάσεις την μπαταρία του. Θα πεθάνει μέσα σε ένα λεπτό.
+Voices_03_02_omicron_inside|general_10iscancomplete_027_catherine_002	Θα προτιμούσα να μη μείνω συνδεδεμένη άλλο.
+Voices_03_02_omicron_inside|general_4bchipexplodes_001_player_001	Δυσλειτουργία τσιπ ελέγχου. Δεν ανοίγει.
+Voices_03_02_omicron_inside|general_4bchipexplodes_002_catherine_001	Είμαι σίγουρη ότι μπορείς να το φτιάξεις κάπως. Κοίτα γύρω στο δωμάτιο.
+Voices_03_02_omicron_inside|general_4cgetgel_001_player_001	Πήρα όλο το τζελ που θα χρειαστούμε ποτέ.
+Voices_03_02_omicron_inside|general_4cgetgel_002_catherine_001	Ωραία. Πάμε καλά στο χρόνο.
+Voices_03_02_omicron_inside|general_4frepairchip_001_catherine_001	Τι κάνεις;
+Voices_03_02_omicron_inside|general_4frepairchip_002_player_001	Θέλω απλώς να δοκιμάσω κάτι.
+Voices_03_02_omicron_inside|general_5aenterpowerroom_001_catherine_001	Μην ξεχάσεις να ψάξεις για μπαταρία. Τη χρειαζόμαστε για να τροφοδοτήσουμε τη στολή.
+Voices_03_02_omicron_inside|general_5aenterpowerroom_002_player_001	Κάθ; Είσαι ακόμα εκεί, Κάθ; Μην ανησυχείς. Θα βρω μπαταρία.
+Voices_03_02_omicron_inside|general_5aleavepowerroomallitems_001_player_001	Κάθ, πήρα την μπαταρία.
+Voices_03_02_omicron_inside|general_5aleavepowerroomallitems_002_catherine_001	Τέλεια! Αυτά είναι όλα, γύρνα πίσω, θα φτιάξουμε το σώμα.
+Voices_03_02_omicron_inside|general_5aleavepowerroomallitems_003_player_001	Τι..; Έχουμε όλα όσα χρειαζόμαστε. Γυρνάω πίσω.
+Voices_03_02_omicron_inside|general_5aleavepowerroomneedmoreitems_001_player_001	Κάθ, βρήκα μια μπαταρία.
+Voices_03_02_omicron_inside|general_5aleavepowerroomneedmoreitems_002_catherine_001	Τέλεια! Μπορούμε να τροφοδοτήσουμε τη στολή.
+Voices_03_02_omicron_inside|general_5aleavepowerroomneedmoreitems_003_player_001	Κάθριν; Αν με ακούς, συνεχίζω.
+Voices_03_02_omicron_inside|general_7_itemreminders_findbrain_1_001_catherine_001	Πρέπει να σου βρούμε ένα καινούριο τσιπ φλοιού -- σαν αυτά που βρίσκεις μέσα στα ρομπότ -- για να αποθηκεύσουμε τον εγκέφαλό σου.
+Voices_03_02_omicron_inside|general_7a_turnofflockdown_001_catherine_001	Ε, το σύστημα μόλις άνοιξε λίγο.
+Voices_03_02_omicron_inside|general_7a_turnofflockdown_002_player_001	Απλώς δοκίμαζα κάτι. Απορώ που πέτυχε.
+Voices_03_02_omicron_inside|general_7a_turnofflockdown_003_catherine_001	Μπράβο. Θα μπορείς να μπεις σε περισσότερα σημεία του Όμικρον τώρα.
+Voices_03_02_omicron_inside|general_10_escapedivehall_001_player_001	Κλείσε την πόρτα, Κάθ, κλείδωσέ την!
+Voices_03_02_omicron_inside|general_10_escapedivehall_002_catherine_001	Τι συμβαίνει;
+Voices_03_02_omicron_inside|general_10_escapedivehall_003_player_001	Κλείδωσε την πόρτα!
+Voices_03_02_omicron_inside|general_10_escapedivehall_004_player_001	Κλειδώθηκε. Τι γίνεται;
+Voices_03_02_omicron_inside|general_10_escapedivehall_005_player_001	Κατάφερα να εκνευρίσω άλλο ένα από τα τέρατα του WAU.
+Voices_03_02_omicron_inside|general_10_escapedivehall_006_catherine_001	Έχουμε όλα όσα χρειαζόμαστε, σωστά;
+Voices_03_02_omicron_inside|general_10_escapedivehall_007_player_001	Ναι, ας πιάσουμε δουλειά.
+Voices_03_02_omicron_inside|general_10b_buildstep1_001_player_001	Δεν έχω ιδέα τι κάνω εδώ. Φαίνεται εντάξει αυτό;
+Voices_03_02_omicron_inside|general_10b_buildstep1_002_catherine_001	Μια χαρά είναι. Απλώς χώσ' το εκεί μέσα.
+Voices_03_02_omicron_inside|general_10c_buildstep2_001_player_001	Αυτό είναι τρελό.
+Voices_03_02_omicron_inside|general_10c_buildstep2_002_catherine_001	Μην ανησυχείς, θα δουλέψει.
+Voices_03_02_omicron_inside|general_10d_buildstep3_002_catherine_001	Φρόντισε να είναι όλα μαζεμένα, με το δομικό τζελ να ενώνει όλα τα κομμάτια.
+Voices_03_02_omicron_inside|general_commterminal_1_001_herber_001	Στράσκι; Είσαι εκεί;
+Voices_03_02_omicron_inside|general_commterminal_1_002_strasky_001	Σε ακούω, Χέρμπι, τι λέει;
+Voices_03_02_omicron_inside|general_commterminal_1_003_herber_001	Εμ, απλώς ήθελα να σε ενημερώσω. Πρέπει να πάω να κάνω κάτι. Ίσως λείψω για μερικές μέρες, εντάξει;
+Voices_03_02_omicron_inside|general_commterminal_1_004_strasky_001	Η Ράλεϊ Χέρμπερ αφήνει το σταθμό ακρόασης; Θα είναι σημαντικό.
+Voices_03_02_omicron_inside|general_commterminal_1_005_herber_001	Είναι, Στράσκ. Είναι.
+Voices_03_02_omicron_inside|general_commterminal_1_006_strasky_001	Ε, εντάξει λοιπόν, να προσέχεις.
+Voices_03_02_omicron_inside|general_commterminal_1_007_herber_001	Αντίο, Πίτερ.
+Voices_03_02_omicron_inside|general_commterminal_2_001_lindwall_001	Όμικρον, μας ακούτε;
+Voices_03_02_omicron_inside|general_commterminal_2_002_herber_001	Δυνατά και καθαρά. Είστε όλοι καλά;
+Voices_03_02_omicron_inside|general_commterminal_2_003_lindwall_001	Θα είμαστε μόλις γίνουμε φίλοι με τις Στολές Ισχύος.
+Voices_03_02_omicron_inside|general_commterminal_2_004_herber_001	Είμαι σίγουρη ότι θα τις συνηθίσετε.
+Voices_03_02_omicron_inside|general_commterminal_2_005_hill_001	Ε, κοίτα εκεί.
+Voices_03_02_omicron_inside|general_commterminal_2_006_lindwall_001	Απλώς ήθελα να επικοινωνήσουμε πριν περάσουμε τον τελευταίο λειτουργικό ανιχνευτή LUMAR -- Παιδιά, τελευταίες κουβέντες για το Όμικρον;
+Voices_03_02_omicron_inside|general_commterminal_2_007_catherine_001	Μην ξεχάσετε να έρθετε να μας πάρετε.
+Voices_03_02_omicron_inside|general_commterminal_2_008_lindwall_001	Το ακούσατε, σωστά;
+Voices_03_02_omicron_inside|general_commterminal_2_009_herber_001	Μην ανησυχείτε. Δε θα ξεχάσουμε.
+Voices_03_02_omicron_inside|general_commterminal_2_010_lindwall_001	Εντάξει, μπαίνουμε σε ραδιοσιωπή.
+Voices_03_02_omicron_inside|general_commterminal_2_011_herber_001	Καλή τύχη, παιδιά.
+Voices_03_02_omicron_inside|general_commterminal_4_001_herber_001	Ταυ, παρακαλώ απαντήστε. Εδώ Ράλεϊ Χέρμπερ από το Όμικρον. Παρακαλώ απαντήστε, Ταυ.
+Voices_03_02_omicron_inside|general_commterminal_4_002_automatedvoice_001	Αδυναμία σύνδεσης. Ο αναμεταδότης LUMAR είναι εκτός εμβέλειας.
+Voices_03_02_omicron_inside|general_commterminal_4_003_herber_001	Ναι, ναι. Το κατάλαβα.
+Voices_03_02_omicron_inside|general_commterminal_5_001_automatedvoice_001	Αδυναμία σύνδεσης. Ο αναμεταδότης LUMAR είναι εκτός εμβέλειας.
+Voices_03_02_omicron_inside|general_2hcatherinecomment_leavingdiveroom_001_catherine_001	Μην ξεχνάς -- χρειαζόμαστε ένα τσιπ φλοιού, δομικό τζελ και μια μπαταρία για να ετοιμάσουμε τη στολή.
+Voices_03_02_omicron_inside|general_2hcatherinecomment_reminderfindsuit_001_catherine_001	Αν έχουν μείνει Στολές Ισχύος, θα είναι στα ντουλάπια.
+Voices_03_02_omicron_inside|general_2hcatherinecomment_reminderfindsuit_002_catherine_001	Τι περιμένεις; Βρες μια Στολή Ισχύος και ας τελειώνουμε.
+Voices_03_02_omicron_inside|general_2hcatherinecomment_reminderfindsuit_003_catherine_001	Σάιμον; Ψάξε για στολή στα ντουλάπια.
+Voices_03_02_omicron_inside|general_2hcatherinecomment_reminderactivatesuit_001_catherine_001	Έλα, ας ενεργοποιήσουμε τη Στολή Ισχύος.
+Voices_03_02_omicron_inside|general_2hcatherinecomment_reminderactivatesuit_002_catherine_001	Τι κάνεις; Πρέπει να ενεργοποιήσουμε τη στολή.
+Voices_03_02_omicron_inside|general_2hcatherinecomment_reminderactivatesuit_003_catherine_001	Μη χάνεις χρόνο, Σάιμον. Ενεργοποίησε επιτέλους τη Στολή Ισχύος.
+Voices_03_02_omicron_inside|general_10econstructioncomplete_001_catherine_001	Εντάξει. Δοκίμασε ξανά να ενεργοποιήσεις τη στολή από το τερματικό.
+Voices_03_02_omicron_inside|general_10fbadtransfer_verywrong_001_automatedvoice_001	Η καταγραφή δεδομένων απέτυχε.
+Voices_03_02_omicron_inside|general_10fbadtransfer_explaincorrectsettings_001_player_001	Τι έγινε;
+Voices_03_02_omicron_inside|general_10fbadtransfer_explaincorrectsettings_002_player_001	Θέλεις βοήθεια;
+Voices_03_02_omicron_inside|general_10fbadtransfer_explaincorrectsettings_003_catherine_001	Συγγνώμη, είμαι λίγο εκτός φόρμας. Ας το ξαναδοκιμάσουμε.
+Voices_03_02_omicron_inside|general_10fbadtransfer_ending_001_player_001	Για μια στιγμή νόμιζα ότι είχα κολλήσει σε αυτό το σώμα.
+Voices_03_02_omicron_inside|general_10fbadtransfer_ending_002_catherine_001	Είμαστε εντάξει. Χρειάζονται απλώς οι σωστές ρυθμίσεις.
+Voices_03_02_omicron_inside|general_7_itemreminders_findbrain_2_001_catherine_001	Ψάξε για ένα τσιπ φλοιού ρομπότ.
+Voices_03_02_omicron_inside|general_7_itemreminders_ejectbrain_1_001_catherine_001	Είμαι σίγουρη ότι μπορείς να κλέψεις το τσιπ φλοιού από το ρομπότ που βρήκες κάτω. Δοκίμασε να το αποβάλεις με τον υπολογιστή διαγνωστικών.
+Voices_03_02_omicron_inside|general_7_itemreminders_ejectbrain_2_001_catherine_001	Χρησιμοποίησε τον υπολογιστή κάτω, δίπλα στο ρομπότ, για να αποβάλεις το τσιπ φλοιού.
+Voices_03_02_omicron_inside|general_7_itemreminders_findgel_1_001_catherine_001	Χρειαζόμαστε περίπου μια δεξαμενή δομικό τζελ για να ενώσουμε το σώμα, το τσιπ φλοιού και την μπαταρία.
+Voices_03_02_omicron_inside|general_7_itemreminders_findgel_2_001_catherine_001	Ψάξε για δομικό τζελ.
+Voices_03_02_omicron_inside|general_7_itemreminders_fixchip_1_001_catherine_001	Εκείνο το ντουλάπι, αυτό με το χαλασμένο μηχανισμό ανοίγματος. Ίσως μπορείς να το ανοίξεις κάπως.
+Voices_03_02_omicron_inside|general_7_itemreminders_fixchip_2_001_catherine_001	Άνοιξε το κλειδωμένο ντουλάπι.
+Voices_03_02_omicron_inside|general_7_itemreminders_findpowerroom_1_001_catherine_001	Πρέπει να υπάρχει μπαταρία στον πάνω όροφο. Πήγαινε να ψάξεις.
+Voices_03_02_omicron_inside|general_7_itemreminders_findpowerroom_2_001_catherine_001	Ψάξε για μπαταρία στον πάνω όροφο.
+Voices_03_02_omicron_inside|general_7_itemreminders_findpack_1_001_catherine_001	Πρέπει να βρούμε μια μπαταρία για να λειτουργεί το καινούριο σου σώμα.
+Voices_03_02_omicron_inside|general_7_itemreminders_findpack_2_001_catherine_001	Ψάξε για μπαταρία.
+Voices_03_02_omicron_inside|general_7_itemreminders_chargepack_1_001_catherine_001	Πρέπει να σιγουρευτούμε ότι η μπαταρία που βρήκες είναι πλήρως φορτισμένη.
+Voices_03_02_omicron_inside|general_7_itemreminders_chargepack_2_001_catherine_001	Φόρτισε την μπαταρία που βρήκες.
+Voices_03_02_omicron_inside|general_7_itemreminders_allcomplete_1_001_catherine_001	Έχουμε όλα όσα χρειαζόμαστε. Ώρα να τα βάλουμε στη Στολή Ισχύος στο ντουλάπι.
+Voices_03_02_omicron_inside|general_4_leavewithchip_001_player_001	Λες να φτάνει το τζελ που έχει αυτό το τσιπ για να φτιάξουμε το σώμα;
+Voices_03_02_omicron_inside|general_4_leavewithchip_002_catherine_001	Όχι, προσπάθησε να πάρεις μια μεγάλη δεξαμενή.
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_001_herber_001	Γεια, Αντρέα.
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_002_suther_001	Ναι.
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_003_herber_001	Μιλούσα με την Κάμερον για τη διαλυτοποίηση πρωτεϊνών. Πιστεύεις ότι θα μπορούσαμε να σπάσουμε τα συσσωματώματα στο δομικό τζελ χωρίς να ισοπεδώσουμε τη διαμόρφωση;
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_004_suther_001	Χριστέ μου, τι μπουκιά ήταν αυτή. Σίγουρα άκουγες την Κάμερον. Τι θέλεις, Ράλεϊ;
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_005_herber_001	Μπορείς να με κατηγορήσεις που προσπαθώ να το καταλάβω; Βλέπω κι εγώ τα όνειρα, ξέρεις.
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_006_herber_001	Δεν ξέρω τι να πιστέψω.
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_007_suther_001	Ω, το ξέρω. Από την ξαφνική ενίσχυση του σήματος στα Μαύρα Κουτιά μέχρι το ότι έχουμε ένα Δρ. Ρος σε κώμα κλεισμένο σε ένα γυάλινο βάζο. Όλοι έχουμε αρχίσει να τρελαινόμαστε λίγο.
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_008_herber_001	Μη μου πεις, νιώθω σαν να πρόκειται να σκάσει το κεφάλι μου.
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_009_herber_001	Υποθετικά μιλώντας, θα μπορούσαμε να εμποδίσουμε το WAU να μεταλλάσσεται;
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_010_suther_001	Δε λειτουργεί έτσι.
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_011_herber_001	...ακόμα κι αν υπήρχε μια βάση Άλφα;
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_012_suther_001	Υποθετικά μιλώντας, υποθέτω ότι θα μπορούσαμε να δοκιμάσουμε-- Ράλεϊ, το ηχογραφείς αυτό;
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_013_herber_001	Συγγνώμη... απλώς... συγγνώμη...
+Voices_03_02_omicron_inside|hydroponicsaudiolog_hydroponicsaudiolog_014_soundeffects_001	*χαλαρά χτυπήματα*
+Voices_03_02_omicron_inside|general_6ctryhatch1_001_player_001	Δε γίνεται να το ανοίξω αυτό με τα χέρια μου.
+Voices_03_02_omicron_inside|general_6ctryhatch1_002_catherine_001	Υπάρχουν τρόποι με ωμή βία, Σάιμον.
+Voices_03_02_omicron_inside|general_6ctryhatch1_003_player_001	Αλλά κανένας τόσο διασκεδαστικός.
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_001_dahl_001	...δεν είναι κάτι με το οποίο θες πραγματικά να βολευτείς.
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_002_herber_001	Αστείο αυτό. Πολύ αστείο, Τζούλια.
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_003_dahl_001	Τι συμβαίνει;
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_004_herber_001	Τόσο διάφανη είμαι;
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_005_dahl_001	Τι θέλεις, Ράλεϊ;
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_006_herber_001	Φίλες είμαστε, σωστά;
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_007_dahl_001	Ναι.
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_008_herber_001	Πιστεύεις ότι το Άλφα είναι αληθινό;
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_009_dahl_001	Τι σε κάνει... γιατί το ρωτάς αυτό;
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_010_herber_001	Νομίζω ότι ο Ρος προσπαθεί να μου πει κάτι.
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_011_dahl_001	Για τη βάση Άλφα;
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_012_herber_001	Θέλει να κατέβω στην άβυσσο και να τη βρω. Τρελό, ε; Εσύ έχεις κατέβει εκεί. Σκέφτηκα ότι θα μπορούσες να με συνετίσεις.
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_013_dahl_001	Ράλεϊ, δεν έχω την ελευθερία να... δεν μπορώ να μιλήσω γι' αυτό.
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_014_herber_001	Τι;
+Voices_03_02_omicron_inside|biolabaudiolog_biolabaudiolog_015_soundeffects_001	*συναγερμός*
+Voices_03_02_omicron_inside|general_7_itemreminders_allcomplete_2_001_catherine_001	Χρησιμοποίησε τα κομμάτια που βρήκες με τη Στολή Ισχύος στο ντουλάπι.
+Voices_03_02_omicron_inside|general_10f_seatremindersa1_001_catherine_001	Πήγαινε κάτσε στη Θέση πιλότου.
+Voices_03_02_omicron_inside|general_10f_seatremindersa2_001_catherine_001	Σταμάτα να χαζεύεις και κάτσε στη Θέση πιλότου.
+Voices_03_02_omicron_inside|general_10f_seatremindersb1_001_catherine_001	Α, δώσε μου άλλη μια ευκαιρία, μπορώ να το κάνω. Κάτσε πάλι στη θέση.
+Voices_03_02_omicron_inside|general_10f_seatremindersb2_001_catherine_001	Κάτσε πάλι στη Θέση πιλότου.
+Voices_03_02_omicron_inside|general_1enterlevel_001_player_001	Ας βρούμε αυτή τη στολή και ας φύγουμε.
+Voices_03_02_omicron_inside|general_7_itemreminders_findall_1_001_catherine_001	Έλα, πρέπει να βρούμε ένα τσιπ φλοιού, μια μπαταρία και λίγο δομικό τζελ.
+Voices_03_02_omicron_inside|general_7_itemreminders_findall_2_001_catherine_001	Ψάξε για ένα τσιπ φλοιού, μια μπαταρία και λίγο δομικό τζελ.
+Voices_03_02_omicron_inside|general_5aleavepowerroomnotcharged_001_catherine_001	Σάιμον, μην ξεχάσεις να φορτίσεις την μπαταρία.
+Voices_03_02_omicron_inside|general_5aleavepowerroomnotcharged_002_player_001	Εντάξει, κατάλαβα.
+Voices_03_02_omicron_inside|general_6aexitrobotics_001_player_001	Πήρα ένα τσιπ φλοιού από ένα ρομπότ. Του δούλευε μια χαρά πριν του το βγάλω.
+Voices_03_02_omicron_inside|general_6aexitrobotics_002_catherine_001	Εξαιρετικά.
+Voices_03_02_omicron_inside|general_10eactivatesuithint_1_001_catherine_001	Θέλω να ενεργοποιήσεις τη Στολή Ισχύος από το τερματικό.
+Voices_03_02_omicron_inside|general_10eactivatesuithint_2_001_catherine_001	Ενεργοποίησε τη Στολή Ισχύος από το τερματικό.
+Voices_03_02_omicron_inside|general_10gtakeseatsecondtime_001_catherine_001	Κάτσε κάτω, Σάιμον.
+Voices_03_02_omicron_inside|biolabaudiolog_3aentercontainmentfirsttime_001_ross_001	Πρέπει να το σταματήσεις.
+Voices_03_02_omicron_inside|biolabaudiolog_3aentercontainmentfirstitem_001_ross_001	Είναι σημαντικό.
+Voices_03_02_omicron_inside|biolabaudiolog_3aentercontainmentseconditem_001_ross_001	Δηλητηρίασε το πηγάδι.
+Voices_03_02_omicron_inside|biolabaudiolog_3aentercontainmentcubebreaks_001_ross_001	Θα σε ακολουθήσω εκεί.
+Voices_03_02_omicron_inside|general_10fscanterminalinstructions_001_catherine_001	Πρέπει να πάρουμε σε βρόχο τη δραστηριότητα του τωρινού σου τσιπ φλοιού, να την περάσουμε από τον ενισχυτή, να την τροφοδοτήσουμε στο νέο τσιπ και μετά να σιγουρευτούμε ότι είναι συγχρονισμένα.
+Voices_03_02_omicron_inside|general_10fscanterminalinstructions_002_player_001	Με έχασες κάπου στη μέση.
+Voices_03_02_omicron_inside|general_10fscanterminalinstructions_003_catherine_001	Δε χρειάζεται να το καταλάβεις, απλώς κάν' τα να ευθυγραμμιστούν.
+Voices_03_02_omicron_inside|general_youhaveallthings_001_player_001	Αυτά είναι όλα, σωστά; Μάλλον μπορούμε να φτιάξουμε το καινούριο σώμα τώρα.
+Voices_03_02_omicron_inside|general_youhaveallthings_002_catherine_001	Ναι. Γύρνα πίσω και ξεκινάμε.
+Voices_03_02_omicron_inside|general_dahlreports1_001_dahl_001	Ο Γιόχαν Ρος βρέθηκε νεκρός στο Climber σήμερα το πρωί.
+Voices_03_02_omicron_inside|general_dahlreports1_001_dahl_002	Η ομάδα του ARK κατέβηκε πριν από δυο μέρες, αλλά δε βλέπω κανένα λόγο να υποψιαστώ ότι έπαιξαν ρόλο στο θάνατό του.
+Voices_03_02_omicron_inside|general_dahlreports1_001_dahl_003	Ο χειρισμός του Climber δε γίνεται από την άβυσσο, οπότε υπήρχε προγραμματισμένη ανάκτηση. Το Climber επέστρεψε μόνο με το άψυχο σώμα του μέλους του Άλφα, Γιόχαν Ρος.
+Voices_03_02_omicron_inside|general_dahlreports1_001_dahl_004	Κανένα ίχνος της ομάδας του ARK.
+Voices_03_02_omicron_inside|general_dahlreports1_001_dahl_005	Η Κάμερον, ο Έιμς, ο Λάνσκι -- όλοι μελετούν το σώμα στο χώρο απομόνωσης. Θα επανέλθω με ό,τι βρουν.
+Voices_03_02_omicron_inside|general_dahlreports1_001_dahl_006	Delenda est.
+Voices_03_02_omicron_inside|general_dahlreports2_001_dahl_001	Το WAU γίνεται όλο και πιο επιθετικό -- πιέζει όλα τα συστήματα στα όριά τους.
+Voices_03_02_omicron_inside|general_dahlreports2_001_dahl_002	Ειρωνικά, ο νεκρός Δρ. Γιόχαν Ρος θα ήταν ο ιδανικός άνθρωπος να ρωτήσουμε γιατί το WAU κάνει τόση φασαρία για το θάνατό του.
+Voices_03_02_omicron_inside|general_dahlreports2_001_dahl_003	Άλλωστε, το WAU δεν υποτίθεται ότι θέλει οτιδήποτε, και σίγουρα όχι να πενθεί ανθρώπους.
+Voices_03_02_omicron_inside|general_dahlreports2_001_dahl_004	Η υπερφόρτωση του συστήματος επηρεάζει σημαντικά το προσωπικό -- πονοκέφαλοι, αϋπνία, αδικαιολόγητο άγχος. Και φαίνεται να χειροτερεύει.
+Voices_03_02_omicron_inside|general_dahlreports2_001_dahl_005	Θα ήθελα λίγη συμβουλή, αν μπορέσετε να επικοινωνήσετε.
+Voices_03_02_omicron_inside|general_dahlreports2_001_dahl_006	Delenda est.
+Voices_03_02_omicron_inside|general_dahlreports3_001_dahl_001	Η κατάσταση έχει ξεφύγει. Το προσωπικό μοιάζει έτοιμο να εκραγεί.
+Voices_03_02_omicron_inside|general_dahlreports3_001_dahl_002	Οι μισοί κυκλοφορούν με αιμορραγίες από τη μύτη και οι υπόλοιποι σκουπίζουν συνέχεια το αίμα από τα μάτια τους για να μην ξεχειλίσει.
+Voices_03_02_omicron_inside|general_dahlreports3_001_dahl_003	Σίγουρα έχει να κάνει με το ότι το WAU προσπαθεί κάπως να ελευθερώσει το Ρος. Σε αυτό το σημείο δε θα με εξέπληττε αν το σώμα απλώς σηκωνόταν και έφευγε.
+Voices_03_02_omicron_inside|general_dahlreports3_001_dahl_004	Η Ράλεϊ Χέρμπερ, η συντονίστριά μας, χώνει τη μύτη της παντού και κάνει ερωτήσεις που δε θα έπρεπε.
+Voices_03_02_omicron_inside|general_dahlreports3_001_dahl_005	Λέει ότι θα κατέβει στην άβυσσο για να βρει το Άλφα. Δεν μπορώ να βάλω τον εαυτό μου να τη σταματήσει.

@@ -1,0 +1,160 @@
+Voices_03_02_omicron_inside|general_dahlreports3_001_dahl_006	Ααααργκ!
+Voices_03_02_omicron_inside|general_bodyspottingunaware_0_001_player_001	Το μαύρο κουτί είναι χαλασμένο -- νομίζω ότι του λείπει ένα εξάρτημα.
+Voices_03_02_omicron_inside|general_bodyspottingaware_0_001_player_001	Όπως ο τύπος στο παράρτημα.
+Voices_03_02_omicron_inside|general_buildsuithint_1_001_catherine_001	Πρέπει να συναρμολογήσουμε το καινούριο σου σώμα με όσα μάζεψες. Απλώς χώσ' τα όλα στη στολή με το νεκρό σώμα.
+Voices_03_02_omicron_inside|general_buildsuithint_2_001_catherine_001	Χώσε το τσιπ, την μπαταρία και το τζελ στη Στολή Ισχύος.
+Voices_03_02_omicron_inside|general_1ablackbox_001_soundeffects_001	*παράσιτα*
+Voices_03_02_omicron_inside|general_bodyspottingaware_1_001_player_001	Κάτι έκανε αυτά τα μαύρα κουτιά να εκραγούν.
+Voices_03_02_omicron_inside|general_bodyspottingaware_2_001_player_001	Φαίνεται ότι συνέβη σε όλους.
+Voices_03_02_omicron_inside|general_bodyspottingunaware_1_001_player_001	Φαίνεται ότι εξερράγη μια συσκευή στο πίσω μέρος του λαιμού.
+Voices_03_02_omicron_inside|general_bodyspottingunaware_2_001_player_001	Κάποια συσκευή στο λαιμό σίγουρα εξερράγη. Πήρε το κεφάλι μαζί της. Αηδία.
+Voices_03_02_omicron_inside|general_biomechrat_001_player_001	Ξαναζωντάνεψε -- ή κάτι τέτοιο.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage01_001_RobotHead_001	Φύγε μακριά μου.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage01_002_RobotHead_001	Φύγε.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage01_003_RobotHead_001	Μείνε μακριά.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage01_004_RobotHead_001	Μην έρχεσαι πιο κοντά.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage01_005_RobotHead_001	Πήγαινε.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage01_006_RobotHead_001	Φύγε μακριά μου.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage01_007_RobotHead_001	Φύγε.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage01_008_RobotHead_001	Μείνε μακριά.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage01_009_RobotHead_001	Μην έρχεσαι πιο κοντά.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage01_010_RobotHead_001	Πήγαινε.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage02_001_RobotHead_001	Φύγε.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage02_002_RobotHead_001	Φεύγα.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage02_003_RobotHead_001	Άσε με ήσυχο.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage02_004_RobotHead_001	Μείνε μακριά.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage02_005_RobotHead_001	Πήγαινε.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage02_006_RobotHead_001	Φύγε.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage02_007_RobotHead_001	Φεύγα.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage02_008_RobotHead_001	Άσε με ήσυχο.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage02_009_RobotHead_001	Μείνε μακριά.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage02_010_RobotHead_001	Πήγαινε.
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage03_001_RobotHead_001	Φύγε!
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage03_002_RobotHead_001	Πήγαινε!
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage03_003_RobotHead_001	Φύγε μακριά μου!
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage03_004_RobotHead_001	Μείνε μακριά!
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage03_005_RobotHead_001	Άσε με ήσυχο!
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage03_006_RobotHead_001	Φύγε!
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage03_007_RobotHead_001	Πήγαινε!
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage03_008_RobotHead_001	Φύγε μακριά μου!
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage03_009_RobotHead_001	Μείνε μακριά!
+Voices_03_02_omicron_inside|AgentBark_RobotHead_Stage03_010_RobotHead_001	Άσε με ήσυχο!
+Voices_03_03_omicron_descent|descent_catherinestartchat_001_player_001	Καθαρή τύχη ήταν, σωστά; Που ξύπνησα στο σωστό σώμα;
+Voices_03_03_omicron_descent|descent_catherinestartchat_002_player_001	Βασικά έστριψα ένα νόμισμα και αν είχα διαλέξει τη λάθος πλευρά θα σάπιζα τώρα στο Όμικρον.
+Voices_03_03_omicron_descent|descent_catherinestartchat_003_player_001	Εννοώ, δεν υπάρχει τρόπος να ξέρουμε, σωστά; Δεν πάτησες το διακόπτη &quot;φρόντισε ο Σάιμον να ξυπνήσει στο σωστό σώμα&quot;, έτσι;
+Voices_03_03_omicron_descent|descent_catherinestartchat_004_player_001	Όχι ότι θα το ήξερες, εννοώ, κι αυτός θα ισχυριζόταν ότι είναι ο σωστός Σάιμον.
+Voices_03_03_omicron_descent|descent_catherinestartchat_005_player_001	Χριστέ μου! Αυτό είναι φρικτό. Κάναμε ένα φρικτό, γαμημένο πράγμα.
+Voices_03_03_omicron_descent|descent_catherinestartchat_006_player_001	Κι εσένα δε θα σε ένοιαζε, γιατί να σε νοιάζει; Πώς θα μπορούσες να ξέρεις ότι δεν είμαι εγώ, ο εαυτός που είμαι! Ο ίδιος που ήμουν πάντα.
+Voices_03_03_omicron_descent|descent_catherinestartchat_007_player_001	Σε παρακαλώ, πες κάτι, δε θέλω να σκέφτομαι. Σε παρακαλώ.
+Voices_03_03_omicron_descent|descent_catherinestartchat_008_catherine_001	Δεν ξέρω τι να πω. Δε θέλω να σε αναστατώσω.
+Voices_03_03_omicron_descent|descent_catherinestartchat_009_player_001	Πες οτιδήποτε.
+Voices_03_03_omicron_descent|descent_catherinestartchat_010_catherine_001	Όταν ήμουν μικρή, ανέβαινα τις σκάλες μέχρι την κορυφή της πολυκατοικίας.
+Voices_03_03_omicron_descent|descent_catherinestartchat_011_catherine_001	Ακόμα θυμάμαι πώς έπρεπε να -- ξέρεις -- να μαζέψω το χέρι μου για να σπρώξω και να ανοίξω τη βαριά ατσάλινη πόρτα.
+Voices_03_03_omicron_descent|descent_catherinestartchat_012_catherine_001	Λοιπόν, την πρώτη φορά που τόλμησα να ανέβω εκεί, βγήκα στην ταράτσα και κοίταζα την αιθαλομίχλη να ανεβαίνει και να κατεβαίνει πάνω από την Ταϊπέι.
+Voices_03_03_omicron_descent|descent_catherinestartchat_013_catherine_001	Ανέβηκα στο πεζούλι της γωνίας και, ξέρεις, ένιωσα το ζεστό αέρα στα μαλλιά μου. Ο ήλιος έδυε και οι δρόμοι από κάτω ήταν σκιασμένοι από τα ψηλά κτίρια.
+Voices_03_03_omicron_descent|descent_catherinestartchat_014_catherine_001	Οι άνθρωποι που άνοιγαν δρόμο μέσα στο πλήθος κυλούσαν σαν μπογιά από το πινέλο ενός καλλιτέχνη. Οι πάγκοι με το φαγητό του δρόμου γέμιζαν τον αέρα με τις μυρωδιές απ' όλα τα αγαπημένα μου φαγητά.
+Voices_03_03_omicron_descent|descent_catherinestartchat_015_catherine_001	Για μια σύντομη στιγμή ένιωσα συνδεδεμένη με τον κόσμο όπως ποτέ πριν. Ήταν το πιο βαθύ αίσθημα παρηγοριάς και του ότι ανήκω κάπου που θα μπορούσα ποτέ να ελπίζω.
+Voices_03_03_omicron_descent|descent_catherinestartchat_016_catherine_001	Δεν ένιωσα ποτέ ξανά το ίδιο, αλλά ανέβηκα στην ταράτσα πολλές φορές μετά.
+Voices_03_03_omicron_descent|descent_catherinestartchat_017_catherine_001	Δεν είμαι θρήσκα, αλλά καταλαβαίνω γιατί κάποιοι είναι. Το προνόμιο της ύπαρξης είναι ισχυρό επιχείρημα. Τουλάχιστον πού και πού.
+Voices_03_03_omicron_descent|descent_catherinestartchat_018_player_001	Νιώθεις ακόμα αυτό το δέος; Ακόμα και έτσι;
+Voices_03_03_omicron_descent|descent_catherinestartchat_019_catherine_001	Τα πράγματα είναι διαφορετικά, αλλά είμαστε ακόμα εδώ.
+Voices_03_03_omicron_descent|descent_catherinestartchat_020_player_001	Τι νόημα έχει να συνεχίσουμε; Όλοι έχουν φύγει.
+Voices_03_03_omicron_descent|descent_catherinestartchat_021_player_001	Όσοι άνθρωποι έχουν μείνει είναι ψηφιακά αντίγραφα παγιδευμένα σε υπολογιστές στον πάτο της θάλασσας. Δε θα μπορέσουμε ποτέ να ξαναχτίσουμε ή να ανακτήσουμε αυτό που ήμασταν.
+Voices_03_03_omicron_descent|descent_catherinestartchat_022_catherine_001	Είσαι στ' αλήθεια τόσο δυστυχισμένος με αυτό που είσαι ή το θέμα είναι ο άντρας που πήγε για σάρωση πριν από εκατό χρόνια;
+Voices_03_03_omicron_descent|descent_catherinestartchat_023_player_001	Και τα δύο, μάλλον.
+Voices_03_03_omicron_descent|descent_catherinestartchat_024_player_001	Όταν ήμουν στο Τορόντο, ακόμα και το χειρότερο σενάριο, τα πιο σκοτεινά μέλλοντα που μπορούσα να φανταστώ, περιλάμβαναν τουλάχιστον κάπως την προηγούμενη ζωή μου.
+Voices_03_03_omicron_descent|descent_catherinestartchat_025_player_001	Νιώθω τόσο ξεριζωμένος. Δεν υπάρχει τίποτα εδώ που να αναγνωρίζω, τίποτα που να με κάνει να νιώθω ότι ανήκω. Ακόμα κι αν φτάσουμε στο ARK, θα είναι διαφορετικά;
+Voices_03_03_omicron_descent|descent_catherinestartchat_026_player_001	Θα είμαι πάλι μόνος. Χωρίς φίλους, χωρίς οικογένεια.
+Voices_03_03_omicron_descent|descent_catherinestartchat_027_catherine_001	Θα μπορούσες να κάνεις καινούριους φίλους. Είμαι σίγουρη ότι όλοι θα ήθελαν να γνωρίσουν τον ταξιδιώτη του χρόνου. Αν όχι, έχεις πάντα--
+Voices_03_03_omicron_descent|descent_catherineresumechat_001_catherine_001	--εμένα. Ξέρω ότι δεν είναι πολύ, αλλά-- γιατί σταματήσαμε;
+Voices_03_03_omicron_descent|descent_catherineresumechat_002_player_001	Το ρεύμα έπεσε για μια στιγμή. Σκέφτομαι ότι μπορεί να φταίει η πίεση.
+Voices_03_03_omicron_descent|descent_catherineresumechat_003_player_001	Πιέζει αρκετά δυνατά. Δοκιμάζει πραγματικά τα όρια της στολής μου.
+Voices_03_03_omicron_descent|descent_catherineresumechat_004_catherine_001	Μην ανησυχείς. Θα αντέξει.
+Voices_03_03_omicron_descent|descent_catherineresumechat_005_player_001	Παρηγορητικό.
+Voices_03_03_omicron_descent|descent_catherineresumechat_006_catherine_001	Θα αντέξει.
+Voices_03_03_omicron_descent|descent_catherinepart2chat_001_player_001	Ο χρόνος... ο χρόνος παγώνει όταν δεν έχεις ρεύμα;
+Voices_03_03_omicron_descent|descent_catherinepart2chat_002_catherine_001	Ο χρόνος μοιάζει περισσότερο να παραλείπεται.
+Voices_03_03_omicron_descent|descent_catherinepart2chat_003_player_001	Ποια η διαφορά;
+Voices_03_03_omicron_descent|descent_catherinepart2chat_004_catherine_001	Δε νιώθω ότι με συγκρατούν ή με εμποδίζουν. Και δεν έχω την ευκαιρία να σκεφτώ το χρόνο που χάνω. Απλώς λείπει.
+Voices_03_03_omicron_descent|descent_catherinepart2chat_005_player_001	Σαν ύπνος χωρίς όνειρα.
+Voices_03_03_omicron_descent|descent_catherinepart2chat_006_catherine_001	Ναι, αλλά συνήθως καταλαβαίνεις πότε πας να κοιμηθείς και υπάρχει μια φυσική συνέχεια, αφού συνήθως ξυπνάμε εκεί όπου κοιμηθήκαμε.
+Voices_03_03_omicron_descent|descent_catherinepart2chat_007_catherine_001	Η δική μου εμπειρία μοιάζει περισσότερο με μια διαρκώς μεταβαλλόμενη στιγμή που ποτέ δε φαίνεται να κλείνει.
+Voices_03_03_omicron_descent|descent_catherinepart2chat_008_player_001	Κάπως σαν ταινία που μοντάρεται ζωντανά.
+Voices_03_03_omicron_descent|descent_catherinepart2chat_009_catherine_001	Μάλλον. Υποθέτω ότι ακούγεται συναρπαστικό, αλλά στην πραγματικότητα με κρατάει σε εγρήγορση μέχρι εξάντλησης.
+Voices_03_03_omicron_descent|descent_catherinepart2chat_010_player_001	Δύσκολο.
+Voices_03_03_omicron_descent|descent_catherinepart2chat_011_catherine_001	Θα μπορούσε να είναι χειρότερα. Θα μπορούσα να είμαι ταξιδιώτης του χρόνου κολλημένος σε ένα σώμα από μαύρη γλίτσα.
+Voices_03_03_omicron_descent|descent_catherinepart2chat_012_player_001	Αυτό θα ήταν το χειρότερο.
+Voices_03_03_omicron_descent|descent_cathintro_001_catherine_001	Τελειώσαμε εδώ;
+Voices_03_03_omicron_descent|descent_cathintro_002_player_001	Ναι.
+Voices_03_03_omicron_descent|descent_cathintro_003_catherine_001	Ενεργοποίησε το Climber, σε παρακαλώ.
+Voices_03_03_omicron_descent|descent_cathintro_004_player_001	Εννοείται.
+Voices_03_03_omicron_descent|descent_cathelevatorready_001_catherine_001	Κάτσε και ξεκινάμε.
+Voices_03_03_omicron_descent|descent_cathsitdown_001_catherine_001	Δέσου, θα έχει κουνήματα.
+Voices_03_03_omicron_descent|descent_cathsitdown_002_catherine_001	Πρέπει να κάτσεις, δεν είναι ασφαλές να στέκεσαι.
+Voices_03_03_omicron_descent|descent_cathsitdown_003_catherine_001	Δεν είναι απλώς σύσταση ασφαλείας, το Climber δε θα κουνηθεί μέχρι να κάτσεις.
+Voices_03_03_omicron_descent|descent_flesherthreaten_001_flesher_001	Τα κατάφερες. Τα κατάφερες! Θα κάνω τις προετοιμασίες.
+Voices_03_03_omicron_descent|descent_simondiscussion_killed_001_player_001	Έχουμε καταλάβει τι γίνεται όταν πεθαίνουμε; Είναι καν δυνατό αυτό;
+Voices_03_03_omicron_descent|descent_simondiscussion_killed_002_player_001	Αν υπάρχει κάποιου είδους μεταθανάτια ζωή, πιστεύεις ότι η θέση μου έχει πιαστεί;
+Voices_03_03_omicron_descent|descent_simondiscussion_killed_003_player_001	Ο αληθινός εγώ πέθανε πριν από κάπου εκατό χρόνια. Υπάρχει ακόμα χώρος για μένα; Κι ο Σάιμον που σκότωσα στο Όμικρον;
+Voices_03_03_omicron_descent|descent_simondiscussion_killed_004_player_001	Τι λες, Κάθριν, υπάρχει ένας παράδεισος γεμάτος περιττά αντίγραφα των ίδιων ανθρώπων; Υπάρχει κάποιος εκεί πάνω που θα με έλεγε απατεώνα;
+Voices_03_03_omicron_descent|descent_simondiscussion_left_001_player_001	Σκέφτηκα να το σκοτώσω, Κάθριν. Το Σάιμον που αφήσαμε στο Όμικρον -- σκέφτηκα ότι θα ήταν καλύτερα νεκρός.
+Voices_03_03_omicron_descent|descent_simondiscussion_left_002_player_001	Είναι ένα περιττό αντίγραφο. Δε θα ζήσει ποτέ το ταξίδι μου -- ολόκληρο το ταξίδι. Δε θα καταλάβαινε. Πώς θα μπορούσε;
+Voices_03_03_omicron_descent|descent_simondiscussion_left_003_player_001	Αλλά δεν μπόρεσα να το κάνω και το ήξερες. Καλά έκανες που προσπάθησες να τον κρύψεις από μένα.
+Voices_03_03_omicron_descent|descent_simondiscussion_left_004_player_001	Μακάρι μόνο να τα είχες καταφέρει καλύτερα.
+Voices_03_03_omicron_descent|descent_simonchatinterrupted_001_player_001	Κάθριν;
+Voices_03_03_omicron_descent|descent_simonchatinterrupted_002_player_001	Κάθ; Εμπρός, Κάθριν; Τι έγινε;
+Voices_03_03_omicron_descent|descent_catherineflesher_001_catherine_001	Τι είναι αυτό;
+Voices_03_03_omicron_descent|descent_catherineflesher_002_player_001	Πιάνεις κάτι;
+Voices_04_01_tau_outside|diverblackbox_diverblackbox_001_diverblackboxa_001	Χριστέ μου, το είδες αυτό;
+Voices_04_01_tau_outside|diverblackbox_diverblackbox_001_diverblackboxa_002	Μείνε κοντά στα φώτα, δεν πλησιάζουν εκεί.
+Voices_04_01_tau_outside|diverblackbox_diverblackbox_002_diverblackboxb_001	Δεν μπορώ να αποτύχω, Γκλάσερ. Είναι σημαντικό να φτάσω στο Όμικρον. Το μέλλον μας εξαρτάται από αυτό!
+Voices_04_01_tau_outside|diverblackbox_diverblackbox_003_diverblackboxa_001	Ηρέμησε. Ας ακολουθήσουμε απλώς το μονοπάτι.
+Voices_04_01_tau_outside|diverblackbox_diverblackbox_004_diverblackboxb_001	Αν πεθάνω, θέλω να πεις στην Τζούλια Νταλ ότι το WAU είναι εκτός ελέγχου. Πρέπει να βρει το Σαράνγκ. Εκείνος θα ξέρει τι να κάνει.
+Voices_04_01_tau_outside|diverblackbox_diverblackbox_005_diverblackboxa_001	Ρος, μπορείς να τους το πεις ο ίδιος. Απλώς πρέπει να ανεβάσουμε ρυθμό, εντάξει;
+Voices_04_01_tau_outside|diverblackbox_diverblackbox_006_diverblackboxb_001	Γκλας. Χάσαμε το μονοπάτι! Πρέπει να γυρίσουμε πίσω.
+Voices_04_01_tau_outside|diverblackbox_diverblackbox_007_diverblackboxa_001	Ξέρω πού να πάμε. Έλα.
+Voices_04_01_tau_outside|diverblackbox_diverblackbox_008_diverblackboxb_001	Είναι εκεί, το φως είναι εκεί!
+Voices_04_01_tau_outside|diverblackbox_diverblackbox_009_diverblackboxa_001	Μια τελευταία προσπάθεια, Ρος. Σχεδόν φτάσαμε, απλώς...
+Voices_04_01_tau_outside|diverblackbox_diverblackbox_010_diverblackboxb_001	Πρόσεχε!
+Voices_04_01_tau_outside|cathchat_descentpart1_001_catherine_001	Α, ωραία. Γύρισες.
+Voices_04_01_tau_outside|cathchat_descentpart1_002_player_001	Τι έγινε;
+Voices_04_01_tau_outside|cathchat_descentpart1_003_catherine_001	Κάτι έπεσε πάνω στο θάλαμο. Σε έριξε αναίσθητο.
+Voices_04_01_tau_outside|cathchat_descentpart1_004_player_001	Μου μίλησε.
+Voices_04_01_tau_outside|cathchat_descentpart1_005_catherine_001	Έμοιαζε με άνθρωπο -- ένα από τα πλάσματα του WAU. Σε κοίταξε για μια στιγμή και μετά ρίχτηκε στην άβυσσο.
+Voices_04_01_tau_outside|cathchat_descentpart1_006_player_001	Είπε ότι θα κάνει &quot;προετοιμασίες&quot;; Δε μου αρέσει καθόλου αυτό.
+Voices_04_01_tau_outside|cathchat_descentpart1_007_catherine_001	Ήταν πολύ περίεργο. Ήμουν σίγουρη ότι θα σε σκότωνε. Χαίρομαι που δεν το έκανε.
+Voices_04_01_tau_outside|cathchat_descentpart1_008_player_001	Ναι, κι εγώ.
+Voices_04_01_tau_outside|cathchat_descentpart2_001_player_001	Φαίνεται ότι πλησιάζουμε το βυθό του ωκεανού.
+Voices_04_01_tau_outside|cathchat_descentpart2_002_catherine_001	Ωραία, δεν είμαι σίγουρη ότι το Climber αντέχει πολύ ακόμα.
+Voices_04_01_tau_outside|cathchat_descentpart2_003_catherine_001	Εντάξει, αυτός είναι ο τομέας Ωμέγα, περίπου τέσσερα στρέμματα της αβυσσαλέας πεδιάδας που χρησιμοποιούσε το Pathos-II. Υποθέτω ότι θα χρειαστεί να περπατήσουμε αρκετά πριν φτάσουμε στο Ταυ.
+Voices_04_01_tau_outside|cathchat_descentpart2_004_player_001	Δεν έχεις ξανάρθει εδώ;
+Voices_04_01_tau_outside|cathchat_descentpart2_005_catherine_001	Όχι με τρόπο που θα μας βοηθήσει.
+Voices_04_01_tau_outside|cathchat_descentpart2_006_player_001	Σωστά, η άλλη εσύ έχει έρθει εδώ. Ακολουθούμε τα παλιά σου βήματα, Κάθ.
+Voices_04_01_tau_outside|cathchat_descentpart2_007_catherine_001	Όταν είχα βήματα.
+Voices_04_01_tau_outside|cathchat_descentpart2_008_player_001	Τεχνικά, μπορεί να είσαι ακόμα κάπου εδώ κάτω.
+Voices_04_01_tau_outside|cathchat_descentpart2_009_catherine_001	Μη μου το θυμίζεις. Με τρομάζει.
+Voices_04_01_tau_outside|cathchat_descentpart2_009_catherine_002	Εντάξει, ας πάμε προς το Ταυ να βρούμε αυτό το ARK.
+Voices_04_01_tau_outside|datamine_intercom_pedersen_1_001_pedersen_001	Ταυ. Απαντήστε, Ταυ. Παρακαλώ απαντήστε, Ταυ.
+Voices_04_01_tau_outside|datamine_intercom_pedersen_1_001_pedersen_002	Τίποτα. Είναι νεκρό.
+Voices_04_01_tau_outside|datamine_intercom_pedersen_1_002_lindwall_001	Ας προχωρήσουμε. Θα δοκιμάσουμε το επόμενο.
+Voices_04_01_tau_outside|datamine_intercom_pedersen_2_001_pedersen_001	Ταυ, μας ακούτε; Είναι κανείς εκεί;
+Voices_04_01_tau_outside|datamine_intercom_pedersen_2_002_diverblackboxa_001	Εδώ Ταυ. Ποιος είναι;
+Voices_04_01_tau_outside|datamine_intercom_pedersen_2_003_pedersen_001	Εδώ Ίαν Πέντερσεν από το Θήτα. Έχω μια ομάδα μαζί μου και είμαστε περίπου μισό χιλιόμετρο από το Ταυ.
+Voices_04_01_tau_outside|datamine_intercom_pedersen_2_004_diverblackboxa_001	Τι, πώς, πώς...; Ήρθατε με το Climber;
+Voices_04_01_tau_outside|datamine_intercom_pedersen_2_005_pedersen_001	Άκου, δυσκολευόμαστε πολύ σε αυτόν τον τομέα.
+Voices_04_01_tau_outside|datamine_intercom_pedersen_2_005_pedersen_002	Η έντονη αναταραχή μάς δυσκολεύει να προχωρήσουμε και η πανίδα σας είναι εντελώς λυσσασμένη.
+Voices_04_01_tau_outside|datamine_intercom_pedersen_2_006_diverblackboxa_001	Η καταιγίδα έρχεται και φεύγει. Τα όργανα δείχνουν ότι ο καιρός είναι σχετικά καλός αυτή τη στιγμή. Πρέπει να ξεκινήσετε το συντομότερο.
+Voices_04_01_tau_outside|datamine_intercom_pedersen_2_006_diverblackboxa_002	Μείνετε κοντά στα φώτα και τα πλάσματα θα σας αφήσουν ήσυχους.
+Voices_04_01_tau_outside|datamine_intercom_pedersen_2_007_pedersen_001	Εντάξει, ακούσατε τον άνθρωπο. Ξεκινάμε, παιδιά.
+Voices_04_01_tau_outside|datamine_intercom_pedersen_2_007_pedersen_002	Ταυ. Αφήστε τις πόρτες ξεκλείδωτες, ερχόμαστε.
+Voices_04_02_tau_inside|datamine_1_datamineintercom_001_glasser_001	Καλώς ήρθατε στο Ταυ -- σε ό,τι έχει απομείνει από αυτό.
+Voices_04_02_tau_inside|datamine_1_datamineintercom_002_lindwall_001	Είστε καλά, παιδιά; Τι έγινε εδώ;
+Voices_04_02_tau_inside|datamine_1_datamineintercom_003_glasser_001	Μας τελείωσε το κανονικό φαγητό εδώ και πολύ καιρό. Ο κόσμος αρρωσταίνει.
+Voices_04_02_tau_inside|datamine_1_datamineintercom_003_glasser_002	Έχουμε μήνες να ακούσουμε κανέναν.
+Voices_04_02_tau_inside|datamine_1_datamineintercom_004_pedersen_001	Σοβαρά τώρα, όλοι νομίζουν ότι είστε νεκροί εδώ κάτω. Κυκλοφορεί μια ιστορία για αποτυχημένη εκκένωση στο Όμικρον.
+Voices_04_02_tau_inside|datamine_1_datamineintercom_005_glasser_001	Θεέ μου.
+Voices_04_02_tau_inside|datamine_1_datamineintercom_006_pedersen_001	Άκου, γιε μου. Είμαστε σε σημαντική αποστολή και χρειαζόμαστε τη βοήθειά σου για να χειριστούμε το Διαστημικό Κανόνι Ωμέγα.
+Voices_04_02_tau_inside|datamine_1_datamineintercom_006_pedersen_002	Όταν τελειώσει, μπορούμε όλοι να γυρίσουμε πίσω στο οροπέδιο, αλλά τώρα πρέπει να κινηθούμε.
+Voices_04_02_tau_inside|datamine_1_datamineintercom_007_glasser_001	Φυσικά. Περάστε στο χώρο διαβίωσης, έχουμε κλείσει το μπροστινό τμήμα για να εξοικονομήσουμε ενέργεια.
+Voices_04_02_tau_inside|datamine_1_datamineintercom_008_pedersen_001	Εντάξει, τα λέμε σύντομα.
+Voices_04_02_tau_inside|lindwall_3_interactinfirmarydoorpanel_001_lindwall_001	Φύγε, WAU. Δε σε αφήνω να μπεις, ούτε εσένα ούτε τα ηλίθια κατοικίδιά σου.

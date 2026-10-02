@@ -1,0 +1,171 @@
+Voices_02_02_ms_curie_inside|cathmeeting_3c_lifeboatescape_branch2_004_player_001	Βιάσου.
+Voices_02_02_ms_curie_inside|cathmeeting_3c_lifeboatescape_branch2_005_catherine_001	Ένα δευτερόλεπτο.
+Voices_02_02_ms_curie_inside|cathmeeting_3c_waterdrained_branch2_001_catherine_001	Εντάξει, απογειωνόμαστε. Κρατήσου από κάπου!
+Voices_02_02_ms_curie_inside|radio_captaindialog_2_001_captain_001	Το Curie είναι ασφαλές όσο είναι βυθισμένο. Το πλήρωμα -- ό,τι έχει απομείνει -- είναι καλά. Για τον υπόλοιπο κόσμο, δεν υπάρχει καλός τρόπος να το περιγράψω. Η καταστροφή είναι ολοκληρωτική. Η επιφάνεια απλώς δεν υπάρχει πια.
+Voices_02_02_ms_curie_inside|radio_brockleydialog_1_001_brockley_001	Την πατήσαμε. Ήταν τεράστιο λάθος. Ακόμα και με τις στολές είμαστε χάλια εδώ πάνω. Κρατήστε το Curie ασφαλές. Ξεχάστε το Ωμέγα, ξεχάστε την επιφάνεια!
+Voices_02_02_ms_curie_inside|cathmeeting_hintescapepod_lookforpowerroom_1_001_catherine_001	Κάτι σταθεροποιεί το πλοίο. Πρέπει να του δείξουμε ότι αυτό είναι έκτακτη ανάγκη.
+Voices_02_02_ms_curie_inside|cathmeeting_hintescapepod_lookforpowerroom_2_001_catherine_001	Πείσε το πλοίο ότι αυτό είναι έκτακτη ανάγκη.
+Voices_02_02_ms_curie_inside|cathmeeting_hintescapepod_wreckpowerroom_1_001_catherine_001	Σαμπόταρε το σταθεροποιητή, Σάιμον. Τα μαύρα καλώδια που είπες, τράβηξέ τα.
+Voices_02_02_ms_curie_inside|cathmeeting_hintescapepod_wreckpowerroom_2_001_catherine_001	Ξερίζωσε όλα τα μαύρα καλώδια.
+Voices_02_02_ms_curie_inside|cathmeeting_2b_returntolifeboat_proom_001_player_001	Ξέρεις... ξέρεις τίποτα για κάτι σκούρα μεταλλικά καλώδια που μοιάζουν να τρέφονται από τα μηχανήματα;
+Voices_02_02_ms_curie_inside|cathmeeting_2b_returntolifeboat_proom_002_catherine_001	Ε;
+Voices_02_02_ms_curie_inside|cathmeeting_2b_returntolifeboat_proom_002_catherine_002	Α, εννοείς ότι το WAU είναι εδώ.
+Voices_02_02_ms_curie_inside|cathmeeting_2b_returntolifeboat_proom_003_player_001	Τι;
+Voices_02_02_ms_curie_inside|cathmeeting_2b_returntolifeboat_proom_004_catherine_001	Αυτό κρατάει το πλοίο ενωμένο.
+Voices_02_02_ms_curie_inside|cathmeeting_2b_returntolifeboat_proom_004_catherine_002	Τράβηξέ τα, Σάιμον. Ξερίζωσέ τα όλα.
+Voices_02_02_ms_curie_inside|cathmeeting_2c_flesherenterslifeboat_001_catherine_001	Πρόσεχε!
+Voices_02_02_ms_curie_inside|cathmeeting_2c_enterlifeboatafterdeath_001_catherine_001	Σάιμον; Είσαι καλά;
+Voices_02_02_ms_curie_inside|cathmeeting_2c_enterlifeboatafterdeath_002_player_001	Νομίζω.
+Voices_02_02_ms_curie_inside|cathmeeting_2c_enterlifeboatafterdeath_003_catherine_001	Με τρόμαξες πολύ. Νόμιζα ότι θα έμενα παγιδευμένη εδώ για πάντα.
+Voices_02_02_ms_curie_inside|simoncomments_1_enterlevel_001_player_001	Εντάξει, μπήκαμε. Ας βρούμε ένα σκάφος διάσωσης που δουλεύει.
+Voices_02_02_ms_curie_inside|simoncomments_reactorwarning_001_autowarning_001	+Προσοχή! Επικείμενη κατάρρευση αντιδραστήρα. Κατευθυνθείτε στα σκάφη διάσωσης.
+Voices_02_02_ms_curie_inside|reactor_warning	+Προσοχή! Επικείμενη κατάρρευση αντιδραστήρα. Κατευθυνθείτε στα σκάφη διάσωσης.
+Voices_02_03_delta|recording_7_zeppelintransmission_2_001_akers_001	Πίτερ, με ακούς;
+Voices_02_03_delta|recording_7_zeppelintransmission_2_002_strasky_001	Ε, σε ακούω, Τέρι. Εννοώ, κύριε Έικερς.
+Voices_02_03_delta|recording_7_zeppelintransmission_2_003_akers_001	Άλλαξα γνώμη. Θα ήθελα να έρθω στο Θήτα. Αφήστε το Δέλτα να κοιμηθεί.
+Voices_02_03_delta|recording_7_zeppelintransmission_2_004_strasky_001	Φυσικά! Ουάου, ειλικρινά δεν περίμενα να σας ξανακούσω. Πάει τόσος καιρός από την τελευταία φορά που επικοινωνήσατε.
+Voices_02_03_delta|recording_7_zeppelintransmission_2_004_strasky_002	Έχουμε μερικούς δύτες σε ένα ζέπελιν που κάνουν έρευνα στο Λάμδα αυτή τη στιγμή. Θα φροντίσω να σας παραλάβουν όταν τελειώσουν.
+Voices_02_03_delta|recording_7_zeppelintransmission_2_005_akers_001	Α, ευχαριστώ που με προειδοποιήσατε. Θα φροντίσω να νιώσουν ευπρόσδεκτοι.
+Voices_02_03_delta|recording_7_zeppelintransmission_2_006_strasky_001	Εντάξει, τα λέμε όταν φτάσετε.
+Voices_02_03_delta|recording_7_zeppelintransmission_1_001_wan_001	Στράσκι; Βλέπουμε το ζέπελιν τώρα.
+Voices_02_03_delta|recording_7_zeppelintransmission_1_002_strasky_001	Ωραία. Συγγνώμη για το χάος. Χωρίς το σύστημα εντοπισμού θέσης, τα ζέπελιν χάνουν συνέχεια τις προκαθορισμένες διαδρομές τους.
+Voices_02_03_delta|recording_7_zeppelintransmission_1_002_strasky_002	Η Βόλτσεκ είπε πάντως ότι θα μπορούσατε να το φτιάξετε από τη μεριά σας ρυθμίζοντας ξανά την κεραία.
+Voices_02_03_delta|recording_7_zeppelintransmission_1_002_strasky_003	Μάλλον δεν έχει σημασία τώρα. Έρχεστε όλοι;
+Voices_02_03_delta|recording_7_zeppelintransmission_1_003_wan_001	Όχι, μόνο εγώ, ο Γκόγια και η Κρίερ. Ο Έικερς επιμένει να κάνει τον πεισματάρη γέρο.
+Voices_02_03_delta|recording_7_zeppelintransmission_1_004_strasky_001	Εντάξει. Τα λέμε σύντομα, Μπράντον. Καλή εκκένωση!
+Voices_02_03_delta|datamine_2_dataminemaggie_003_maggie_001	Στράσκι, με ακούς; Λάβε.
+Voices_02_03_delta|datamine_2_dataminemaggie_004_maggie_001	Θήτα, ακούστε! Ο Έικερς έρχεται προς το Θήτα!
+Voices_02_03_delta|datamine_2_dataminemaggie_005_strasky_001	Παράρτημα LUMAR του Δέλτα, λαμβάνω σήμα, αλλά όχι ήχο.
+Voices_02_03_delta|datamine_2_dataminemaggie_006_maggie_001	Στράσκι! Η Κομορέμπι είμαι! Ο Έικερς τρελάθηκε -- είναι επικίνδυνος!
+Voices_02_03_delta|datamine_2_dataminemaggie_007_maggie_001	Στράσκι;!
+Voices_02_03_delta|datamine_2_dataminemaggie_008_strasky_001	Συγγνώμη, Δέλτα. Ακόμα χωρίς ήχο -- δοκιμάστε να καλέσετε από άλλο σημείο πρόσβασης.
+Voices_02_03_delta|datamine_2_dataminemaggie_009_maggie_001	Στράσκι, μπορώ να προσπαθήσω να στείλω... Έχω φωτογραφίες...
+Voices_02_03_delta|recording_7_zeppelincontact_1_001_automated voice_001	Μεταφορά ενεργή. Απροσδιόριστο φορτίο.
+Voices_02_03_delta|recording_7_zeppelincontact_2_001__soundeffect_001	*παράσιτα*
+Voices_02_03_delta|recording_7_zeppelincontact_3_1_001_zeppelin3_001	Είναι παντού.
+Voices_02_03_delta|recording_7_zeppelincontact_3_1_002_player_001	Τι, εμπρός;
+Voices_02_03_delta|recording_7_zeppelincontact_3_2_001_zeppelin3_001	Όλο αυτό το νερό. Πνιγόμαστε.
+Voices_02_03_delta|recording_7_zeppelincontact_3_2_002_player_001	Ποιος είναι;
+Voices_02_03_delta|recording_7_zeppelincontact_3_2_003_zeppelin3_001	Ο Άλαν. Εσένα πώς σε λένε;
+Voices_02_03_delta|recording_7_zeppelincontact_3_2_004_player_001	Σάιμον. Πού... τι είσαι εσύ;
+Voices_02_03_delta|recording_7_zeppelincontact_3_3_001_player_001	Άλαν, με ακούς; Άλαν;
+Voices_02_03_delta|Recording_7_ZeppelinContact_3_3_002__SoundEffect_001	*παράσιτα*
+Voices_02_03_delta|datamine_7_dataminebrokenradio_001_akers_001	Με ακούς που μιλάω; Φυσικά και με ακούς.
+Voices_02_03_delta|datamine_7_dataminebrokenradio_001_akers_002	Ήθελα να ξέρεις ότι ξέρω. Δε με διάλεξες στα τυφλά μέσα από το κοπάδι.
+Voices_02_03_delta|datamine_7_dataminebrokenradio_001_akers_003	Τα αργά κύματα του Δέλτα που σκάνε στην ακτή είχαν ένα ρεύμα που σε τραβάει σε λήθαργο.
+Voices_02_03_delta|datamine_7_dataminebrokenradio_001_akers_004	Είναι κάτι πανέμορφο και δε θα γίνω εγωιστής. Θα βοηθήσω, θα τους σκεπάσω, θα τους βλέπω να κοιμούνται.
+Voices_02_03_delta|datamine_7_dataminebrokenradio_001_akers_005	Θα βρουν κι αυτοί γαλήνη μέσα στο σύμπαν του WAU.
+Voices_02_03_delta|comment_7_allantennasupfailedcall_001_player_001	Ορίστε. Τώρα θα πρέπει να μπορώ να καλέσω το ζέπελιν.
+Voices_02_03_delta|comment_7_calledzeppelin_001_player_001	Το ζέπελιν έρχεται. Καλύτερα να ετοιμαστώ.
+Voices_02_03_delta|comment_7_seeingzeppelin_001_player_001	Αυτό είναι σίγουρα το ζέπελιν.
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_001_catherine_001	Αχ!
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_002_player_001	Ηρέμησε. Είμαστε ασφαλείς.
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_003_catherine_001	Είναι πολύ ανησυχητικό να εμφανίζεσαι και να εξαφανίζεσαι έτσι. Πού είμαστε τώρα;
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_004_player_001	Στο Δέλτα -- τουλάχιστον αυτό είπες πριν από τη συντριβή.
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_005_catherine_001	Α, σωστά. Φυσικά. Είναι ζέπελιν αυτό;
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_006_player_001	Ταιριαστό όνομα. Λες να μπορεί να μας πάει στο Θήτα;
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_007_catherine_001	Είναι φορτηγό μεταφοράς. Τα χρησιμοποιούν για να μεταφέρουν υλικά μεταξύ των βάσεων. Οτιδήποτε είναι πολύ μεγάλο για τα σάτλ. Είμαι σίγουρη ότι μπορεί να μας κουβαλήσει.
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_008_catherine_001	Αχ, γιατί δε δουλεύει; Έλα -- α, το τσιπ εργαλείων είναι χαλασμένο.
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_009_player_001	Αυτό δεν είναι μέρος του omnitool;
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_010_catherine_001	Για δες ποιος πρόσεχε.
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_011_player_001	Αναγκάστηκα να ασχοληθώ με αυτό πίσω στο Ύψιλον.
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_012_catherine_001	Τότε ξέρεις πώς δουλεύει. Πρέπει να βρούμε καινούριο τσιπ εργαλείων και να το αλλάξουμε.
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_013_player_001	Θα μου δείξεις πού είναι η πλησιέστερη αποθήκη τσιπ εργαλείων;
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_014_catherine_001	Νομίζω ότι θα ήταν πιο εύκολο να πάρεις ένα από κάποιο ρομπότ.
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_015_player_001	Τι; Να χτυπήσω απλώς ένα ρομπότ στο κεφάλι και να του κλέψω τα τσιπ;
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_016_catherine_001	Η εργαλειοθήκη εκεί πέρα λέει ότι έχει ηλεκτρικό γκλοπ. Θα μπορούσες να το χρησιμοποιήσεις.
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_017_player_001	Έλα τώρα, δε θέλω να κάνω κακό σε κανέναν -- δεν είναι λίγο υπερβολικό;
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_018_catherine_001	Απλώς ένα ρομπότ είναι, Σάιμον.
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_019_player_001	Κι εμείς απλώς ρομπότ είμαστε!
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_019_player_002	Κάπως.
+Voices_02_03_delta|dialog_8_insertcatherineonplatform_020_player_001	Θα φέρω το τσιπ.
+Voices_02_03_delta|dialog_8_fixcatherine_start_001_catherine_001	Ευχαριστώ, Σάιμον. Μη θυμώνεις, εντάξει; Χρειαζόμασταν πραγματικά αυτό το τσιπ. Θα είχαμε κολλήσει εδώ.
+Voices_02_03_delta|dialog_8_fixcatherine_start_002_player_001	Θα μπορούσες να το κάνεις εσύ; Να σκοτώσεις ένα ρομπότ έτσι;
+Voices_02_03_delta|dialog_8_fixcatherine_start_003_catherine_001	Κι εγώ δένομαι μαζί τους, δεν είμαι τέρας. Αλλά σε αυτή την περίπτωση έπρεπε να γίνει.
+Voices_02_03_delta|dialog_8_pushycatherine_1_001_player_001	Νιώθω... νιώθω απαίσια.
+Voices_02_03_delta|dialog_8_pushycatherine_1_002_catherine_001	Τα ρομπότ απλώς φαίνονται έξυπνα. Μοιάζουν πολύ περισσότερο με σκύλους παρά με ανθρώπους.
+Voices_02_03_delta|dialog_8_pushycatherine_1_003_player_001	Εγώ δε θα χτυπούσα σκύλο!
+Voices_02_03_delta|dialog_8_pushycatherine_1_004_catherine_001	Συγγνώμη, κακή επιλογή λέξεων.
+Voices_02_03_delta|dialog_8_pushycatherine_1_005_player_001	Δε θέλω να κάνω κακό σε τίποτα!
+Voices_02_03_delta|dialog_8_pushycatherine_1_006_catherine_001	Λοιπόν, χρειαζόμαστε τσιπ εργαλείων, αλλιώς έχουμε κολλήσει εδώ.
+Voices_02_03_delta|comment_8_tookstunrod_001_player_001	Μάλλον δεν έχω άλλη επιλογή.
+Voices_02_03_delta|comment_8_firststunrodhit_001_player_001	Αχ, έλα τώρα.
+Voices_02_03_delta|comment_8_takingchip_001_player_001	Ελπίζω να δουλέψει.
+Voices_02_03_delta|comment_8_nottakingchip_001_player_001	Χρειάζομαι ακόμα αυτό το τσιπ για να φτιάξω την Κάθριν.
+Voices_02_03_delta|dialog_8_playerarriveswithchip_001_catherine_001	Θα είναι εύκολη επισκευή.
+Voices_02_03_delta|dialog_2_escapepoddistresssignal_001_automated voice_001	Η ομάδα διάσωσης του Δέλτα ειδοποιήθηκε. Παρακαλούμε παραμείνετε στις θέσεις σας.
+Voices_02_03_delta|datamine_3_dataminelaunchsitecrew_001_evans_001	Το είδες, σωστά;! Είδες τον Έικερς να τους κάνει ένεση με αυτό το σκατό;!
+Voices_02_03_delta|datamine_3_dataminelaunchsitecrew_002_maggie_001	Με χτύπησε αρκετά άσχημα.
+Voices_02_03_delta|datamine_3_dataminelaunchsitecrew_003_evans_001	Νομίζω ότι το χειροτέρεψα -- που τραβήχτηκα. Νιώθω... νιώθω ότι αιμορραγώ.
+Voices_02_03_delta|datamine_3_dataminelaunchsitecrew_003_evans_002	Το βλέπεις;
+Voices_02_03_delta|datamine_3_dataminelaunchsitecrew_004_maggie_001	Γαμώτο, μπήκε στο ζέπελιν! Γυρίζει στο Θήτα.
+Voices_02_03_delta|datamine_3_dataminelaunchsitecrew_004_maggie_002	Πρέπει να τους προειδοποιήσουμε.
+Voices_02_03_delta|datamine_3_dataminelaunchsitecrew_005_evans_001	Καλή τύχη με αυτό. Ο ασύρματος της πλατφόρμας είναι νεκρός, θυμάσαι;
+Voices_02_03_delta|datamine_3_dataminelaunchsitecrew_006_maggie_001	Το παράρτημα LUMAR θα πρέπει να δουλεύει. Πρέπει.
+Voices_02_03_delta|datamine_3_dataminelaunchsitecrew_007_evans_001	Ναι, πήγαινε εσύ. Εγώ δε θα τα καταφέρω, απλώς δε θα τα καταφέρω.
+Voices_02_03_delta|datamine_3_dataminelaunchsitecrew_008_maggie_001	Έλα, Έβανς. Πρέπει να τους προειδοποιήσουμε, έλα--
+Voices_02_03_delta|dialog_8_zeppelinliftoff_001_catherine_001	Ευχαριστώ.
+Voices_02_03_delta|dialog_8_stunningtakingtoolong_1_001_player_001	Δεν μπορούμε να το κάνουμε αλλιώς; Αυτά τα ρομπότ δεν έχουν κάνει τίποτα.
+Voices_02_03_delta|dialog_8_stunningtakingtoolong_1_002_catherine_001	Έλα επιτέλους! Χρειάζομαι ένα από τα τσιπ εργαλείων τους για να μας βγάλω από εδώ.
+Voices_02_03_delta|comment_2_doorisstuck_001_player_001	Δεν πρόκειται να το ανοίξω ποτέ αυτό.
+Voices_02_03_delta|comment_2_seeskate_notrescued_001_player_001	Εσύ είσαι η ομάδα διάσωσης, ε; Μπράβο.
+Voices_02_03_delta|dialog_9_katehelpedplayer_001_player_001	Ευχαριστώ, μικρέ. Είσαι πιο δυνατός απ' ό,τι φαίνεσαι.
+Voices_02_03_delta|dialog_9_katehelpedplayer_002_player_001	Είσαι πολύ χρήσιμο πλασματάκι, το ξέρεις;
+Voices_02_03_delta|dialog_9_katehelpedplayer_003_player_001	Φίλε, πρέπει να πατήσω πιο σταθερά.
+Voices_02_03_delta|comment_9_nearedge_001_player_001	Μεγάλη πτώση αυτή.
+Voices_02_03_delta|comment_9_nearedge_002_player_001	Προσεκτικά, Σάιμον. Προσεκτικά.
+Voices_02_03_delta|comment_7_triedopeningtraindoor_001_player_001	Έχει σκουριάσει και δεν ανοίγει. Μάλλον καλύτερα. Δεν είμαι σίγουρος ότι εμπιστεύομαι πια τα τρένα σάτλ.
+Voices_02_03_delta|comment_2_seeskate_rescued_001_player_001	Α, γεια σου, μικρέ. Δεν περίμενα να σε ξαναδώ.
+Voices_02_03_delta|goya_2_confusedrobotidling_001_goya_001	Τρελή μέρα, έτσι; Δεν πιστεύω πόσο ιδρώνω μέσα σε αυτή τη στολή.
+Voices_02_03_delta|goya_2_confusedrobotidling_002_goya_001	Νομίζω ότι χρειάζομαι διακοπές σύντομα. Πρέπει να μιλήσω με τον Έικερς γι' αυτό. Έτσι δεν είναι, Έικερς;
+Voices_02_03_delta|goya_2_confusedrobotidling_003_goya_001	Ναι, θα βάλεις ένα καλό λόγο για μένα; Δεν είμαι σίγουρος ότι αυτό είναι καλό. Όχι, πλάκα σου κάνω.
+Voices_02_03_delta|goya_2_confusedrobotidling_004_goya_001	Μπράντον, μετακίνησες το περίβλημα της Carthage; Πρέπει να το δοκιμάσουμε πριν το στείλουμε.
+Voices_02_03_delta|goya_2_confusedrobotidling_005_goya_001	Φίλε, φαίνεται αμέσως όταν η Άστριντ λείπει από την πλατφόρμα. Αυτό το μέρος γίνεται αποδυτήρια. Και όχι με την καλή έννοια.
+Voices_02_03_delta|goya_2_confusedrobotidling_006_goya_001	Δεν ξέρω, φίλε. Απλώς λέω ότι μπορούμε να είμαστε αξιοπρεπείς ακόμα κι όταν δεν είναι γυναίκες εδώ, καταλαβαίνεις;
+Voices_02_03_delta|goya_2_confusedrobotidling_007_goya_001	Ναι, ναι. Λες μαλακίες, Μπράντον. Σε έχω δει όταν εμφανίζεται η υπεύθυνη φορτίου, η Άλις Κόστερ.
+Voices_02_03_delta|goya_2_confusedrobotidling_008_goya_001	Θα την άφηνες να διαχειριστεί το φορτίο σου; Τι; Αυτό δε βγάζει καν νόημα. Έλα, σταμάτα να χαζεύεις και γύρνα στη δουλειά.
+Voices_02_03_delta|goya_2_confusedrobotidling_009_goya_001	Ξέχνα το, Έικερς, δεν ξαναπαίζω μαζί σου. Σαν να μην ήταν αρκετά βαρετό το σκάκι -- πρέπει να κερδίσεις και σε τέσσερις κινήσεις ή κάτι τέτοιο.
+Voices_02_03_delta|goya_2_confusedrobotidling_010_goya_001	Μετακίνησες τις εξωτερικές ασπίδες; Όχι -- τη λεπτή, την ενδοτική! Ναι, ναι, ξέρω ότι τεχνικά δεν είναι ασπίδα. Άσ' το, τη βρήκα.
+Voices_02_03_delta|goya_2_confusedrobotidling_011_goya_001	Γιατί να θέλεις να πας στο Θήτα; Γιατί να είσαι μικρό ψάρι σε μεγάλη λίμνη, καταλαβαίνεις;
+Voices_02_03_delta|goya_2_confusedrobotidling_012_goya_001	Να σου πω την αλήθεια, λατρεύω τη γαμημένη τη δουλειά μου. Λατρεύω που το Δέλτα είναι τόσο δεμένη ομάδα. Δοκιμάζω τα πάντα εδώ.
+Voices_02_03_delta|goya_2_confusedrobotidling_013_goya_001	Εντάξει φαίνεται, σωστά; Ναι, θα κάνει.
+Voices_02_03_delta|goya_2_confusedrobotidling_014_goya_001	Προσεκτικά, Μπραντ. Σιγά σιγά.
+Voices_02_03_delta|goya_2_confusedrobotidling_015_goya_001	Ναι, χρειάζομαι μόνο μερικά ακόμα.
+Voices_02_03_delta|goya_2_confusedrobotidling_016_goya_001	Έι, δοκίμασε το άλλο -- αυτό δε δουλεύει.
+Voices_02_03_delta|goya_2_confusedrobotidling_017_goya_001	Το 'πιασα.
+Voices_02_03_delta|dialog_8_returnnobaton_001_catherine_001	Δε θα σου πρότεινα να τα βάλεις με ρομπότ με γυμνά χέρια. Υπάρχει ένα ηλεκτρικό γκλοπ στην εργαλειοθήκη εκεί πέρα. Οι δύτες το χρησιμοποιούν για να διώχνουν καρχαρίες και τέτοια, οπότε σίγουρα έχει δύναμη.
+Voices_02_03_delta|dialog_8_returnnobaton_002_catherine_001	Καλύτερα να πάρεις το ηλεκτρικό γκλοπ από την εργαλειοθήκη εκεί πέρα. Δε θέλουμε να σου κλέψουν τα ρομπότ τα τσιπ.
+Voices_02_03_delta|dialog_8_returnnobaton_003_catherine_001	Μην ξεχάσεις το ηλεκτρικό γκλοπ. Θα το χρειαστείς για να παλέψεις με τα ρομπότ.
+Voices_02_03_delta|dialog_8_returnnobaton_004_catherine_001	Πάρε το ηλεκτρικό γκλοπ από την εργαλειοθήκη. Σίγουρα θα φανεί χρήσιμο.
+Voices_02_03_delta|dialog_8_fixcatherine_kate_001_player_001	Έχουν διαφορά μεταξύ τους; Διάλεξα ένα μικρό.
+Voices_02_03_delta|dialog_8_fixcatherine_kate_002_catherine_001	Όχι, όχι K-8, είναι τόσο χαριτωμένα!
+Voices_02_03_delta|dialog_8_fixcatherine_kate_003_player_001	Τι;!
+Voices_02_03_delta|dialog_8_fixcatherine_kate_004_catherine_001	Μην ανησυχείς, είναι πιο χαζά κι από πέτρες.
+Voices_02_03_delta|dialog_8_fixcatherine_kate_005_player_001	Είσαι απαίσια.
+Voices_02_03_delta|dialog_8_fixcatherine_delusionalrobot_001_player_001	Μιλούσε. Δηλαδή, παραληρούσε, αλλά φαινόταν ειλικρινής -- παρών.
+Voices_02_03_delta|dialog_8_fixcatherine_delusionalrobot_002_catherine_001	Ναι, λοιπόν... σίγουρα δεν τρέχει τίποτα.
+Voices_02_03_delta|dialog_8_fixcatherine_delusionalrobot_003_player_001	Ήταν πραγματικά τόσο διαφορετικός από εμάς;
+Voices_02_03_delta|dialog_8_fixcatherine_end_001_player_001	Μόλις αρχίζω να το συνειδητοποιώ. Εννοώ να το συνειδητοποιώ πραγματικά -- είμαι ρομπότ.
+Voices_02_03_delta|dialog_8_fixcatherine_end_002_catherine_001	Δεν το έχουμε ήδη συζητήσει αυτό;
+Voices_02_03_delta|dialog_8_fixcatherine_end_003_player_001	Μάλλον το ήξερα από τη στιγμή που ξύπνησα στο Ύψιλον.
+Voices_02_03_delta|dialog_8_fixcatherine_end_003_player_002	Απλώς συνεχίζω να το καταπιέζω, σαν να μη θέλει ο εγκέφαλός μου να το σκεφτώ.
+Voices_02_03_delta|dialog_8_fixcatherine_end_003_player_003	Γίνεται πραγματικά δύσκολο να μην το σκέφτομαι.
+Voices_02_03_delta|dialog_8_fixcatherine_end_004_catherine_001	Ναι... μήπως θα μπορούσες να πατήσεις εκείνον το διακόπτη εκεί πέρα για να ξεκινήσουμε;
+Voices_02_03_delta|dialog_8_fixcatherine_end_005_player_001	Α, ναι, φυσικά.
+Voices_02_03_delta|goya_8_goyahit_001_goya_001	Άααχ, τι... τι συμβαίνει;
+Voices_02_03_delta|goya_8_goyahit_002_goya_001	Άααχ, γαμώτο! Πονάει.
+Voices_02_03_delta|goya_8_goyahit_003_goya_001	Άααχ!
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_1_001_goya_001	Μπράντον. Είσαι καλά; Τι στο διάολο έγινε;
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_1_002_goya_001	Δεν καταλαβαίνω. Τι ήταν αυτό;
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_1_003_goya_001	Μείνε κάτω, Μπράντον. Δεν είμαι σίγουρος ότι είναι ασφαλές.
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_1_004_goya_001	Χριστέ μου. Αυτό το μέρος είναι τρελό.
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_1_005_goya_001	Έικερς! Το είδες αυτό;!
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_1_006_goya_001	Πόνεσε πολύ αυτό.
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_1_007_goya_001	Ήρθε από το πουθενά.
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_1_008_goya_001	Πρέπει να προσέχω περισσότερο.
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_2_001_goya_001	Παιδιά, χρειάζομαι βοήθεια!
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_2_002_goya_001	Μπράντον;! Έλα, βοήθησέ με!
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_2_003_goya_001	Γαμώτο, η στολή γεμίζει νερό.
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_2_004_goya_001	Αχ, Θεέ μου, πολύ αίμα.
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_2_005_goya_001	Παιδιά, την έβαψα. Είμαι πολύ άσχημα.
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_2_006_goya_001	Μπράντον;! Τέρι;!

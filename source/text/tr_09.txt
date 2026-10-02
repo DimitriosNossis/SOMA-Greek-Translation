@@ -1,0 +1,108 @@
+02_06_theta_tunnels|ButtonRecordings	Ηχογραφήσεις ασφαλείας
+02_06_theta_tunnels|ButtonClear	Καθαρισμός
+02_06_theta_tunnels|ButtonOK	OK
+02_06_theta_tunnels|ButtonMail	Αποστολή
+02_06_theta_tunnels|SecurityWindowCaption	Τσιπ σύνδεσης
+02_06_theta_tunnels|SecurityAlertsTitle	Μηνύματα ασφαλείας
+02_06_theta_tunnels|SecurityAlerts	<![CDATA[Συναγερμός! Συντονισμός - 17 Νοε 2103[br]<κατεστραμμένο>[br][br]Συναγερμός! Αίθουσα συσκέψεων - 22 Νοε 2103[br]<κατεστραμμένο>[br][br]Συναγερμός! Σταθμός σάτλ - 12 Δεκ 2103[br]<κατεστραμμένο>[br][br]Συναγερμός! Κοινόχρηστος χώρος - 29 Δεκ 2103[br]<κατεστραμμένο>[br][br]Συναγερμός! Υπόστεγο μηχανημάτων - 11 Ιαν 2104[br]Μια τεράστια διαρροή δομικού τζελ έκανε το WAU να πάρει τον έλεγχο του DUNBAT. Επιβλήθηκε καραντίνα για να αποφευχθεί περαιτέρω εξέλιξη. Το τελευταίο που χρειαζόμαστε είναι άλλο ένα μηχάνημα που μιλάει.]]>
+02_06_theta_tunnels|RoomName_ARKRoom	ΣΥΝΑΡΜΟΛΟΓΗΣΗ ΦΟΡΤΙΟΥ
+02_06_theta_tunnels|RoomName_ChemRoom	ΙΑΤΡΙΚΟ ΕΡΓΑΣΤΗΡΙΟ
+02_06_theta_tunnels|RoomName_Infirmary	ΕΞΕΤΑΣΤΗΡΙΟ
+02_06_theta_tunnels|RoomName_LectureRoom	ΑΙΘΟΥΣΑ ΣΥΣΚΕΨΕΩΝ
+02_06_theta_tunnels|RoomName_MastersOffice	ΙΑΤΡΕΙΟ
+02_06_theta_tunnels|RoomName_ProbeDesign	ΠΕΡΙΒΛΗΜΑ
+02_06_theta_tunnels|RoomName_ProbeSimulation	ΔΙΑΧ. ΩΜΕΓΑ
+02_06_theta_tunnels|RoomName_RocketDesign	ΦΟΡΤΙΟ
+02_06_theta_tunnels|RoomName_Security	ΑΣΦΑΛΕΙΑ
+02_06_theta_tunnels|RoomName_Storage	ΑΠΟΘΗΚΗ
+02_06_theta_tunnels|DoorPanel_Storage	ΑΠΟΘΗΚΗ
+02_06_theta_tunnels|DoorPanel_Payload	ΦΟΡΤΙΟ[br][br]Ά. Κόστερ[br]Τ. Χιλ[br]Σ. Λίντγουολ
+02_06_theta_tunnels|DoorPanel_Casing	ΠΕΡΙΒΛΗΜΑ[br][br]Τ. Ντέιβις[br]Ν. Ιβάσκιν
+02_06_theta_tunnels|DoorPanel_OmegaManagement	ΔΙΑΧΕΙΡΙΣΗ ΩΜΕΓΑ[br]Ί. Πέντερσεν[br]Μ. Σαράνγκ[br]Χ. Βόλτσεκ[br]Κ. Τσαν
+02_06_theta_tunnels|DoorPanel_Office	ΙΑΤΡΕΙΟ[br][br]Ν. Μάστερς
+02_06_theta_tunnels|DoorPanel_MedLab	ΙΑΤΡΙΚΟ ΕΡΓΑΣΤΗΡΙΟ[br][br]Μ. Φροστ
+02_06_theta_tunnels|DoorPanel_Security	ΑΣΦΑΛΕΙΑ[br][br]Τ. Στρόμαϊερ
+02_06_theta_tunnels|DoorPanel_Conference	ΑΙΘΟΥΣΑ ΣΥΣΚΕΨΕΩΝ
+02_06_theta_tunnels|DoorPanel_Infirmary	ΕΞΕΤΑΣΤΗΡΙΟ
+02_06_theta_tunnels|DoorPanel_Dispatch	ΣΥΝΤΟΝΙΣΜΟΣ[br][br]Π. Στράσκι
+02_06_theta_tunnels|DoorPanel_Error	ΣΦΑΛΜΑ ΣΥΣΤΗΜΑΤΟΣ
+02_06_theta_tunnels|ElevatorLab	ΕΡΓΑΣΤΗΡΙΟ
+02_06_theta_tunnels|ElevatorMaint	ΣΥΝΤΗΡΗΣΗ
+02_06_theta_tunnels|ElevatorTrans	ΣΤΑΘΜΟΣ ΣΑΤΛ
+02_06_theta_tunnels|OmegaManagement_Info	ΔΙΑΧΕΙΡΙΣΗ ΩΜΕΓΑ[br][br]Ί. Πέντερσεν[br]Μ. Σαράνγκ[br]Χ. Βόλτσεκ[br]Κ. Τσαν
+02_06_theta_tunnels|DoorInfo_Unlocked	Άρση απομόνωσης πόρτας 42B
+02_06_theta_tunnels|ChipInfo_NoChipInserted	Δεν έχει εισαχθεί τσιπ
+02_06_theta_tunnels|ChipInfo_ChipInserted	ΤΣΙΠ ΠΙΝΑΚΑ (Σύνδεσης)[br][br]Κλειδιά ασφαλείας: 023-027[br]C819738-23[br][br]ΔΙΚΑΙΩΜΑΤΑ[br]Τυπικός κωδικός Θήτα[br]SECOP-JSTROHMEIER
+02_06_theta_tunnels|ChipIntegrity_Error	ΣΦΑΛΜΑ: ΤΟ ΚΛΕΙΔΙ ΕΛΗΞΕ[br]Απαιτείται ενημέρωση...
+02_06_theta_tunnels|ChipIntegrity_NoError	ΤΟ ΤΣΙΠ ΣΥΝΔΕΣΗΣ ΕΝΗΜΕΡΩΘΗΚΕ[br]Το τσιπ είναι έτοιμο για χρήση
+02_06_theta_tunnels|ChipInserted	Εντοπίστηκε τσιπ σύνδεσης!
+02_06_theta_tunnels|LoadingChip_Header	Φόρτωση
+02_06_theta_tunnels|LoadingChip	Φόρτωση τσιπ σύνδεσης...
+02_06_theta_tunnels|RepairingChip	Ενημέρωση κωδικού ασφαλείας...
+02_06_theta_tunnels|SerialNO	Σειριακός αριθμός
+02_06_theta_tunnels|OfficerLog	Τύπος καταχώρισης: Ηχογράφηση[br][br]Συντάκτης: Στρόμαϊερ, Τζον[br][br]Θέμα: Έικερς - Τελική απόφαση[br][br]Σημασία: Κρίσιμη
+02_06_theta_tunnels|OfficerLastLog	Πρόσφατη καταχώριση
+02_06_theta_tunnels|ArkTerminalModules	Διαθέσιμες μονάδες
+02_06_theta_tunnels|ArkTerminalModule_System_Header	ΣΥΣΤΗΜΑΤΑ
+02_06_theta_tunnels|ArkTerminalModule_Scene_Header	ΣΚΗΝΕΣ
+02_06_theta_tunnels|ArkTerminalModule_Object_Header	ΑΝΤΙΚΕΙΜΕΝΑ
+02_06_theta_tunnels|ArkTerminalSetupStatus	Κατάσταση
+02_06_theta_tunnels|ArkTerminalSetupStatusOK	Δεν εντοπίστηκαν σφάλματα!
+02_06_theta_tunnels|ArkTerminalSetupStatusDependency	ΑΠΑΙΤ.
+02_06_theta_tunnels|ArkTerminalSetupStatusRequiredModule_Soma	sim_base ΑΠΑΙΤ. type_soma
+02_06_theta_tunnels|ArkTerminalSetupStatusRequiredModule_Ground	sim_base ΑΠΑΙΤ. type_scene
+02_06_theta_tunnels|ArkTerminalSetupStatusMemory_1	ΕΝΤΟΠΙΣΤΗΚΕ ΑΛΛΟΙΩΣΗ ΜΝΗΜΗΣ!
+02_06_theta_tunnels|ArkTerminalSetupStatusMemory_2	ΜΕΙΩΣΤΕ ΤΗ ΧΡΗΣΗ ΜΝΗΜΗΣ
+02_06_theta_tunnels|ArkTerminalMemory	ΜΝΗΜΗ
+02_06_theta_tunnels|ArkTerminalScans	ΣΑΡΩΣΕΙΣ
+02_06_theta_tunnels|ArkTerminalScan_1	«Νανάμι»
+02_06_theta_tunnels|ArkTerminalScan_2	Μπεργκ, Πολ
+02_06_theta_tunnels|ArkTerminalScan_3	Μούνσι, Ντέιβιντ
+02_06_theta_tunnels|ArkTerminalScan_4	Τζάρετ, Σάιμον
+02_06_theta_tunnels|ArkTerminalScan_5	ΔΟΚΙΜΑΣΤΙΚΟ
+02_06_theta_tunnels|ArkTerminalScanUpload	ΜΕΤΑΦΟΡΤΩΣΗ
+02_06_theta_tunnels|ArkTerminalRunHeader	Προσομοίωση Vivarium
+02_06_theta_tunnels|ArkTerminalUploading	ΜΕΤΑΓΛΩΤΤΙΣΗ...
+02_06_theta_tunnels|ArkTerminalSetupNext	ΕΠΟΜΕΝΟ
+02_06_theta_tunnels|ArkTerminalError_IncorrectScan	Μη συμβατή έκδοση σάρωσης [V:LEGACY]
+02_06_theta_tunnels|ArkTerminalError_MemoryCorrupted	Περίπου 43.75% (896TB) της μνήμης είναι αλλοιωμένο[br]Απαιτείται αναδιαμόρφωση της προσομοίωσης...
+02_06_theta_tunnels|ArkTerminalBoot_OSVersion	ARK BUILD NO 34124
+02_06_theta_tunnels|ArkTerminalBoot_CompileInfo	ΜΕΤΑΓΛΩΤΤΙΣΗ: Κ.ΤΣΑΝ, THETA
+02_06_theta_tunnels|ArkTerminalBoot_MemcheckPre	ΕΛΕΓΧΟΣ ΜΝΗΜΗΣ:
+02_06_theta_tunnels|ArkTerminalBoot_MemcheckPost	TB
+02_06_theta_tunnels|ArkTerminalBoot_MemcheckOK	ΕΝΤΟΠΙΣΤΗΚΕ ΣΦΑΛΜΑ ΜΝΗΜΗΣ ΣΥΣΤΗΜΑΤΟΣ
+02_06_theta_tunnels|ArkTerminalBoot_StorageDetect	ΑΝΙΧΝΕΥΣΗ ΑΠΟΘΗΚΕΥΤΙΚΟΥ ΧΩΡΟΥ...
+02_06_theta_tunnels|ArkTerminalBoot_Decrypt	Αποκρυπτογράφηση τόμου....
+02_06_theta_tunnels|ArkTerminalBoot_ARKBoot	Εκκίνηση ARK alpha v3
+02_06_theta_tunnels|AWAITING_CONNECTION	ΔΕΝ ΕΧΕΙ ΣΥΝΔΕΘΕΙ ΣΥΣΚΕΥΗ
+02_06_theta_tunnels|ARKDiag	ΕΚΤΕΛΕΣΗ ΔΙΑΓΝΩΣΤΙΚΩΝ
+02_06_theta_tunnels|ARKModule	ΦΟΡΤΩΜΕΝΗ ΜΟΝΑΔΑ
+02_06_theta_tunnels|ARKTime	ΧΡΟΝΟΣ ΚΟΣΜΟΥ
+02_06_theta_tunnels|ARKVersion	ARK Alpha v3
+02_06_theta_tunnels|ARKTimeScale	ΚΑΤΑΝΟΜΗ ΠΟΡΩΝ
+02_06_theta_tunnels|ARKNeuro	ΕΠΑΛΗΘΕΥΣΗ ΑΚΕΡΑΙΟΤΗΤΑΣ ΝΕΥΡΟΣΑΡΩΣΗΣ
+02_06_theta_tunnels|ChipCorrupt	ΣΦΑΛΜΑ ΑΣΦΑΛΕΙΑΣ[br][br]ΤΟ ΚΛΕΙΔΙ ΕΛΗΞΕ - ΕΝΗΜΕΡΩΣΤΕ ΤΟ ΤΣΙΠ
+02_06_theta_tunnels|ChipSuccess	ΤΟ ΚΛΕΙΔΙ ΕΓΙΝΕ ΑΠΟΔΕΚΤΟ[br][br]ΚΛΕΙΣΤΕ ΤΟΥΣ ΣΦΙΓΚΤΗΡΕΣ ΚΑΙ ΤΟ ΠΑΝΕΛ
+02_06_theta_tunnels|ChipEmpty	ΣΦΑΛΜΑ ΑΣΦΑΛΕΙΑΣ[br][br]ΕΙΣΑΓΑΓΕΤΕ ΤΣΙΠ ΣΥΝΔΕΣΗΣ
+02_06_theta_tunnels|PostitDPVs	Προετοιμασία ARK με πομπό σήματος
+02_06_theta_tunnels|PostitInventory	Μπαταρίες[br]Εργαλεία (FST-Kit)[br]Επιπλέον οξυγόνο[br]Άδειες P-II
+02_06_theta_tunnels|WhiteboardARK_Step1	1. Σάτλ για Όμικρον.
+02_06_theta_tunnels|WhiteboardARK_Step2	2. Αλλαγή σε HPS. Κάθοδος με το Climber στην άβυσσο.
+02_06_theta_tunnels|WhiteboardARK_Step3	3. Έλεγχος στο Ταυ - ζει κανείς;
+02_06_theta_tunnels|WhiteboardARK_Step4	4. Σήραγγα πρόσβασης προς Φι - Εκτόξευση ARK!
+02_06_theta_tunnels|Graffiti_Vents	Μην πλησιάζετε τους αεραγωγούς
+02_06_theta_tunnels|Graffiti_HearUs	Μας ακούει[br]Δονήσεις;
+02_06_theta_tunnels|Sign_Contaminant	Απαγορεύονται ξένοι ρύποι πέρα από αυτό το σημείο
+02_06_theta_tunnels|Sign_CleanRoom	Καθαρός χώρος[br]Οι στολές καθαρού χώρου, τα προστατευτικά γυαλιά και οι μάσκες είναι υποχρεωτικά!
+02_06_theta_tunnels|Sign_LiftFloors	Επιφάνεια Θήτα[br]Εργαστήριο[br]Συντήρηση[br]Σταθμός σάτλ
+02_06_theta_tunnels|Scanner_Brain	CORTEX Carthage MK II
+02_06_theta_tunnels|Scanner_Blackbox_1	BLACKBOX Προσωπική μνήμη v4
+02_06_theta_tunnels|Scanner_Blackbox_2	Ανάγνωση μνήμης...
+02_06_theta_tunnels|Scanner_Blackbox_3	Υπογραφή Θήτα
+02_06_theta_tunnels|Scanner_Battery	ΠΗΓΗ ΕΝΕΡΓΕΙΑΣ[br]Energy Pal S3
+02_06_theta_tunnels|Scanner_Gel	ΥΛΙΚΟ Βασική εύκαμπτη στολή
+02_06_theta_tunnels|Scanner_Flesh	ΥΛΙΚΟ Δομικό τζελ
+02_06_theta_tunnels|Scanner_Reed	ΘΗΛΥ[br]ΡΙΝΤ,[br]Ίμοτζεν
+02_06_theta_tunnels|Scanner_Outside_Offline	ΑΝΕΝΕΡΓΟ
+02_06_theta_tunnels|Scanner_Outside_Pending	ΕΤΟΙΜΟ
+02_06_theta_tunnels|Brandon_ID	ΜΠΡΑΝΤΟΝ[br]ΓΟΥΑΝ

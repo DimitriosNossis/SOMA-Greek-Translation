@@ -1,0 +1,170 @@
+Voices_01_03_upsilon_outside|simoncomments_leftcommroom_001_player_001	Αυτό δεν... αυτό είναι τρέλα...
+Voices_01_03_upsilon_outside|simoncomments_leftcommroom_objective_001_player_001	Λάμδα, να βρω ένα σάτλ για το Λάμδα.
+Voices_01_03_upsilon_outside|simoncomments_thankkatebot_001_player_001	Λοιπόν, ευχαριστώ, μικρέ!
+Voices_01_04_transport_station|radio_simononenterlevel_001_player_001	Ας ελπίσουμε ότι τα σάτλ δουλεύουν ακόμα.
+Voices_01_04_transport_station|Slideshow_Slideshow1_001_SlideshowNarrator_001	Καλώς ήρθατε στο Pathos-II - τη λεωφόρο σας προς τα άστρα.
+Voices_01_04_transport_station|Slideshow_Slideshow2_001_SlideshowNarrator_001	Αυτό που ξεκίνησε ως θερμική εξόρυξη τη δεκαετία του '60 φιλοξενεί σήμερα το Διαστημικό Κανόνι Ωμέγα, τον πιο οικονομικό τρόπο στον κόσμο για την εκτόξευση δορυφόρων και διαστημικών ανιχνευτών.
+Voices_01_04_transport_station|Slideshow_Slideshow3_001_SlideshowNarrator_001	Η μοναδική μας τοποθεσία στον Ατλαντικό Ωκεανό επιτρέπει σε αυτό το γιγάντιο ηλεκτρομαγνητικό κανόνι, μακρύτερο από μια διαδρομή μαραθωνίου, να εκτοξεύει βλήματα με ασφάλεια, χωρίς κίνδυνο να καταστραφεί το φορτίο από επικίνδυνη καύση.
+Voices_01_04_transport_station|Slideshow_Slideshow4_001_SlideshowNarrator_001	Ο σταθμός εκτείνεται σε πολλές βάσεις και διαθέτει ένα πολυσυλλεκτικό προσωπικό μηχανικών και επιστημόνων. Μαζί μπορούν να κατασκευάζουν, να συναρμολογούν και να εκτοξεύουν τα πιο εξελιγμένα διαστημόπλοια του κόσμου.
+Voices_01_04_transport_station|Slideshow_SlideshowStation03_001_SlideshowNarrator_001	Αναχωρούμε τώρα από το Ύψιλον για το Λάμδα. Το Λάμδα είναι η αποβάθρα φορτίων και ο κόμβος μεταφορών του Pathos-II. Εκεί θα βρείτε τρένα σάτλ προς όλα τα άλλα σημεία του σταθμού, καθώς και μεταφορικά προς την επιφάνεια.
+Voices_01_04_transport_station|Slideshow_SlideshowStation04_001_SlideshowNarrator_001	Αναχωρούμε τώρα από το Ύψιλον για το Θήτα. Το Θήτα θεωρείται η καρδιά του Pathos-II. Εκεί στεγάζονται η διοίκηση του σταθμού, οι ιατρικές εγκαταστάσεις και η ομάδα συναρμολόγησης φορτίων -- που προετοιμάζει και προγραμματίζει τους δορυφόρους πριν σταλούν στο Φι για εκτόξευση.
+Voices_01_04_transport_station|Slideshow_SlideshowStation05_001_SlideshowNarrator_001	Αναχωρούμε τώρα από το Ύψιλον για το Όμικρον. Το Όμικρον είναι το κέντρο ιατρικής έρευνας και υδροκαλλιέργειας του Pathos-II. Είναι χτισμένο στην άκρη της αβύσσου και, με το Climber, μπορεί να μελετά βάθη άνω των τεσσάρων χιλιομέτρων.
+Voices_01_04_transport_station|radio_simononfloodroom_001_player_001	Πάμε πάλι.
+Voices_01_04_transport_station|Slideshow_SlideshowStation06_001_SlideshowNarrator_001	Αναχωρούμε τώρα από το Ύψιλον για το Δέλτα. Το Δέλτα κατασκευάζει και συναρμολογεί κελύφη μεταφοράς για δορυφόρους και ανιχνευτές, ειδικά σχεδιασμένα για το Διαστημικό Κανόνι Ωμέγα. Μαζί με το Θήτα, μπορεί να προσαρμόσει κάθε δορυφόρο ή φορτίο στις ανάγκες των πελατών μας.
+Voices_01_04_transport_station|Slideshow_SlideshowStation08_001_SlideshowNarrator_001	Αναχωρούμε τώρα από το Ύψιλον για το Φι. Το Φι είναι η βάση λειτουργίας του Διαστημικού Κανονιού Ωμέγα. Η σήραγγα σάτλ προς το Ταυ βρίσκεται ακόμα υπό κατασκευή. Αυτό το σάτλ θα σταματήσει στο Όμικρον. Παρακαλούμε χρησιμοποιήστε το Climber στο Όμικρον για να φτάσετε στο Ταυ και έπειτα συνεχίστε προς το Φι μέσω των σηράγγων πρόσβασης.
+Voices_01_04_transport_station|Slideshow_SlideshowStation07_001_SlideshowNarrator_001	Αναχωρούμε τώρα από το Ύψιλον για το Ταυ. Το Ταυ είναι μια αρθρωτή ερευνητική πλατφόρμα για τη μελέτη της ζωής στα βαθιά νερά και της ανθρώπινης ζωής σε ακραίες συνθήκες. Η σήραγγα σάτλ προς το Ταυ βρίσκεται ακόμα υπό κατασκευή. Αυτό το σάτλ θα σταματήσει στο Όμικρον. Παρακαλούμε χρησιμοποιήστε το Climber στο Όμικρον για να φτάσετε στο Ταυ.
+Voices_01_04_transport_station|Datamine_IntercomDatamine_001_AmyIntercom_001	Στράσκι; Θήτα, με ακούς;
+Voices_01_04_transport_station|Datamine_IntercomDatamine_002_Strasky_001	Έιμι, είσαι καλά;
+Voices_01_04_transport_station|Datamine_IntercomDatamine_003_AmyIntercom_001	Τι; Δεν μπορώ--
+Voices_01_04_transport_station|Datamine_IntercomDatamine_004_Strasky_001	Πού είσαι τώρα;
+Voices_01_04_transport_station|Datamine_IntercomDatamine_005_AmyIntercom_001	Στράσκι;! Είμαι στο σάτλ -- αλλά δε δείχνει καλά. Τα φώτα τρεμοπαίζουν σαν τρελά. Νομίζω ότι ο ρυθμιστής ενέργειας είναι χαλασμένος.
+Voices_01_04_transport_station|Datamine_IntercomDatamine_006_Strasky_001	Ξέχνα την ενέργεια, απλώς έλα εδώ.
+Voices_01_04_transport_station|Datamine_IntercomDatamine_007_AmyIntercom_001	Πρέπει να το φτιάξω. Δε θέλω να μείνω κολλημένη στη μέση της διαδρομής για το Θήτα.
+Voices_01_04_transport_station|Datamine_IntercomDatamine_008_Strasky_001	Έιμι, δε σε ακούω. Δεν μπορείς απλώς να έρθεις με τα πόδια;
+Voices_01_04_transport_station|Datamine_IntercomDatamine_009_AmyIntercom_001	Τι είπες; Δε σε ακούω! Μην ανησυχείς. Θα το φτιάξω. Με κάποιον τρόπο.
+Voices_01_04_transport_station|CargoPod_CargoPadRecording_001_AmysHusband_001	Μάλλον είναι καλό που δεν κάναμε ποτέ παιδιά. Είναι αρκετά δύσκολο να κοιτάζω τους γονείς μου στα μάτια.
+Voices_01_04_transport_station|CargoPod_CargoPadRecording_002_AmysHusband_001	Πάνε σε ένα καταφύγιο στα βόρεια της πολιτείας, παρεμπιπτόντως, μαζί με τον πατέρα σου. Φαντάζομαι ότι κάποιος θα το βοηθήσει να σου στείλει μήνυμα με κάποιον τρόπο. Δηλαδή, ελπίζω.
+Voices_01_04_transport_station|CargoPod_CargoPadRecording_003_AmysHusband_001	Διάολε, δεν είμαι καν σίγουρος ότι θα πάρεις αυτό το μήνυμα. Αν το πάρεις, θέλω να ξέρεις ότι ποτέ δε σε κατηγόρησα που κυνήγησες τα όνειρά σου.
+Voices_01_04_transport_station|CargoPod_CargoPadRecording_004_AmysHusband_001	Απλώς... απλώς θύμωνα που δεν ταίριαζε καλύτερα με αυτό που φανταζόμουν για τη ζωή μας. Ήθελα πολύ το σπιτάκι με το φράχτη, τη μεγάλη οικογένεια, ξέρεις;
+Voices_01_04_transport_station|CargoPod_CargoPadRecording_005_AmysHusband_001	Αυτό που προσπαθώ να πω μάλλον είναι: Είμαι περήφανος για σένα. Και παρόλο που ήταν δύσκολο να είμαστε χώρια, δε μετανιώνω για τίποτα. Είμαι ευτυχισμένος... και θα ήθελα πολύ να μπορούσα να το πω αυτό χωρίς να πέφτει ο ουρανός.
+Voices_01_04_transport_station|CargoPod_CargoPadRecording_006_AmysHusband_001	*αδύναμο γέλιο*
+Voices_01_04_transport_station|CargoPod_CargoPadRecording_007_AmysHusband_001	Σ' αγαπώ, Έιμι. Πάντα σ' αγαπούσα και πάντα θα σ' αγαπώ.
+Voices_01_04_transport_station|comments_canttakechipcomment_001_player_001	Γαμώτο, είσαι καλά;
+Voices_01_04_transport_station|amycorpse_amydeath_001_amycorpse_001	*Χμμμρρρ...*
+Voices_01_04_transport_station|amycorpse_amydeath_002_player_002	Ω, γαμώτο!
+Voices_01_04_transport_station|AmyRobot_AmyRobotAwakens_001_AmyRobot_001	Εντάξει, μπήκα. Πρόσεχε τα επίπεδα. Πες μου αμέσως μόλις ανέβουν απότομα. Θέλω να μπορώ να παρακολουθώ την κατάστασή μου.
+Voices_01_04_transport_station|AmyRobot_AmyRobotAwakens_002_AmyRobot_001	Το νιώθω ήδη. Δες αν μπορείς να το σταθεροποιήσεις και να το σβήσεις σταδιακά.
+Voices_01_04_transport_station|AmyRobot_AmyRobotAwakens_003_AmyRobot_001	Γκάβιν; Καρλ; Πείτε κάτι -- με τρομάζετε.
+Voices_01_04_transport_station|AmyRobot_AmyRobotAwakens_004_AmyRobot_001	Καρλ;! Βγάλε με. Βγάλε με τώρα!
+Voices_01_04_transport_station|AmyRobot_AmyRobotAwakens_005_AmyRobot_001	Άααχ, γαμώ το. Βγάλτε με!
+Voices_01_04_transport_station|AmyRobot_AmyRobotRamling_001_AmyRobot_001	Δε δουλεύει.
+Voices_01_04_transport_station|AmyRobot_AmyRobotRamling_002_AmyRobot_001	Δε νιώθω καλά.
+Voices_01_04_transport_station|AmyRobot_AmyRobotRamling_003_AmyRobot_001	Φίνλεϊ. Είναι άσχημα.
+Voices_01_04_transport_station|AmyRobot_AmyRobotRamling_004_AmyRobot_001	Καρλ... Καρλ;
+Voices_01_04_transport_station|AmyRobot_AmyRobotRamling_005_AmyRobot_001	Δεν μπορώ να σηκωθώ.
+Voices_01_04_transport_station|amycorpse_amychippull_001_amycorpse_001	Όχιιι...
+Voices_01_04_transport_station|Comments_ChipPickup_Bad_001_Player_001	Είναι σε πολύ άσχημη κατάσταση.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_SeesPlayer_001_AmyRobot_001	Τι είναι αυτό;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_SeesPlayer_002_AmyRobot_001	Τι είσαι εσύ;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_SeesPlayer_003_AmyRobot_001	Φύγε μακριά μου.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_SeesPlayer_004_AmyRobot_001	Τι στο γαμώτο θέλεις;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_SeesPlayer_005_AmyRobot_001	Μην πλησιάζεις άλλο.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_PlayerHeardNotSeen_001_AmyRobot_001	Καρλ, εσύ είσαι; Βοήθησέ με να βγάλω το κράνος.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_PlayerHeardNotSeen_002_AmyRobot_001	Τι κάνει αυτόν το θόρυβο;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_PlayerHeardNotSeen_003_AmyRobot_001	Το ακούς αυτό; Είναι στο κεφάλι μου;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_PlayerHeardNotSeen_004_AmyRobot_001	Αυτό εκεί, το ακούς, Καρλ;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_PlayerHeardNotSeen_005_AmyRobot_001	Αυτός ο γαμημένος θόρυβος.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_PlayerHeardAndSeen_001_AmyRobot_001	Το άκουσα αυτό -- φανερώσου!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_PlayerHeardAndSeen_002_AmyRobot_001	Είσαι ακόμα εκεί έξω. Σε ακούω!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_PlayerHeardAndSeen_003_AmyRobot_001	Σε ακούω που κινείσαι. Σταμάτα να κρύβεσαι!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_PlayerHeardAndSeen_004_AmyRobot_001	Ακούω κάθε βήμα σου.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_PlayerHeardAndSeen_005_AmyRobot_001	Συνέχισε, κάθε ήχος κάνει πιο εύκολο να σε βρω.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_PlayerHeardAndSeen_006_AmyRobot_001	Κάνεις τόσο θόρυβο, δεν το ξέρεις;!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_PlayerHeardAndSeen_007_AmyRobot_001	Σε ακούω και έρχομαι να σε βρω.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_001_AmyRobot_001	Καρλ, πρέπει να το κλείσεις.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_002_AmyRobot_001	Πρέπει να βγάλω αυτό το κράνος.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_003_AmyRobot_001	*βαριά ανάσα*
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_004_AmyRobot_001	Είναι κανείς; Εδώ Έιμι Αζάρο.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_005_AmyRobot_001	Έχω κολλήσει.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_006_AmyRobot_001	*βαριά ανάσα*
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_007_AmyRobot_001	Ήταν κακή ιδέα.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_008_AmyRobot_001	*βαριά ανάσα*
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_009_AmyRobot_001	Χειρότερα από πριν.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_010_AmyRobot_001	Απλώς μείνε ψύχραιμη.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_011_AmyRobot_001	*βαριά ανάσα*
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_012_AmyRobot_001	Δεν πιστεύω ότι συμβαίνει αυτό.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_013_AmyRobot_001	Είναι τόσο γαμημένο.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Idle_014_AmyRobot_001	Τα γάμησα.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Searching_001_AmyRobot_001	Εσύ φταις. Εσύ το κάνεις αυτό.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Searching_002_AmyRobot_001	Φανερώσου.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Searching_003_AmyRobot_001	Πού είσαι;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Searching_004_AmyRobot_001	Βγες έξω.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Searching_005_AmyRobot_001	Κάν' το να σταματήσει, αλλιώς θα σε σκοτώσω.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Searching_006_AmyRobot_001	Γιατί το κάνεις αυτό;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Searching_007_AmyRobot_001	Βγες έξω, δειλέ!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Searching_008_AmyRobot_001	Πρέπει να σε σταματήσω.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Hunting_001_AmyRobot_001	Κλείσ' το!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Hunting_002_AmyRobot_001	Κάν' το να σταματήσει!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Hunting_003_AmyRobot_001	Σταμάτα το τώρα!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Hunting_004_AmyRobot_001	Εσύ φταις!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Hunting_005_AmyRobot_001	Εσύ το κάνεις αυτό!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Hunting_006_AmyRobot_001	Σταμάτα!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_Hunting_007_AmyRobot_001	Άφησέ με ήσυχη!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_LostSight_001_AmyRobot_001	Σταμάτησε -- εξαφανίστηκε.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_LostSight_002_AmyRobot_001	Έφυγε -- δεν ήταν αληθινό;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_LostSight_003_AmyRobot_001	Πού πήγε;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_LostSight_004_AmyRobot_001	Το κράνος -- λέει ψέματα.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_LostSight_005_AmyRobot_001	Έφυγε.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_LostSight_006_AmyRobot_001	Εξαφανίστηκε.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_LostSight_007_AmyRobot_001	Ήταν όλα στο μυαλό μου;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_LostSight_008_AmyRobot_001	Παίζει με τις αισθήσεις μου.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_SpottingPlayer_001_AmyRobot_001	Τι είδους αρρωστημένο πράγμα είσαι εσύ;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_SpottingPlayer_002_AmyRobot_001	Εσύ εκεί! Τι κάνεις εδώ;!
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_SpottingPlayer_003_AmyRobot_001	Από πού ήρθες;
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_SpottingPlayer_004_AmyRobot_001	Να σε πάλι.
+Voices_01_04_transport_station|AmyRobot_AmyEncounter_SpottingPlayer_005_AmyRobot_001	Σε βλέπω.
+Voices_01_04_transport_station|Slideshow_Slideshow5_001_SlideshowNarrator_001	Εκτός από την κύρια δραστηριότητά μας, το Pathos-II φιλοξενεί επίσης πολλά ερευνητικά προγράμματα στις θαλάσσιες επιστήμες, όπως η υδροκαλλιέργεια, οι αναταράξεις και οι κατασκευές στα βαθιά νερά.
+Voices_01_04_transport_station|radio_lambdatransmissionlink_001_catherine_001	Σάιμον... Σάιμον; Είσαι εκεί;
+Voices_01_04_transport_station|radio_lambdatransmissionlink_002_player_001	Κάθριν, εσύ είσαι; Ερχόμουν, αλλά μετά το τρένο... το γαμημένο τράκαρε.
+Voices_01_04_transport_station|radio_lambdatransmissionlink_003_catherine_001	Είσαι καλά; Το σύστημα λέει ότι ο τομέας σφραγίστηκε λόγω πιθανού ρήγματος στο κύτος.
+Voices_01_04_transport_station|radio_lambdatransmissionlink_004_player_001	Όχι, δεν είμαι καλά! Τι στο διάολο έπαθε ο κόσμος; Γιατί είμαστε κάτω από το νερό;
+Voices_01_04_transport_station|radio_lambdatransmissionlink_005_catherine_001	Ουάου, είσαι εντελώς χαμένος, έτσι δεν είναι;
+Voices_01_04_transport_station|radio_lambdatransmissionlink_005_catherine_002	Κοίτα, μην ανησυχείς γι' αυτό τώρα. Καταλαβαίνω ότι είσαι μπερδεμένος, αλλά είσαι τόσο κοντά στο Λάμδα. Αν απλώς συνεχίσεις.
+Voices_01_04_transport_station|radio_lambdatransmissionlink_006_player_001	Πόσο κοντά; Μπορώ να έρθω με τα πόδια;
+Voices_01_04_transport_station|radio_lambdatransmissionlink_007_catherine_001	Ναι, αλλά η σήραγγα είναι κλειδωμένη για να προστατευτεί η δομή από κατάρρευση. Πρέπει να βρεις τη θυρίδα συντήρησης του τομέα σου. Θα σε βγάλει έξω.
+Voices_01_04_transport_station|radio_lambdatransmissionlink_008_player_001	Θυρίδα συντήρησης; Κανένα πρόβλημα.
+Voices_01_04_transport_station|radio_lambdatransmissionlink_009_catherine_001	Τι είναι αυτό -- τι γίνεται εκεί έξω;
+Voices_01_04_transport_station|radio_lambdatransmissionlink_009_catherine_002	Πρέπει να κλείσω. Τα λέμε σύντομα, Σάιμον.
+Voices_01_04_transport_station|radio_lambdatransmissionlink_010__soundeffect_001	*κρακ*
+Voices_01_04_transport_station|radio_lambdatransmissionlink_011_player_001	Κάθριν; Είσαι καλά;
+Voices_01_04_transport_station|Comments_ForgotOmnitool_001_Player_001	Αχ, γαμώτο, ξέχασα το omnitool στο σάτλ.
+Voices_01_04_transport_station|dialog_talktoamy_1_001_player_001	Έι, είσαι...;
+Voices_01_04_transport_station|dialog_talktoamy_1_002_amycorpse_001	Μη με πειράξεις.
+Voices_01_04_transport_station|dialog_talktoamy_2_001_player_001	Μπορώ να βοηθήσω;
+Voices_01_04_transport_station|dialog_talktoamy_2_002_amycorpse_001	Δε με αφήνει να πεθάνω. Τίποτα δεν επιτρέπεται να πεθάνει.
+Voices_01_04_transport_station|dialog_talktoamy_3_001_player_001	Τι έγινε;
+Voices_01_04_transport_station|dialog_talktoamy_3_002_amycorpse_001	Ένα ατύχημα... ενώ έφτιαχνα την ενέργεια. Πήγαινα στο Θήτα.
+Voices_01_04_transport_station|dialog_talktoamy_cablepulled_1_001_player_001	Είσαι καλά;
+Voices_01_04_transport_station|dialog_talktoamy_cablepulled_1_002_amycorpse_001	Δεν ξέρω. Θέλω να πάω σπίτι.
+Voices_01_04_transport_station|dialog_talktoamy_4_001_player_001	Μπορώ να κάνω κάτι;
+Voices_01_04_transport_station|dialog_talktoamy_4_002_amycorpse_001	Αν δεις τη Μάστερς ή το Χόλαντ, πες τους ότι χρειάζομαι βοήθεια, εντάξει; Η Έιμι χρειάζεται βοήθεια.
+Voices_01_04_transport_station|dialog_talktoamy_final_1_001_player_001	Κράτα γερά.
+Voices_01_04_transport_station|dialog_talktoamy_final_1_002_amycorpse_001	Θα κάνω ό,τι μπορώ.
+Voices_01_04_transport_station|dialog_talktoamy_final_2_001_player_001	Θα βρω κάποιον που μπορεί να βοηθήσει.
+Voices_01_04_transport_station|dialog_talktoamy_final_2_002_amycorpse_001	Ελήφθη.
+Voices_01_04_transport_station|dialog_talktoamy_final_3_001_player_001	Θα γίνεις καλά.
+Voices_01_04_transport_station|dialog_talktoamy_final_3_002_amycorpse_001	Ευχαριστώ.
+Voices_01_04_transport_station|Dialog_TalkToAmy_Final_4_001_Player_001	Θα σε μπαλώσουν αμέσως.
+Voices_01_04_transport_station|Dialog_TalkToAmy_Final_4_002_AmyCorpse_001	Μακάρι.
+Voices_01_04_transport_station|dialog_talktoamy_cablepulled_final_1_001_player_001	Μην ανησυχείς, όλα θα πάνε καλά.
+Voices_01_04_transport_station|dialog_talktoamy_cablepulled_final_1_002_amycorpse_001	Εντάξει.
+Voices_01_04_transport_station|dialog_talktoamy_cablepulled_final_2_001_player_001	Δεν έχεις τίποτα να φοβάσαι.
+Voices_01_04_transport_station|dialog_talktoamy_cablepulled_final_2_002_amycorpse_001	Εντάξει.
+Voices_01_04_transport_station|dialog_talktoamy_cablepulled_final_3_001_player_001	Όλα θα πάνε μια χαρά.
+Voices_01_04_transport_station|dialog_talktoamy_cablepulled_final_3_002_amycorpse_001	Εντάξει.
+Voices_01_04_transport_station|comments_abouttocrash_001_player_001	Ω, γαμώτο!
+Voices_01_04_transport_station|comments_cargopadrecording_comment_001_player_001	Τι απέγιναν; Όλοι αυτοί οι άνθρωποι...
+Voices_01_04_transport_station|helperjane_helperjane_pluggedin_001_helperjane_001	Το σάτλ J6 ενεργοποιήθηκε.
+Voices_01_04_transport_station|helperjane_helperjane_pluggedin_badpower_001_helperjane_001	Προειδοποίηση! Αναξιόπιστη τροφοδοσία -- προχωρήστε με προσοχή.
+Voices_01_04_transport_station|helperjane_helperjane_pluggedin_goodpower_001_helperjane_001	Σε αναμονή.
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_1_001_catherineterminal_001	Είσαι ενθουσιασμένη με το ARK;
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_1_002_interviewee_1_001	Στην αρχή δεν έβλεπα πραγματικά το νόημα, αλλά μετά σκέφτηκα, γιατί όχι, σωστά;
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_1_002_interviewee_1_002	Δηλαδή, αν μπορούμε να σώσουμε έστω κι ένα μικρό κομμάτι του εαυτού μας, γιατί να μην το κάνουμε;
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_1_004_catherineterminal_001	Άρα είσαι υπέρ;
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_1_005_interviewee_1_001	Πιστεύω ότι είναι πολύ σημαντικό να το κάνουμε.
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_2_001_catherineterminal_001	Τι πιστεύεις για το ARK;
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_2_002_interviewee_2_001	Είναι υπέροχη ιδέα. Επιτέλους έχουμε κάτι να κάνουμε, σωστά;
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_2_004_catherineterminal_001	Είσαι αισιόδοξος για τις πιθανότητες του προγράμματος να... εμ, για το... να φτάσει το ARK στο διάστημα;
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_2_005_interviewee_2_001	Σίγουρα μπορεί να γίνει. Έχετε ήδη λύσει το μεγαλύτερο πρόβλημα -- πώς θα μπούμε όλοι εκεί μέσα.
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_2_005_interviewee_2_002	Τώρα το μόνο που έχουμε να κάνουμε είναι να φτιάξουμε το αναθεματισμένο πράγμα και να ελπίζουμε ότι το Φι λειτουργεί ακόμα.
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_2_005_interviewee_2_003	Ναι, νομίζω ότι μπορούμε να το κάνουμε, αλλά δε θα είναι εύκολο.
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_3_001_catherineterminal_001	Τι πιστεύεις για το πρόγραμμα ARK;
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_3_002_interviewee_3_001	Η ιδέα είναι απλώς απίστευτη, με κάθε έννοια. Σε κάνει πραγματικά να σκεφτείς τι σημαίνει να είσαι άνθρωπος.
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_3_004_catherineterminal_001	Γιατί το λες αυτό;
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_3_005_interviewee_3_001	Πέρα από τα βασικά, πέρα από τα επιφανειακά, είμαι πεπεισμένος ότι υπάρχει κάτι ακόμα πιο πολύτιμο.
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_3_005_interviewee_3_002	Έχετε δημιουργήσει μια πλατφόρμα που δεν περιορίζεται απαραίτητα στους ψηφιακούς μας απογόνους, αλλά είναι ένα μέσο πραγματικής επιβίωσης.
+Voices_02_01_ms_curie_outside|terminal_terminal_interviewrecording_3_007_interviewee_3_001	Πιστεύω ειλικρινά ότι μπορούμε να συνεχίσουμε να ζούμε μέσα από την πραγματικότητα της συνέχειας.
+Voices_02_01_ms_curie_outside|Terminal_Terminal_InterviewRecording_3_006_Interviewee_3_001	∅
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_warnsplayer_1_001_player_001	Κάθριν;
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_warnsplayer_1_002_catherinerobot_001	Σώπα -- μην το κοιτάς!
+Voices_02_01_ms_curie_outside|cathandsimon_2_cath_allclear_1_001_catherinerobot_001	Νομίζω ότι είναι ασφαλές να βγεις τώρα.

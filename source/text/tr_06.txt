@@ -1,0 +1,130 @@
+02_02_ms_curie_inside|CoreTemperature	ΑΠΟΔΟΣΗ ΨΥΚΤΙΚΟΥ
+02_02_ms_curie_inside|CoreTemperatureStable	99%
+02_02_ms_curie_inside|CoreTemperatureModerate	81%
+02_02_ms_curie_inside|CoreTemperatureWarning	68%
+02_02_ms_curie_inside|CoreTemperatureCritical	0%
+02_02_ms_curie_inside|CoreAction	ΘΕΡΜ. ΑΝΤΙΔΡΑΣΤΗΡΑ
+02_02_ms_curie_inside|CoreActionStable	Σταθερή
+02_02_ms_curie_inside|CoreActionModerate	Σταθερή
+02_02_ms_curie_inside|CoreActionWarning	ΑΠΑΙΤΕΙΤΑΙ ΣΥΝΤΗΡΗΣΗ
+02_02_ms_curie_inside|CoreActionCritical	ΕΓΚΑΤΑΛΕΙΨΤΕ ΤΟ ΠΛΟΙΟ
+02_03_delta|StabilityControl	Γυροσταθεροποιητής
+02_03_delta|EnergyOutput	Ενεργειακή απόδοση
+02_03_delta|EngineStatus	Κατάσταση κινητήρα
+02_03_delta|EngineFailure	Κρίσιμη βλάβη!
+02_03_delta|MapWindow	Χάρτης
+02_03_delta|GUIError	Σφάλμα
+02_03_delta|GUIOK	OK
+02_03_delta|GUIBack	Πίσω
+02_03_delta|GUIPlay	Αναπαραγωγή
+02_03_delta|GUIStop	Διακοπή
+02_03_delta|GUINext	Επόμενο
+02_03_delta|GUIPrev	Προηγούμενο
+02_03_delta|GUIManifest	Αποστολές
+02_03_delta|GUIZeppelinStatus	Ζέπελιν
+02_03_delta|GUISignalStatus	Κεραία
+02_03_delta|GUITransport	Αίτημα μεταφοράς
+02_03_delta|GUITransmissions	Ασύρματος
+02_03_delta|GUIContact	Ηχώ
+02_03_delta|GUIAbort	Ακύρωση
+02_03_delta|GUIClear	C
+02_03_delta|GUIPlayback	Αναπαραγωγή
+02_03_delta|GUITransmit	Μετάδοση
+02_03_delta|GUISend	Αποστολή
+02_03_delta|GUISendMessage	Αποστολή μηνύματος
+02_03_delta|GUIProjectEvaluation	Αξιολόγηση προγράμματος
+02_03_delta|ErrorMsg_InvalidAccessCode	Μη έγκυρος κωδικός πρόσβασης!
+02_03_delta|ErrorMsg_NoSignal	Δεν είναι δυνατή η σύνδεση
+02_03_delta|ErrorMsg_WrongZeppelin	Το ζέπελιν δεν αποκρίνεται
+02_03_delta|ErrorMsg_OnRoute	Το σκάφος πλησιάζει ήδη το Δέλτα.
+02_03_delta|ErrorMsg_Arrived	Το σκάφος έχει ήδη προσδέσει στο Δέλτα.
+02_03_delta|ErrorMsg_MissingFiles	Επιτυχής μερική επαναφορά δεδομένων!
+02_03_delta|ErrorMsg_BunkerMessageFailed	Δεν είναι δυνατή η σύνδεση[br]Το μήνυμα δε στάλθηκε
+02_03_delta|ErrorMsg_NoResponse	Σφάλμα: Βλάβη κινητήρα
+02_03_delta|CorruptedData	Προειδοποίηση: Κατεστραμμένα δεδομένα
+02_03_delta|RestoreFiles	Επαναφορά
+02_03_delta|RestorationProgress	Πρόοδος:
+02_03_delta|TransmissionRecords	Ανακτημένα αρχεία
+02_03_delta|ZeppelinTransmission_1	Δέλτα:Θήτα 2103-08-14
+02_03_delta|ZeppelinTransmission_2	Δέλτα:Θήτα 2104-01-15
+02_03_delta|ZeppelinCorruptedData_Detected	Κατεστραμμένη μνήμη ήχου[br]Επαναφορά αρχείων;
+02_03_delta|ZeppelinCorruptedData_Restoring	Επαναφορά...
+02_03_delta|ZeppelinCorruptedData_Results	Ανακτήθηκαν 2 αρχεία
+02_03_delta|RelayMalfunctionMsg	ΒΛΑΒΗ ΥΛΙΚΟΥ![br][br]E:2038[br]Λείπουν ή έχουν υποστεί ζημιά εξαρτήματα.
+02_03_delta|LaunchRecords	Ανακτημένα αρχεία
+02_03_delta|BunkerApp_Log	Αρχείο πρόσβασης
+02_03_delta|BunkerApp_Messages	Μηνύματα
+02_03_delta|BunkerApp_Map	Χάρτης περιοχής
+02_03_delta|BunkerLogCaption	Αρχείο
+02_03_delta|BunkerLog	<![CDATA[2104-01-15 >zeppelin_control -remote[br]2104-01-15 [zeppelin_control] άρνηση απομακρυσμένης πρόσβασης (err: 92874)[br]2104-01-15 >zeppelin_control -remote -admin[br]2104-01-15 [zeppelin_control] άρνηση απομακρυσμένης πρόσβασης (err: 92886)[br]2104-01-15 [zeppelin_control] FR_OVERRIDE-MK[br]2104-01-15 [main] μη έγκυρη εντολή[br]2104-01-15 [zeppelin_control] FR_OVERRIDE-KOMOREBI[br]2104-01-15 [main] αναστολή δικαιωμάτων απόκρισης (Err: 3948) [br]2104-01-15 >ΑΝΤΕΓΑΜΗΣΟΥΕΪΚΕΡΣ!!![br]2104-01-15 [main] μη έγκυρη εντολή]]>
+02_03_delta|BunkerMessages_0	Μηνύματα
+02_03_delta|BunkerMessages_1	Μηνύματα (1)
+02_03_delta|BunkerDraftName	Ζέπελιν!
+02_03_delta|BunkerDraft	Προς: Στράσκι.Θήτα[br]Θέμα: Ζέπελιν![br][br]Ο Έικερς κάνει κάτι περίεργες μαλακίες. Μόλις πήρε το ζέπελιν πίσω στο Θήτα. Μην τον αφήσετε να προσδέσει. Κλείστε το, γαμώτο!
+02_03_delta|BunkerNoMessages	Κανένα μήνυμα!
+02_03_delta|BunkerMapZoom_Out	ΣΜΙΚΡΥΝΣΗ
+02_03_delta|BunkerMapZoom_In	ΜΕΓΕΘΥΝΣΗ
+02_03_delta|ManifestText	2103-05-23: Ελαττωμ. δορυφόρος Haimatsu (από Φι)[br]2103-06-10: Εξαρτήματα σκελετού (προς Λάμδα)[br]2103-06-19: Κασέτα Pascal (προς Θήτα)[br]2103-07-10: Άτρακτος (από Λάμδα)[br]2103-08-03: Περίβλημα «ARK» (προς Φι)[br]2103-08-14: Εκκένωση Δέλτα (προς Θήτα)[br]2104-01-15: Ομάδα έρευνας Komorebi (από Θήτα)[br]2104-01-15: Απροσδιόριστο (προς Θήτα)
+02_03_delta|Zeppelin_1	Ζέπελιν - 049
+02_03_delta|Zeppelin_1_IDOnly	049
+02_03_delta|Zeppelin_1_Map	049
+02_03_delta|Zeppelin_1_Idle	Κατάσταση: Αδρανές
+02_03_delta|Zeppelin_1_Moving	Κατάσταση: Σε κίνηση
+02_03_delta|Zeppelin_2	Ζέπελιν - 840
+02_03_delta|Zeppelin_2_IDOnly	840
+02_03_delta|Zeppelin_2_Map	840
+02_03_delta|Zeppelin_2_Status	Κατάσταση: -
+02_03_delta|Zeppelin_3	Ζέπελιν - 216
+02_03_delta|Zeppelin_3_IDOnly	216
+02_03_delta|Zeppelin_3_Map	216
+02_03_delta|Zeppelin_3_Status	Κατάσταση: -
+02_03_delta|SignalStrength	Ισχύς σήματος
+02_03_delta|NoAutomaticAlignment	Σφάλμα: Χάθηκαν οι θέσεις μεταφοράς[br]Ρυθμίστε χειροκίνητα την κεραία
+02_03_delta|AntennasMisaligned	Εντοπίστηκαν μη ευθυγραμμισμένες κεραίες!
+02_03_delta|SignalFull	Η σύνδεση επιτεύχθηκε
+02_03_delta|TransportHeader	Κωδικός πρόσβασης:
+02_03_delta|TransportCallHeader	Τερματικό επικοινωνίας
+02_03_delta|TransportCallStep_1	Σύνδεση...
+02_03_delta|TransportCallStep_2	Η σύνδεση επιτεύχθηκε!
+02_03_delta|TransportCallStep_3	Αποστολή αιτήματος μεταφοράς...
+02_03_delta|TransportCallStep_4	Το Zeppelin_049 δεν αποκρίνεται.
+02_03_delta|TransportCallStep_5	Νέα προσπάθεια...
+02_03_delta|TransportCallStep_6	Ζέπελιν 049 - Επιβεβαίωση
+02_03_delta|TransportCallStep_7	Ζέπελιν 049 - Καθ' οδόν
+02_03_delta|TransportCallStep_8	Ζέπελιν 049 - Προσδέθηκε
+02_03_delta|RobotManual	Εγχειρίδιο UH
+02_03_delta|Messages	Μηνύματα
+02_03_delta|AccessLog	Αρχείο πρόσβασης
+02_03_delta|ChessGame	Σκάκι
+02_03_delta|PartialCorruption	Το αρχείο είναι εν μέρει κατεστραμμένο!
+02_03_delta|MainBaseMailName_1	2103-08-12
+02_03_delta|MainBaseMailName_2	2103-08-13
+02_03_delta|MainBaseMailName_3	2103-08-14
+02_03_delta|MainBaseMailName_4	2103-12-25
+02_03_delta|MainBaseMail_1	<![CDATA[Από: Κρόνστεντ.Θήτα[br]Θέμα: Εκκένωση Δέλτα[br][br]Τέρι, αποφασίστηκε ότι εσύ και η ομάδα σου θα μεταφερθείτε στο Θήτα στις 14. Φροντίζουμε για όλα και θα σας δοθούν νέες θέσεις μόλις φτάσετε. Θα πρέπει βέβαια να μπείτε στη σειρά. Το τελευταίο που χρειαζόμαστε είναι κι άλλοι «αρχηγοί».[br][br]Κρόνστεντ]]>
+02_03_delta|MainBaseMail_2	<![CDATA[Από: Κρόνστεντ.Θήτα[br]Θέμα: Δικό σου το πρόβλημα[br][br]>Άντε γαμήσου, Κρόνστεντ. Δεν πάω πουθενά.[br]>Δεν έχεις την εξουσία να με αναγκάσεις.[br]>[br]>Τέρι[br][br]Δεν είναι δικές μου οι διαταγές, ηλίθιε, εγώ απλώς μεταφέρω το μήνυμα. Θέλεις να μείνεις; Μπορώ να σου εξασφαλίσω λίγο χρόνο αν θέλεις να κάθεσαι στο χαμόσπιτό σου, αλλά η ομάδα σου φεύγει αύριο.[br][br]Κρόνστεντ]]>
+02_03_delta|MainBaseMail_3	<![CDATA[Από: Στράσκι.Θήτα[br]Θέμα: Επιτυχής εκκένωση[br][br]Κύριε Έικερς,[br]Με χαρά σας ενημερώνω ότι η ομάδα σας έφτασε με ασφάλεια στο Θήτα. Πείτε μου όταν είστε έτοιμος να μετακινηθείτε και θα στείλω μεταφορικό.[br][br]Πίτερ Στράσκι[br]Συντονισμός Θήτα]]>
+02_03_delta|MainBaseMail_4	<![CDATA[Από: Στράσκι.Θήτα[br]Θέμα: Καλά Χριστούγεννα[br][br]Καλά Χριστούγεννα, κύριε Έικερς.[br]Μη διστάσετε να ζητήσετε αν θέλετε να μετακινηθείτε στο Θήτα.[br][br]Πίτερ Στράσκι[br]Συντονισμός Θήτα]]>
+02_03_delta|MainBaseLog	<![CDATA[[2104-01-11] [main] τοπική πρόσβαση (Τ.Έικερς)[br][2104-01-12] [main] τοπική πρόσβαση (Τ.Έικερς)[br][2104-01-13] [main] τοπική πρόσβαση (Τ.Έικερς)[br][2104-01-13] [chess] Ο Τέρι Έικερς κέρδισε την 1000ή παρτίδα σκάκι του![br][2104-01-14] [main] τοπική πρόσβαση (Τ.Έικερς)[br][2104-01-15] [main] τοπική πρόσβαση (Τ.Έικερς)]]>
+02_03_delta|ChessNewGame	Νέα παρτίδα
+02_03_delta|ChessContinue	Συνέχεια
+02_03_delta|ChessExit	Έξοδος
+02_03_delta|ChessStats_MainBase	Στατιστικά[br]Παρτίδες: 1610[br]Νίκες: 1000[br]Ήττες: 610
+02_03_delta|ChessStats_Bunker	Στατιστικά[br]Παρτίδες: 0[br]Νίκες: 0[br]Ήττες: 0
+02_03_delta|ChessError	Σφάλμα: Κατεστραμμένος αντίπαλος
+02_03_delta|FrequencyScanner	Σαρωτής συχνοτήτων
+02_03_delta|Recordings	Ηχογραφήσεις
+02_03_delta|FrequencyScannerRangeFrom	Από: 25MHz
+02_03_delta|FrequencyScannerRangeTo	Έως: 941MHz
+02_03_delta|FrequencyScannerScan	Έναρξη σάρωσης
+02_03_delta|FrequencyScannerStop	Διακοπή σάρωσης
+02_03_delta|FrequencyScannerSignalsFound	Σήματα που βρέθηκαν: 0
+02_03_delta|DiaryEntry_1	Είναι συναρπαστικό να βλέπω το WAU να κατακτά το Δέλτα. Πριν από μισό χρόνο θα ανησυχούσα. Θα έβαζα τον Γκόγια και το Γουάν να καθαρίζουν το μαύρο αίμα από τα μηχανήματα. Τώρα οι σκληρές του κρούστες μοιάζουν να συμπληρώνουν, ακόμα και να ξεπερνούν σε λάμψη, αυτό που ήταν το Δέλτα.
+02_03_delta|DiaryEntry_2	Το είδωλό μου στο μαύρο αίμα του Φύλακά μας ψιθυρίζει. Πρέπει να τους σώσω από αυτή την κόλαση. Να τους αφήσω να κοιμηθούν. Να τους κλειδώσω στα ζωντανά όνειρα που έχω δει.
+02_03_delta|DiaryEntry_3	Το φως μού πονάει τα μάτια. Μου λέει ότι δε χρειάζομαι αυτή την υαλώδη σάρκα μέσα στο κρανίο μου για να δω τη σωτηρία. Θα τα βγάλω με χαρά. Θα τα σταματήσω από το να θολώνουν αυτή τη θεϊκή αποστολή.
+02_03_delta|Degrees	μοίρες
+02_03_delta|ComChannel	Κανάλι
+02_03_delta|AntennaControl_NoSignal	Χωρίς σήμα
+02_03_delta|AntennaControl_Aligned	Συνδέθηκε
+02_03_delta|RobotManual_Name_1	K8 (UH8)
+02_03_delta|RobotManual_Name_2	BULL (UH3))

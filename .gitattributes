@@ -1,0 +1,6 @@
+# Keep game files byte-for-byte (CRLF line endings, exact encoding)
+mod/** -text
+*.dds binary
+*.lang -text
+*.hps -text
+*.fnt -text

@@ -1,0 +1,32 @@
+Voices_00_01_apartment|Phonecall_1_PhoneCall_001_Player_001	Ναι, ξύπνησα!
+Voices_00_01_apartment|Phonecall_1_PhoneCall_002_David_001	Γεια σας, ο Σάιμον Τζάρετ;
+Voices_00_01_apartment|Phonecall_1_PhoneCall_003_Player_001	Ναι, εγώ.
+Voices_00_01_apartment|Phonecall_1_PhoneCall_004_David_001	Με λένε Ντέιβιντ Μούνσι. Μιλήσαμε νωρίτερα--
+Voices_00_01_apartment|Phonecall_1_PhoneCall_005_Player_001	Η σάρωση εγκεφάλου! Θυμάμαι.
+Voices_00_01_apartment|Phonecall_1_PhoneCall_006_David_001	Είστε καλά;
+Voices_00_01_apartment|Phonecall_1_PhoneCall_007_Player_001	Ναι, ναι -- απλώς ένα άσχημο όνειρο. Ισχύει ακόμα το σημερινό;
+Voices_00_01_apartment|Phonecall_1_PhoneCall_008_David_001	Ναι, γι' αυτό τηλεφωνώ. Ήθελα να σας θυμίσω να πιείτε το σκιαγραφικό που σας έστειλα. Θα με βοηθήσει να πάρω καλύτερη εικόνα της βλάβης.
+Voices_00_01_apartment|Phonecall_1_PhoneCall_009_Player_001	Μην ανησυχείτε, κάπου το έχω.
+Voices_00_01_apartment|Phonecall_1_PhoneCall_010_David_001	Εντάξει, τέλεια. Λοιπόν, τα λέμε σε καμιά δυο ώρες.
+Voices_00_01_apartment|Phonecall_1_PhoneCall_011_Player_001	Εντάξει -- τα λέμε σύντομα.
+Voices_00_01_apartment|SimonTalking_5_FoundTracer_001_Player_001	Να το.
+Voices_00_01_apartment|SimonTalking_6_DrinkTracer_001_Player_001	Σαν γάλα, αλλά η γεύση -- σαν να γλείφεις κέρμα.
+Voices_00_01_apartment|SimonTalking_7_BrokenShower_001_Player_001	Δε θέλω να περιμένει ο γιατρός. Θα κάνω ντους όταν γυρίσω.
+Voices_00_01_apartment|SimonTalking_8_OpenDrapes_001_Player_001	Έρχεται καλοκαίρι. Ελπίζω να είναι καλό.
+Voices_00_01_apartment|SimonTalking_9_InspectFridge_001_Player_001	Μόνο πρόχειρο φαγητό. Πρέπει να πάρω κάτι πιο υγιεινό στο δρόμο για το σπίτι.
+Voices_00_01_apartment|AnswerMachine_10_AnswerMachine_001_Jerry_001	Έλα, Σάιμον. Ο Τζέσι είμαι! Δουλεύεις αυτό το Σαββατοκύριακο ή τι;
+Voices_00_01_apartment|AnswerMachine_10_AnswerMachine_001_Jerry_002	Ήξερα ότι κάτι είχες να κάνεις -- ήταν αυτό το Σαββατοκύριακο -- ή το επόμενο;
+Voices_00_01_apartment|AnswerMachine_10_AnswerMachine_001_Jerry_003	Τέλος πάντων, στείλε μου ένα μέιλ ή κάτι. Σαγαπώμουλείπειςτοεννοώ!
+Voices_00_01_apartment|AnswerMachine_10_AnswerMachine_002_AnswerMachine_001	Τέλος μηνυμάτων.
+Voices_00_01_apartment|AnswerMachine_10_AnswerMachine_003_Player_001	Ορκίζομαι, αυτός ο τύπος έχει μνήμη χρυσόψαρου.
+Voices_00_01_apartment|SimonTalking_11_UseTV_001_Player_001	Σωστά, η τηλεόραση μού φέρνει πονοκέφαλο πια. Ευχαριστώ, εγκέφαλε.
+Voices_00_01_apartment|phonecall_12_trytoexit_001_player_001	Πρέπει οπωσδήποτε να πιω το σκιαγραφικό πριν πάω στο Δρ. Μούνσι.
+Voices_00_01_apartment|simontalking_13_tracerreminder_001_player_001	Πού έβαλα το σκιαγραφικό;
+Voices_00_01_apartment|simontalking_13_tracerreminderb_001_player_001	Έλα, ραδιενεργό σκιαγραφικό. Πού είσαι;
+Voices_00_01_apartment|answermachine_13_nonewmessages_001_answermachine_001	Δεν έχετε νέα μηνύματα.
+Voices_00_01_apartment|phonecall_1_phonecallover_001_player_001	...Χριστέ μου... 
+Voices_00_01_apartment|simontalking_2_unsentmailreaction_001_player_001	Ξέχασα να πατήσω αποστολή. Έχει σημασία; Του το είχα πει ήδη.
+Voices_00_01_apartment|simontalking_2_sentmailreaction_001_player_001	Κάλλιο αργά παρά ποτέ.
+Voices_00_01_apartment|simontalking_2_unsentmailreaction_heardmsg_001_player_001	Α, ξέχασα να πατήσω αποστολή.
+Voices_00_01_apartment|simontalking_10_answermachine_notreadmail_001_player_001	Του έστειλα και μέιλ για να του το θυμίσω, έτσι δεν είναι;
+Voices_00_01_apartment|simontalking_10_answermachine_sentmail_001_player_001	Τέλος πάντων, το μέιλ το έστειλα. Θα το έχει δει μέχρι τώρα.

@@ -1,0 +1,100 @@
+Voices_02_05_theta_inside|dialog_legacy_deletedonreturn_003_player_001	Μου φάνηκε το σωστό.
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_3_001_player_001	Αναρωτιέμαι τι θα σκεφτόταν ο αληθινός Σάιμον αν ήξερε για μένα.
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_3_002_catherine_001	Τι εννοείς; Εσύ ξέρεις για τον εαυτό σου.
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_3_003_player_001	Όχι, εννοώ τον αληθινό Σάιμον. Τον άνθρωπο Σάιμον.
+Voices_02_05_theta_inside|dialog_3_postlearnsimon_3_004_catherine_001	Αν κρίνω από τις αντιδράσεις σου, θα έλεγα ότι θα αναστατωνόταν αρκετά.
+Voices_02_05_theta_inside|dialog_4_headingtoserversnocritters_001_catherine_001	Σάιμον, η τελευταία αναφορά του προσωπικού μιλάει για πάλη με κάτι που λέγεται Πληρεξούσιος.
+Voices_02_05_theta_inside|dialog_4_headingtoserversnocritters_001_catherine_002	&quot;Ο Πληρεξούσιος που σκοτώσαμε ήταν τυφλός, όπως ο Έικερς. Αλλά ακούει! Προσοχή -- εντοπίσαμε άλλους δύο κοντά στο αναρρωτήριο.&quot;
+Voices_02_05_theta_inside|dialog_4_headingtoserversnocritters_002_player_001	Πώς μοιάζουν;
+Voices_02_05_theta_inside|dialog_4_headingtoserversnocritters_003_catherine_001	Δεν είμαι σίγουρη. Μοιάζουν αρκετά ανθρώπινοι ώστε να περνάνε για μέλη του πληρώματος από απόσταση.
+Voices_02_05_theta_inside|dialog_4_headingtoserversnocritters_003_catherine_002	Ψηλοί, σκοτεινοί και τελικά χωρίς πρόσωπο -- αυτό φαίνεται να πρέπει να προσέχουμε.
+Voices_02_05_theta_inside|dialog_4_headingtoserversnocritters_004_player_001	Θα έχω τα μάτια μου ανοιχτά.
+Voices_02_05_theta_inside|dialog_3_simulationsame_1_001_catherine_001	Αυτή η διάταξη δε θα πιάσει. Χρειαζόμαστε κάτι άλλο.
+Voices_02_05_theta_inside|dialog_3_simulationsame_2_001_catherine_001	Σάιμον, χρειαζόμαστε κάτι καινούριο να δουλέψουμε.
+Voices_02_05_theta_inside|dialog_3_simulationsame_3_001_catherine_001	Δεν μπορούμε να δοκιμάζουμε το ίδιο πράγμα ξανά και ξανά!
+Voices_02_05_theta_inside|dialog_3_simulationsame_4_001_catherine_001	Δεν αρκεί. Πρέπει να δοκιμάσουμε κάτι άλλο.
+Voices_02_05_theta_inside|dialog_3_simulationsame_generic_001_catherine_001	Για όνομα του Θεού, δεν μπορούμε να το βασανίζουμε άλλο έτσι.
+Voices_02_05_theta_inside|dialog_3_simulationsame_generic_002_catherine_001	Όχι, δε θα πιάσει έτσι.
+Voices_02_05_theta_inside|dialog_3_simulationsame_generic_003_catherine_001	Δεν το χάβει, Σάιμον. Χρειαζόμαστε κάτι άλλο.
+Voices_02_05_theta_inside|dialog_hint_notfoundscanchip_1_001_catherine_001	Πρέπει να βρούμε κάποιον που ξέρει τον κωδικό. Είναι ο μόνος τρόπος να ξεκινήσουμε το DUNBAT.
+Voices_02_05_theta_inside|dialog_hint_notusedsim_1_001_catherine_001	Να δοκιμάσουμε να τρέξουμε μια προσομοίωση από το τσιπ που βρήκες -- κάποιος θα ξέρει τον κωδικό.
+Voices_02_05_theta_inside|dialog_hint_triedsimnoenv_1_001_catherine_001	Καλή ιδέα η προσομοίωση του Μπράντον Γουάν, αλλά πρέπει να αλλάξουμε το περιβάλλον του για να μαλακώσουμε το ξύπνημα.
+Voices_02_05_theta_inside|dialog_hint_notvisitedbrandon_1_001_catherine_001	Ξεκινήσαμε τον Μπράντον Γουάν, αλλά δεν είναι και πολύ προσιτός. Ίσως μπορούμε να βρούμε πού έμενε και να το γνωρίσουμε λίγο.
+Voices_02_05_theta_inside|dialog_addendum_startdunbat_001_catherine_001	Να 'σαι. Απλώς ζεσταίνω το DUNBAT για εμάς. Μαζεύει σκόνη εδώ και μήνες, οπότε μπορεί να θέλει ένα λεπτό.
+Voices_02_05_theta_inside|dialog_addendum_dunbatstarted_001_catherine_001	Εντάξει, αυτό ήταν. Όλα έτοιμα. Ας προχωρήσουμε και--
+Voices_02_05_theta_inside|dialog_addendum_dunbatstarted_001_catherine_002	Χμ, περίεργο. Δεν πειράζει.
+Voices_02_05_theta_inside|dialog_addendum_dunbatstarted_002_player_001	Τι θέλεις να κάνω;
+Voices_02_05_theta_inside|dialog_addendum_dunbatstarted_003_catherine_001	Μπες στη δεξαμενή πρόσδεσης -- το omnitool μπορεί να ανοίξει την πόρτα τώρα -- και μπες στο DUNBAT.
+Voices_02_05_theta_inside|dialog_addendum_dunbatstarted_003_catherine_002	Μετά σύνδεσέ με και θα μας πάω στην άβυσσο.
+Voices_02_05_theta_inside|dialog_addendum_dunbatstarted_004_player_001	Ακούγεται αρκετά εύκολο.
+Voices_02_05_theta_inside|dialog_addendum_cathstuff_cathteddybear_001_catherine_001	Το αρκουδάκι σου θέλει λίγο επισκευή.
+Voices_02_05_theta_inside|dialog_addendum_cathstuff_cathteddybear_002_catherine_001	Ο Τόμπι σπάει συνέχεια. Είναι βαρύς από πάνω, οπότε όλο πέφτει.
+Voices_02_05_theta_inside|dialog_addendum_cathstuff_cathfan_001_catherine_001	Ωραία βεντάλια.
+Voices_02_05_theta_inside|dialog_addendum_cathstuff_cathfan_002_catherine_001	Ευχαριστώ. Μου θυμίζει την Ταϊπέι, την πόλη μου.
+Voices_02_05_theta_inside|dialog_addendum_cathstuff_cathdoll_001_catherine_001	Έχεις πολλά παιχνίδια.
+Voices_02_05_theta_inside|dialog_addendum_cathstuff_cathdoll_002_catherine_001	Χμφ.
+Voices_02_05_theta_inside|dialog_addendum_cathstuff_cathslice_001_catherine_001	Τι είναι αυτή η σαβούρα; Μοιάζει με κάτι που θα ψάρευες από τον ωκεανό.
+Voices_02_05_theta_inside|dialog_addendum_cathstuff_cathslice_002_catherine_001	Ε; Α, εννοείς...
+Voices_02_05_theta_inside|dialog_addendum_cathstuff_cathslice_002_catherine_002	Ναι, είναι κομμάτι από το Vivarium του Ριντ. Είναι... είναι μεγάλη ιστορία. Ξέχνα το.
+Voices_02_05_theta_inside|dialog_addendum_cathstuff_cathvivarium_001_catherine_001	Τι είναι αυτός ο μικρός προβολέας; Μοιάζει χειροποίητος.
+Voices_02_05_theta_inside|dialog_addendum_cathstuff_cathvivarium_002_catherine_001	Είναι η απόπειρά μου να φτιάξω ένα Vivarium. Κάτι σαν πρωτο-ARK.
+Voices_02_05_theta_inside|dialog_hint_notfoundscanchip_2_001_catherine_001	Βρες κάποιον που ξέρει τον κωδικό ασφαλείας.
+Voices_02_05_theta_inside|dialog_hint_notfixedservers_1_001_catherine_001	Τα τερματικά στο εργαστήριό μου έχασαν τη σύνδεση με τον κεντρικό υπολογιστή. Κατέβα κάτω και επανεκκίνησε το δρομολογητή.
+Voices_02_05_theta_inside|dialog_hint_notfixedservers_2_001_catherine_001	Κατέβα κάτω και επανεκκίνησε το δρομολογητή.
+Voices_02_05_theta_inside|dialog_hint_notfoundallbrandonsstuff_1_001_catherine_001	Κάτι μας διαφεύγει. Συνέχισε να ψάχνεις στο δωμάτιο του Μπράντον Γουάν.
+Voices_02_05_theta_inside|dialog_hint_notfoundallbrandonsstuff_2_001_catherine_001	Συνέχισε να ψάχνεις στο δωμάτιο του Γουάν.
+Voices_02_05_theta_inside|dialog_hint_notusedsim_2_001_catherine_001	Τρέξε μια προσομοίωση από το τσιπ που βρήκες.
+Voices_02_05_theta_inside|dialog_hint_notfoundscanroomdata_1_001_catherine_001	Βάλαμε τον Μπράντον μαζί με την Άλις. Καλή αρχή, αλλά πρέπει με κάποιον τρόπο να προσομοιώσουμε το δωμάτιο όπου σαρώθηκε.
+Voices_02_05_theta_inside|dialog_hint_notfoundscanroomdata_2_001_catherine_001	Πρέπει να προσομοιώσουμε το Γουάν μέσα στο δωμάτιο όπου σαρώθηκε.
+Voices_02_05_theta_inside|dialog_hint_goteverything_1_001_catherine_001	Πρέπει να προσομοιώσουμε τον Μπράντον Γουάν σε μια σκηνή που θυμίζει την κατάσταση όπου καταγράφηκε το μυαλό του -- μέσα στο δωμάτιο σάρωσης με την Άλις.
+Voices_02_05_theta_inside|dialog_hint_goteverything_2_001_catherine_001	Τρέξε μια προσομοίωση του Μπράντον Γουάν στο περιβάλλον του δωματίου σάρωσης μαζί με την Άλις.
+Voices_02_05_theta_inside|dialog_hint_notvisitedbrandon_2_001_catherine_001	Κάτι στο δωμάτιο του Γουάν θα μπορεί να μας βοηθήσει.
+Voices_02_05_theta_inside|dialog_hint_triedsimnoenv_2_001_catherine_001	Βρες τρόπο να αλλάξεις το ψηφιακό περιβάλλον και τρέξε ξανά την προσομοίωση του Μπράντον Γουάν.
+Voices_02_05_theta_inside|dialog_3_simulationdone_chipdestroyed_001_player_001	Αναπαύσου εν ειρήνη, Μπράντον.
+Voices_02_05_theta_inside|dialog_3_readbrandoncomputerfirst_001_player_001	Ο Μπράντον αναφέρει μια κοπέλα, την Άλις. Έκαναν τις σαρώσεις τους μαζί.
+Voices_02_05_theta_inside|dialog_3_readbrandoncomputerfirst_002_catherine_001	Την Άλις Κόστερ; Θα μπορούσαμε να τον κάνουμε να πιστέψει ότι είναι εκεί κατά την προσομοίωση -- ίσως τον κάνει να μιλήσει. Δεν ξέρω όμως πώς. Συνέχισε να ψάχνεις.
+Voices_02_05_theta_inside|dialog_3_readbrandoncomputer_001_player_001	Φαίνεται ότι η Άλις και ο Μπράντον έκαναν τις σαρώσεις τους μαζί.
+Voices_02_05_theta_inside|dialog_3_readbrandoncomputer_002_catherine_001	Ω, αυτό σίγουρα μπορούμε να το χρησιμοποιήσουμε.
+Voices_02_05_theta_inside|dialog_3_readloveletterknowingaliceatscan_001_player_001	Η Άλις και ο Μπράντον σίγουρα τα είχαν.
+Voices_02_05_theta_inside|dialog_3_readloveletterknowingaliceatscan_002_catherine_001	Ωραία. Τότε πρέπει να βρούμε τρόπο να τη βάλουμε στη σάρωση.
+Voices_02_05_theta_inside|dialog_3_readbrandoncomputerknowingaliceatscan_001_player_001	Η Άλις και ο Μπράντον σίγουρα ήταν μαζί κατά τη σάρωση.
+Voices_02_05_theta_inside|dialog_3_readbrandoncomputerknowingaliceatscan_002_catherine_001	Καλό να το ξέρουμε. Ίσως μπορούμε να το χρησιμοποιήσουμε κάπως.
+Voices_02_05_theta_inside|dialog_3_enterscanstorage_beentolegacy_001_player_001	Μοιάζουν με το δικό μου αρχείο κληρονομιάς;
+Voices_02_05_theta_inside|dialog_3_enterscanstorage_beentolegacy_002_catherine_001	Όχι, το δικό σου είναι πιο επίπεδο, αν βγάζει νόημα αυτό, λιγότερο δυναμικό.
+Voices_02_05_theta_inside|dialog_3_enterscanstorage_beentolegacy_003_player_001	Ευχαριστώ, αυτό με κάνει να νιώθω πολύ καλύτερα.
+Voices_02_05_theta_inside|dialog_3_enterscanstorage_notbeentolegacy_001_player_001	Δηλαδή αποθηκεύσατε ψηφιακά όλο το προσωπικό σε αυτά τα τσιπ;
+Voices_02_05_theta_inside|dialog_3_enterscanstorage_notbeentolegacy_002_catherine_001	Αυτό ήταν το σχέδιο.
+Voices_02_05_theta_inside|dialog_3_foundredundantlastclue_001_player_001	Βρήκα κι άλλα στοιχεία ότι ήταν μαζί κατά τη σάρωση.
+Voices_02_05_theta_inside|dialog_3_foundredundantlastclue_002_catherine_001	Δεν πειράζει, Σέρλοκ. Το έχουμε ήδη. Ας επικεντρωθούμε στην προσομοίωση του Μπράντον Γουάν.
+Voices_02_05_theta_inside|dialog_4_headingtoserversshort_001_catherine_001	Ευχαριστώ, Στρόμαϊερ. Πολύ χρήσιμη αναφορά.
+Voices_02_05_theta_inside|dialog_4_headingtoserversshort_001_catherine_002	&quot;Ησυχία, ο Πληρεξούσιος ακούει.&quot;
+Voices_02_05_theta_inside|dialog_4_headingtoserversshort_001_catherine_003	Τι έπαθε το Θήτα; Καμία εξήγηση πουθενά
+Voices_02_05_theta_inside|dialog_4_headingtoserversshort_002_player_001	Μοιάζει με προειδοποίηση.
+Voices_02_05_theta_inside|dialog_3_simulation_usealice_001_catherine_001	Πρέπει οπωσδήποτε να χρησιμοποιήσουμε τη μονάδα της Άλις στην προσομοίωση.
+Voices_02_05_theta_inside|dialog_3_simulation_promptbrandonsroom_001_catherine_001	Ξέρεις, αν γνωρίζαμε λίγο τον Μπράντον Γουάν, ίσως να ήταν πιο εύκολο να τα βγάλουμε πέρα μαζί του. Προσπάθησε να βρεις το δωμάτιό του.
+Voices_02_05_theta_inside|comment_cathroom_banter1_001_catherine_001	Αμφιβάλλω σοβαρά ότι θα βρεις κάτι χρήσιμο εκεί μέσα.
+Voices_02_05_theta_inside|comment_cathroom_banter2_001_catherine_001	Δε χρειάζεται να ψάξεις το δωμάτιό μου. Θα τα καταφέρουμε.
+Voices_02_05_theta_inside|comment_cathroom_banter3_001_catherine_001	Ίσως πρέπει να προχωρήσουμε.
+Voices_02_05_theta_inside|comment_cathroom_banter4_001_catherine_001	Έλα, δε χρειάζεται να ψάξεις όλα μου τα πράγματα.
+Voices_02_05_theta_inside|comment_cathroom_banter5_001_catherine_001	Σάιμον, βγες επιτέλους από το δωμάτιό μου.
+Voices_02_05_theta_inside|comment_cath_checkoutbrandon1_001_catherine_001	Μακάρι να ήξερα καλύτερα τον Μπράντον. Τι θα τον έκανε να μιλήσει.
+Voices_02_05_theta_inside|comment_cath_checkoutbrandon2_001_catherine_001	Ξέρεις κάτι; Πήγαινε να βρεις το δωμάτιο του Μπράντον. Ας κάνουμε λίγη έρευνα. Είμαι σίγουρη ότι κάπως θα τον προσεγγίσουμε.
+Voices_02_06_theta_tunnels|datamining_1f_brandonblackboxdatamine_001__soundeffect_001	*Τέρας ουρλιάζει προσπαθώντας να μπει*
+Voices_02_06_theta_tunnels|datamining_1f_brandonblackboxdatamine_002__soundeffect_001	*Χτυπήματα στην πόρτα*
+Voices_02_06_theta_tunnels|datamining_1f_brandonblackboxdatamine_003_brandon_001	Δε θα με πιάσετε, καριόληδες! Ακούτε;!
+Voices_02_06_theta_tunnels|datamining_1f_brandonblackboxdatamine_004_brandon_001	*γουργουρίζει από τον πόνο*
+Voices_02_06_theta_tunnels|datamining_1e_datamineintercom_002_brandon_001	Στρόμαϊερ!
+Voices_02_06_theta_tunnels|datamining_1e_datamineintercom_003_strohmeier_001	Μπράντον. Πού είσαι;
+Voices_02_06_theta_tunnels|datamining_1e_datamineintercom_004_brandon_001	Ξέφυγε από τον έλεγχο. Είμαι στον τομέα RD-4. Κατεβάσατε όλους κάτω;
+Voices_02_06_theta_tunnels|datamining_1e_datamineintercom_005_strohmeier_001	Ναι, είμαστε ασφαλείς για την ώρα. Αλλά πρέπει να κουνηθείς. Θα καταλάβουν πού είμαστε και θα έρθουν για εμάς.
+Voices_02_06_theta_tunnels|datamining_1e_datamineintercom_006_brandon_001	Μην ανησυχείς. Οι σκάλες είναι φραγμένες και απενεργοποίησα τον ανελκυστήρα -- έβγαλα το τσιπ σύνδεσης από την κλειδαριά.
+Voices_02_06_theta_tunnels|datamining_1e_datamineintercom_007_strohmeier_001	Γιατί; Αυτό σημαίνει ότι έχεις παγιδευτεί κι εσύ!
+Voices_02_06_theta_tunnels|datamining_1e_datamineintercom_008_brandon_001	Μόνο έτσι θα είστε ασφαλείς. Πάρτε το σάτλ, πηγαίνετε στο Όμικρον.
+Voices_02_06_theta_tunnels|datamining_1e_datamineintercom_009_strohmeier_001	Γαμώτο, Γουάν. Έπρεπε να κάνεις τον ήρωα, κάθαρμα.
+Voices_02_06_theta_tunnels|datamining_1e_datamineintercom_010_brandon_001	Καλή τύχη, κύριε. Και πείτε στην Άλις ότι την αγαπώ.
+Voices_02_06_theta_tunnels|player_1h_doornotfixed_001_player_001	Ακόμα δε δουλεύει. Κάτι του λείπει.
+Voices_02_06_theta_tunnels|player_1h_doornotfixed_002_player_001	Κάτι δεν έχει συνδεθεί σωστά.
+Voices_02_06_theta_tunnels|player_1h_doornotfixed_003_player_001	Μάλλον δεν το έφτιαξα σωστά. Τι λείπει;
+Voices_02_06_theta_tunnels|player_1h_doorzap_001_player_001	Άου! Πρέπει να καλύψω τα ηλεκτρονικά.
+Voices_02_06_theta_tunnels|player_1h_doorhint_001_player_001	Φαίνεται ότι λείπει ένα εξάρτημα.
+Voices_02_06_theta_tunnels|player_1h_doorhint_002_player_001	Λείπει ένα τσιπ ή κάτι τέτοιο.

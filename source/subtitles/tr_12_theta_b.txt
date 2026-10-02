@@ -1,0 +1,180 @@
+Voices_02_05_theta_inside|dialog_3_cathunlocksbrandonsdoor_001_catherine_001	Ορίστε, το δωμάτιο του Μπράντον Γουάν. Θα παρακάμψω την κλειδαριά για σένα.
+Voices_02_05_theta_inside|dialog_3_inbrandonsroomnofailedsimulation_001_catherine_001	Ρίξε μια ματιά. Ίσως έχει κάτι που μπορούμε να χρησιμοποιήσουμε για να πάρουμε τον κωδικό.
+Voices_02_05_theta_inside|dialog_3_inbrandonsroomfailedsimulation_001_catherine_001	Αν το γνωρίσουμε καλύτερα, ίσως κάνουμε την προσομοίωση να κυλήσει λίγο πιο ομαλά.
+Voices_02_05_theta_inside|dialog_3_lookatbrandonsbadge_001_catherine_001	Είναι χειριστής ρομπότ κατασκευών. Πρέπει να ξέρει τον κωδικό.
+Voices_02_05_theta_inside|dialog_3_readloveletter_001_player_001	Υπάρχει ένα σημείωμα από την Άλις που με κάνει να πιστεύω ότι σαρώθηκε μαζί με τον Μπράντον.
+Voices_02_05_theta_inside|dialog_3_readloveletter_002_catherine_001	Εντάξει, αυτό ακούγεται πολλά υποσχόμενο. Σίγουρα μπορούμε να το χρησιμοποιήσουμε.
+Voices_02_05_theta_inside|dialog_3_afterdataminingintercom_001_player_001	Νομίζω ότι μόλις άκουσα την Άλις να μιλάει με τον Μπράντον στην ενδοεπικοινωνία. Φαίνεται ότι ετοιμάζονταν να φύγουν.
+Voices_02_05_theta_inside|dialog_3_afterdataminingintercom_002_catherine_001	Το έπιασες από την ενδοεπικοινωνία; Πρέπει να είναι μνήμη μετάδοσης. Περίμενε.
+Voices_02_05_theta_inside|dialog_3_afterdataminingintercom_002_catherine_002	Τέλεια, αυτό ακριβώς χρειαζόμαστε!
+Voices_02_05_theta_inside|datamining_3_intercomdatamining_002_alice_001	Μπράντον, είσαι έτοιμος; Ο Στρόμαϊερ λέει ότι ήρθε η ώρα να φύγουμε.
+Voices_02_05_theta_inside|datamining_3_intercomdatamining_003_wan_001	Περιμένω το Στράσκι και την Αλβάρο να μαζέψουν τα πράγματά τους. Κατέβα κάτω και θα σε βρω εκεί.
+Voices_02_05_theta_inside|datamining_3_intercomdatamining_004_alice_001	Μην αργήσεις πολύ.
+Voices_02_05_theta_inside|datamining_3_intercomdatamining_005_wan_001	Μην ανησυχείς. Ερχόμαστε ακριβώς πίσω σου.
+Voices_02_05_theta_inside|dialog_3_allbrandoncluesfound_001_catherine_001	Νομίζω ότι τα καταφέραμε, Σάιμον. Μπορώ να συνθέσω τη φωνή της Άλις από την ενδοεπικοινωνία και να τη χρησιμοποιήσω για να την υποδυθώ στην προσομοίωση.
+Voices_02_05_theta_inside|dialog_3_allbrandoncluesfound_001_catherine_002	Μπορούμε να τον ξεγελάσουμε ώστε να νιώσει αρκετά ασφαλής για να ανοιχτεί.
+Voices_02_05_theta_inside|dialog_3_allbrandoncluesfound_002_player_001	Τέλεια. Σίγουρα νιώθω καλά με αυτό.
+Voices_02_05_theta_inside|dialog_3_allbrandoncluesfound_003_catherine_001	Καλή δουλειά με την ενδοεπικοινωνία. Δεν ήξερα ότι μπορείς να ανασύρεις δεδομένα. Πώς είναι;
+Voices_02_05_theta_inside|dialog_3_allbrandoncluesfound_004_player_001	Είναι απλώς κάτι που κάνω πια.
+Voices_02_05_theta_inside|dialog_3_allbrandoncluesfound_005_catherine_001	Δηλαδή σου βγαίνει φυσικά. Πολύ ενδιαφέρον.
+Voices_02_05_theta_inside|dialog_3_allbrandoncluesfound_006_player_001	Ναι, θα φροντίσω να το προσθέσω στο προφίλ μου σε εφαρμογή γνωριμιών.
+Voices_02_05_theta_inside|simulation_3_alonescanroom_2_001_catherine_001	Κύριε Γουάν. Με ακούτε;
+Voices_02_05_theta_inside|simulation_3_alonescanroom_2_002_catherine_001	Συγχαρητήρια, κύριε Γουάν. Η σάρωση ήταν επιτυχής.
+Voices_02_05_theta_inside|simulation_3_alonescanroom_2_003_catherine_001	Η σάρωση ολοκληρώθηκε. Νιώθετε καλά, κύριε Γουάν;
+Voices_02_05_theta_inside|simulation_3_alonescanroom_3_001_wan_001	Τσαν; Πού είναι η Άλις;
+Voices_02_05_theta_inside|simulation_3_alonescanroom_4_001_catherine_001	Έπρεπε να φύγει. Ακούστε. Πρέπει οπωσδήποτε να μάθω το νέο κωδικό ασφαλείας.
+Voices_02_05_theta_inside|simulation_3_alonescanroom_4_002_catherine_001	Έφυγε. Κύριε Γουάν, χρειάζομαι να μου δώσετε το νέο κωδικό ασφαλείας.
+Voices_02_05_theta_inside|simulation_3_alonescanroom_4_003_catherine_001	Είναι καλά. Δεν έχουμε πολύ χρόνο, κύριε Γουάν. Χρειάζομαι το νέο κωδικό ασφαλείας.
+Voices_02_05_theta_inside|simulation_3_alonescanroom_5_001_wan_001	Τι, γιατί; Γιατί να το χρειάζεσαι; Είναι κόλπο!
+Voices_02_05_theta_inside|simulation_3_alonescanroom_6_001_catherine_001	Σας παρακαλώ, είναι σημαντικό.
+Voices_02_05_theta_inside|simulation_3_alonescanroom_6_002_catherine_001	Όχι, δεν πειράζει. Σας το υπόσχομαι.
+Voices_02_05_theta_inside|simulation_3_alonescanroom_6_003_catherine_001	Σας παρακαλώ, ηρεμήστε.
+Voices_02_05_theta_inside|simulation_3_alonescanroom_7_001_wan_001	Ήξερα ότι δεν μπορούσα να σε εμπιστευτώ -- τίποτα από αυτά δεν είναι αληθινό.
+Voices_02_05_theta_inside|simulation_3_alonescanroom_7_001_wan_002	Δε θα με λυγίσεις, WAU. Με ακούς; Δε θα με λυγίσεις!
+Voices_02_05_theta_inside|simulation_3_alonevoid_1_001_wan_001	Δεν ήταν και τόσο άσχημα. Ο Στρόμαϊερ με είχε αγχώσει για τα καλά. Κάθαρμα.
+Voices_02_05_theta_inside|simulation_3_alonevoid_1_002_wan_001	Τι... τι έγινε; Πού πήγαν όλοι;
+Voices_02_05_theta_inside|simulation_3_alonevoid_2_001_catherine_001	Ήρεμα, κύριε Γουάν.
+Voices_02_05_theta_inside|simulation_3_alonevoid_2_002_catherine_001	Κύριε Γουάν.
+Voices_02_05_theta_inside|simulation_3_alonevoid_2_003_catherine_001	Μη φοβάστε.
+Voices_02_05_theta_inside|simulation_3_alonevoid_3_001_wan_001	Τσαν; Τι έγινε; Δε βλέπω τίποτα. Δεν υπάρχει τίποτα εδώ.
+Voices_02_05_theta_inside|simulation_3_alonevoid_4_001_catherine_001	Δεν πειράζει. Είναι όλα μέρος της σάρωσης.
+Voices_02_05_theta_inside|simulation_3_alonevoid_4_002_catherine_001	Δε χρειάζεται να ανησυχείτε.
+Voices_02_05_theta_inside|simulation_3_alonevoid_4_003_catherine_001	Μην ανησυχείτε, κύριε Γουάν. Όλα θα φτιάξουν.
+Voices_02_05_theta_inside|simulation_3_alonevoid_5_001_wan_001	Όχι, όχι, αυτό είναι ψέμα. Λες ψέματα!
+Voices_02_05_theta_inside|simulation_3_alonevoid_6_001_catherine_001	Εντάξει, ηρεμήστε, κύριε Γουάν.
+Voices_02_05_theta_inside|simulation_3_alonevoid_6_002_catherine_001	Κύριε Γουάν, χρειάζομαι να μείνετε ψύχραιμος.
+Voices_02_05_theta_inside|simulation_3_alonevoid_6_003_catherine_001	Μην αναστατώνεστε, κύριε Γουάν.
+Voices_02_05_theta_inside|simulation_3_alonevoid_7_001_wan_001	Όχι, όχι όχι όχι, γιατί μου το κάνεις αυτό;!
+Voices_02_05_theta_inside|simulation_3_alonevoid_7_001_wan_002	Σε εμπιστεύτηκα, Τσαν. Σε εμπιστεύτηκα!
+Voices_02_05_theta_inside|simulation_3_alonebeach_2_001_catherine_001	Κύριε Γουάν. Χρειάζομαι τη βοήθειά σας.
+Voices_02_05_theta_inside|simulation_3_alonebeach_2_002_catherine_001	Μη φοβάστε, κύριε Γουάν.
+Voices_02_05_theta_inside|simulation_3_alonebeach_2_003_catherine_001	Καλώς ήρθατε πίσω, κύριε Γουάν.
+Voices_02_05_theta_inside|simulation_3_alonebeach_3_001_wan_001	Δρ. Τσαν, εσύ είσαι; Τι έγινε; Τι είναι αυτό το μέρος;
+Voices_02_05_theta_inside|simulation_3_alonebeach_4_001_catherine_001	Όλα είναι εντάξει. Το Θήτα χρειάζεται τη βοήθειά σας. Χρειαζόμαστε το νέο κωδικό ασφαλείας.
+Voices_02_05_theta_inside|simulation_3_alonebeach_4_002_catherine_001	Απλώς ηρεμήστε. Πάρτε μια βαθιά ανάσα και απολαύστε λίγο το τοπίο.
+Voices_02_05_theta_inside|simulation_3_alonebeach_4_003_catherine_001	Ακούστε, χρειάζομαι πραγματικά τη βοήθειά σας. Χρειάζομαι το νέο κωδικό ασφαλείας.
+Voices_02_05_theta_inside|simulation_3_alonebeach_5_001_wan_001	Δρ. Τσαν; Ακούω τη φωνή σου, αλλά δεν είναι κανείς εδώ. Δεν είναι κανείς εδώ!
+Voices_02_05_theta_inside|simulation_3_alonebeach_5_001_wan_002	Είναι άδειο. Υπερβολικά άδειο. Κάτι πάει πολύ στραβά με αυτό το μέρος.
+Voices_02_05_theta_inside|simulation_3_alonebeach_5_001_wan_003	Δεν είναι αληθινό. Αυτό δεν είναι αληθινό! Πρέπει να φύγω από εδώ!
+Voices_02_05_theta_inside|simulation_3_alonecabin_2_001_catherine_001	Όλα είναι εντάξει, κύριε Γουάν. Απλώς χαλαρώστε.
+Voices_02_05_theta_inside|simulation_3_alonecabin_2_002_catherine_001	Χαλαρώστε, κύριε Γουάν. Απλώς μείνετε ήρεμος.
+Voices_02_05_theta_inside|simulation_3_alonecabin_2_003_catherine_001	Πάρτε μια βαθιά ανάσα, κύριε Γουάν. Όλα είναι καλά.
+Voices_02_05_theta_inside|simulation_3_alonecabin_3_001_wan_001	Δρ. Τσαν; Τι στο διάολο είναι αυτό το μέρος;
+Voices_02_05_theta_inside|simulation_3_alonecabin_4_001_catherine_001	Χρειάζομαι μια χάρη. Πρέπει να μάθω ποιος είναι ο νέος κωδικός ασφαλείας.
+Voices_02_05_theta_inside|simulation_3_alonecabin_4_002_catherine_001	Χρειάζομαι τη βοήθειά σας. Πρέπει να πάρω το νέο κωδικό ασφαλείας.
+Voices_02_05_theta_inside|simulation_3_alonecabin_4_003_catherine_001	Δεν έχω χρόνο να εξηγήσω. Χρειάζομαι να μου δώσετε το νέο κωδικό ασφαλείας.
+Voices_02_05_theta_inside|simulation_3_alonecabin_5_001_wan_001	Γιατί το κάνεις αυτό; Είναι κάποιο κόλπο; Δε σου δίνω τίποτα.
+Voices_02_05_theta_inside|simulation_3_alonecabin_6_001_catherine_001	Σας παρακαλώ, χρειαζόμαστε πραγματικά αυτόν τον κωδικό.
+Voices_02_05_theta_inside|simulation_3_alonecabin_6_002_catherine_001	Δεν είναι για μένα. Προσπαθώ να σώσω το ARK.
+Voices_02_05_theta_inside|simulation_3_alonecabin_6_003_catherine_001	Προσπαθώ να σώσω πολλούς ανθρώπους.
+Voices_02_05_theta_inside|simulation_3_alonecabin_7_001_wan_001	Όχι, λες ψέματα. Όλα αυτά είναι ψέμα!
+Voices_02_05_theta_inside|simulation_3_alonecabin_7_001_wan_002	Κοίτα αυτό το μέρος -- είναι γαμημένο αστείο!
+Voices_02_05_theta_inside|simulation_3_alonecabin_7_001_wan_003	Βγάλε με από εδώ, Τσαν, αλλιώς θα σου σπάσω τα δόντια!
+Voices_02_05_theta_inside|simulation_3_alicevoid_2_001_alice_001	Α, τέλεια. Χαίρομαι που είσαι καλά.
+Voices_02_05_theta_inside|simulation_3_alicevoid_2_002_alice_001	Όλα είναι εντάξει τώρα.
+Voices_02_05_theta_inside|simulation_3_alicevoid_2_003_alice_001	Τι ανακούφιση -- που δεν ήταν τόσο άσχημα.
+Voices_02_05_theta_inside|simulation_3_alicevoid_3_001_wan_001	Άλις, τι έπαθε το δωμάτιο;
+Voices_02_05_theta_inside|simulation_3_alicevoid_4_001_alice_001	Τίποτα, τίποτα. Πρέπει να είναι η σάρωση. Σε κάνει να βλέπεις πράγματα.
+Voices_02_05_theta_inside|simulation_3_alicevoid_4_002_alice_001	Τι εννοείς; Τίποτα δεν άλλαξε. Όλα είναι μια χαρά.
+Voices_02_05_theta_inside|simulation_3_alicevoid_4_003_alice_001	Δεν έγινε τίποτα. Σίγουρα νιώθεις καλά;
+Voices_02_05_theta_inside|simulation_3_alicevoid_5_001_wan_001	Γιατί φέρεσαι έτσι;
+Voices_02_05_theta_inside|simulation_3_alicevoid_6_001_alice_001	Τι εννοείς -- αγάπη μου;
+Voices_02_05_theta_inside|simulation_3_alicevoid_6_002_alice_001	Κανονικά είμαι -- όπως πάντα.
+Voices_02_05_theta_inside|simulation_3_alicevoid_6_003_alice_001	Εγώ; Εσύ γιατί φέρεσαι έτσι;
+Voices_02_05_theta_inside|simulation_3_alicevoid_7_001_wan_001	Όποια κι αν είσαι, καλύτερα να φύγεις στο διάολο από εδώ.
+Voices_02_05_theta_inside|simulation_3_alicevoid_8_001_alice_001	Μην αναστατώνεσαι. Χρειάζομαι τη βοήθειά σου.
+Voices_02_05_theta_inside|simulation_3_alicevoid_8_002_alice_001	Σε παρακαλώ. Απλώς προσπαθώ να βρω έναν κωδικό.
+Voices_02_05_theta_inside|simulation_3_alicevoid_8_003_alice_001	Δεν είναι αυτό που νομίζεις -- εμείς είμαστε οι καλοί.
+Voices_02_05_theta_inside|simulation_3_alicevoid_9_001_wan_001	 Τι στο διάολο είναι αυτό -- τι μου έκανες;
+Voices_02_05_theta_inside|simulation_3_alicevoid_9_002_wan_001	Τι έκανες στην Άλις;!
+Voices_02_05_theta_inside|simulation_3_alicevoid_9_003_wan_001	Αν έχει πάθει κάτι, θα σε τελειώσω, γαμώτο!
+Voices_02_05_theta_inside|simulation_3_alicecabin_2_001_alice_001	Πολύ ωραίο, έτσι;
+Voices_02_05_theta_inside|simulation_3_alicecabin_2_002_alice_001	Σου αρέσει;
+Voices_02_05_theta_inside|simulation_3_alicecabin_2_003_alice_001	Δεν είναι αυτό που θα περίμενες, σωστά;
+Voices_02_05_theta_inside|simulation_3_alicecabin_3_001_wan_001	Άλις, πού είμαστε;
+Voices_02_05_theta_inside|simulation_3_alicecabin_4_001_alice_001	Αυτό είναι το ARK. Έχουμε όμως ένα πρόβλημα.
+Voices_02_05_theta_inside|simulation_3_alicecabin_4_002_alice_001	Τα καταφέραμε, αυτό είναι το ARK. Αλλά πρέπει να σε ρωτήσω κάτι.
+Voices_02_05_theta_inside|simulation_3_alicecabin_4_003_alice_001	Μην ανησυχείς, είσαι ασφαλής. Αλλά πρέπει να με ακούσεις.
+Voices_02_05_theta_inside|simulation_3_alicecabin_5_001_wan_001	Τι; Τι συμβαίνει;
+Voices_02_05_theta_inside|simulation_3_alicecabin_6_001_alice_001	Μπράντον, χρειαζόμαστε το νέο κωδικό ασφαλείας.
+Voices_02_05_theta_inside|simulation_3_alicecabin_6_002_alice_001	Το νέο κωδικό ασφαλείας -- το χρειάζομαι.
+Voices_02_05_theta_inside|simulation_3_alicecabin_6_003_alice_001	Πες μου το νέο κωδικό ασφαλείας. Είναι σημαντικό.
+Voices_02_05_theta_inside|simulation_3_alicecabin_7_001_wan_001	Λες ψέματα. Δεν είσαι η Άλις. Τι της έκανες;
+Voices_02_05_theta_inside|simulation_3_alicecabin_7_001_wan_002	Τι γίνεται εδώ;!
+Voices_02_05_theta_inside|simulation_3_alicecabin_7_001_wan_003	Γιατί το κάνεις αυτό;!
+Voices_02_05_theta_inside|simulation_3_alicebeach_2_001_alice_001	Καλώς ήρθες στο ARK
+Voices_02_05_theta_inside|simulation_3_alicebeach_2_002_alice_001	Ιδού -- το ARK.
+Voices_02_05_theta_inside|simulation_3_alicebeach_2_003_alice_001	Αυτό; Αυτό είναι το ARK.
+Voices_02_05_theta_inside|simulation_3_alicebeach_3_001_wan_001	Τα καταφέραμε; Δεν είχα καταλάβει ότι θα λειτουργούσε έτσι.
+Voices_02_05_theta_inside|simulation_3_alicebeach_4_001_alice_001	Μόνο ένα πράγμα.
+Voices_02_05_theta_inside|simulation_3_alicebeach_5_001_wan_001	Τι εννοείς;
+Voices_02_05_theta_inside|simulation_3_alicebeach_6_001_alice_001	Θυμάσαι που το Θήτα άλλαξε τον κωδικό ασφαλείας;
+Voices_02_05_theta_inside|simulation_3_alicebeach_6_002_alice_001	Ξέρεις ότι το Θήτα πήρε νέο κωδικό ασφαλείας;
+Voices_02_05_theta_inside|simulation_3_alicebeach_6_003_alice_001	Το Θήτα πήρε νέο κωδικό ασφαλείας, θυμάσαι;
+Voices_02_05_theta_inside|simulation_3_alicebeach_7_001_wan_001	Ναι, για να κλειδωθεί έξω το WAU.
+Voices_02_05_theta_inside|simulation_3_alicebeach_8_001_alice_001	Υπάρχουν ακόμα άνθρωποι που πρέπει να σώσουμε και χρειαζόμαστε αυτό το κλειδί για να το κάνουμε.
+Voices_02_05_theta_inside|simulation_3_alicebeach_8_002_alice_001	Χρειάζομαι αυτό το κλειδί. Είναι ο μόνος τρόπος να σωθεί το υπόλοιπο προσωπικό.
+Voices_02_05_theta_inside|simulation_3_alicebeach_8_003_alice_001	Ε... κάποιος τα έκανε θάλασσα, χρειαζόμαστε πραγματικά αυτό το κλειδί.
+Voices_02_05_theta_inside|simulation_3_alicebeach_9_001_wan_001	Στάσου, αυτό είναι τρέλα. Δεν είσαι η Άλις.
+Voices_02_05_theta_inside|simulation_3_alicebeach_10_001_alice_001	Όχι, είμαι. Σου το υπόσχομαι.
+Voices_02_05_theta_inside|simulation_3_alicebeach_10_002_alice_001	Δεν είναι αλήθεια. Είμαι η Άλις.
+Voices_02_05_theta_inside|simulation_3_alicebeach_10_003_alice_001	Όχι, όχι, όχι. Είμαι η Άλις.
+Voices_02_05_theta_inside|simulation_3_alicebeach_11_001_wan_001	Λες ψέματα! Είναι κόλπο.
+Voices_02_05_theta_inside|simulation_3_alicebeach_12_001_alice_001	Κύριε Γουάν. Χρειάζομαι να ηρεμήσετε.
+Voices_02_05_theta_inside|simulation_3_alicebeach_13_001_wan_001	Είναι γαμημένα σκληρό να χρησιμοποιείς έτσι την Άλις. Φύγε από τα μάτια μου!
+Voices_02_05_theta_inside|simulation_3_alicebeach_14_001_alice_001	Ηρέμησε. Χρειάζομαι μόνο τον κωδικό.
+Voices_02_05_theta_inside|simulation_3_alicebeach_14_002_alice_001	Κύριε Γουάν, είναι πολύ σημαντικό. Πρέπει να μάθω τον κωδικό.
+Voices_02_05_theta_inside|simulation_3_alicebeach_14_003_alice_001	Σε παρακαλώ. Χρειάζομαι πραγματικά αυτόν τον κωδικό.
+Voices_02_05_theta_inside|simulation_3_alicebeach_15_001_wan_001	Δε σου δίνω τίποτα.
+Voices_02_05_theta_inside|simulation_3_alicebeach_15_001_wan_002	Γύρνα με πίσω στο Θήτα! Τώρα!
+Voices_02_05_theta_inside|simulation_3_alicebeach_15_001_wan_003	Δεν ανέχομαι άλλο τις μαλακίες σου.
+Voices_02_05_theta_inside|dialog_3_entersimulationroom_001_catherine_001	Καλώς ήρθες στα δικά μου. Όταν ξεκίνησα το πρόγραμμα ARK, ουσιαστικά ζούσα σε αυτό το εργαστήριο.
+Voices_02_05_theta_inside|dialog_3_entersimulationroom_002_player_001	Ζεστό.
+Voices_02_05_theta_inside|dialog_3_entercommonroom_001_player_001	Ήξερα όλους εδώ μέσα. Μετά, όταν άρχισαν να εκκενώνουν τις άλλες βάσεις, δεν μπορούσα να παρακολουθήσω. Ερχόταν τόσος καινούριος κόσμος.
+Voices_02_05_theta_inside|dialog_3_interactbrokenchipcomment_001_player_001	Ευχαριστώ, Μπράντον. Δε θα ξανασυμβεί.
+Voices_02_05_theta_inside|dialog_3_interactbrokenchipcomment_scene5done_001_player_001	Είναι σαν εμάς. Θα μπορούσαμε να ήμασταν εμείς.
+Voices_02_05_theta_inside|dialog_3_interactbrokenchipcomment_scene5done_002_catherine_001	Μην... προσπάθησε να μην το βλέπεις έτσι.
+Voices_02_05_theta_inside|dialog_3_interactbrokenchipcomment_scene5done_003_player_001	*βαθύς αναστεναγμός*
+Voices_02_05_theta_inside|dialog_3_enterscanstorage_001_catherine_001	Εδώ φύλαγα τις σαρώσεις του ARK.
+Voices_02_05_theta_inside|dialog_4_fixedservers_001_catherine_001	Τα κατάφερες. Τώρα φύγε από εκεί, Σάιμον.
+Voices_02_05_theta_inside|dialog_4_leavingserverarea_001_catherine_001	Σάιμον, πρέπει οπωσδήποτε να επανεκκινήσουμε αυτόν το δρομολογητή. Πρέπει να ξανακατέβεις.
+Voices_02_05_theta_inside|dialog_4_leavingserverarea_002_player_001	Δώσε μου ένα λεπτό.
+Voices_02_05_theta_inside|datamining_5_dataminescanroomintercom_002_catherinedatamine_001	Στράσκι, με ακούς; Χρειάζομαι βοήθεια στο εργαστήριο. Στην αίθουσα σαρώσεων.
+Voices_02_05_theta_inside|datamining_5_dataminescanroomintercom_003_strasky_001	Τι έγινε;
+Voices_02_05_theta_inside|datamining_5_dataminescanroomintercom_004_catherinedatamine_001	Ο Κόνραντ αυτοκτόνησε μετά τη σάρωση.
+Voices_02_05_theta_inside|datamining_5_dataminescanroomintercom_005_strasky_001	Θεέ μου, πώς;
+Voices_02_05_theta_inside|datamining_5_dataminescanroomintercom_006_catherinedatamine_001	Ε, με εργαλείο μέιζερ. Τι να κάνω;
+Voices_02_05_theta_inside|datamining_5_dataminescanroomintercom_007_strasky_001	Θα πρέπει να το πω στο Στρόμαϊερ.
+Voices_02_05_theta_inside|datamining_5_dataminescanroomintercom_008_catherinedatamine_001	Όχι, σε παρακαλώ, είμαι τόσο κοντά! Ο Στρόμαϊερ θα κλείσει το πρόγραμμα ARK. Δε φταίω εγώ που ο κόσμος αυτοκτονεί συνέχεια.
+Voices_02_05_theta_inside|datamining_5_dataminescanroomintercom_009_strasky_001	Κάθριν. Τι θα κάνεις; Δεν μπορείς να βγάλεις κρυφά από το εργαστήριο ένα πτώμα 130 κιλών.
+Voices_02_05_theta_inside|datamining_5_dataminescanroomintercom_010_catherinedatamine_001	Το ξέρω.
+Voices_02_05_theta_inside|datamining_5_dataminescanroomintercom_011_strasky_001	Κάθριν, είσαι καλά;
+Voices_02_05_theta_inside|datamining_5_dataminescanroomintercom_012_catherinedatamine_001	Ούτε κατά διάνοια.
+Voices_02_05_theta_inside|recording_5_simonrecording_1_001_david_001	Εντάξει, αυτό ήταν.
+Voices_02_05_theta_inside|recording_5_simonrecording_1_002_simonrecording_001	Ουάου, είχε πλάκα.
+Voices_02_05_theta_inside|recording_5_simonrecording_1_003_david_001	Τι ανακούφιση. Ακόμα το ψάχνουμε, οπότε...
+Voices_02_05_theta_inside|recording_5_simonrecording_1_004_simonrecording_001	Ήταν αλλόκοτο -- τόσα πολλά φώτα. Τι κάνουμε τώρα;
+Voices_02_05_theta_inside|recording_5_simonrecording_1_005_david_001	Ο Πολ κι εγώ θα κάνουμε δοκιμές για καμιά εβδομάδα. Μετά θα καταστρώσουμε ένα πλάνο για την ανάρρωσή σας.
+Voices_02_05_theta_inside|recording_5_simonrecording_1_006_simonrecording_001	Λοιπόν, είμαι ενθουσιασμένος. Ανυπομονώ να επιστρέψω στους ζωντανούς.
+Voices_02_05_theta_inside|recording_5_simonrecording_2_001_david_001	Τα κανονίσαμε όλα. Όλα είναι νόμιμα. Με την εγγύηση της Δρ. Πικ και του καθηγητή Γουέι.
+Voices_02_05_theta_inside|recording_5_simonrecording_2_002_simonrecording_001	Α, υπέροχα νέα.
+Voices_02_05_theta_inside|recording_5_simonrecording_2_003_david_001	Καμία μεγάλη αλλαγή στα φάρμακα. Θα παίρνετε μια ασπιρίνη κάθε πρωί, αλλά αυτό είναι όλο. Ο Πολ έφτιαξε μια δίαιτα με κάποιες παραλλαγές που πρέπει να δοκιμάσετε. Μπορείτε να συνεχίσετε τη φυσικοθεραπεία και θα κάνετε επίσης λίγη επιπλέον καρδιοπροπόνηση μέρα παρά μέρα.
+Voices_02_05_theta_inside|recording_5_simonrecording_2_004_simonrecording_001	Εντάξει, αρχίζει να γίνεται περίπλοκο.
+Voices_02_05_theta_inside|recording_5_simonrecording_2_005_david_001	Μην ανησυχείτε, πραγματικά δεν είναι. Θα σας παρακολουθούμε κάθε εβδομάδα, οπότε θα μπορούμε να προσαρμόζουμε το πλάνο αν χρειαστεί.
+Voices_02_05_theta_inside|recording_5_simonrecording_3_001__soundeffect_001	*μπιπ από τον καρδιογράφο*
+Voices_02_05_theta_inside|recording_5_simonrecording_3_002_david_001	Το μοντέλο ήταν σωστό. Θα έπρεπε να είχε δουλέψει.
+Voices_02_05_theta_inside|recording_5_simonrecording_3_003_simonrecording_001	Δε φταις εσύ, Ντέιβιντ.
+Voices_02_05_theta_inside|recording_5_simonrecording_3_004_david_001	Θα ήθελα πραγματικά να είχαν έρθει αλλιώς τα πράγματα.
+Voices_02_05_theta_inside|recording_5_simonrecording_3_005_simonrecording_001	Ναι, κι εγώ.
+Voices_02_05_theta_inside|recording_5_simonrecording_3_006_david_001	Υποτίθεται ότι θα σε έσωζα.
+Voices_02_05_theta_inside|recording_5_simonrecording_3_007_simonrecording_001	Έι, έχεις τον εγκέφαλό μου στο αρχείο. Ίσως μπορέσεις να τον αξιοποιήσεις κάπως.
+Voices_02_05_theta_inside|recording_5_simonrecording_3_008_david_001	Ναι, ποιος ξέρει. Δε θα σε πείραζε; Να το χρησιμοποιήσω για την έρευνά μου;
+Voices_02_05_theta_inside|recording_5_simonrecording_3_009_simonrecording_001	Φυσικά, είναι σαν να συνεχίζει να ζει ένα κομμάτι μου ή κάτι τέτοιο. Σαν δωρεά οργάνων.
+Voices_02_05_theta_inside|recording_5_simonrecording_3_009_simonrecording_002	Ξέρεις τι είναι χάλια με το θάνατο;
+Voices_02_05_theta_inside|recording_5_simonrecording_3_010_david_001	Τι;
+Voices_02_05_theta_inside|recording_5_simonrecording_3_011_simonrecording_001	Το τροχαίο. Όλα μέχρι τώρα. Η εγκεφαλική βλάβη, εσείς, όλα -- έκαναν τη ζωή μου τόσο πιο αληθινή. Άρχισα να σκέφτομαι όλα όσα θα έκανα. Ποτέ δεν είχα ενθουσιαστεί τόσο πολύ που ζω! Όλη αυτή η ελπίδα πήγε χαμένη.
+Voices_02_05_theta_inside|dialog_5_enteredscanroom_001_catherine_001	Εδώ έκανα τη σάρωσή μου... και όλες τις άλλες, υποθέτω.
+Voices_02_05_theta_inside|dialog_5_enteredscanroom_002_player_001	Δε θυμάσαι;
+Voices_02_05_theta_inside|dialog_5_enteredscanroom_003_catherine_001	Η δική μου σάρωση ήταν η πρώτη. Έπρεπε να δοκιμάσω το σαρωτή πριν αρχίσω να δίνω υποσχέσεις.
+Voices_02_05_theta_inside|dialog_2_alltasksdone_001_catherine_001	Σάιμον, τα καταφέραμε. Μπορούμε να πάμε στο DUNBAT τώρα. Γύρνα εδώ.
+Voices_02_05_theta_inside|dialog_3_correctscantraitexport_2_001_catherine_001	Ορίστε.

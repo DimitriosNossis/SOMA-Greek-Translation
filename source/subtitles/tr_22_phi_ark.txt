@@ -1,0 +1,137 @@
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playernotpressinglaunch_1_003_catherine_001	Ε, πάτα το κουμπί όταν είσαι έτοιμος.
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playerpresseslaunch_001_player_001	Πάμε. Δεν υπάρχει γυρισμός.
+Voices_05_01_phi_inside|cathandsimon_4b_cath_launchreactiontosecond_20_001_player_001	Τι πρόβλημα έχει η μεταφόρτωση;
+Voices_05_01_phi_inside|cathandsimon_4b_cath_launchreactiontosecond_20_002_catherine_001	Δώσ' του ένα δευτερόλεπτο.
+Voices_05_01_phi_inside|cathandsimon_4b_cath_launchreactiontosecond_20_003_player_001	Νόμιζα ότι στο μέλλον θα είχατε καλύτερο εύρος ζώνης.
+Voices_05_01_phi_inside|cathandsimon_4b_cath_cathisuploaded_001_player_001	Πλάκα μου κάνεις!
+Voices_05_01_phi_inside|cathandsimon_4b_cath_launchplayerstressed_001_player_001	Έλα, φόρτωσε!
+Voices_05_01_phi_inside|cathandsimon_4b_cath_simonisuploaded_001_player_001	Ναιιι!!! Ναι. Γαμάτο, τα καταφέραμε! Χα-χα! Γιούχου!
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_001_player_001	Είμαι ακόμα εδώ...; Είμαι ακόμα εδώ.
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_002_player_001	Κάθριν; Κάθριν;!
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_003_catherine_001	Εδώ είμαι.
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_004_player_001	Τι διάολο έγινε -- τι πήγε στραβά;
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_005_catherine_001	Τίποτα. Αυτοί είναι εκεί έξω, ανάμεσα στα αστέρια. Εμείς είμαστε εδώ.
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_006_player_001	Όχι, μπαίναμε στο ARK. Το είδα. Ολοκλήρωσε τη φόρτωση λίγο πριν την εκτόξευση.
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_007_catherine_001	Ναι, το είδα.
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_008_player_001	Τότε γιατί είμαστε ακόμα εδώ;
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_009_catherine_001	Σάιμον. Δεν μπορώ να σου εξηγώ συνέχεια πώς λειτουργεί· δεν ακούς. Ξέρεις γιατί είμαστε εδώ: αντιγράφτηκες στο ARK, απλώς δεν πέρασες εσύ απέναντι. Έχασες στο κορόνα-γράμματα. Χάσαμε και οι δύο. Όπως ο Σάιμον στο Όμικρον, όπως ο άντρας που πέθανε στο Τορόντο πριν από εκατό χρόνια.
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_010_player_001	Όχι όχι όχι, αυτό είναι μαλακίες! Ήρθαμε μέχρι εδώ. Εκτοξεύσαμε το ARK!
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_011_catherine_001	Ξέρω ότι είναι χάλια, αλλά τα αντίγραφά μας είναι εκεί πάνω. Η Κάθριν και ο Σάιμον είναι και οι δύο ασφαλείς στο ARK, να χαίρεσαι γι' αυτούς.
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_012_player_001	Είσαι τρελή; Θα πεθάνουμε εδώ κάτω, ενώ εκείνοι οι μαλάκες θα περνάνε ζωή και κότα σε ένα διαστημόπλοιο! Δεν είναι εμείς! Δεν είναι εμείς!
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_013_catherine_001	Λυπάμαι που νιώθεις έτσι, Σάιμον. Εγώ είμαι περήφανη για αυτό που κάναμε. Φροντίσαμε να επιβιώσει κάτι από τις εκατοντάδες χιλιάδες χρόνια ανθρώπινης ιστορίας -- να συνεχίσει να ζει κάτι.
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_014_player_001	Όχι, όχι, όχι, γαμώ το! Γαμώτο! Γαμώ το, γαμήσου! Γαμήσου, Κάθριν. Είπες ψέματα. Κι εγώ σε πίστεψα, σε εμπιστεύτηκα. Είπες ότι θα μπαίναμε στο γαμημένο το ARK!
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_015_catherine_001	Είμαστε στο ARK, ηλίθιε! Δεν είπα ψέματα! Δεν μπορώ να είμαι υπεύθυνη για τη γαμημένη σου άγνοια, ρε γαμημέ-
+Voices_05_01_phi_inside|cathandsimon_5c_cath_talkafterwakeup_016_player_001	Γαμώτο!!!
+Voices_05_01_phi_inside|cathandsimon_5c_cath_simonisleftalone_001_player_001	Κάθριν;
+Voices_05_01_phi_inside|CathAndSimon_5C_Cath_SimonIsLeftAlone_002_Player_001	Σε παρακαλώ, μη με αφήνεις μόνο.
+Voices_05_01_phi_inside|CathAndSimon_5C_Cath_SimonIsLeftAlone_003_Player_001	Κάθριν -- Κάθριν;!
+Voices_05_01_phi_inside|cathandsimon_3a_cath_playersitsonpilotseatvisordown_001_player_001	Πώς το χειρίζεσαι αυτό το πράγμα;
+Voices_05_01_phi_inside|cathandsimon_3a_cath_playersitsonpilotseatvisordown_002_catherine_001	Δεν ξέρω, αυτή δεν την έχω δοκιμάσει ποτέ. Αλλά οι Θέσεις πιλότου είναι γνωστό ότι χρησιμοποιούνται πολύ εύκολα, οπότε δε θα υπάρξει πρόβλημα.
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playerdoneloadinggunvisorup_001_catherine_001	Εντάξει. Έτοιμη όποτε είσαι κι εσύ. Απλώς πάτα το κουμπί και φύγαμε.
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playerdoneloadinggunvisorup_002_player_001	Μα πρέπει να μεταφέρουμε τα μυαλά μας στο ARK.
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playerdoneloadinggunvisorup_003_catherine_001	Πρέπει επίσης να σιγουρευτούμε ότι θα εκτοξευτεί, οπότε τα έδεσα σε ένα μόνο διακόπτη. Απλώς πάτα το κουμπί και φύγαμε.
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playernotpressinglaunch_2_001_catherine_001	Είσαι καλά;
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playernotpressinglaunch_2_002_player_001	Ναι, απλώς είναι τρελό να σκέφτομαι τι κάνουμε -- αφήνουμε πίσω τη γη.
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playernotpressinglaunch_2_003_catherine_001	Σου τρελαίνει το μυαλό, ε;
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playernotpressinglaunch_3_001_catherine_001	Έλα, Σάιμον. Ας ξεκινήσουμε. Πάτα το κουμπί.
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playernotpressinglaunch_3_002_player_001	Βαθιές ανάσες, Κάθριν. Σύντομα θα είμαστε ανάμεσα στα αστέρια.
+Voices_05_01_phi_inside|cathandsimon_4a_cath_playernotpressinglaunch_3_003_catherine_001	Ας ελπίσουμε.
+Voices_05_01_phi_inside|cathandsimon_4b_cath_launchreactiontosecond_30_001_catherine_001	Ευχαριστώ, Σάιμον.
+Voices_05_01_phi_inside|cathandsimon_4b_cath_launchreactiontosecond_30_002_player_001	Τίποτα.
+Voices_05_01_phi_inside|cathandsimon_4b_cath_launchreactiontosecond_30_003_catherine_001	Αυτό που έκανες είναι καταπληκτικό και θέλω να ξέρεις ότι το εκτιμώ.
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_001_computer_001	Τριάντα δευτερόλεπτα για την εκτόξευση
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_002_computer_001	Είκοσι δευτερόλεπτα
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_003_computer_001	Δέκα δευτερόλεπτα
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_004_computer_001	Εννέα
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_005_computer_001	Οκτώ
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_006_computer_001	Επτά
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_007_computer_001	Έξι
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_008_computer_001	Πέντε
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_009_computer_001	Τέσσερα
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_010_computer_001	Τρία
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_011_computer_001	Δύο
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_012_computer_001	Ένα
+Voices_05_01_phi_inside|terminal_4b_computer_countdownvoice_013_computer_001	Εκτόξευση.
+Voices_05_01_phi_inside|cathandsimon_1d_cath_playerfoundark_notfoundassembly_001_player_001	Εντάξει, βρήκα το ARK.
+Voices_05_01_phi_inside|cathandsimon_1d_cath_playerfoundark_notfoundassembly_002_catherine_001	Μπράβο, Σάιμον. Τώρα πρέπει απλώς να βρούμε το χώρο συναρμολόγησης για να βάλουμε το ARK σε ένα βλήμα.
+Voices_05_01_phi_inside|cathandsimon_1d_cath_playerfoundark_foundassembly_001_player_001	Να το, πήραμε πίσω το ARK!
+Voices_05_01_phi_inside|cathandsimon_1d_cath_playerfoundark_foundassembly_002_catherine_001	Μπράβο, Σάιμον. Πήγαινέ το στο χώρο συναρμολόγησης και φόρτωσε το βλήμα.
+Voices_05_01_phi_inside|cathandsimon_1e_cath_playerfoundassembly_001_player_001	Νομίζω ότι βρήκα το χώρο συναρμολόγησης.
+Voices_05_01_phi_inside|cathandsimon_1e_cath_playerfoundassembly_002_catherine_001	Τι βλέπεις;
+Voices_05_01_phi_inside|cathandsimon_1e_cath_playerfoundassembly_003_player_001	Είναι σαν ένα τεράστιο ανοιχτό περίβλημα, ένα βλήμα -- έτοιμο να φορτωθεί.
+Voices_05_01_phi_inside|cathandsimon_1e_cath_playerfoundassembly_004_catherine_001	Τέλεια! Όλα έτοιμα για το ARK.
+Voices_05_01_phi_inside|cathandsimon_1e_cath_playerfoundassembly_foundark_001_player_001	Αναλαμβάνω.
+Voices_05_01_phi_inside|cathandsimon_1e_cath_playerfoundassembly_notfoundark_001_player_001	Σωστά, πάω να το πάρω.
+Voices_05_01_phi_inside|cathandsimon_1g_cath_shellissetup_001_player_001	Αυτό ήταν;
+Voices_05_01_phi_inside|cathandsimon_1g_cath_shellissetup_002_catherine_001	Δεν ξέρω και πολλά από όπλα οποιουδήποτε μεγέθους-- Α, να. Όλα τα συστήματα έτοιμα!
+Voices_05_01_phi_inside|cathandsimon_1g_cath_shellissetup_003_player_001	Γεμίσαμε.
+Voices_05_01_phi_inside|cathandsimon_1g_cath_shellissetup_004_catherine_001	Ανέβα πάνω και θα πάμε στο κανόνι.
+Voices_05_01_phi_inside|comments_player_enters_level_001_player_001	Αυτό πρέπει να είναι το Φι, σωστά; Ελπίζω το ARK να έφτασε εδώ ακέραιο.
+Voices_05_01_phi_inside|comments_ark_noclimb_first_001_player_001	Πώς υποτίθεται ότι...; Δεν μπορώ να σκαρφαλώσω με το ARK.
+Voices_05_01_phi_inside|comments_ark_noclimb_001_player_001	Χρειάζεται στ' αλήθεια να ανεβάσω το ARK εκεί πάνω;
+Voices_05_01_phi_inside|comments_ark_noclimb_002_player_001	Δεν είμαι σίγουρος ότι πρέπει να ανεβάσω το ARK πάνω.
+Voices_05_01_phi_inside|comments_ark_noclimb_003_player_001	Δε θέλω ούτε να δοκιμάσω να σκαρφαλώσω με το ARK.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_4_extralosthand_001_catherine_001	Σοβαρά δε θα μου πεις τι έπαθε το χέρι σου;
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_4_extralosthand_002_player_001	Έπρεπε να κάνω μια γρήγορη στάση στη βάση Άλφα για να βοηθήσω να σκοτωθεί το WAU.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_4_extralosthand_003_catherine_001	Τι; Πώς; Γιατί;
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_4_extralosthand_004_player_001	Για να σταματήσει να βασανίζει τη μνήμη της ανθρωπότητας.
+Voices_05_01_phi_inside|cathandsimon_1c_cath_gotoark_4_extralosthand_005_catherine_001	Εντάξει, ας γυρίσουμε στη δουλειά.
+Voices_05_01_phi_inside|cathandsimon_slideshow_001_computer_001	Ένας δορυφόρος φορτώνεται σε ένα βλήμα.
+Voices_05_01_phi_inside|cathandsimon_slideshow_002_computer_001	Το βλήμα επιταχύνεται από ηλεκτρομαγνήτες κατά μήκος της κάννης.
+Voices_05_01_phi_inside|cathandsimon_slideshow_003_computer_001	Πριν την έξοδο αποκτά αρκετή ορμή για να ξεφύγει από τη βαρύτητα της γης.
+Voices_05_01_phi_inside|cathandsimon_slideshow_004_computer_001	Φτάνοντας στο διάστημα, ο δορυφόρος αποβάλλει το βλήμα και ξεδιπλώνεται.
+Voices_05_01_phi_inside|cathandsimon_slideshow_005_computer_001	Οι προωθητήρες του δορυφόρου τον τοποθετούν σε τροχιά.
+Voices_05_02_ARK_inside|general_1bwakeup_001_simon_001	Ουάου. Είναι...; Πέτυχε;
+Voices_05_02_ARK_inside|general_1dcommentonworld_001_simon_001	Αυτό είναι καταπληκτικό.
+Voices_05_02_ARK_inside|general_1dcommentonworld_002_simon_001	Μοιάζει τόσο αληθινό.
+Voices_05_02_ARK_inside|general_1dcommentonworld_003_simon_001	Δεν το πιστεύω ότι πέτυχε.
+Voices_05_02_ARK_inside|general_1dcommentonworld_004_simon_001	Ναι, τα καταφέραμε!
+Voices_05_02_ARK_inside|general_1eseecatherine_001_simon_001	Κάθριν;
+Voices_05_02_ARK_inside|general_1eseecatherineprompts_001_catherine_001	Γεια σου. Κάθισε.
+Voices_05_02_ARK_inside|general_1eseecatherineprompts_002_catherine_001	Έλα, κάτσε μαζί μου.
+Voices_05_02_ARK_inside|general_1eseecatherineprompts_003_catherine_001	Κάτσε, Σάιμον.
+Voices_05_02_ARK_inside|general_1eseecatherineprompts_004_catherine_001	Κάτσε επιτέλους.
+Voices_05_02_ARK_inside|general_1fbenchtalk_001_simon_001	Αυτό είναι πραγματικά αληθινό. Εννοώ, μοιάζει τόσο ζωντανό.
+Voices_05_02_ARK_inside|general_1fbenchtalk_002_catherine_001	Ευχαριστώ. Χαίρομαι που σου αρέσει.
+Voices_05_02_ARK_inside|general_1fbenchtalk_003_simon_001	Εννοώ, αυτό είναι το ARK, σωστά;
+Voices_05_02_ARK_inside|general_1fbenchtalk_004_catherine_001	Ναι, τι άλλο θα μπορούσε να είναι;
+Voices_05_02_ARK_inside|general_1fbenchtalk_005_simon_001	Τότε τα καταφέραμε στ' αλήθεια. Ξέρω ότι υποτίθεται πως θα ήταν παράδεισος, αλλά είναι...
+Voices_05_02_ARK_inside|general_1fbenchtalk_006_catherine_001	...πολύ καλύτερο από το Pathos;
+Voices_05_02_ARK_inside|general_1fbenchtalk_007_simon_001	Αυτό είναι το λιγότερο. Άρα είμαστε εντάξει;
+Voices_05_02_ARK_inside|general_1fbenchtalk_008_catherine_001	Ναι. Βρισκόμαστε με ασφάλεια σε τροχιά γύρω από τον ήλιο.
+Voices_05_02_ARK_inside|general_1fbenchtalk_009_simon_001	Είναι όλοι καλά;
+Voices_05_02_ARK_inside|general_1fbenchtalk_010_catherine_001	Ο Μπράντον είναι εδώ, αν αυτό εννοούσες.
+Voices_05_02_ARK_inside|general_1fbenchtalk_011_simon_001	Και η Λίντγουολ;
+Voices_05_02_ARK_inside|general_1fbenchtalk_012_catherine_001	Η Σάρα; Είναι εδώ.
+Voices_05_02_ARK_inside|general_1fbenchtalk_013_simon_001	Δηλαδή δε χρειάζεται να κάνω τίποτα άλλο;
+Voices_05_02_ARK_inside|general_1fbenchtalk_014_catherine_001	Ε, μπορείς να κοιτάξεις εκεί.
+Voices_05_02_ARK_inside|general_1fplayernotlooking1_001_simon_001	Πού;
+Voices_05_02_ARK_inside|general_1fplayernotlooking1_002_catherine_001	Εκεί πέρα.
+Voices_05_02_ARK_inside|general_1fplayernotlooking2_001_simon_001	Πού;
+Voices_05_02_ARK_inside|general_1fplayernotlooking2_002_catherine_001	Στην άλλη άκρη της λίμνης.
+Voices_05_02_ARK_inside|general_1fplayernotlooking3_001_simon_001	Εμ, δεν είμαι σίγουρος πού πρέπει να κοιτάξω.
+Voices_05_02_ARK_inside|general_1fplayernotlooking3_002_catherine_001	*αναστενάζει* Συνέχισε να προσπαθείς, ιδιοφυΐα.
+Voices_05_02_ARK_inside|general_1garkcityappears_001_simon_001	Τι είναι αυτό;
+Voices_05_02_ARK_inside|general_1garkcityappears_002_catherine_001	Είναι η πόλη που χτίζουμε.
+Voices_05_02_ARK_inside|general_1garkcityappears_003_simon_001	Έχει χώρο και για μένα;
+Voices_05_02_ARK_inside|general_1garkcityappears_004_catherine_001	Ναι, έχει.
+Voices_05_02_ARK_inside|general_1hboatreminders1_001_catherine_001	Πάμε εκεί.
+Voices_05_02_ARK_inside|general_1hboatreminders2_001_catherine_001	Έλα. Δεν είσαι περίεργος;
+Voices_05_02_ARK_inside|general_1hboatreminders3_001_catherine_001	Έλα, Σάιμον. Ώρα να πάμε σπίτι.
+Voices_05_02_ARK_inside|general_1eseecatherine2_ver1_001_player_001	Κάθριν!
+Voices_05_02_ARK_inside|general_1eseecatherine2_ver1_002_catherine_001	Τα καταφέραμε!
+Voices_05_02_ARK_inside|general_1ESeeCatherine2_Ver2_001_Player_001	Κάθριν! Τα καταφέραμε!
+Voices_05_02_ARK_inside|general_1ESeeCatherine2_Ver2_002_Catherine_001	Σίγουρα τα καταφέραμε.
+Voices_05_02_ARK_inside|general_1ESeeCatherine2_Ver3_001_Player_001	Πέτυχε, Κάθριν! Πέτυχε!
+Voices_05_02_ARK_inside|general_1ESeeCatherine2_Ver3_002_Catherine_001	Ήξερα ότι θα τα καταφέρναμε.
+Voices_05_03_space|general_finalwords_version1_001_player_001	Αυτό το μέρος είναι απίστευτο.
+Voices_05_03_space|general_finalwords_version1_002_catherine_001	Χαίρομαι που σου αρέσει.
+Voices_05_03_space|general_finalwords_version1_003_player_001	Τόσο ζωντανό.
+Voices_05_03_space|general_finalwords_version2_001_player_001	Δεν το πιστεύω ότι τα καταφέραμε στ' αλήθεια.
+Voices_05_03_space|general_finalwords_version2_002_catherine_001	Ε, τα καταφέραμε.
+Voices_05_03_space|general_finalwords_version2_003_player_001	Νιώθω τόση ανακούφιση.
+Voices_05_03_space|general_finalwords_version2_004_catherine_001	Όλα καλά, Σάιμον. Όλα είναι εντάξει τώρα.
+Voices_05_03_space|general_finalwords_version3_001_player_001	Είναι όλοι καλά; Τους σώσαμε όλους;
+Voices_05_03_space|general_finalwords_version3_002_catherine_001	Ναι. Σώσαμε όλους.
+Voices_05_03_space|general_finalwords_version4_001_player_001	Αιωνιότητα ανάμεσα στα αστέρια, σωστά;
+Voices_05_03_space|general_finalwords_version4_002_catherine_001	Σωστά, Σάιμον. Αιωνιότητα ανάμεσα στα αστέρια.

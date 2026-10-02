@@ -1,0 +1,170 @@
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_2_007_goya_001	Δε θέλω να πεθάνω.
+Voices_02_03_delta|goya_2_confusedrobotidling_damaged_2_008_goya_001	Γιατί συμβαίνει αυτό;
+Voices_02_03_delta|dialog_8_cathhint_nostunrod_1_001_catherine_001	Πάρε το ηλεκτρικό γκλοπ από το κουτί που άνοιξα και κυνήγησε ένα ρομπότ με τσιπ εργαλείων που δουλεύει.
+Voices_02_03_delta|dialog_8_cathhint_nochip_1_001_catherine_001	Ε, χρειαζόμαστε το τσιπ εργαλείων, θυμάσαι; Δε σκοτώνουμε ρομπότ για πλάκα, ξέρεις.
+Voices_02_03_delta|dialog_8_cathhint_nochip_2_001_catherine_001	Πάρε το τσιπ από το ρομπότ που έριξες.
+Voices_02_03_delta|dialog_8_cathhint_nostunrod_2_001_catherine_001	Πάρε το ηλεκτρικό γκλοπ από το κουτί εκεί πέρα και μετά ψάξε για ένα ρομπότ με τσιπ εργαλείων που δουλεύει.
+Voices_02_03_delta|dialog_8_cathhint_hurtrobot_1_001_catherine_001	Χρειαζόμαστε ένα τσιπ εργαλείων από κάποιο ρομπότ. Θα μπορείς να τα ρίξεις με το ηλεκτρικό γκλοπ που πήρες.
+Voices_02_03_delta|dialog_8_cathhint_hurtrobot_2_001_catherine_001	Χρησιμοποίησε το ηλεκτρικό γκλοπ που πήρες για να ρίξεις ένα ρομπότ και να του κλέψεις το τσιπ εργαλείων.
+Voices_02_03_delta|dialog_8_cathhint_killrobot_1_001_catherine_001	Το γκλοπ δεν είναι ακριβώς φτιαγμένο για ρομπότ, μάλλον θα πρέπει να το χτυπήσεις μερικές φορές.
+Voices_02_03_delta|dialog_8_cathhint_killrobot_2_001_catherine_001	Πρέπει να συνεχίσεις να χτυπάς το ρομπότ μέχρι να πέσει.
+Voices_02_03_delta|comment_2_restateobjective_001_player_001	Μην ανησυχείς, Κάθ. Θα βρω τρόπο να πάμε στο Θήτα.
+Voices_02_03_delta|comment_3_kateopeneddoor_001_player_001	Καλό ρομπότ!
+Voices_02_03_delta|goya_2_goyainteract_player_001_player_001	Έι, μήπως θα μπορούσες να βοηθήσεις; Πρέπει να πάω στο Θήτα.
+Voices_02_03_delta|goya_2_goyainteract_player_002_player_001	Έι, με ακούς;
+Voices_02_03_delta|goya_2_goyainteract_player_003_player_001	Έι, εσύ...
+Voices_02_03_delta|goya_2_goyainteract_player_004_player_001	Άκου...
+Voices_02_03_delta|goya_2_goyainteract_goya_001_goya_001	Μη στέκεσαι εκεί, το ξέρεις καλύτερα απ' αυτό.
+Voices_02_03_delta|goya_2_goyainteract_goya_002_goya_001	Δώσε ένα χέρι εδώ, θέλεις;
+Voices_02_03_delta|goya_2_goyainteract_goya_003_goya_001	Κάνε μου λίγο χώρο, θέλεις;
+Voices_02_03_delta|goya_2_goyainteract_goya_004_goya_001	Κάνε κάτι χρήσιμο.
+Voices_02_03_delta|goya_2_goyainteract_goya_005_goya_001	Μην ανησυχείς, το έχω.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_001_catherine_001	Τα πήγες πολύ καλά εκεί πίσω, Σάιμον. Κάναμε μια μικρή παράκαμψη στο Δέλτα, αλλά είμαστε ξανά σε καλό δρόμο.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_002_player_001	Ναι.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_003_catherine_001	Θα προσγειωθούμε σε μια πλατφόρμα φορτίων ακριβώς έξω από το Θήτα. Μετά απλώς μπαίνουμε μέσα, παίρνουμε το DUNBAT και κατεβαίνουμε στην άβυσσο. 4.000 μέτρα. Μεγάλη απόσταση.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_003_catherine_002	Δε χρειάζεται όμως να ανησυχούμε, γιατί με το DUNBAT το ARK θα μπορούσε να βρίσκεται και στην τάφρο των Μαριανών -- αντέχει τα πάντα.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_004_player_001	Τέλεια.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_005_catherine_001	Και μετά μπορούμε να αρχίσουμε να ακούμε τους άλλους όταν μιλάνε, γιατί έτσι λειτουργούν οι συζητήσεις.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_006_player_001	Τι; Α, συγγνώμη. Απλώς δεν μπορώ να σταματήσω να σκέφτομαι τι έχουμε γίνει. Είναι σαφές ότι δεν είμαστε πια άνθρωποι. Πώς όμως μπορώ να νιώθω σαν το Σάιμον; Πώς μπορώ να νιώθω οτιδήποτε;
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_006_player_002	Δηλαδή, τεχνικά δεν έχω αυτιά, ούτε στόμα -- Χριστέ μου, τι περίεργο να το σκέφτεσαι. Δηλαδή βγάζω ήχους. Εξακολουθώ να λέω πράγματα.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_007_catherine_001	Σίγουρα λες.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_007_catherine_002	Εντάξει, το νέο σου σώμα πιθανότατα έχει αισθήσεις παρόμοιες με αυτές που είχες ως άνθρωπος. Και το μυαλό σου, που ξέρει μόνο έναν τρόπο να αντιλαμβάνεται τον κόσμο, απλώνει αυτές τις δεξιότητες πάνω στα νέα σου χαρακτηριστικά.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_008_player_001	Δηλαδή το μυαλό μου το κουκουλώνει -- κάνει σαν να μην άλλαξε τίποτα.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_009_catherine_001	Αν δεν το έκανε, μάλλον δε θα μπορούσες να αλληλεπιδράσεις καθόλου με τον κόσμο. Και το άγχος είτε θα σε σκότωνε είτε θα σε τρέλαινε.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_010_player_001	Δηλαδή βρήκα μια καλή ισορροπία ανάμεσα στην επίγνωση και την άγνοια.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_010_player_002	Σημαίνει αυτό ότι δεν πρέπει να σκέφτομαι αυτά τα πράγματα, ή μήπως οι σκέψεις μου με βοηθάνε στην πραγματικότητα να το αντέξω;
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_012_player_001	Θα μπορούσα να χαλάσω την ισορροπία αν ξαφνικά καταλάβω κάτι και να τρελαθώ;
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_013_catherine_001	Δε θα ανησυχούσα γι' αυτό. Δηλαδή, έχουμε πραγματικά πράγματα να αντιμετωπίσουμε. Να σώσουμε την ανθρωπότητα, θυμάσαι;
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_013_catherine_002	Που λέει ο λόγος. Πλησιάζουμε στο Θήτα -- θα βγάλω το omnitool. Όπως πάντα, μην ξεχάσεις να με πάρεις μαζί σου.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_014_player_001	Κάθ, πριν φύγεις; Η τεχνητή νοημοσύνη που ανέφερες στο σκάφος διάσωσης;
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_015_player_001	Α-χα, ναι, η μονάδα επιτήρησης;
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_016_player_001	Φταίει το WAU που είμαστε έτσι; Δηλαδή, μοιάζει με κάτι που θα έκανε μια αναξιόπιστη AI.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_017_catherine_001	Υποθέτω ότι αυτό έβαλε τα πράγματα σε κίνηση, αλλά δεν το κάνει με κάποιο σκοπό.
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_017_catherine_002	Είναι πολύ περίπλοκο να εξηγήσεις πώς σκέφτονται οι μηχανές, Σάιμον. Συγκεντρώσου στο να μπεις στο Θήτα, εντάξει;
+Voices_02_04_theta_outside|dialog_1_catherinegivesdirections_019_catherine_001	Τα λέμε σύντομα.
+Voices_02_04_theta_outside|comment_3_openingmechanismbroken_001_player_001	Μπορώ να το λύσω αυτό.
+Voices_02_04_theta_outside|datamine_antennadatamine_001_strohmeier_001	Είναι ανοιχτό αυτό, με ακούνε όλοι;
+Voices_02_04_theta_outside|datamine_antennadatamine_002_strasky_001	Προχώρα, Στρομ.
+Voices_02_04_theta_outside|datamine_antennadatamine_003_strohmeier_001	Ακούστε, όλα τα μέλη του προσωπικού.
+Voices_02_04_theta_outside|datamine_antennadatamine_004_strohmeier_001	Το πρόγραμμα ARK έχει προκαλέσει πολλούς καβγάδες τους τελευταίους μήνες. Δε θα προσποιηθώ ότι καταλαβαίνω τι διάολο έλεγε ο Σαράνγκ και πώς η «Συνέχειά» του έκανε ξαφνικά λογικό να αυτοκτονήσεις.
+Voices_02_04_theta_outside|datamine_antennadatamine_004_strohmeier_002	Για όνομα του γαμημένου Θεού ή οτιδήποτε θεωρείτε σημαντικό, μην αυτοκτονείτε. Αυτό το μέρος είναι αρκετά μίζερο -- μην αναγκάζετε τους φίλους σας να καθαρίζουν το αίμα σας.
+Voices_02_04_theta_outside|datamine_antennadatamine_004_strohmeier_003	Αναπαυθείτε εν ειρήνη, όλοι σας.
+Voices_02_04_theta_outside|datamine_antennadatamine_005_strohmeier_001	Καλό;
+Voices_02_04_theta_outside|datamine_antennadatamine_006_strasky_001	Υπέροχο, κύριε.
+Voices_02_04_theta_outside|datamine_antennadatamine_007_strasky_001	Εντάξει, όλοι. Η παράσταση τελείωσε. Πίσω στη δουλειά.
+Voices_02_04_theta_outside|dialog_bassrobot_wakes_001_bassrobot_001	Αυτά είναι όλα, σωστά; Ευχαριστώ, Κάθριν.
+Voices_02_04_theta_outside|dialog_bassrobot_wakes_002_bassrobot_001	Περίμενε, είμαι ήδη εδώ;
+Voices_02_04_theta_outside|dialog_bassrobot_line1_001_bassrobot_001	Δεν καταλαβαίνω.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation1_001_player_001	Γεια;
+Voices_02_04_theta_outside|dialog_bassrobot_conversation1_002_bassrobot_001	Ποιος είναι; Μαρκ;
+Voices_02_04_theta_outside|dialog_bassrobot_conversation1_003_player_001	Όχι. Δεν έχουμε ξανασυναντηθεί.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation1_004_bassrobot_001	Αυτό είναι το ARK;
+Voices_02_04_theta_outside|dialog_bassrobot_conversation1_005_player_001	Νομίζω ότι είμαστε ασφαλείς.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation1_006_bassrobot_001	Ω, ανησυχούσα τόσο πολύ ότι κάτι είχε πάει στραβά.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation1_007_player_001	Πώς σε λένε;
+Voices_02_04_theta_outside|dialog_bassrobot_conversation1_008_bassrobot_001	Ρόμπιν Μπας, τεχνικός πεδίου στο Θήτα.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation1_009_player_001	Χάρηκα, Ρόμπιν.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation2_001_player_001	Πώς βρέθηκες εδώ;
+Voices_02_04_theta_outside|dialog_bassrobot_conversation2_002_bassrobot_001	Σαρώθηκα, όπως οι άλλοι. Και μετά αυτοκτόνησα.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation2_002_bassrobot_002	Τουλάχιστον έτσι νομίζω. Δε θυμάμαι αυτό το κομμάτι.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation2_003_player_001	Πώς λειτουργεί αυτό; Ο θάνατος σε έβαλε στο ARK;
+Voices_02_04_theta_outside|dialog_bassrobot_conversation2_004_bassrobot_001	Ουάου, σίγουρα δεν είσαι από το Θήτα. Να μαντέψω, Όμικρον; Δεν ήμουν σίγουρη ότι η Κάθριν θα μπορούσε να σαρώσει κι εσάς. Είσαι τυχερός. Γινόταν πολλή κουβέντα γι' αυτό στο Θήτα.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation2_004_bassrobot_002	Η ιδέα είναι ότι όταν ενεργοποιείσαι στο ARK, ουσιαστικά υπάρχουν δύο από εσένα, σωστά; Ένας άνθρωπος και μια ζωντανή σάρωση στο ARK.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation2_004_bassrobot_003	Δε θέλεις να επιζήσει το αντίγραφό σου αντί για σένα, θέλεις εσύ ο ίδιος να επιζήσεις στο ARK. Αν ο ανθρώπινος εαυτός σου πεθάνει πριν ξεκινήσει η σάρωση ή λίγο μετά, τότε εσύ ο ίδιος θα συνεχίσεις να ζεις στο ARK. Καταπληκτικό, έτσι;
+Voices_02_04_theta_outside|dialog_bassrobot_conversation3_001_player_001	Η Κάθριν σε έβαλε να το κάνεις αυτό -- να αυτοκτονήσεις;
+Voices_02_04_theta_outside|dialog_bassrobot_conversation3_002_bassrobot_001	Η Κάθριν Τσαν; Όχι. Νομίζω ότι δεν καταλαβαίνεις. Εκείνη απλώς έκανε σαρώσεις και τις έβαζε στο ARK.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation3_002_bassrobot_002	Ελπίζω να τη συναντήσω σύντομα για να της ζητήσω συγγνώμη. Πάντα έμπαινε σε μπελάδες με το Στρόμαϊερ όταν κάποιος αυτοκτονούσε.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation3_003_player_001	Νομίζω ότι δεν την πειράζει.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation3_004_bassrobot_001	Πού είναι όλοι; Νόμιζα ότι θα ήταν εδώ καμιά σαρανταριά με πενήντα άτομα.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation3_005_player_001	Δεν ξέρω. Θα σου πω αν δω κανέναν.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation4_001_player_001	Ρόμπιν, δεν ξέρω πώς να το πω αυτό.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation4_002_bassrobot_001	Τι;
+Voices_02_04_theta_outside|dialog_bassrobot_conversation4_003_player_001	Αυτό... αυτό είναι...
+Voices_02_04_theta_outside|dialog_bassrobot_conversation4_004_bassrobot_001	Ναι;
+Voices_02_04_theta_outside|dialog_bassrobot_conversation4_005_player_001	Αρκετά καταπληκτικό, έτσι; Εννοώ το ARK.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation4_006_bassrobot_001	Ναι, είναι υπέροχο. Η Κάθριν και τα παιδιά τα κατάφεραν πραγματικά. Μας έσωσαν όλους.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation5_001_player_001	Τα λέμε αργότερα.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation5_002_bassrobot_001	Εντάξει.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation6_001_player_001	Εγώ θα πηγαίνω τώρα.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation6_002_bassrobot_001	Πες μου αν βρεις κανέναν άλλον.
+Voices_02_04_theta_outside|dialog_bassrobot_conversation7_001_player_001	Είσαι καλά;
+Voices_02_04_theta_outside|dialog_bassrobot_conversation7_002_bassrobot_001	Νομίζω. Νιώθω μια χαρά.
+Voices_02_04_theta_outside|dialog_bassrobot_die_001_bassrobot_001	Θεέ μου! Τι κάνεις -- σταμάτα, σταμάτα, σταμάτα, σε παρακαλώ!
+Voices_02_04_theta_outside|dialog_bassrobot_die_002_player_001	*κοφτή ανάσα*
+Voices_02_04_theta_outside|dialog_bassrobot_line2_001_bassrobot_001	Έτσι υποτίθεται ότι πρέπει να μοιάζει;
+Voices_02_04_theta_outside|dialog_bassrobot_line3_001_bassrobot_001	Περίμενα κάτι διαφορετικό.
+Voices_02_04_theta_outside|dialog_bassrobot_line4_001_bassrobot_001	Πού είναι όλοι -- δεν είμαι η μόνη που σαρώθηκε.
+Voices_02_04_theta_outside|dialog_bassrobot_line5_001_bassrobot_001	Μαρκ; Εμπρός;
+Voices_02_04_theta_outside|dialog_bassrobot_line6_001_bassrobot_001	Είναι όμως διαφορετικό.
+Voices_02_04_theta_outside|dialog_bassrobot_line7_001_bassrobot_001	Ίσως αυτός να είναι ο παράδεισος.
+Voices_02_04_theta_outside|dialog_bassrobot_line8_001_bassrobot_001	Απλώς δεν είμαι προετοιμασμένη.
+Voices_02_04_theta_outside|dialog_bassrobot_line9_001_bassrobot_001	Ίσως είναι κάτι στο οποίο θα γίνω καλύτερη.
+Voices_02_04_theta_outside|dialog_bassrobot_line10_001_bassrobot_001	Δεν μπορώ να καταλάβω αν αυτό ήταν.
+Voices_02_04_theta_outside|dialog_bassrobot_line11_001_bassrobot_001	Ε;
+Voices_02_04_theta_outside|dialog_bassrobot_line12_001_bassrobot_001	Ουάου.
+Voices_02_04_theta_outside|dialog_bassrobot_line13_001_bassrobot_001	Ω.
+Voices_02_04_theta_outside|dialog_bassrobot_line14_001_bassrobot_001	Τι...
+Voices_02_04_theta_outside|dialog_bassrobot_line15_001_bassrobot_001	Χμ.
+Voices_02_04_theta_outside|datamine_landingdatamine_001_alvaro_001	Στράσκι, ξύπνα τη Δρ. Μάστερς -- φέρνουμε τον Έικερς.
+Voices_02_04_theta_outside|datamine_landingdatamine_002_strasky_001	Τι συμβαίνει;
+Voices_02_04_theta_outside|datamine_landingdatamine_003_alvaro_001	Τι να πω -- είχε δύσκολη μέρα.
+Voices_02_04_theta_outside|datamine_landingdatamine_004_wan_001	Χριστέ μου! Τον έχουν κατακρεουργήσει θραύσματα της δομής. Το WAU τον έκανε χάλια.
+Voices_02_04_theta_outside|datamine_landingdatamine_005_alvaro_001	Μπράντον, γύρνα το διακόπτη πανικού στη στολή -- δε θέλω να καίμε οξυγόνο.
+Voices_02_04_theta_outside|datamine_landingdatamine_006_wan_001	Πλάκα μου κάνεις, έτσι; Κρέμεται από μια γαμημένη κλωστή. Πρέπει να το μετακινήσουμε.
+Voices_02_04_theta_outside|datamine_landingdatamine_007_alvaro_001	Στράσκι, ετοίμασε το ιατρείο. Πρέπει να κινηθούμε γρήγορα.
+Voices_02_04_theta_outside|datamine_landingdatamine_008_strasky_001	Περίμενε! Πού είναι η Κομορέμπι και οι άλλοι;
+Voices_02_04_theta_outside|datamine_landingdatamine_009_alvaro_001	Μόνο αυτό έχουμε. Μάλλον είναι ακόμα στο Δέλτα.
+Voices_02_04_theta_outside|datamine_landingdatamine_010_wan_001	Έμα, δεν μπορώ μόνος μου -- πιάσε από την άλλη μεριά.
+Voices_02_04_theta_outside|datamine_landingdatamine_012_alvaro_001	Στράσκ, έτοιμος ή όχι, ερχόμαστε.
+Voices_02_04_theta_outside|datamine_landingdatamine_013_strasky_001	Εντάξει. Τα λέμε σύντομα.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_001_cathdatamine_001	Σάρα, είσαι εκεί;
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_002_lindwall_001	Ποιος είναι; Η Κάθριν; Είμαι απασχολημένη, δουλεύω.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_003_cathdatamine_001	Ήθελα απλώς να σου πω: ευχαριστώ... γι' αυτό που έκανες.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_004_lindwall_001	Μην το σκέφτεσαι. Αλλά πρέπει να υπερασπίζεσαι τον εαυτό σου. Δηλαδή, ο Στρόμαϊερ δεν έχει τέτοια εξουσία. Μπορείς απλώς να του πεις να πάει να γαμηθεί.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_005_cathdatamine_001	Απλώς δεν... Δεν είμαι τέτοιος άνθρωπος.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_006_lindwall_001	Δεν μπορείς να περιμένεις από τους άλλους να παλεύουν για σένα συνέχεια. Είσαι εξαιρετικός άνθρωπος, Κάθ. Είσαι τόσο έξυπνη που ζαλίζομαι. Αλλά μερικές φορές απλώς χάνεσαι μέσα στον εαυτό σου. Ξαφνικά είναι σαν να μιλάς σε ένα γαμημένο πεντάχρονο.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_007_cathdatamine_001	Απλώς είναι δύσκολο. Δεν μπορώ ξαφνικά να γίνω έτσι. Όλοι θα καταλάβαιναν ότι προσποιούμαι.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_008_lindwall_001	Δεν είναι αργά να κερδίσεις τους ανθρώπους. Ο Στράσκι σε συμπαθεί. Εγώ σε συμπαθώ. Η Ριντ σε συμπαθεί.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_009_cathdatamine_001	Ο Στράσκι συμπαθεί τους πάντες.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_010_lindwall_001	Ναι, αυτό είναι αλήθεια.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_011_cathdatamine_001	Περίμενε, πιστεύεις ότι η Ριντ με συμπαθεί;
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_012_lindwall_001	Κάθριν. Πολλοί άνθρωποι σε συμπαθούν. Απλώς πρέπει να ανοιχτείς λίγο. Να είσαι πιο προσιτή.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_012_lindwall_002	Μπορώ να γυρίσω στη δουλειά μου τώρα; Δε θέλω να φάω δεύτερη επίπληξη την ίδια μέρα.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_013_cathdatamine_001	Εντάξει, τα λέμε μέσα.
+Voices_02_04_theta_outside|datamine_radiodataminecathlindwall_014_lindwall_001	Τέλος επικοινωνίας.
+Voices_02_04_theta_outside|datamine_7_dataminebrokenradio_001_akers_001	Με ακούς που μιλάω; Φυσικά και με ακούς.
+Voices_02_04_theta_outside|datamine_7_dataminebrokenradio_001_akers_002	Ήθελα να ξέρεις ότι ξέρω. Δε με διάλεξες στα τυφλά μέσα από το κοπάδι.
+Voices_02_04_theta_outside|datamine_7_dataminebrokenradio_001_akers_003	Τα αργά κύματα του Δέλτα που σκάνε στην ακτή είχαν ένα ρεύμα που σε τραβάει σε λήθαργο.
+Voices_02_04_theta_outside|datamine_7_dataminebrokenradio_001_akers_004	Είναι κάτι πανέμορφο και δε θα γίνω εγωιστής. Θα βοηθήσω, θα τους σκεπάσω, θα τους βλέπω να κοιμούνται.
+Voices_02_04_theta_outside|datamine_7_dataminebrokenradio_001_akers_005	Θα βρουν κι αυτοί γαλήνη μέσα στο σύμπαν του WAU.
+Voices_02_05_theta_inside|comment_2_leftairlockcomment_001_player_001	Γεια, είναι κανείς εδώ;
+Voices_02_05_theta_inside|comment_2_leftairlockcomment_002_player_001	Λοιπόν, Κάθριν, βρήκαμε το Θήτα.
+Voices_02_05_theta_inside|dialog_3_incorrectscanupload_001_catherine_001	Όχι, δε θα δουλέψει. Χρειαζόμαστε κάποιον από την ομάδα ασφαλείας του Θήτα.
+Voices_02_05_theta_inside|dialog_3_incorrectscanupload_002_catherine_001	Ούτε αυτός θα δουλέψει. Ψάξε για ανθρώπους της ασφάλειας, όπως ο Κρόνστεντ ή ο Στρόμαϊερ.
+Voices_02_05_theta_inside|dialog_3_incorrectscanupload_003_catherine_001	Όχι, δε νομίζω. Ο Στρόμαϊερ στρατολόγησε ανθρώπους από τις βάσεις που εκκενώθηκαν. Θα πρέπει κι αυτοί να ξέρουν τον κωδικό, αν βρεις κάποιον από αυτούς.
+Voices_02_05_theta_inside|dialog_3_incorrectscanupload_004_catherine_001	Εντάξει, δοκίμασε να διαβάσεις πραγματικά τις πληροφορίες και μετά διάλεξε έναν.
+Voices_02_05_theta_inside|dialog_3_incorrectscanupload_005_catherine_001	*απογοητευμένος αναστεναγμός*
+Voices_02_05_theta_inside|dialog_3_incorrectscanupload_006_catherine_001	*χμφ*
+Voices_02_05_theta_inside|dialog_3_incorrectscanupload_007_catherine_001	*εκνευρισμένος αναστεναγμός*
+Voices_02_05_theta_inside|dialog_3_correctscantraitexport_1_001_catherine_001	Πολλά υποσχόμενο. Θα το φορτώσω και θα ξεκινήσω τον προσομοιωτή.
+Voices_02_05_theta_inside|dialog_3_scanuploadexplanation_001_catherine_001	Θα πρέπει να υπάρχει μια λίστα με ανθρώπους. Δες αν υπάρχει κάποιος που μπορεί να ξέρει κωδικό ασφαλείας.
+Voices_02_05_theta_inside|dialog_3_foundunburntchip_001_catherine_001	Ένα ακέραιο τσιπ μνήμης. Αν είμαστε τυχεροί, ίσως μπορέσουμε να εξαγάγουμε τον κωδικό από αυτό.
+Voices_02_05_theta_inside|simulation_3_alonescanroom_1_001_wan_001	Δεν ήταν και τόσο άσχημα. Ο Στρόμαϊερ με είχε αγχώσει για τα καλά. Κάθαρμα.
+Voices_02_05_theta_inside|simulation_3_alonescanroom_1_002_wan_001	Τι... πού πήγε... Άλις;
+Voices_02_05_theta_inside|simulation_3_alonebeach_1_001_wan_001	Δεν ήταν και τόσο άσχημα. Ο Στρόμαϊερ με είχε αγχώσει για τα καλά. Κάθαρμα.
+Voices_02_05_theta_inside|simulation_3_alonebeach_1_002_wan_001	Τι... πώς βρέθηκα εδώ;
+Voices_02_05_theta_inside|simulation_3_alonecabin_1_001_wan_001	Δεν ήταν και τόσο άσχημα. Ο Στρόμαϊερ με είχε αγχώσει για τα καλά. Κάθαρμα.
+Voices_02_05_theta_inside|simulation_3_alonecabin_1_002_wan_001	Τι... τι είναι αυτό; Πού είμαι;
+Voices_02_05_theta_inside|simulation_3_alicevoid_1_001_wan_001	Δεν ήταν και τόσο άσχημα. Ο Στρόμαϊερ με είχε αγχώσει για τα καλά. Κάθαρμα.
+Voices_02_05_theta_inside|simulation_3_alicecabin_1_001_wan_001	Δεν ήταν και τόσο άσχημα. Ο Στρόμαϊερ με είχε αγχώσει για τα καλά. Κάθαρμα.
+Voices_02_05_theta_inside|simulation_3_alicecabin_1_002_wan_001	Τι έπαθε το δωμάτιο;
+Voices_02_05_theta_inside|simulation_3_alicebeach_1_001_wan_001	Δεν ήταν και τόσο άσχημα. Ο Στρόμαϊερ με είχε αγχώσει για τα καλά. Κάθαρμα.
+Voices_02_05_theta_inside|simulation_3_alicebeach_1_002_wan_001	Ουάου, τι στο διάολο έγινε; Πού είμαστε;
+Voices_02_05_theta_inside|simulation_3_alicescanroom_1_001_wan_001	Δεν ήταν και τόσο άσχημα. Ο Στρόμαϊερ με είχε αγχώσει για τα καλά. Κάθαρμα.
+Voices_02_05_theta_inside|simulation_3_alicescanroom_1_002_alice_001	Ε, αυτό παθαίνεις όταν ακούς τις ιστορίες του.
+Voices_02_05_theta_inside|simulation_3_alicescanroom_1_003_wan_001	Μάλλον μου άξιζε.
+Voices_02_05_theta_inside|simulation_3_alicescanroom_1_004_alice_001	Για το Στρόμαϊερ. Είπε ότι χρειαζόταν το νέο κωδικό όσο πιο γρήγορα γίνεται. Τι να του πω;
+Voices_02_05_theta_inside|simulation_3_alicescanroom_1_005_wan_001	Δεν πειράζει. Μπορώ να του μιλήσω εγώ.
+Voices_02_05_theta_inside|simulation_3_alicescanroom_1_006_alice_001	Στάσου, η Τσαν δε σου είπε μόλις να το πάρεις πιο χαλαρά; Μην ανησυχείς, δε θα το πω σε κανέναν.
+Voices_02_05_theta_inside|simulation_3_alicescanroom_1_007_wan_001	Όντως νιώθω σαν να έχω χανγκόβερ. Εντάξει, είναι 1729 προς 42, 12 προς 407. Το 'πιασες;
+Voices_02_05_theta_inside|dialog_3_alicescanroomdone_1_001_catherine_001	Αρκετά, πήραμε ό,τι χρειαζόμαστε.

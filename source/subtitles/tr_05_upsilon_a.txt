@@ -1,0 +1,162 @@
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_001_Catherine_001	Ω, τι είναι... τι συμβαίνει; Είναι κανείς εκεί;
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_002_Player_001	Έι, έι, με ακούς;
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_003_Catherine_001	Σε ακούω... ε... Ύψιλον. Τι γίνεται;
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_004_Player_001	Δεν έχω ιδέα. Απλώς κάπως ξύπνησα εδώ.
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_005_Catherine_001	Στο δωμάτιο, μόλις τώρα;
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_006_Player_001	Ε... ήταν σαν κάθισμα, με ένα κράνος;
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_007_Catherine_001	Αλήθεια; Πώς σε λένε;
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_008_Player_001	Είμαι ο Σάιμον Τζάρετ.
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_009_Catherine_001	Και τι... α, το σήμα -- αναθεματισμένοι αναμεταδότες. Πού είσαι τώρα;
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_010_Player_001	Σε κάποιο μέρος με ηλεκτρική ενέργεια, δεν ξέρω αν είναι σταθμός ή μετασχηματιστής...
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_011_Catherine_001	Ναι, μάλλον είσαι κάπου στο θερμικό σταθμό.
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_012_Catherine_001	Πρέπει να ανέβεις στο κέντρο επικοινωνιών. Είναι η αίθουσα με τη θολωτή οροφή.
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_013_Player_001	Έι, κοίτα, αυτό το μέρος δεν -- κάτι πάει πολύ στραβά εδώ. Εμπρός;
+Voices_01_02_upsilon_inside|ControlRoomContact_2D_FirstContact_1_014_Catherine_001	Συγγνώμη, δεν το έπιασα, χάσαμε άλλον έναν αναμεταδότη. Άκου, πήγαινε στο κέντρο επικοινωνιών στον πάνω όροφο. Θα περιμένω εδώ.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructPlea_2_001_CarlConstruct_001	Ποιος είναι εκεί;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructPlea_2_002_CarlConstruct_001	Έι, σε ακούω που κινείσαι.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructPlea_2_003_CarlConstruct_001	Θα ήθελα λίγη βοήθεια.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructPlea_2_004_CarlConstruct_001	Τι κάνετε, ρε παιδιά;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_1_001_Player_001	Τι είσαι εσύ;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_1_002_CarlConstruct_001	Τυφλός είσαι; Εγώ είμαι, ο Καρλ. Ο Καρλ Σέμκεν. Χειριστής ρομπότ; Σου λέει τίποτα;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_1_003_Player_001	Εγώ -- όχι, για την ακρίβεια.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_1_004_CarlConstruct_001	Ευχαριστώ για τη μεγάλη βοήθεια. Λες και δεν είμαι ξερός στο πάτωμα.
+Voices_01_02_upsilon_inside|carlblackbox_4c_carlblackbox_001_carl_001	Έβαλες μπρος τις τελευταίες εφεδρικές τουρμπίνες;
+Voices_01_02_upsilon_inside|carlblackbox_4c_carlblackbox_002_amy_001	Όλα είναι συνδεδεμένα ισομερώς -- έχουμε καλυφθεί όσο περισσότερο γίνεται.
+Voices_01_02_upsilon_inside|carlblackbox_4c_carlblackbox_003_carl_001	Αυτό ήταν, λοιπόν. Αρκετή ενέργεια για να δουλεύει το Pathos-II μέχρι την επόμενη αποκάλυψη. Είμαστε έτοιμοι να φύγουμε.
+Voices_01_02_upsilon_inside|CarlBlackBox_4C_CarlBlackBox_004_Amy_001	Ελπίζω πραγματικά να μην τα κάναμε θάλασσα. Δε θέλω να χρειαστεί να ξαναέρθω εδώ.
+Voices_01_02_upsilon_inside|CarlBlackBox_4C_CarlBlackBox_005_Carl_001	Χαλάρωσε, τελείωσε. Πάμε στο Θήτα.
+Voices_01_02_upsilon_inside|CarlBlackBox_4C_CarlBlackBox_006_Amy_001	Ίσως πρέπει να σφραγίσουμε κι άλλα τμήματα. Δεν εμπιστεύομαι τους βοηθούς να αφήσουν αυτό το μέρος να λειτουργεί ήσυχα.
+Voices_01_02_upsilon_inside|CarlBlackBox_4C_CarlBlackBox_007_Carl_001	Τα σφραγίσαμε όλα -- τα πάντα, από τους θαλάμους μέχρι το κέντρο επικοινωνιών. Αν πατήσει ποτέ κανείς ξανά το πόδι του εδώ, θα δει και θα πάθει να κυκλοφο--
+Voices_01_02_upsilon_inside|CarlBlackBox_4C_CarlBlackBox_008_Amy_001	Καρλ!
+Voices_01_02_upsilon_inside|CarlBlackBox_4C_CarlBlackBox_009_Carl_001	Τρέξε.
+Voices_01_02_upsilon_inside|CarlBlackBox_SimonReadCarlBlackBox_001_Player_001	Τι έκανες εδώ;
+Voices_01_02_upsilon_inside|amyblackbox_simonreadamyblackbox_001_player_001	WAU, είναι όνομα αυτό;
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_001_Catherine_001	Α, έτσι μπράβο. Σάιμον δεν είπες;
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_002_Player_001	Τζάρετ. Σάιμον Τζάρετ.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_003_Catherine_001	Γεια σου, Σάιμον, είμαι η Κάθριν. Κατάλαβες τι συμβαίνει;
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_004_Player_001	Εγώ; Ήλπιζα ότι εσύ θα είχες απαντήσεις.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_005_Catherine_001	Μάλλον έχω μερικές. Τι θέλεις να μάθεις;
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_006_Player_001	Από πού να ξεκινήσω, δηλαδή -- τι είναι αυτό το μέρος; Πώς βρέθηκα εδώ; Και γιατί τα ρομπότ μιλάνε σαν άνθρωποι;
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_007_Catherine_001	Λοιπόν, είσαι στο Ύψιλον, προφανώς. Δεν έχεις ξαναπάει εκεί; Πού δούλευες;
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_008_Player_001	Στο Grimoire, στο Τορόντο. Έχει πραγματικά σημασία;
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_009_Catherine_001	Όχι, εννοώ πού δούλευες στο Pathos-II;
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_010_Player_001	Δεν ξέρω καν τι είναι αυτό!
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_011_Catherine_001	Αυτό δεν το περίμενα -- Ήρθες κατευθείαν από το Τορόντο;
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_012_Player_001	Ναι. Και ήταν πολύ απροσδόκητο.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_013_Catherine_001	Έχεις δει κανέναν άνθρωπο; Κάποιο μέλος του προσωπικού ή τεχνικό πεδίου;
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_1_014_Player_001	Μόνο ρομπότ. Τρελά ρομπότ.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_3_001_Player_001	Τι ήταν αυτό; -- Ωχ!
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_3_002_Catherine_001	Τι συμβαίνει;
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_3_003_Player_001	Νομίζω ότι αυτό το μέρος πάει να καταρρεύσει. Τι να κάνω;!
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomSimonCall_001_Player_001	Έι, είσαι εκεί; Βρήκα τη θολωτή οροφή.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_4_001_Catherine_001	Σάιμον, έλα στο Λάμδα!
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_4_002_Player_001	Πώς θα φτάσω εκεί;!
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_4_003_Catherine_001	Υπάρχουν τρένα σάτλ που συνδέουν όλες τις βάσεις -- βρες ένα κι έλα εδώ! Θα σε περιμένω!
+Voices_01_02_upsilon_inside|SimonComments_LowerDoorLeverFail_001_Player_001	Δε φαίνεται να έχει ρεύμα.
+Voices_01_02_upsilon_inside|ControlRoomBody_2A_ControlRoomBodyMoans_001_ControlRoomBody_001	*βεβιασμένη ανάσα*
+Voices_01_02_upsilon_inside|ControlRoomBody_2A_ControlRoomBodyMoans_002_ControlRoomBody_001	*βεβιασμένη ανάσα*
+Voices_01_02_upsilon_inside|ControlRoomBody_2A_ControlRoomBodyMoans_003_ControlRoomBody_001	*βεβιασμένη ανάσα*
+Voices_01_02_upsilon_inside|ControlRoomBody_2A_ControlRoomBodyMoans_004_ControlRoomBody_001	*βεβιασμένη ανάσα*
+Voices_01_02_upsilon_inside|ControlRoomBody_2A_ControlRoomBodyDies_001_ControlRoomBody_001	Το χρειάζομαι!
+Voices_01_02_upsilon_inside|ControlRoomBody_2A_ControlRoomBodyDies_002_ControlRoomBody_001	Γιατί; Ήμουν καλά. Ήμουν ευτυχισμένος.
+Voices_01_02_upsilon_inside|CarlConstruct_4A_CarlIntroductionShout_001_CarlConstruct_001	Αχ, γαμώτο. Κάτι δεν πάει καλά. Λιποθύμησα. Έιμι; Ρότζερς;! Με ακούτε;! Θα ήθελα λίγη βοήθεια.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructVisible_1_001_CarlConstruct_001	Τι διάολο έπαθες εσύ;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructVisible_2_001_CarlConstruct_001	Τι έχει πάθει το... τα πάντα σου; Έκανες βουτιά σε βόθρο ή κάτι τέτοιο;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructVisible_2_002_CarlConstruct_001	Εμπρός, μπορείς -- εμπρός, με ακούς; Εγώ είμαι, ο Καρλ, σου φωνάζω από το πάτωμα, ακριβώς δίπλα σου;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructSimonBack_001_CarlConstruct_001	Χρειάζεσαι κάτι;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructSimonBack_002_CarlConstruct_001	Αν δεν το πρόσεξες -- θα ήθελα λίγη βοήθεια.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructSimonBack_003_CarlConstruct_001	Χάθηκες ή κάτι τέτοιο;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructSimonBack_004_CarlConstruct_001	Θα έδινες ένα χεράκι σε έναν άνθρωπο;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructSimonBack_005_CarlConstruct_001	Τι στο διάολο κάνεις;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_2_001_Player_001	Είσαι άνθρωπος;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_2_002_CarlConstruct_001	Γαμώτο, με -- με πρόδωσε το σώμα μου; Προσπαθώ πολύ να παραμείνω μυστήριο. Ναι, άνθρωπος είμαι. Εσύ;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_2_003_Player_001	Με λένε Σάιμον. Ξέρεις τίποτα για αυτό το μέρος;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_2_004_CarlConstruct_001	Α, είσαι καινούριος; Αυτό το κάνει λίγο λιγότερο περίεργο. Κοίτα, προφανώς είμαι τραυματισμένος. Αν δεις κανέναν άλλον εδώ γύρω, πες του πού είμαι.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_3_001_Player_001	Και πού ακριβώς είσαι;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_3_002_CarlConstruct_001	Σοβαρολογείς; Εδώ είμαι. Με βλέπεις που κουνάω τα χέρια; Κοίτα τα χέρια μου. Έι, φίλε.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_3_003_Player_001	Εντάξει, εντάξει! Απλώς θα -- δεν το βλέπω. Βλέπω ένα μηχάνημα, ένα ρομπότ που μιλάει.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_3_004_CarlConstruct_001	Τι στο διάολο κοιτάς -- Εδώ είμαι. Βλέπεις;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_3_005_Player_001	Ε, εντάξει... απλώς δεν περίμενα να μοιάζεις έτσι.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_3_006_CarlConstruct_001	Σε νοιάζει πολύ η εμφάνιση, το ξέρεις;
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_EndOfSubjects_001_CarlConstruct_001	Αν δεις κανέναν άλλον, πες του πού είμαι.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_EndOfSubjects_002_CarlConstruct_001	Πονάω πολύ εδώ. Πήγαινε να βρεις βοήθεια.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_EndOfSubjects_003_CarlConstruct_001	Βρες κάποιον που μπορεί να βοηθήσει.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTorture_001_CarlConstruct_001	Σταμάτα! Πονάει!
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTorture_002_CarlConstruct_001	Αχ, σκατά. Γαμώτο.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTorture_003_CarlConstruct_001	Σταμάτα, σταμάτα!
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTorture_004_CarlConstruct_001	Αχ, να πάρει ο διάολος.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTorture_005_CarlConstruct_001	Για όνομα του γαμημένου Θεού.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTorture_006_CarlConstruct_001	Μη. Δεν το αντέχω.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTorture_007_CarlConstruct_001	Γαμώ το κέρατό μου.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTorture_008_CarlConstruct_001	Σε παρακαλώ, μη.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTorture_009_CarlConstruct_001	Δεν το αντέχω. Σε παρακαλώ.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTorture_010_CarlConstruct_001	Σε παρακαλώ, σταμάτα.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructSimonBack_PostTorture_001_CarlConstruct_001	Εσύ -- βοήθεια.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructSimonBack_PostTorture_002_CarlConstruct_001	Σε παρακαλώ, πες το στην Έιμι. Χρειάζομαι βοήθεια.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructSimonBack_PostTorture_003_CarlConstruct_001	Είμαι πολύ χτυπημένος.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructSimonBack_PostTorture_004_CarlConstruct_001	Δεν μπορώ να κουνηθώ. Σε παρακαλώ.
+Voices_01_02_upsilon_inside|CarlConstruct_CarlConstructSimonLeaves_PostTorture_001_CarlConstruct_001	Σε παρακαλώ. Βρες βοήθεια.
+Voices_01_02_upsilon_inside|CarlConstruct_CarlConstructSimonLeaves_PostTorture_002_CarlConstruct_001	Μη με αφήσεις να πεθάνω εδώ.
+Voices_01_02_upsilon_inside|CarlConstruct_CarlConstructSimonLeaves_PostTorture_003_CarlConstruct_001	Πες στους άλλους πού είμαι.
+Voices_01_02_upsilon_inside|CarlConstruct_CarlConstructSimonLeaves_PostTorture_004_CarlConstruct_001	Χρειάζομαι πραγματικά βοήθεια.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_PostTorture_1_001_Player_001	Τι είσαι εσύ;
+Voices_01_02_upsilon_inside|carlconstruct_4e_carlconstructtalk_posttorture_1_002_carlconstruct_001	Τυφλός είσαι; Εγώ είμαι, ο Καρλ. Ο Καρλ Σέμκεν.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_PostTorture_1_003_Player_001	Δεν καταλαβαίνω τι συμβαίνει.
+Voices_01_02_upsilon_inside|carlconstruct_4e_carlconstructtalk_posttorture_1_004_carlconstruct_001	Τι να καταλάβεις -- Είμαι χτυπημένος, εντάξει; Χρειάζομαι βοήθεια. Φέρε το Χόλαντ εδώ.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_PostTorture_1_005_Player_001	Ποιος είναι ο Χόλαντ;
+Voices_01_02_upsilon_inside|carlconstruct_4e_carlconstructtalk_posttorture_1_006_carlconstruct_001	Ο τύπος των επειγόντων. Πες στην Τζόνσι να καλέσει το Όμικρον.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_PostTorture_2_001_Player_001	Συγγνώμη, νομίζω ότι τράβηξα λάθος μοχλό.
+Voices_01_02_upsilon_inside|carlconstruct_4e_carlconstructtalk_posttorture_2_002_carlconstruct_001	Μην αγχώνεσαι, απλώς φέρε μου ένα γιατρό.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_PostTorture_3_001_Player_001	Δε θα ήταν πιο λογικό ένας μηχανικός;
+Voices_01_02_upsilon_inside|carlconstruct_4e_carlconstructtalk_posttorture_3_002_carlconstruct_001	Προσπαθείς να κάνεις το γαμημένο έξυπνο;! Φέρε μου ένα νοσοκόμο!
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_PostTorture_4_001_Player_001	Μα είσαι ρομπότ!
+Voices_01_02_upsilon_inside|carlconstruct_4e_carlconstructtalk_posttorture_4_002_carlconstruct_001	Αλήθεια;! Τα ρομπότ έχουν πόδια, χέρια, πρόσωπο; Παραληρείς.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructTalk_PostTorture_4_003_Player_001	Εντάξει, ηρέμησε. Δε θα--
+Voices_01_02_upsilon_inside|carlconstruct_4e_carlconstructtalk_posttorture_4_004_carlconstruct_001	Φέρε μια γαμημένη βοήθεια.
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructBroken_001_CarlConstruct_001	*κραυγή*
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructBroken_002_CarlConstruct_001	*κραυγή*
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructBroken_003_CarlConstruct_001	*κραυγή*
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructBroken_004_CarlConstruct_001	*κραυγή*
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructBroken_005_CarlConstruct_001	*κραυγή*
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructBroken_006_CarlConstruct_001	*Λυγμοί*
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructBroken_007_CarlConstruct_001	*Λυγμοί*
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructBroken_008_CarlConstruct_001	*Λυγμοί*
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructBroken_009_CarlConstruct_001	*Λυγμοί*
+Voices_01_02_upsilon_inside|CarlConstruct_4E_CarlConstructBroken_010_CarlConstruct_001	*Λυγμοί*
+Voices_01_02_upsilon_inside|CarlConstruct_4L_CarlConstructDrain_NoTorture_001_CarlConstruct_001	Σε παρακαλώ, μη -- Δε θέλω να πεθάνω.
+Voices_01_02_upsilon_inside|CarlConstruct_4L_CarlConstructDrain_Tortured_001_CarlConstruct_001	Τι... τι... τι κάνεις; Σταμάτα, σταμάτα, άααχ!
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomSite_Theta_001_Strasky_001	...υπάρχει κάτι καλύτερο εδώ... είναι εδώ...
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomSite_Omicron_001_Ross_001	Σκοτώσου. Δεν έχει μείνει τίποτα για να ζεις.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_2_FlowControl_001_Player_001	Εκτός από ένα. Νομίζω ότι είπε πως το λένε Καρλ. Ήταν εντάξει. Αλλά... είμαι σχεδόν σίγουρος ότι το σκότωσα κατά λάθος όταν έκλεισα το ρεύμα.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_2_FlowControl_002_Catherine_001	Α, καλά. Τα ρομπότ δε νιώθουν τίποτα, οπότε, ναι.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_2_SuckedCarlPower_001_Player_001	Εκτός από ένα. Εγώ... το σκότωσα. Δεν το ήθελα, αλήθεια.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_2_SuckedCarlPower_002_Catherine_001	Α, εντάξει. Λοιπόν, ε... προσπάθησε να μην το ξανακάνεις. Ακόμα κι αν είναι απλώς ένα ρομπότ, μπορεί να φανεί χρήσιμο.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_2_TorturedCarl_001_Player_001	Εκτός από ένα. Νομίζω ότι πονούσε. Δεν ξέρω τι να κάνω.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_2_TorturedCarl_002_Catherine_001	Είπε ότι πονούσε;
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_2_TorturedCarl_003_Player_001	Κάτι τέτοιο. Δεν ξέρω.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_2_NoCarlMeeting_001_Catherine_001	Όλα αυτά είναι τόσο παράξενα.
+Voices_01_02_upsilon_inside|CommRoomContact_CommRoomDialog_2_NoCarlMeeting_002_Player_001	Σε ποιον τα λες.
+Voices_01_02_upsilon_inside|SimonComments_WaterComment_001_Player_001	Γαμώτο γαμώτο γαμώτο. Πού να...; Τι να...; Ω, γαμώτο!
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_1_001_Strasky_001	Τζόνσι. Πώς πάει η εκκένωση;
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_1_002_Jonsdottir_001	Έχουμε ό,τι χρειαζόμαστε για να φύγουμε, αλλά δεν μπορούμε να αφήσουμε το σταθμό χωρίς επίβλεψη.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_1_003_Jonsdottir_001	Η Άνταμς αποφάσισε να αφήσει την Έιμι Αζάρο και τον Καρλ Σέμκεν να ολοκληρώσουν την αυτοματοποίηση.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_1_004_Strasky_001	Και στοιχηματίζω ότι είναι ενθουσιασμένοι.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_1_005_Jonsdottir_001	Ήθελα απλώς να σου πω ότι είμαστε εντός χρονοδιαγράμματος και θα τα πούμε αύριο.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_1_006_Strasky_001	Εντάξει, θα το μεταφέρω στη Βόλτσεκ.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_2_001_Strasky_001	Τζόνσι. Υπέροχο πρωινό για εκκένωση, έτσι δεν είναι;
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_2_002_Jonsdottir_001	Θα κάνει. Ήθελα να σου συστήσω την Έιμι και τον Καρλ. Αυτοί θα μιλάνε μόλις φύγω για το Θήτα. Πείτε γεια.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_2_003_Carl_001	Γεια σου, Θήτα!
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_2_004_Amy_001	Γεια!
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_2_005_Strasky_001	Γεια σας, παιδιά, είμαι ο Πίτερ Στράσκι, συντονιστής στο Θήτα. Πείτε μου αν μπορώ να βοηθήσω σε κάτι.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_2_006_Jonsdottir_001	Αυτά, λοιπόν. Τα λέμε πολύ σύντομα. Όταν φτάσουμε.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_2_007_Strasky_001	Εντάξει, Τζόνσι. Καλό ταξίδι.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_3_001_Carl_001	Έι... γεια... Θήτα;
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_3_002_Strasky_001	Ύψιλον. Τι λέει;
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_3_003_Carl_001	Θα μας βόλευε πολύ άμεση επαφή με τη Χέδερ... εννοώ με τη μηχανικό εξυπηρέτησης βάσης Βόλτσεκ.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_3_004_Strasky_001	Οι άμεσες συνδέσεις είναι σχεδόν αδύνατες. Οι αναμεταδότες LUMAR είναι πια ουσιαστικά για πέταμα. Μπορείτε να στέλνετε μηνύματα μέσω του κέντρου επικοινωνιών, κι αν θέλετε, είμαι σχεδόν πάντα εδώ - έτοιμος να μεταφέρω οτιδήποτε με το χέρι. Ξέρω ότι είναι άθλιο σύστημα, αλλά είναι το μόνο που δουλεύει αυτή τη στιγμή.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_3_005_Carl_001	Εντάξει, θα τα βγάλουμε πέρα. Τα λέμε.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_4_001_Carl_001	Γεια... Πίτερ, σωστά;
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_4_002_Strasky_001	Εδώ είμαι. Τι λέει;
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_4_003_Carl_001	Φεύγουμε. Ήθελα απλώς να σου πω ότι θα σφραγίσω τώρα το κέντρο επικοινωνιών, οπότε αυτή είναι σίγουρα η τελευταία φορά που μας ακούς. Αν δεν εμφανιστούμε τις επόμενες δυο ώρες, στείλε το ιππικό.
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_4_004_Strasky_001	Περίμενε, τι γίνεται; Το ίδιο σχέδιο ισχύει, σωστά;
+Voices_01_02_upsilon_inside|CommRoomRecording_CommRoomRecording_4_005_Carl_001	Ναι, θα πάμε στο σάτλ και θα πάμε κατευθείαν στο Θήτα.
