@@ -1,4 +1,4 @@
-# SOMA – Ελληνική μετάφραση / Greek translation
+# SOMA - Ελληνική μετάφραση / Greek translation
 
 Ανεπίσημη ελληνική μετάφραση του **SOMA** (Frictional Games) για τις εκδόσεις GOG, Steam και Epic.
 Unofficial Greek translation of **SOMA** (Frictional Games) for the GOG, Steam and Epic versions.
