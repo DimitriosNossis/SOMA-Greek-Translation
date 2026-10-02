@@ -1,85 +1,226 @@
-# SOMA – Ελληνική μετάφραση / Greek translation
+# SOMA - Ελληνική Μετάφραση
 
-Ανεπίσημη ελληνική μετάφραση του **SOMA** (Frictional Games) για τις εκδόσεις GOG, Steam και Epic.
-Unofficial Greek translation of **SOMA** (Frictional Games) for the GOG, Steam and Epic versions.
+Πλήρης, μη επίσημη μετάφραση του **SOMA** της Frictional Games στα ελληνικά.
 
-**[Ελληνικά](#ελληνικά) · [English](#english)**
+Μεταφρασμένα **πάνω από 5.200 κείμενα**: όλοι οι υπότιτλοι, όλο το κείμενο της ιστορίας
+(τερματικά, σημειώσεις, email, ημερολόγια), οι υποδείξεις πλήκτρων και ολόκληρο το μενού
+του παιχνιδιού.
+
+Λειτουργεί με τις εκδόσεις του παιχνιδιού από **GOG**, **Steam** και **Epic Games**.
 
 ---
 
-## Ελληνικά
+## Εγκατάσταση
 
-### Τι μεταφράζεται
-- Μενού και ρυθμίσεις
-- Όλο το κείμενο της ιστορίας: τερματικά, σημειώσεις, email, ημερολόγια
-- Όλοι οι υπότιτλοι των διαλόγων
-- Οι υποδείξεις πλήκτρων (tutorial), με ελληνικούς χαρακτήρες στη γραμματοσειρά τους
+Η εγκατάσταση γίνεται χειροκίνητα, αντιγράφοντας 5 αρχεία μέσα στο φάκελο του παιχνιδιού.
+Παρακάτω θα βρεις κάθε βήμα αναλυτικά.
 
-Οι πινακίδες και οι επιγραφές μέσα στους χώρους του παιχνιδιού μένουν στα αγγλικά, όπως και στις επίσημες μεταφράσεις του παιχνιδιού.
+### Βήμα 1: Βρες το φάκελο του παιχνιδιού
 
-### Εγκατάσταση
-1. Βρείτε τον φάκελο του παιχνιδιού, για παράδειγμα:
-   - GOG: `C:\Program Files (x86)\GOG Galaxy\Games\SOMA`
-   - Steam: `C:\Program Files (x86)\Steam\steamapps\common\SOMA`
-   - Epic: `C:\Program Files\Epic Games\SOMA`
-2. **Κρατήστε αντίγραφο ασφαλείας** αυτών των 3 αρχείων, γιατί αντικαθίστανται:
+Ο φάκελος του παιχνιδιού είναι αυτός που περιέχει το `SOMA.exe` και τους φακέλους
+`config`, `fonts`, `script` κ.ά. Ο πιο εύκολος τρόπος να το βρεις είναι από τον launcher σου:
+
+**GOG Galaxy**
+1. Άνοιξε το GOG Galaxy και πήγαινε στη βιβλιοθήκη σου
+2. Επίλεξε το **SOMA**
+3. Πάτησε το εικονίδιο ρυθμίσεων δίπλα στο κουμπί **Play**
+4. **Manage installation → Show folder**
+
+Συνήθης θέση: `C:\Program Files (x86)\GOG Galaxy\Games\SOMA`
+
+**Steam**
+1. Άνοιξε το Steam και πήγαινε στη **Library**
+2. Κάνε δεξί κλικ στο **SOMA**
+3. **Manage → Browse local files**
+
+Συνήθης θέση: `C:\Program Files (x86)\Steam\steamapps\common\SOMA`
+
+**Epic Games Launcher**
+1. Άνοιξε το Epic Games Launcher και πήγαινε στη **Library**
+2. Πάτησε τις τρεις τελείες (**...**) στο **SOMA**
+3. **Manage** και μετά το εικονίδιο φακέλου δίπλα στο **Installation**
+
+Συνήθης θέση: `C:\Program Files\Epic Games\SOMA`
+
+Κράτα αυτό το παράθυρο ανοιχτό, θα το χρειαστείς στα επόμενα βήματα.
+
+### Βήμα 2: Κατέβασε τη μετάφραση
+
+1. Στη δεξιά πλευρά αυτής της σελίδας, πάτησε **Releases**
+2. Στην πιο πρόσφατη έκδοση, στην ενότητα **Assets**, κατέβασε το αρχείο
+   `SOMA_Greek_vX.Y.Z.zip` (το `X.Y.Z` είναι ο αριθμός της έκδοσης)
+
+Μην κατεβάσεις τα **Source code (zip)** / **Source code (tar.gz)**. Αυτά περιέχουν τα
+αρχεία εργασίας της μετάφρασης και δε χρειάζονται για να παίξεις.
+
+### Βήμα 3: Κράτα αντίγραφα ασφαλείας
+
+Η μετάφραση αντικαθιστά **3 αρχεία** του παιχνιδιού. Κράτα αντίγραφό τους, ώστε να μπορείς
+να επιστρέψεις στην αρχική κατάσταση όποτε θέλεις.
+
+1. Φτιάξε ένα νέο φάκελο, π.χ. `SOMA_backup` στην Επιφάνεια εργασίας
+2. Από το φάκελο του παιχνιδιού, **αντίγραψε** (όχι αποκοπή) αυτά τα 3 αρχεία μέσα στον
+   `SOMA_backup`:
    - `fonts\default_medium_outline.fnt`
    - `fonts\default_medium_outline_0.dds`
    - `script\modules\MenuHandler.hps`
-3. Αντιγράψτε **τα περιεχόμενα** του φακέλου `mod` μέσα στον φάκελο του παιχνιδιού και επιλέξτε αντικατάσταση.
-4. Ξεκινήστε το παιχνίδι: Ρυθμίσεις → Παιχνίδι → Γλώσσα → **Ελληνικά**.
 
-### Απεγκατάσταση
-1. Διαγράψτε τα `config\base_greek.lang` και `config\lang_main\greek.lang`.
-2. Επαναφέρετε τα 3 αρχεία από το αντίγραφο ασφαλείας (ή κάντε «Verify / Repair» από το GOG Galaxy, «Verify integrity of game files» από το Steam ή «Verify» από το Epic).
+### Βήμα 4: Αντίγραψε τα αρχεία της μετάφρασης
 
-Οι άλλες γλώσσες του παιχνιδιού δεν επηρεάζονται. Αν μια ενημέρωση του παιχνιδιού αντικαταστήσει κάποιο από τα 3 αρχεία, απλώς αντιγράψτε ξανά τα αρχεία του `mod`.
+1. Άνοιξε το `.zip` που κατέβασες (διπλό κλικ). Μέσα θα δεις 3 φακέλους:
+   `config`, `fonts` και `script`
+2. Επίλεξε και τους 3 φακέλους (Ctrl+A) και αντίγραψέ τους (Ctrl+C)
+3. Πήγαινε στο φάκελο του παιχνιδιού από το Βήμα 1 και κάνε επικόλληση (Ctrl+V)
+4. Τα Windows θα ρωτήσουν τι να κάνουν με τα αρχεία που υπάρχουν ήδη.
+   Επίλεξε **Αντικατάσταση των αρχείων στον προορισμό** (Replace the files in the destination)
+5. Αν τα Windows ζητήσουν δικαιώματα διαχειριστή, πάτησε **Συνέχεια** (Continue).
+   Αν σε ρωτήσουν για κάθε αρχείο, τσέκαρε πρώτα το **Να γίνει αυτό για όλα τα τρέχοντα στοιχεία**
+
+### Βήμα 5: Έλεγξε την εγκατάσταση
+
+Μέσα στο φάκελο του παιχνιδιού πρέπει πλέον να υπάρχουν αυτά τα 5 αρχεία:
+
+| Αρχείο | Τι κάνει |
+|---|---|
+| `config\base_greek.lang` | Μενού και ρυθμίσεις (νέο αρχείο) |
+| `config\lang_main\greek.lang` | Κείμενα της ιστορίας και υπότιτλοι (νέο αρχείο) |
+| `fonts\default_medium_outline.fnt` | Ελληνικά γράμματα στις υποδείξεις πλήκτρων (αντικαθιστά το αρχικό) |
+| `fonts\default_medium_outline_0.dds` | Ελληνικά γράμματα στις υποδείξεις πλήκτρων (αντικαθιστά το αρχικό) |
+| `script\modules\MenuHandler.hps` | Προσθέτει τα Ελληνικά στη λίστα γλωσσών (αντικαθιστά το αρχικό) |
+
+Αν τα βλέπεις όλα, η εγκατάσταση ολοκληρώθηκε.
+
+## Χρήση
+
+1. Ξεκίνα το παιχνίδι κανονικά από το GOG Galaxy, το Steam ή το Epic
+2. Στο κεντρικό μενού πήγαινε:
+
+   **OPTIONS → GAME → LANGUAGE → Ελληνικά**
+
+   Η αλλαγή ισχύει αμέσως. Από εδώ και πέρα το μενού εμφανίζεται στα ελληνικά
+   (**ΡΥΘΜΙΣΕΙΣ → ΠΑΙΧΝΙΔΙ → ΓΛΩΣΣΑ**).
+3. Οι φωνές του παιχνιδιού είναι στα αγγλικά, οπότε βεβαιώσου ότι οι υπότιτλοι είναι ενεργοί:
+
+   **ΡΥΘΜΙΣΕΙΣ → ΗΧΟΣ → ΥΠΟΤΙΤΛΟΙ**
+
+Οι αποθηκεύσεις σου λειτουργούν κανονικά σε όποια γλώσσα κι αν διαλέξεις. Μπορείς να
+συνεχίσεις ένα παιχνίδι που είχες ξεκινήσει στα αγγλικά.
+
+Για να επιστρέψεις στα αγγλικά: **ΡΥΘΜΙΣΕΙΣ → ΠΑΙΧΝΙΔΙ → ΓΛΩΣΣΑ → English**.
+Οι υπόλοιπες γλώσσες του παιχνιδιού δεν επηρεάζονται από τη μετάφραση.
+
+## Ενημέρωση σε νέα έκδοση
+
+1. Κατέβασε το νέο `.zip` από τα **Releases**
+2. Επανάλαβε το **Βήμα 4** και επίλεξε ξανά αντικατάσταση
+
+Δε χρειάζεται να ξαναπάρεις αντίγραφα ασφαλείας. Κράτα τα αρχικά του Βήματος 3.
+
+Αν μια **ενημέρωση του ίδιου του παιχνιδιού** εξαφανίσει τα Ελληνικά από τη λίστα γλωσσών,
+σημαίνει ότι αντικατέστησε κάποιο από τα αρχεία. Απλώς επανάλαβε το **Βήμα 4**.
+
+## Απεγκατάσταση
+
+1. **Πρώτα** άλλαξε τη γλώσσα του παιχνιδιού σε **English**
+   (**ΡΥΘΜΙΣΕΙΣ → ΠΑΙΧΝΙΔΙ → ΓΛΩΣΣΑ → English**) και κλείσε το παιχνίδι
+2. Από το φάκελο του παιχνιδιού διάγραψε:
+   - `config\base_greek.lang`
+   - `config\lang_main\greek.lang`
+3. Αντίγραψε τα 3 αρχεία από το φάκελο `SOMA_backup` πίσω στις θέσεις τους
+   (`fonts\` και `script\modules\`) και επίλεξε αντικατάσταση
+
+Αν δεν έχεις αντίγραφα ασφαλείας, μπορείς να επαναφέρεις τα αρχικά αρχεία από τον launcher:
+
+- **GOG Galaxy**: εικονίδιο ρυθμίσεων δίπλα στο Play → **Manage installation → Verify / Repair**
+- **Steam**: δεξί κλικ στο SOMA → **Properties → Installed Files → Verify integrity of game files**
+- **Epic**: τρεις τελείες (**...**) στο SOMA → **Manage → Verify**
+
+Ο έλεγχος αρχείων δε διαγράφει τα δύο αρχεία `.lang` της μετάφρασης, γι' αυτό διάγραψέ τα
+χειροκίνητα.
+
+## Αντιμετώπιση προβλημάτων
+
+| Πρόβλημα | Λύση |
+|---|---|
+| Τα **Ελληνικά** δεν εμφανίζονται στη λίστα γλωσσών | Δεν αντιγράφηκε το `script\modules\MenuHandler.hps`, ή το αντικατέστησε μια ενημέρωση του παιχνιδιού. Επανάλαβε το Βήμα 4. |
+| Τα μενού είναι ελληνικά, αλλά η ιστορία και οι υπότιτλοι αγγλικά | Λείπει το `config\lang_main\greek.lang`. Επανάλαβε το Βήμα 4. |
+| Η ιστορία είναι ελληνική, αλλά τα μενού αγγλικά | Λείπει το `config\base_greek.lang`. Επανάλαβε το Βήμα 4. |
+| Στις υποδείξεις πλήκτρων εμφανίζονται μόνο σύμβολα, π.χ. `, (W S A D)` | Δεν αντιγράφηκαν τα δύο αρχεία του φακέλου `fonts`. Επανάλαβε το Βήμα 4. |
+| Τα Windows δεν επιτρέπουν την αντιγραφή | Ο φάκελος βρίσκεται στο `Program Files`. Δέξου το αίτημα για δικαιώματα διαχειριστή (**Συνέχεια**). |
+| Το παιχνίδι δεν ξεκινά μετά την απεγκατάσταση | Επανάφερε τα αρχικά αρχεία με τον έλεγχο αρχείων του launcher (δες **Απεγκατάσταση**). |
+
+## Τι περιλαμβάνει
+
+| Ενότητα | Κείμενα |
+|---|---|
+| Υπότιτλοι διαλόγων | 3.142 |
+| Ιστορία, τερματικά, σημειώσεις, email | 1.748 |
+| Μενού, ρυθμίσεις, μηνύματα | 343 |
+
+## Επιλογές μετάφρασης
+
+Η μετάφραση ακολουθεί ένα σταθερό σύστημα:
+
+- **Μεταγραφή** για όλα τα ονόματα προσώπων (Σάιμον Τζάρετ, Κάθριν Τσαν, Μπράντον Γουάν,
+  Έικερς, Στρόμαϊερ).
+- **Ελληνικά ονόματα** για τις βάσεις του Pathos-II, όπως τα γράμματα του αλφαβήτου
+  (Ύψιλον, Λάμδα, Δέλτα, Θήτα, Όμικρον, Ταυ, Φι, Άλφα).
+- **Λατινικοί χαρακτήρες** για ονόματα συστημάτων και προϊόντων: WAU, ARK, DUNBAT, Climber,
+  Vivarium, omnitool, Haimatsu, καθώς και για το **AI**.
+- Ο Σάιμον και η Κάθριν μιλούν μεταξύ τους στον **ενικό**.
+- Το τελικό **-ν** ακολουθεί τον κανόνα της γραμματικής (το βυθό, δε θα, τον Κώστα).
+- Οι όροφοι μένουν όπως στο παιχνίδι (F1, F2, F3).
+
+## Γνωστά ζητήματα
+
+- Κείμενα που είναι μέρος εικόνων (πινακίδες, ταμπέλες πάνω από πόρτες) παραμένουν στα
+  αγγλικά. Το ίδιο ισχύει και στις επίσημες μεταφράσεις του παιχνιδιού.
+- Οι φωνές παραμένουν στα αγγλικά. Η μετάφραση καλύπτει τους υπότιτλους.
+- Ορισμένα ελληνικά κείμενα είναι μεγαλύτερα σε έκταση από τα αγγλικά. Αν κάποιο δε χωρά
+  στο πλαίσιό του ή κόβεται όταν το επιλέγεις στο μενού, ανέφερέ το.
+
+Η έκδοση **0.9.0** σημαίνει ότι η μετάφραση είναι πλήρης, αλλά ο έλεγχος μέσα στο παιχνίδι
+συνεχίζεται.
+
+## Αναφορά προβλημάτων
+
+Αν βρεις κάτι λάθος, αφύσικο ή κομμένο, άνοιξε ένα **issue** σε αυτό το repository.
+Βοηθάει πολύ μια φωτογραφία (screenshot) και το σημείο του παιχνιδιού όπου εμφανίζεται.
+
+## Για όσους θέλουν να επεξεργαστούν τη μετάφραση
+
+Ο φάκελος `mod` περιέχει τα έτοιμα αρχεία του παιχνιδιού. Ο φάκελος `source` περιέχει τα
+κείμενα της μετάφρασης σε απλούς πίνακες και το `build.py`, που ξαναφτιάχνει τα αρχεία
+`.lang`. Οδηγίες στο [source/README.md](source/README.md).
+
+## Ευχαριστίες
+
+- **Frictional Games** για το SOMA
+- **The M+ Project Authors** για τη γραμματοσειρά M PLUS 1p, από την οποία προέρχονται τα
+  ελληνικά γράμματα των υποδείξεων πλήκτρων
 
 ---
 
 ## English
 
-### What is translated
-- Menus and options
-- All story text: terminals, notes, emails, logs
-- All dialogue subtitles
-- Key prompts (tutorial hints), with Greek letters added to their font
+An unofficial, complete Greek translation of **SOMA** by Frictional Games: over 5,200 texts
+covering all subtitles, all story text (terminals, notes, emails, logs), the key prompts and
+the entire menu. Greek letters are added to the key-prompt font, since the base game's font
+has none. Works with the GOG, Steam and Epic Games versions.
 
-Signs and labels inside the game world stay in English, as in the game's official translations.
+**Install:** download the latest `SOMA_Greek_vX.Y.Z.zip` from **Releases**, back up
+`fonts\default_medium_outline.fnt`, `fonts\default_medium_outline_0.dds` and
+`script\modules\MenuHandler.hps`, then copy the zip's `config`, `fonts` and `script` folders
+into the game folder and replace the files. In the game, select
+**Options → Game → Language → Ελληνικά**, and turn on subtitles under
+**Options → Audio → Subtitles**.
 
-### Install
-1. Find the game folder, for example:
-   - GOG: `C:\Program Files (x86)\GOG Galaxy\Games\SOMA`
-   - Steam: `C:\Program Files (x86)\Steam\steamapps\common\SOMA`
-   - Epic: `C:\Program Files\Epic Games\SOMA`
-2. **Back up** these 3 files, which get replaced:
-   - `fonts\default_medium_outline.fnt`
-   - `fonts\default_medium_outline_0.dds`
-   - `script\modules\MenuHandler.hps`
-3. Copy **the contents** of the `mod` folder into the game folder and choose to replace files.
-4. Start the game: Options → Game → Language → **Ελληνικά**.
+**Uninstall:** switch the language back to English first, delete `config\base_greek.lang` and
+`config\lang_main\greek.lang`, and restore the 3 backed-up files (or verify the game files
+in your launcher).
 
-### Uninstall
-1. Delete `config\base_greek.lang` and `config\lang_main\greek.lang`.
-2. Restore the 3 backed-up files (or use "Verify / Repair" in GOG Galaxy, "Verify integrity of game files" in Steam, or "Verify" in Epic).
-
-The game's other languages are not affected. If a game update replaces one of the 3 files, copy the `mod` files in again.
-
----
-
-## Repository layout
-
-| Folder | Contents |
-|---|---|
-| `mod/` | The 5 game files, laid out exactly like the SOMA folder |
-| `source/` | Editable translation tables and `build.py`, which rebuilds the `.lang` files (see `source/README.md`) |
-
-| File in `mod/` | Purpose |
-|---|---|
-| `config/base_greek.lang` | Menus and options (new file) |
-| `config/lang_main/greek.lang` | Story text and subtitles (new file) |
-| `fonts/default_medium_outline.fnt`, `fonts/default_medium_outline_0.dds` | Key-prompt font with Greek letters added (replaces the original) |
-| `script/modules/MenuHandler.hps` | Adds Greek to the language list: one added line, `mvLangFiles.push_back("greek");` (replaces the original) |
+Version 0.9.0: the translation is complete, but in-game testing is ongoing.
+Bug reports are welcome as issues on this repository; screenshots help.
 
 ### Licences
 
